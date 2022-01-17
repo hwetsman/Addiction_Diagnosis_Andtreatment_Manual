@@ -392,7 +392,17 @@ what you would guess from your knowledge of the positive feedback loop between
 the VTA and the NA. *To avoid reinstatement from this cause, you must avoid the
 crash. To avoid the crash, you must avoid or mute the high.*
 
-The second thing is stress, but not big painful stress like a painful shock. If something like a painful shock happens the animal just jumps and goes back to eating rat chow. However, if the shocks are just annoying and random, they cause the animal stress. Under such stress the animal runs back to the lever. Further studies have shown that chronic stress flips the switch that causes Corticotropin-releasing Factor (CRF) to go from causing an increase in dopamine release to a decrease in dopamine release   . So, this “relapse” is because of a decrease in dopamine tone secondary to a lowering of dopamine release. To avoid reinstatement from this cause, you must avoid a decrease in dopamine release or other cause of lowered dopamine tone caused by chronic stress.
+The second thing is stress, but not big painful stress like a painful shock.
+If something like a painful shock happens the animal just jumps and goes back
+to eating rat chow. However, if the shocks are just annoying and random, they
+cause the animal stress. Under such stress the animal runs back to the lever.
+Further studies have shown that chronic stress flips the switch that causes
+Corticotropin-releasing Factor (CRF) to go from causing an increase in dopamine
+release to a decrease in dopamine release[^20][^21]. So, this “relapse” is
+because of a decrease in dopamine tone secondary to a lowering of dopamine
+release. To avoid reinstatement from this cause, you must avoid a decrease in
+dopamine release or other cause of lowered dopamine tone caused by chronic
+stress.
 
 Finally, the third thing is the resumption of the cue . Play the tone or turn on the light and the animal runs back to the lever. This cannot be explained by the two factors we’ve already discussed, at least not directly. It turns out that cue induced craving is caused by a glutamate  signal from the Amygdala to the VTA that causes the release of dopamine. Commonly patients refer to this a euphoric recall, but that doesn’t tell the whole story. We aren’t just recalling the euphoria of the dopamine spike; we actually feel it because of this glutamate signal.
 
@@ -736,14 +746,14 @@ There will always be a medical camp that doesn’t see addiction as unique. Ther
 
 [14]: Ersche KD, et al. Distinctive Personality Traits and Neural Correlates
   Associated with Stimulant Drug Use Versus Familial Risk of Stimulant
-  Dependence. Bio Psych - 28 January 2013 (10.1016/j.biopsych.2012.11.016)
+  Dependence. Bio Psych - 28 January 2013 (10.1016/j.biopsych.2012.11.016).
 
 [15]: Yau WW, et al. Nucleus Accumbens Response to Incentive Stimuli
   Anticipation in Children of Alcoholics: Relationships with Pre-cursive
   Behavioral Risk and Lifetime Alcohol Use. J of Neuroscience 32(7): 2544-2551.
 
 [16]: Cloninger RC, et. al. Genetic Heterogeneity and the Classification of
-  Alcoholism. J Add Dis 7, pp3-16 (1988)
+  Alcoholism. J Add Dis 7, pp3-16 (1988).
 
 [17]: Zheng-Xiong X, Stein EA. Nucleus Accumbens dopamine release modulation by
   mesolimbic GABAa receptors – an in vivo electrochemical study. Brain Research
@@ -756,9 +766,11 @@ There will always be a medical camp that doesn’t see addiction as unique. Ther
   methodology and major findings. Psychopharmacology (Berl). 2003 Jul;
   168(1-2):3-20.
 
-Lemos JC, et al. Severe stress switches CRF action in the nucleus Accumbens from appetitive to aversive. Nature 490 (7420): 402-6.
+[20]: Lemos JC, et al. Severe stress switches CRF action in the nucleus
+  Accumbens from appetitive to aversive. Nature 490 (7420): 402-6.
 
-Wanat MJ, et al. CRF acts in the midbrain to attenuate Accumbens dopamine release to rewards but not their predictors. Nat Neurosci 16, 383–385 (2013)
+[21]: Wanat MJ, et al. CRF acts in the midbrain to attenuate Accumbens dopamine
+  release to rewards but not their predictors. Nat Neurosci 16, 383–385 (2013).
 
 Crombag HS et al. Context-induced relapse ot drug seeking: a review. Phil Trans of R Soc B 2008. 363(1507); 3233-3243.
 

@@ -109,18 +109,47 @@ motivation. Without enough dopamine tone at the NA there is, as Silkworth said,
 restlessness, irritability, and discontentedness.
 
 
-![Figure 1 - DOPAMINE AND DOWNSTREAM](https://raw.githubusercontent.com/hwetsman/Addiction_Diagnosis_Andtreatment_Manual/master/Dopamine_and_Downstream.jpg)
+![Figure 1 - DOPAMINE AND DOWNSTREAM](Images/Dopamine_and_Downstream.jpg)
 
-Because of the chronic and compelling nature of these symptoms, there has arisen a colloquial expression that has developed among recovering people with addiction that sums them up. They refer to the “mental obsession” of addiction. It is the part that they identify as most responsible for the inability to “stay stopped.”
+Because of the chronic and compelling nature of these symptoms, there has arisen
+a colloquial expression that has developed among recovering people with
+addiction that sums them up. They refer to the “mental obsession” of addiction.
+It is the part that they identify as most responsible for the inability to
+“stay stopped.”
 
-While we will flesh out this biology in more detail later, it is important to note now that dopamine tone is not the same as synaptic dopamine level. We must also consider the receptors that see that dopamine level and NA’s ability to pass on the signal. We will define dopamine tone as the product of the number and functional efficiency of the NA dopamine receptors (DR), the amount of dopamine released into the synapse (DA) and the amount of time that dopamine is available to the receptors (T). We can create an equation:
+While we will flesh out this biology in more detail later, it is important to
+note now that dopamine tone is not the same as synaptic dopamine level. We must
+also consider the receptors that see that dopamine level and NA’s ability to
+pass on the signal. We will define dopamine tone as the product of the number
+and functional efficiency of the NA dopamine receptors (DR), the amount of
+dopamine released into the synapse (DA) and the amount of time that dopamine is
+available to the receptors (T). We can create an equation:
 
+<center><h3>DT = DR X DA X T</h3></center>
 Equation 1 - Dopamine Tone
-DT=DR X DA X T
 
-Each of these factors can be further broken down, but that’s for later. For now, this equation is sufficient.
 
-At this point, you may feel this is an interesting idea, but that you see no evidence for it or for it’s primacy. An interesting study may shed some light . The authors looked at four groups, recreational cocaine users without personal or family history of addiction (N=27), healthy volunteers (N=52), stimulant dependent patients (N=50), and the non-dependent sibs of those patients (N=50). The increased sensation seeking traits and abnormal cortical volumes that have been shown in the literature to be associated with cocaine dependence were seen in both of the cocaine using populations. However, increased levels of impulsive and compulsive personality traits and striatal abnormalities on scan were only associated with those patients with addiction and their non-cocaine using siblings. The primacy of the striatal problem and its genetic underpinnings are supported by these findings. While cocaine use certainly has cortical sequelae, there are genetic pre-use factors that are shared by siblings who go on to use cocaine and those who do not. Unfortunately, the authors did not understand the disease of addiction and did not ask about any other compulsive use of rewards. The increased “compulsive traits,” though, is an interesting hint of such a connection, because such things as gambling and compulsive overeating are often placed in this context in academic literature.
+Each of these factors can be further broken down, but that’s for later. For now,
+this equation is sufficient.
+
+At this point, you may feel this is an interesting idea, but that you see no
+evidence for it or for it’s primacy. An interesting study may shed some
+light[^14]. The authors looked at four groups, recreational cocaine users
+without personal or family history of addiction (N=27), healthy volunteers
+(N=52), stimulant dependent patients (N=50), and the non-dependent sibs of those
+patients (N=50). The increased sensation seeking traits and abnormal cortical
+volumes that have been shown in the literature to be associated with cocaine
+dependence were seen in both of the cocaine using populations. However,
+increased levels of impulsive and compulsive personality traits and striatal
+abnormalities on scan were only associated with those patients with addiction
+and their non-cocaine using siblings. The primacy of the striatal problem and
+its genetic underpinnings are supported by these findings. While cocaine use
+certainly has cortical sequelae, there are genetic pre-use factors that are
+shared by siblings who go on to use cocaine and those who do not. Unfortunately,
+the authors did not understand the disease of addiction and did not ask about
+any other compulsive use of rewards. The increased “compulsive traits,” though,
+is an interesting hint of such a connection, because such things as gambling and
+compulsive overeating are often placed in this context in academic literature.
 
 This kind of pre-drug blunted striatal response was also seen in the children of alcoholics . Interestingly, the blunted response from the Nucleus Accumbens was seen in an anticipation of money reward and was not associated with use of alcohol. So, it may very well be measuring a common precursor regardless of what drug or behavior the person can use to reverse the blunting. Again, unfortunately, the authors only looked at alcohol dependence and did not consider other rewards.
 
@@ -533,7 +562,9 @@ There will always be a medical camp that doesn’t see addiction as unique. Ther
 [13]: Alcoholics Anonymous (2001). Alcoholics Anonymous (4 ed.). New York City:
   Alcoholics Anonymous World Services, Inc.
 
-Ersche KD, et al. Distinctive Personality Traits and Neural Correlates Associated with Stimulant Drug Use Versus Familial Risk of Stimulant Dependence. Bio Psych - 28 January 2013 (10.1016/j.biopsych.2012.11.016)
+[14]: Ersche KD, et al. Distinctive Personality Traits and Neural Correlates
+  Associated with Stimulant Drug Use Versus Familial Risk of Stimulant
+  Dependence. Bio Psych - 28 January 2013 (10.1016/j.biopsych.2012.11.016)
 
 Yau WW, et al. Nucleus Accumbens Response to Incentive Stimuli Anticipation in Children of Alcoholics: Relationships with Pre-cursive Behavioral Risk and Lifetime Alcohol Use. J of Neuroscience 32(7): 2544-2551.
 

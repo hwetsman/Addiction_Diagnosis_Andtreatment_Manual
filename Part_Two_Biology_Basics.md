@@ -407,7 +407,7 @@ stress.*
 Finally, the third thing is the resumption of the cue[^22]. Play the tone or
 turn on the light and the animal runs back to the lever. This cannot be
 explained by the two factors we’ve already discussed, at least not directly. It
-turns out that cue induced craving is caused by a glutamate  signal from the
+turns out that cue induced craving is caused by a glutamate[^23] signal from the
 Amygdala to the VTA that causes the release of dopamine. Commonly patients refer
 to this a euphoric recall, but that doesn’t tell the whole story. We aren’t just
 recalling the euphoria of the dopamine spike; we actually feel it because of
@@ -416,9 +416,16 @@ this glutamate signal.
 
 ![Figure 5 - CUE INDUCED CRAVING](Images/Cue_Induced_Craving.jpg)
 
-There is a dopamine spike and crash, and the crash causes the craving. So, the biology of the cue induced reinstatement of drug seeking is indirectly the same as that of a free hit of drug. It’s just that the “drug” in this case is seeing a cue that reminds us of a previous using event. To avoid this kind of reinstatement you must avoid or modulate down the glutamate signal from the emotional memory centers.
+There is a dopamine spike and crash, and the crash causes the craving. So, the
+biology of the cue induced reinstatement of drug seeking is indirectly the same
+as that of a free hit of drug. It’s just that the “drug” in this case is seeing
+a cue that reminds us of a previous using event. *To avoid this kind of
+reinstatement you must avoid or modulate down the glutamate signal from the
+emotional memory centers.*
+<div style="page-break-after: always;"></div>
 
-GABAb and High Spike
+
+## GABAb and High Spike
 
 To fully understand the spike and crash we must add two more modulating factors to our model. The first is the GABAb receptor found on both the cell bodies in the VTA and the NA. The action of GABA at the GABAb receptor is to decrease the release of endorphin and dopamine  so that the spike is muted and there is not a crash resulting from exhaustion of the system. Someone with insufficient GABAb function would have a higher-than-normal spike even if they have normal dopamine tone. Imagine someone with “the allergy” but not with the restless, irritable and discontented background that leads to the first use.
 
@@ -779,7 +786,8 @@ There will always be a medical camp that doesn’t see addiction as unique. Ther
 [21]: Wanat MJ, et al. CRF acts in the midbrain to attenuate Accumbens dopamine
   release to rewards but not their predictors. Nat Neurosci 16, 383–385 (2013).
 
-Crombag HS et al. Context-induced relapse ot drug seeking: a review. Phil Trans of R Soc B 2008. 363(1507); 3233-3243.
+[23]: Crombag HS et al. Context-induced relapse to drug seeking: a review. 
+  Phil Trans of R Soc B 2008. 363(1507); 3233-3243.
 
 Backstrom P and Hyytia P. Ionotropic and Metabotropic Glutamate Receptor Antagonism Attenuates Cue-Induced Cocaine Seeking. Neurospychopharmacology 31, 778-786.
 

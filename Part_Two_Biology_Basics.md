@@ -109,7 +109,7 @@ motivation. Without enough dopamine tone at the NA there is, as Silkworth said,
 restlessness, irritability, and discontentedness.
 
 
-![Figure 1 - DOPAMINE AND DOWNSTREAM](/Dopamine_and_Downstream.jpg)
+![Figure 1 - DOPAMINE AND DOWNSTREAM](https://raw.githubusercontent.com/hwetsman/Addiction_Diagnosis_Andtreatment_Manual/master/Dopamine_and_Downstream.jpg)
 
 Because of the chronic and compelling nature of these symptoms, there has arisen a colloquial expression that has developed among recovering people with addiction that sums them up. They refer to the “mental obsession” of addiction. It is the part that they identify as most responsible for the inability to “stay stopped.”
 

@@ -400,14 +400,21 @@ Further studies have shown that chronic stress flips the switch that causes
 Corticotropin-releasing Factor (CRF) to go from causing an increase in dopamine
 release to a decrease in dopamine release[^20][^21]. So, this “relapse” is
 because of a decrease in dopamine tone secondary to a lowering of dopamine
-release. To avoid reinstatement from this cause, you must avoid a decrease in
+release. *To avoid reinstatement from this cause, you must avoid a decrease in
 dopamine release or other cause of lowered dopamine tone caused by chronic
-stress.
+stress.*
 
-Finally, the third thing is the resumption of the cue . Play the tone or turn on the light and the animal runs back to the lever. This cannot be explained by the two factors we’ve already discussed, at least not directly. It turns out that cue induced craving is caused by a glutamate  signal from the Amygdala to the VTA that causes the release of dopamine. Commonly patients refer to this a euphoric recall, but that doesn’t tell the whole story. We aren’t just recalling the euphoria of the dopamine spike; we actually feel it because of this glutamate signal.
+Finally, the third thing is the resumption of the cue[^22]. Play the tone or
+turn on the light and the animal runs back to the lever. This cannot be
+explained by the two factors we’ve already discussed, at least not directly. It
+turns out that cue induced craving is caused by a glutamate  signal from the
+Amygdala to the VTA that causes the release of dopamine. Commonly patients refer
+to this a euphoric recall, but that doesn’t tell the whole story. We aren’t just
+recalling the euphoria of the dopamine spike; we actually feel it because of
+this glutamate signal.
 
 
-Figure 5 - CUE INDUCED CRAVING
+![Figure 5 - CUE INDUCED CRAVING](Images/Cue_Induced_Craving.jpg)
 
 There is a dopamine spike and crash, and the crash causes the craving. So, the biology of the cue induced reinstatement of drug seeking is indirectly the same as that of a free hit of drug. It’s just that the “drug” in this case is seeing a cue that reminds us of a previous using event. To avoid this kind of reinstatement you must avoid or modulate down the glutamate signal from the emotional memory centers.
 

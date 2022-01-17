@@ -333,9 +333,21 @@ consequence of this, as has been already discussed, is the immediate
 inactivation of NA dopamine receptors. Another more chronic adaptation is cell
 death of VTA cells.
 
-So, we can imagine a high dopamine person with anxiety and tics that, when a child, cannot stand any stimulant, even a puff on a cigarette, but that after decades of drinking how requires stimulant drugs just to feel normal. I have met many such patients. What is important to know about them is that their Type I symptoms must be covered first before we can treat their later emerging Type II symptoms.  These patients, while using rewarding chemicals for their sedation effects, are progressing in the loss of VTA cells faster than one would by age alone.
+So, we can imagine a high dopamine person with anxiety and tics that, when a
+child, cannot stand any stimulant, even a puff on a cigarette, but that after
+decades of drinking how requires stimulant drugs just to feel normal. I have met
+many such patients. *What is important to know about them is that their Type I
+symptoms must be covered first before we can treat their later emerging Type II
+symptoms.*  These patients, while using rewarding chemicals for their sedation
+effects, are progressing in the loss of VTA cells faster than one would by age
+alone.
 
-That last sentence suggests that there is some loss of VTA cells by age alone and that is, indeed, the case. We are all losing dopamine receptor at about 7% a decade and we are losing VTA cells at about 7% a decade so we are losing dopamine tone at somewhere between 7% and 14% a decade or about 1% a year, if we aren’t using . If we are using drugs that cause supra-physiologic spikes at the NA, we will be progressing even faster.
+That last sentence suggests that there is some loss of VTA cells by age alone
+and that is, indeed, the case. We are all losing dopamine receptor at about 7% a
+decade and we are losing VTA cells at about 7% a decade so we are losing
+dopamine tone at somewhere between 7% and 14% a decade or about 1% a year, if we
+aren’t using[^18]. If we are using drugs that cause supra-physiologic spikes at
+the NA, we will be progressing even faster.
 
 This brings about another major goal for Addiction Medicine. The Addiction Medicine physician must remember that he or she is treating a chronic progressive illness, and that the point of treatment is to keep the patient alive long enough to die of something else. No one lives forever, but our goal is that no one need die of addiction.
 
@@ -704,7 +716,8 @@ There will always be a medical camp that doesn’t see addiction as unique. Ther
   mesolimbic GABAa receptors – an in vivo electrochemical study. Brain Research
   798 (1-2), 156-165.
 
-Volkow DW, et al. Dopamine transporters decrease with age. J Nucl Med 37 (4), 554-9.
+[18]: Volkow DW, et al. Dopamine transporters decrease with age. J Nucl Med 37
+  (4), 554-9.
 
 Shaham Y, et al. The reinstatement model of drug relapse: history, methodology and major findings. Psychopharmacology (Berl). 2003 Jul; 168(1-2):3-20.
 

@@ -427,7 +427,14 @@ emotional memory centers.*
 
 ## GABAb and High Spike
 
-To fully understand the spike and crash we must add two more modulating factors to our model. The first is the GABAb receptor found on both the cell bodies in the VTA and the NA. The action of GABA at the GABAb receptor is to decrease the release of endorphin and dopamine  so that the spike is muted and there is not a crash resulting from exhaustion of the system. Someone with insufficient GABAb function would have a higher-than-normal spike even if they have normal dopamine tone. Imagine someone with “the allergy” but not with the restless, irritable and discontented background that leads to the first use.
+To fully understand the spike and crash we must add two more modulating factors
+to our model. The first is the GABAb receptor found on both the cell bodies in
+the VTA and the NA. The action of GABA at the GABAb receptor is to decrease the
+release of endorphin and dopamine[^24] so that the spike is muted and there is
+not a crash resulting from exhaustion of the system. Someone with insufficient
+GABAb function would have a higher-than-normal spike even if they have normal
+dopamine tone. Imagine someone with “the allergy” but not with the restless,
+irritable and discontented background that leads to the first use.
 
 
 Figure 6 - THE GABAB BRAKE
@@ -786,10 +793,12 @@ There will always be a medical camp that doesn’t see addiction as unique. Ther
 [21]: Wanat MJ, et al. CRF acts in the midbrain to attenuate Accumbens dopamine
   release to rewards but not their predictors. Nat Neurosci 16, 383–385 (2013).
 
-[23]: Crombag HS et al. Context-induced relapse to drug seeking: a review. 
+[23]: Crombag HS et al. Context-induced relapse to drug seeking: a review.
   Phil Trans of R Soc B 2008. 363(1507); 3233-3243.
 
-Backstrom P and Hyytia P. Ionotropic and Metabotropic Glutamate Receptor Antagonism Attenuates Cue-Induced Cocaine Seeking. Neurospychopharmacology 31, 778-786.
+[24]: Backstrom P and Hyytia P. Ionotropic and Metabotropic Glutamate Receptor
+  Antagonism Attenuates Cue-Induced Cocaine Seeking.
+  Neurospychopharmacology 31, 778-786.
 
 Kimberly A, et al. GABAb Receptor Activation in the Vental Tegmental Area Inhibits the Acquistion and Expression of Opiate-Induced Motor Sensitization. Pharmacol and Exp Ther 308 (2): 667-678.
 

@@ -437,15 +437,24 @@ dopamine tone. Imagine someone with “the allergy” but not with the restless,
 irritable and discontented background that leads to the first use.
 
 
-Figure 6 - THE GABAB BRAKE
+![Figure 6 - THE GABAB BRAKE](Images/The_GABAB_Brake.jpg)
 
 
-The other factor is a complication in our understanding of the dopamine receptor. In most cases when we talk about dopamine receptors, we are referring specifically to the D2 receptor at the synapse between the axon of the VTA and the cell body or dendrite of the NA. There has been quite a controversy in the literature about the D2 receptor. Some said it was a stimulatory receptor at the NA and some said it was an auto receptor that shut down dopamine release. It turns out both are correct.
+The other factor is a complication in our understanding of the dopamine
+receptor. In most cases when we talk about dopamine receptors, we are referring
+specifically to the D2 receptor at the synapse between the axon of the VTA and
+the cell body or dendrite of the NA. There has been quite a controversy in the
+literature about the D2 receptor. Some said it was a stimulatory receptor at the
+NA and some said it was an auto receptor that shut down dopamine release. It
+turns out both are correct.
 
-The D2 receptor exists as a splice variant. That is there is a place in the gene that causes a splicing of the exonal fragments differently so that two forms of the protein are made. There is the D2L, which is the excitatory receptor on the NA and D2S, which is the auto receptor on the VTA axon .
+The D2 receptor exists as a splice variant. That is there is a place in the gene
+that causes a splicing of the exonal fragments differently so that two forms of
+the protein are made. There is the D2L, which is the excitatory receptor on the
+NA and D2S, which is the auto receptor on the VTA axon[^25].
 
 
-Figure 7 - D2L AND D2S
+![Figure 7 - D2L AND D2S](Images/D2L_AND_D2S.jpg)
 
 So, in the normal person, as dopamine is released there is enough to trigger the excitatory response from the NA and enough to provide negative feedback to the D2S auto receptor to shut off dopamine release when appropriate. In the person who doesn’t have enough dopamine there is not enough to get an excitatory response or to shut the signal off. If drug is taken, there is an acute rise to excite a rewarding signal, but only a slow response to shut off release. This causes the low dopamine person to have a higher-than-normal spike. That’s a perfect set up for attachment to external rewards: low tone and unrewarding normal activities and a sufficient spike to cause reward and attachment only when an external event causes it.
 

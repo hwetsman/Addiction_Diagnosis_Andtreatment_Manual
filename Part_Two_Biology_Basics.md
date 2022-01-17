@@ -169,7 +169,7 @@ meeting filled with strangers while having the symptoms described. That gives
 the Addiction Medicine physician an important first target, because the point of
 The ADAM Way of Addiction Medicine is to help patients enter and stay in
 recovery.
-
+<div style="page-break-after: always;"></div>
 
 ## The Allergy
 
@@ -219,28 +219,89 @@ rapid rise of dopamine occurs.
 
 ![Figure 4 - DOPAMINE LEVEL VS DOPAMINE TONE OVER TIME](Images/Dopamine_Level_VS_Dopamine_Tone_Over_Time.jpg)
 
-So let’s take this one step at a time. First there is a lowered dopamine tone and the person picks up a drug to feel better. That drug causes a rapid rise in dopamine so that briefly tone becomes normal, and there is a reward signal registering that drug as salient and positive. The dopamine rise was so great and so rapid that the dopamine receptors at the NA registered that there was too much signal and rapidly deactivated. The VTA is now temporarily depleted of dopamine and the normal reuptake process that was overwhelmed by the rapid release is now clearing the synapse. As dopamine level falls, dopamine tone is falling even more rapidly because there are not as many functional dopamine receptors as before the first hit of drug. Now, quite rapidly, the person with low dopamine tone that needed a drug has a lower dopamine tone than he had in the first place and an even greater need for drug. This is the biology of the compulsive use that Silkworth called “the allergy.” It is the origin of the phenomenon of craving in addiction.
+So, let’s take this one step at a time. First there is a lowered dopamine tone
+and the person picks up a drug to feel better. That drug causes a rapid rise in
+dopamine so that briefly tone becomes normal, and there is a reward signal
+registering that drug as salient and positive. The dopamine rise was so great
+and so rapid that the dopamine receptors at the NA registered that there was too
+much signal and rapidly deactivated. The VTA is now temporarily depleted of
+dopamine and the normal reuptake process that was overwhelmed by the rapid
+release is now clearing the synapse. As dopamine level falls, dopamine tone is
+falling even more rapidly because there are not as many functional dopamine
+receptors as before the first hit of drug. Now, quite rapidly, the person with
+low dopamine tone that needed a drug has a lower dopamine tone than he had in
+the first place and an even greater need for drug. This is the biology of the
+compulsive use that Silkworth called “the allergy.” It is the origin of the
+phenomenon of craving in addiction.
+<div style="page-break-after: always;"></div>
 
-The Point of Addiction Medicine in a treatment program
+## The Point of Addiction Medicine in a treatment program
 
-This is a good point to bring up what the point of addiction medicine is in a treatment program. If we understand that the primary symptomatology of addiction is that stemming from low dopamine tone in the midbrain, and we understand that those symptoms are exactly the symptoms that will interfere with the treatment, then it makes sense that the first goal of an Addiction Medicine specialist working in a treatment center will be to stabilize midbrain dopamine tone to promote rapid response to treatment. Can you imagine having poor memory, poor attention, poor attachment to others, poor ability to enjoy anything and poor motivation and be asked to sit in a room for three hours of group? No wonder most addiction programs have a huge early attrition rate.
+*This is a good point to bring up what the point of addiction medicine is in a
+treatment program. If we understand that the primary symptomatology of addiction
+is that stemming from low dopamine tone in the midbrain, and we understand that
+those symptoms are exactly the symptoms that will interfere with the treatment,
+then it makes sense that the first goal of an Addiction Medicine specialist
+working in a treatment center will be to stabilize midbrain dopamine tone to
+promote rapid response to treatment. Can you imagine having poor memory, poor
+attention, poor attachment to others, poor ability to enjoy anything and poor
+motivation and be asked to sit in a room for three hours of group? No wonder
+most addiction programs have a huge early attrition rate.*
 
-Not only is attrition a problem that the Addiction Medicine specialist can help with, but they also the effectiveness of treatment. Can you imagine being a counselor in a group of ten people, all of who have lowered midbrain dopamine tone? No one is motivated, no one cares, no one wants to come back, no one listens and no one can remember what you said. No wonder treatment centers have, on average, a 17% success rate, and so many counselors burn out.
+*Not only is attrition a problem that the Addiction Medicine specialist can help
+with, but they also the increase effectiveness of treatment. Can you imagine
+being a counselor in a group of ten people, all of who have lowered midbrain
+dopamine tone? No one is motivated, no one cares, no one wants to come back,
+no one listens, and no one can remember what you said. No wonder treatment
+centers have, on average, a 17% success rate, and so many counselors burn out.*
+<div style="page-break-after: always;"></div>
 
 
+## Typology and Life Course
 
-Typology and Life Course
+While the core phenomenology of addiction combines both the low dopamine tone
+and the high spike/crash of “the allergy,” there exists another typology that
+must be explained. Cloninger created what is accepted as the most useful of the
+addiction typologies[^16], and, like Silkworth, he did most of his work with
+alcoholics. Of note is that Cloninger recruited participants from Alcoholics
+Anonymous; the importance of this will become clear in a bit.
 
-While the core phenomenology of addiction combines both the low dopamine tone and the high spike/crash of “the allergy,” there exists another typology that must be explained. Cloninger created what is accepted as the most useful of the addiction typologies , and, like Silkworth, he did most of his work with alcoholics. Of note is that Cloninger recruited participants from Alcoholics Anonymous; the importance of this will become clear in a bit.
+Cloninger stated there were two types that he called Type I and Type II. Type
+I’s, he said, had late age of onset, few if any legal problems, good education,
+didn’t like stimulants, and not much family history of addiction. Type II’s,
+however, started their use early, loved stimulants, had a strong family history
+of addiction and frequently got in trouble with the law.
 
-Cloninger stated there were two types that he called Type I and Type II. Type I’s, he said, had late age of onset, few if any legal problems, good education, didn’t like stimulants, and not much family history of addiction. Type II’s, however, started their use early, loved stimulants, had a strong family history of addiction and frequently got in trouble with the law.
 
+<table>
+  <tr>
+    <th>Factor</th>
+    <th>Type I</th>
+	<th>Type II</th>
+  </tr>
+  <tr>
+    <td>Age at onset</td>
+    <td>Late</td>
+	<td>Early</td>
+  </tr>
+  <tr>
+    <td>Personality</td>
+    <td>Anxious</td>
+	<td>Anti-social</td>
+  </tr>
+  <tr>
+    <td>Legal</td>
+    <td>Little involvement</td>
+	<td>Much involvement</td>
+  </tr>
+  <tr>
+    <td>Family History</td>
+    <td>Little</td>
+	<td>Frequent</td>
+  </tr>
+</table>
 Table 1 - Factors in Cloninger's Typology
-Factor	Type I	Type II
-Age at Onset	Late	Early
-Personality	Anxious	Anti-social
-Legal	Little Involvement	Much Involvement
-Family History	Little	Frequent
+
 
 Of note is that he stated that Type I was the main type of alcoholic and Type II was a less frequent variant. This is where subject selection comes into play. This typology and prevalence data fit into not only AA’s view of itself, but also society’s view that alcoholics were nervous types to drank to calm their nerves and then got hooked because of tolerance leading to alcoholism. At the time AA didn’t do much to encourage alcoholics of the second type to join. In fact, alcoholics who used stimulant drugs were often discouraged and told to go to NA.
 
@@ -612,7 +673,8 @@ There will always be a medical camp that doesn’t see addiction as unique. Ther
   Anticipation in Children of Alcoholics: Relationships with Pre-cursive
   Behavioral Risk and Lifetime Alcohol Use. J of Neuroscience 32(7): 2544-2551.
 
-Cloninger RC, et. al. Genetic Heterogeneity and the Classification of Alcoholism. J Add Dis 7, pp3-16 (1988)
+[16]: Cloninger RC, et. al. Genetic Heterogeneity and the Classification of
+  Alcoholism. J Add Dis 7, pp3-16 (1988)
 
 Zheng-Xiong X, Stein EA. Nucleus Accumbens dopamine release modulation by mesolimbic GABAa receptors – an in vivo electrochemical study. Brain Research 798 (1-2), 156-165.
 

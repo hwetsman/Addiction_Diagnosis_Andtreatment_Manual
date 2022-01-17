@@ -20,15 +20,15 @@ We have a more heterogeneous society than that of the early twentieth century. W
 
 So unlike the physicians of the nineteenth or early twentieth centuries, we have no excuse. There is no longer any reason for any person to die of addiction. It is a treatable chronic illness, though while left untreated it is progressive and fatal. Every death from addiction can be laid now at the feet of those who would cling to the ignorance of the past, be they patient, family, doctor, organization or society. The hope of this book is that, soon, there will be no more unwilling sacrifices lying at those feet. And hopefully you will be part of the revolution that brings that about.
 
-[1]: Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition. American Psychiatric Publishing, 2013, Washington, DC.
+[1]: Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition. American Psychiatric     Publishing, 2013, Washington, DC.
 
-[2]: The Journal of Inebriety. Published from 1876 to 1914 by the American Association for the Study and Cure of Inebriety, NY, NY.
+[2]: The Journal of Inebriety. Published from 1876 to 1914 by the American Association for the Study     and Cure of Inebriety, NY, NY.
 
-[3]: William L White. Slaying The Dragon: The History of Addiction Treatment and Recovery in America. Chestnut Health Systems. Bloomington, Il. 1998.
+[3]: William L White. Slaying The Dragon: The History of Addiction Treatment and Recovery in America.   Chestnut Health Systems. Bloomington, Il. 1998.
 
-[4]: Olds, J and Milner P. Positive reinforcement produced by electrical stimulation of septal area and other regions of rat brain. J Comp Physiol Psychol. 1954 Dec; 47(6):419-27.
+[4]: Olds, J and Milner P. Positive reinforcement produced by electrical stimulation of septal area and   other regions of rat brain. J Comp Physiol Psychol. 1954 Dec; 47(6):419-27.
 
-[5]: Di Chiara G and Imperato A. Drugs Abused by Humans Perferentially Increase Synaptic Dopamine Concentrations in the Mesolimbic System of Freely Moving Rats. Proceedings of the National Academy of Sciences of the USA. 1988; 85: 5274-5278.
+[5]: Di Chiara G and Imperato A. Drugs Abused by Humans Perferentially Increase Synaptic Dopamine   Concentrations in the Mesolimbic System of Freely Moving Rats. Proceedings of the National Academy of   Sciences of the USA. 1988; 85: 5274-5278.
 
 [6]: NIMH, 1990-2000. See www.loc.gov/loc/brain for more information.
-www.genome.gov/10001772
+  www.genome.gov/10001772

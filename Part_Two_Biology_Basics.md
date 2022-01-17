@@ -95,7 +95,7 @@ Silkworth’s observations, but also show that they are operational regardless o
 he reward used.
 <div style="page-break-after: always;"></div>
 
-<h2>Dopamine Tone</h2>
+## Dopamine Tone
 
 Silkworth’s “restless, irritable, and discontented” maps to the biological
 factor dopamine tone, specifically, the dopamine tone at the Nucleus Accumbens
@@ -151,31 +151,73 @@ any other compulsive use of rewards. The increased “compulsive traits,” thou
 is an interesting hint of such a connection, because such things as gambling and
 compulsive overeating are often placed in this context in academic literature.
 
-This kind of pre-drug blunted striatal response was also seen in the children of alcoholics . Interestingly, the blunted response from the Nucleus Accumbens was seen in an anticipation of money reward and was not associated with use of alcohol. So, it may very well be measuring a common precursor regardless of what drug or behavior the person can use to reverse the blunting. Again, unfortunately, the authors only looked at alcohol dependence and did not consider other rewards.
+This kind of pre-drug blunted striatal response was also seen in the children of
+alcoholics[^15]. Interestingly, the blunted response from the Nucleus Accumbens
+was seen in an anticipation of money reward and was not associated with use of
+alcohol. So, it may very well be measuring a common precursor regardless of what
+drug or behavior the person can use to reverse the blunting. Again,
+unfortunately, the authors only looked at alcohol dependence and did not consider
+other rewards.
 
-So the take home message of this section is that the primary symptomatology of most people with untreated addiction will largely be those symptoms that are consequent to a low dopamine tone at the NA. Further, we could note that those symptoms are the very symptoms that would get in the way of the patient’s being able to profit from standard addiction treatment modalities or 12-step recovery. You can imagine how much difficulty one would have trying to sit in an AA meeting filled with strangers while having the symptoms described. That gives the Addiction Medicine physician an important first target, because the point of The Townsend Way of Addiction Medicine is to help patients enter and stay in recovery.
-The Allergy
-
-The other aspect of the core phenomenology of addiction as Silkworth described it is “the allergy.” To understand this abnormal reaction, we must first see what the normal reaction is. Most people don’t get a great rise in dopamine from drugs. For most people, normally rewarding activities are rewarding and anything that does cause an increase in dopamine above normal is not perceived as rewarding. Rather, it is dysphoric. Imagine a drug that caused you to feel you had obsessive compulsive disorder  (OCD), which is what too much dopamine feels like. Would anyone take it twice?
-
-So specifically with concern to alcohol, as that was Silkworth’s focus, normal people drink and have not much in the way of reward but rather a slight relaxing effect. If they drink a little too much, they find they don’t function well and this is, in general, not rewarding. The idea that there is “enough” is common among normal people.  They never get craving for the next drink after they’ve had enough. Silkworth noted that in alcoholics, there was a physical craving for the next drink that was triggered by the first, something that never happens in “normal” people. Silkworth did not understand the neurobiology behind this observation. Luckily, we have enough information today to make sense of it.
-
-
-Figure 2 - DOPAMINE-ENDORPHIN FEEDBACK LOOP
-
-
-When the dopamine spike from a reward reaches the NA, the NA sends an endorphin signal back to the VTA creating a positive feedback loop. The more dopamine, the more endorphin; the more endorphin, the more dopamine. This is a very fast feedback system in which the endorphin signal is happening while the dopamine is still being released causing more and more dopamine to be released, until all the dopamine that was lined up at the synapse is depleted. This is followed by a rapid fall in dopamine level as dopamine is rapidly taken back up out of the synapse by the dopamine transporter (DT).
-
-
-
-
-Figure 3 - DOPAMINE LEVEL OVER TIME
-
-
-Not only does the dopamine level in the synapse fall as a result of this rapid depletion, but also the dopamine tone falls even further because there is a rapid response of deactivation of dopamine receptors when a supra-physiologic rapid rise of dopamine occurs.
+So the take home message of this section is that the primary symptomatology of
+most people with untreated addiction will largely be those symptoms that are
+consequent to a low dopamine tone at the NA. Further, we could note that those
+symptoms are the very symptoms that would get in the way of the patient’s being
+able to profit from standard addiction treatment modalities or 12-step recovery.
+You can imagine how much difficulty one would have trying to sit in an AA
+meeting filled with strangers while having the symptoms described. That gives
+the Addiction Medicine physician an important first target, because the point of
+The ADAM Way of Addiction Medicine is to help patients enter and stay in
+recovery.
 
 
-Figure 4 - DOPAMINE LEVEL VS DOPAMINE TONE OVER TIME
+## The Allergy
+
+The other aspect of the core phenomenology of addiction as Silkworth described
+it is “the allergy.” To understand this abnormal reaction, we must first see
+what the normal reaction is. Most people don’t get a great rise in dopamine from
+drugs. For most people, normally rewarding activities are rewarding, and
+anything that does cause an increase in dopamine above normal is not perceived
+as rewarding. Rather, it is dysphoric. Imagine a drug that caused you to feel
+you had obsessive compulsive disorder (OCD), which is what too much dopamine
+feels like. Would anyone take it twice?
+
+So specifically with concern to alcohol, as that was Silkworth’s focus, normal
+people drink and have not much in the way of reward but rather a slight relaxing
+effect. If they drink a little too much, they find they don’t function well and
+this is, in general, not rewarding. The idea that there is “enough” is common
+among normal people.  They never get craving for the next drink after they’ve
+had enough. Silkworth noted that in alcoholics, there was a physical craving for
+the next drink that was triggered by the first, something that never happens in
+“normal” people. Silkworth did not understand the neurobiology behind this
+observation. Luckily, we have enough information today to make sense of it.
+
+
+
+![Figure 2 - DOPAMINE-ENDORPHIN FEEDBACK LOOP](Images/Dopamine_Endorphine_Feedback_Loop.jpg)
+
+When the dopamine spike from a reward reaches the NA, the NA sends an endorphin
+signal back to the VTA creating a positive feedback loop. The more dopamine, the
+more endorphin; the more endorphin, the more dopamine. This is a very fast
+feedback system in which the endorphin signal is happening while the dopamine is
+still being released causing more and more dopamine to be released, until all
+the dopamine that was lined up at the synapse is depleted. This is followed by a
+rapid fall in dopamine level as dopamine is rapidly taken back up out of the
+synapse by the dopamine transporter (DT).
+
+
+
+
+![Figure 3 - DOPAMINE LEVEL OVER TIME](Images/Dopamine_Level_Over_Time.jpg)
+
+
+Not only does the dopamine level in the synapse fall as a result of this rapid
+depletion, but also the dopamine tone falls even further because there is a r
+apid response of deactivation of dopamine receptors when a supra-physiologic
+rapid rise of dopamine occurs.
+
+
+![Figure 4 - DOPAMINE LEVEL VS DOPAMINE TONE OVER TIME](Images/Dopamine_Level_VS_Dopamine_Tone_Over_Time.jpg)
 
 So let’s take this one step at a time. First there is a lowered dopamine tone and the person picks up a drug to feel better. That drug causes a rapid rise in dopamine so that briefly tone becomes normal, and there is a reward signal registering that drug as salient and positive. The dopamine rise was so great and so rapid that the dopamine receptors at the NA registered that there was too much signal and rapidly deactivated. The VTA is now temporarily depleted of dopamine and the normal reuptake process that was overwhelmed by the rapid release is now clearing the synapse. As dopamine level falls, dopamine tone is falling even more rapidly because there are not as many functional dopamine receptors as before the first hit of drug. Now, quite rapidly, the person with low dopamine tone that needed a drug has a lower dopamine tone than he had in the first place and an even greater need for drug. This is the biology of the compulsive use that Silkworth called “the allergy.” It is the origin of the phenomenon of craving in addiction.
 
@@ -566,7 +608,9 @@ There will always be a medical camp that doesn’t see addiction as unique. Ther
   Associated with Stimulant Drug Use Versus Familial Risk of Stimulant
   Dependence. Bio Psych - 28 January 2013 (10.1016/j.biopsych.2012.11.016)
 
-Yau WW, et al. Nucleus Accumbens Response to Incentive Stimuli Anticipation in Children of Alcoholics: Relationships with Pre-cursive Behavioral Risk and Lifetime Alcohol Use. J of Neuroscience 32(7): 2544-2551.
+[15]: Yau WW, et al. Nucleus Accumbens Response to Incentive Stimuli
+  Anticipation in Children of Alcoholics: Relationships with Pre-cursive
+  Behavioral Risk and Lifetime Alcohol Use. J of Neuroscience 32(7): 2544-2551.
 
 Cloninger RC, et. al. Genetic Heterogeneity and the Classification of Alcoholism. J Add Dis 7, pp3-16 (1988)
 

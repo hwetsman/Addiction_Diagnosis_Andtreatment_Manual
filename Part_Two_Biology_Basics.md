@@ -349,15 +349,48 @@ dopamine tone at somewhere between 7% and 14% a decade or about 1% a year, if we
 aren’t using[^18]. If we are using drugs that cause supra-physiologic spikes at
 the NA, we will be progressing even faster.
 
-This brings about another major goal for Addiction Medicine. The Addiction Medicine physician must remember that he or she is treating a chronic progressive illness, and that the point of treatment is to keep the patient alive long enough to die of something else. No one lives forever, but our goal is that no one need die of addiction.
+*This brings about another major goal for Addiction Medicine. The Addiction
+Medicine physician must remember that he or she is treating a chronic
+progressive illness, and that the point of treatment is to keep the patient
+alive long enough to die of something else. No one lives forever, but our goal
+is that no one need die of addiction.*
+<div style="page-break-after: always;"></div>
 
-Cue Induced Craving and Glutamate
 
-Most people with addiction will tell you that stopping isn’t hard; it’s staying stopped that is hard. So some information on the biology of restarting is apropos. Numerous studies have been done regarding a particular paradigm called reinstatement. In the reinstatement paradigm, the experimental animals are fitted with catheters directly in their vena cava, the main vein from the body to the heart. They are then allowed to administer drug through the catheter by the press of a lever. The animals are placed in a cage with drug available for self-administration about two hours a day. They cannot be left in that cage for longer, as they would die of dehydration because of continuous drug use. Every day that they go into the cage there is a cue, for instance a red light or a tone playing, that signals the availability of drug.
+## Cue Induced Craving and Glutamate
 
-At some point after the animal has been going into the cage for an extended period, the experimenters stop the drug and allow the animal to only administer saline. At the same time, the cue associated with the drug is also stopped. Of course, if the drug was something that causes physical dependence, like heroin, the animal will go into withdrawal and increase drug seeking to avoid withdrawal. However once physical withdrawal is past the animal stops pressing the same lever that used to get drug; in essence he stops seeking drug. Every day the animal is placed in the same cage and allowed to press the lever but doesn’t. After all, there’s more dopamine release from eating rat chow than pressing a useless lever. You can put the animal in the cage every day without drug for half its life span, 40 of our years, and it won’t go back to the lever unless you do one of three things. These three things teach us a lot about reinstatement of drug use.
+Most people with addiction will tell you that stopping isn’t hard; it’s staying
+stopped that is hard. So some information on the biology of restarting is
+apropos. Numerous studies have been done regarding a particular paradigm called
+reinstatement. In the reinstatement paradigm, the experimental animals are
+fitted with catheters directly in their vena cava, the main vein from the body
+to the heart. They are then allowed to administer drug through the catheter by
+the press of a lever. The animals are placed in a cage with drug available for
+self-administration about two hours a day. They cannot be left in that cage for
+longer, as they would die of dehydration because of continuous drug use. Every
+day that they go into the cage there is a cue, for instance a red light or a
+tone playing, that signals the availability of drug.
 
-The first thing is a free hit of drug, any drug . When this experiment was done with heroin, drug seeking was reinstated with a hit of nicotine. Anything that causes a spike and crash of dopamine will reinstate drug seeking. That’s what you would guess from your knowledge of the positive feedback loop between the VTA and the NA. To avoid reinstatement from this cause, you must avoid the crash. To avoid the crash, you must avoid or mute the high.
+At some point after the animal has been going into the cage for an extended
+period, the experimenters stop the drug and allow the animal to only administer
+saline. At the same time, the cue associated with the drug is also stopped. Of
+course, if the drug was something that causes physical dependence, like heroin,
+the animal will go into withdrawal and increase drug seeking to avoid
+withdrawal. However once physical withdrawal is past the animal stops pressing
+the same lever that used to get drug; in essence he stops seeking drug. Every
+day the animal is placed in the same cage and allowed to press the lever but
+doesn’t. After all, there’s more dopamine release from eating rat chow than
+pressing a useless lever. You can put the animal in the cage every day without
+drug for half its life span, 40 of our years, and it won’t go back to the lever
+unless you do one of three things. These three things teach us a lot about
+reinstatement of drug use.
+
+The first thing is a free hit of drug, any drug[^19]. When this experiment was
+done with heroin, drug seeking was reinstated with a hit of nicotine. Anything
+that causes a spike and crash of dopamine will reinstate drug seeking. That’s
+what you would guess from your knowledge of the positive feedback loop between
+the VTA and the NA. *To avoid reinstatement from this cause, you must avoid the
+crash. To avoid the crash, you must avoid or mute the high.*
 
 The second thing is stress, but not big painful stress like a painful shock. If something like a painful shock happens the animal just jumps and goes back to eating rat chow. However, if the shocks are just annoying and random, they cause the animal stress. Under such stress the animal runs back to the lever. Further studies have shown that chronic stress flips the switch that causes Corticotropin-releasing Factor (CRF) to go from causing an increase in dopamine release to a decrease in dopamine release   . So, this “relapse” is because of a decrease in dopamine tone secondary to a lowering of dopamine release. To avoid reinstatement from this cause, you must avoid a decrease in dopamine release or other cause of lowered dopamine tone caused by chronic stress.
 
@@ -719,7 +752,9 @@ There will always be a medical camp that doesn’t see addiction as unique. Ther
 [18]: Volkow DW, et al. Dopamine transporters decrease with age. J Nucl Med 37
   (4), 554-9.
 
-Shaham Y, et al. The reinstatement model of drug relapse: history, methodology and major findings. Psychopharmacology (Berl). 2003 Jul; 168(1-2):3-20.
+[19]: Shaham Y, et al. The reinstatement model of drug relapse: history,
+  methodology and major findings. Psychopharmacology (Berl). 2003 Jul;
+  168(1-2):3-20.
 
 Lemos JC, et al. Severe stress switches CRF action in the nucleus Accumbens from appetitive to aversive. Nature 490 (7420): 402-6.
 

@@ -303,11 +303,35 @@ of addiction and frequently got in trouble with the law.
 Table 1 - Factors in Cloninger's Typology
 
 
-Of note is that he stated that Type I was the main type of alcoholic and Type II was a less frequent variant. This is where subject selection comes into play. This typology and prevalence data fit into not only AA’s view of itself, but also society’s view that alcoholics were nervous types to drank to calm their nerves and then got hooked because of tolerance leading to alcoholism. At the time AA didn’t do much to encourage alcoholics of the second type to join. In fact, alcoholics who used stimulant drugs were often discouraged and told to go to NA.
+Of note is that he stated that Type I was the main type of alcoholic and
+Type II was a less frequent variant. This is where subject selection comes into
+play. This typology and prevalence data fit into not only AA’s view of itself,
+but also society’s view that alcoholics were nervous types to drank to calm
+their nerves and then got hooked because of tolerance leading to alcoholism. At
+the time AA didn’t do much to encourage alcoholics of the second type to join.
+In fact, alcoholics who used stimulant drugs were often discouraged and told to
+go to NA.
 
-In fact, Type II (low dopamine) addiction is much more common, comprising, in our experience, about 85% of the patients that come to treatment. There are a few reasons for that. First, we see addiction as a single illness and don’t specialize by drug, so we aren’t discouraging stimulant dependent people from coming. Second, Type I’s are much more likely to find their way to AA without needing treatment and stay there, so we don’t see them as much. But how do we explain Type I (high dopamine) addiction in the first place?
+In fact, Type II (low dopamine) addiction is much more common, comprising, in
+our experience, about 85% of the patients that come to treatment. There are a
+few reasons for that. First, we see addiction as a single illness and don’t
+specialize by drug, so we aren’t discouraging stimulant dependent people from
+coming. Second, Type I’s are much more likely to find their way to AA without
+needing treatment and stay there, so we don’t see them as much. But how do we
+explain Type I (high dopamine) addiction in the first place?
 
-While it is not the most common way, some people do come to addiction through abuse of a sedative drug used originally for anxiety or other high dopamine symptoms. The syndromes that cause such use aren’t characterized by high dopamine merely in the reward system, but rather high dopamine everywhere. So when these drugs, such as alcohol or benzodiazepines, are taken they may cause a global sedation of the brain via GABAb effect. However, before they do, they also cause a dopamine reward spike in the midbrain alone via a GABAa effect. So, they don’t worsen high dopamine symptoms in other parts of the brain but do create a supra-physiologic reward signal in the midbrain . One acute consequence of this, as has been already discussed, is the immediate inactivation of NA dopamine receptors. Another more chronic adaptation is cell death of VTA cells.
+While it is not the most common way, some people do come to addiction through
+abuse of a sedative drug used originally for anxiety or other high dopamine
+symptoms. The syndromes that cause such use aren’t characterized by high
+dopamine merely in the reward system, but rather high dopamine everywhere. So,
+when these drugs, such as alcohol or benzodiazepines, are taken they may cause
+a global sedation of the brain via GABAb effect. However, before they do, they
+also cause a dopamine reward spike in the midbrain alone via a GABAa effect. So,
+they don’t worsen high dopamine symptoms in other parts of the brain but do
+create a supra-physiologic reward signal in the midbrain[^17]. One acute
+consequence of this, as has been already discussed, is the immediate
+inactivation of NA dopamine receptors. Another more chronic adaptation is cell
+death of VTA cells.
 
 So, we can imagine a high dopamine person with anxiety and tics that, when a child, cannot stand any stimulant, even a puff on a cigarette, but that after decades of drinking how requires stimulant drugs just to feel normal. I have met many such patients. What is important to know about them is that their Type I symptoms must be covered first before we can treat their later emerging Type II symptoms.  These patients, while using rewarding chemicals for their sedation effects, are progressing in the loss of VTA cells faster than one would by age alone.
 
@@ -676,7 +700,9 @@ There will always be a medical camp that doesn’t see addiction as unique. Ther
 [16]: Cloninger RC, et. al. Genetic Heterogeneity and the Classification of
   Alcoholism. J Add Dis 7, pp3-16 (1988)
 
-Zheng-Xiong X, Stein EA. Nucleus Accumbens dopamine release modulation by mesolimbic GABAa receptors – an in vivo electrochemical study. Brain Research 798 (1-2), 156-165.
+[17]: Zheng-Xiong X, Stein EA. Nucleus Accumbens dopamine release modulation by
+  mesolimbic GABAa receptors – an in vivo electrochemical study. Brain Research
+  798 (1-2), 156-165.
 
 Volkow DW, et al. Dopamine transporters decrease with age. J Nucl Med 37 (4), 554-9.
 

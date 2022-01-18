@@ -1223,24 +1223,42 @@ understanding of the dopamine cascade when raising dopamine tone.*
 <div style="page-break-after: always;"></div>
 
 
-More About Typology
+## More About Typology
 
-I get a lot of questions about typing addiction in order to personalize treatment and embark on specific algorithms of treatment. There has been some confusion about “low dopamine” and “high dopamine” individuals. What is most misunderstood is that dopamine tone and the dopamine spike are two different things.
+I get a lot of questions about typing addiction in order to personalize
+treatment and embark on specific algorithms of treatment. There has been some
+confusion about “low dopamine” and “high dopamine” individuals. What is most
+misunderstood is that dopamine tone and the dopamine spike are two different
+things.
 
-Dopamine tone is that tonic level of dopamine at the synapse between the VTA and the Nucleus Accumbens that is a result of dopamine production, dopamine release, dopamine reuptake and dopamine catabolism. If you would like to review that concept, you can go back to page 19.
+Dopamine tone is that tonic level of dopamine at the synapse between the VTA and
+the Nucleus Accumbens that is a result of dopamine production, dopamine release,
+dopamine reuptake and dopamine catabolism.
 
-The dopamine reward spike is a phasic change in dopamine that is caused naturally by increasing dopamine release at the exposure to a primary reward. This is generally accomplished in nature by increasing the frequency of neuronal firing and, therefore, the frequency of vesicular release. There is also a dopamine spike caused by external drugs whether by causing dopamine release or by mimicking the quick rise in level by stopping or reversing reuptake. Of note is that a spike, by its very nature, is a rapid, short-lived phenomenon. While the spike mediates attachment, the crash afterwards mediates craving.
+The dopamine reward spike is a phasic change in dopamine that is caused
+naturally by increasing dopamine release at the exposure to a primary reward.
+This is generally accomplished in nature by increasing the frequency of neuronal
+firing and, therefore, the frequency of vesicular release. There is also a
+dopamine spike caused by external drugs whether by causing dopamine release or
+by mimicking the quick rise in level by stopping or reversing reuptake. Of note
+is that a spike, by its very nature, is a rapid, short-lived phenomenon. While
+the spike mediates attachment, the crash afterwards mediates craving.
 
-The dopamine tone has most to do with the prevailing day to day symptoms of addiction while the dopamine spike has most to do with the reward felt by various behaviors, and, consequently, the attachment to those behaviors. In Silkworth’s phenomenological explanation, dopamine tone would mediate the “mental obsession” and the dopamine spike would mediate the “physical allergy.”
+The dopamine tone has most to do with the prevailing day to day symptoms of
+addiction while the dopamine spike has most to do with the reward felt by
+various behaviors, and, consequently, the attachment to those behaviors. In
+Silkworth’s phenomenological explanation, dopamine tone would mediate the
+“mental obsession” and the dopamine spike would mediate the “physical allergy.”
 
-Once we see that the spike and tone are different things, what becomes clear is that there are four biological types generated:
+Once we see that the spike and tone are different things, what becomes clear is
+that there are four biological types generated:
  
-Table 5 - Typology by Spike and Tone
+
 	High Spike	Low Spike
 High Tone	Anxious person who will attach to the sedatives they use to medicate their anxiety	Anxious person who will have less attachment to sedatives used for anxiety
 
 Low Tone	Anhedonic person who can use external rewards to feel better and will easily attach to them	Anhedonic person who is unable to get much reward out of anything and won't attach well to external rewards either
-
+Table 5 - Typology by Spike and Tone
 
 One can see in these four types, types that appear like Type I and Type II addiction, as well as non-addicted anxious people and anhedonic people. All these types may come to addiction treatment, but the diagnosis of addiction is not made by typology, rather the typology is used to determine what medication and treatment to use and in what sequence.
 

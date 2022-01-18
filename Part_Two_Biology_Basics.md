@@ -1091,7 +1091,7 @@ lowering the spike as well.
 
 Whether the cause is decreased GABA<sub>b</sub> tone itself or the D2 splice variant,
 increasing GABAb tone or toning down glutamate can be useful to modulate the
-dopamine spike. Baclofen, the only pure GABA<sub>b</sub> agent approved for humans, and all 
+dopamine spike. Baclofen, the only pure GABA<sub>b</sub> agent approved for humans, and all
 the anti-epileptic drugs (AEDs) are useful for this purpose. Benzodiazepines are
 more GABA<sub>a</sub> than GABA<sub>b</sub> and are not safely used in people with addiction.
 Acamprosate is a glutamate modulator that has an FDA indication in alcohol
@@ -1103,25 +1103,92 @@ dependence.
 
 ## Danger of SSRIs
 
-If we look at the cartoon of the mid-brain reward system, we see that the dopamine signal leads indirectly to an increase of a serotonin signal to areas of the cortex. This signal is what gives people with a normal functioning midbrain a sense of being okay; there’s enough of everything and things will be all right. If we give someone with a poorly functioning dopamine signal a medication to boost their levels of serotonin, such as an SSRI, the cortical signal will increase despite the absence of it natural cause, good dopamine tone in the midbrain. Sounds like a great treatment for people with addiction, right?
+If we look at the cartoon of the mid-brain reward system, we see that the
+dopamine signal leads indirectly to an increase of a serotonin signal to areas
+of the cortex. This signal is what gives people with a normal functioning
+midbrain a sense of being okay; there’s enough of everything and things will be
+all right. If we give someone with a poorly functioning dopamine signal a
+medication to boost their levels of serotonin, such as an SSRI, the cortical
+signal will increase despite the absence of it natural cause, good dopamine tone
+in the midbrain. Sounds like a great treatment for people with addiction, right?
 
-Well, there’s a problem with that course. It turns out that increased serotonin tone decreases dopamine release through the action of the serotonin 2a receptor (HTR2a). So, when we give an SSRI to people with type II addiction they immediately feel better because the increased serotonin will bypass the dysfunctional mid-brain and tell the cortex that everything is okay. However, slowly, over the time of weeks and months, the increased action at HTR2a will decrease dopamine release leading to less serotonin signal to the cortex.
+Well, there’s a problem with that course. It turns out that increased serotonin
+tone decreases dopamine release through the action of the serotonin 2c receptor
+(HTR2c). So, when we give an SSRI to people with type II addiction they
+immediately feel better because the increased serotonin will bypass the
+dysfunctional mid-brain and tell the cortex that everything is okay. However,
+slowly, over the time of weeks and months, the increased action at HTR2c will
+decrease dopamine release leading to less serotonin signal to the cortex.
 
-This leads to a variety of symptoms including, anhedonia, lack of motivation, increased appetite and weight gain, irritability, poor focus, poor memory and a general sense that there’s nothing going on in our head. Sounds a lot like the symptoms of addiction, right? It’s so common that psychiatrists have a name for it: SSRI Poop-out.
+This leads to a variety of symptoms including, anhedonia, lack of motivation,
+increased appetite and weight gain, irritability, poor focus, poor memory and a
+general sense that there’s nothing going on in our head. Sounds a lot like the
+symptoms of addiction, right? It’s so common that psychiatrists have a name for
+it: SSRI Poop-out.
 
-The problem with that name is that nothing is actually pooping out. The SSRI is still blocking the cortisol receptor, the brain is still making increased levels of BDNF and the white matter is still not shrinking. Everything that counters the illness of major depression is still acting. What is happening is not a poop-out, but rather a known side effect of increasing serotonin tone.
+The problem with that name is that nothing is actually pooping out. The SSRI is
+still blocking the cortisol receptor, the brain is still making increased levels
+of BDNF and the white matter is still not shrinking. Everything that counters
+the illness of major depression is still acting. What is happening is not a
+poop-out, but rather a known side effect of increasing serotonin tone.
 
-Because psychiatrists have seen this as a poop-out, the most common first action is to raise the dose. This works, but for less time than the original dose did and then we see the same results. Further increases in dose will work for shorter and shorter periods of time.
+Because psychiatrists have seen this as a poop-out, the most common first action
+is to raise the dose. This works, but for less time than the original dose did,
+and then we see the same results. Further increases in dose will work for
+shorter and shorter periods of time.
 
-We’ve all heard the recent controversy about SSRIs and suicide, but the phenomenon is not recent. I’ve seen it in people with addiction for a long time. Imagine you go to the doctor with symptoms of addiction. They sound a lot like the symptoms of depression, so he starts an SSRI. You feel immediately better. Great! Smart doctor, good medicine, “I’m on the way.” Then weeks or even a few months later you slowly start to feel less well and it’s so slow you don’t notice it happening. One day you find yourself on the sofa with no reason to get up, and you call the doctor back. “That antidepressant you gave me doesn’t work anymore.” So, he doubles the dose, and you feel immediately better. Smart doctor, great medicine, “I hope this time it sticks.” A while later it’s happening again. Why would you think it’s the medicine that’s making you worse? The medicine worked; it made you better. Why would you think the doctor is missing something? He gave you a medicine that worked.  So, smart doctor, good medicine. “The problem might be me.” You give it another chance and sure enough, with triple the dose you feel better again, but then in a little while, you’re back on the couch. “It must be me. I have a smart doctor and he gave me a great medicine. It works for other people, but not for me. I’ll never get well and stay well. I might as well check out.”
+We’ve all heard the recent controversy about SSRIs and suicide, but the
+phenomenon is not recent. I’ve seen it in people with addiction for a long time.
+Imagine you go to the doctor with symptoms of addiction. They sound a lot like
+the symptoms of depression, so she starts an SSRI. You feel immediately better.
+Great! Smart doctor, good medicine, “I’m on the way.” Then weeks or even a few
+months later you slowly start to feel less well, and it’s so slow you don’t
+notice it happening. One day you find yourself on the sofa with no reason to get
+up, and you call the doctor back. “That antidepressant you gave me doesn’t work
+anymore.” So, she doubles the dose, and you feel immediately better. Smart
+doctor, great medicine, “I hope this time it sticks.” A while later it’s
+happening again. Why would you think it’s the medicine that’s making you worse?
+The medicine worked; it made you better. Why would you think the doctor is
+missing something? She gave you a medicine that worked.  So, smart doctor, good
+medicine. “The problem might be me.” You give it another chance and sure enough,
+with triple the dose you feel better again, but then in a little while, you’re
+back on the couch. “It must be me. I have a smart doctor and she gave me a great
+medicine. It works for other people, but not for me. I’ll never get well and
+stay well. I might as well check out.”
 
-I’ve heard that story a lot. SSRIs are great for major depression, but not for type II addiction. They are helpful in type I’s because they lower dopamine, but when used in someone with addiction, it must be remembered that the longer they are there, the better they work. We lose dopamine tone as we age so if someone needs 10 of Prozac today, they won’t need the same high dose in 10 years to keep dopamine low. In general, giving someone with addiction an SSRI is something to be cautious about, and it is not a “fire and forget” weapon. It’s a constantly changing dynamic and requires close follow-up, preferably with objective measures like neurocognitive testing.
+I’ve heard that story a lot. SSRIs are great for major depression, but not for
+type II addiction. They are helpful in type I’s because they lower dopamine, but
+when used in someone with addiction, it must be remembered that the longer they
+are there, the better they work. We lose dopamine tone as we age so if someone
+needs 10 of Prozac today, they won’t need the same high dose in 10 years to keep
+dopamine low. In general, giving someone with addiction an SSRI is something to
+be cautious about, and it is not a “fire and forget” weapon. It’s a constantly
+changing dynamic and requires close follow-up, preferably with objective
+measures like neurocognitive testing.
 
-It is a basic principle of the Townsend Way to try not to use SSRI medications in type II addiction, and when forced to, to monitor closely for decreases in dopamine release.
+*It is a basic principle of the ADAM Way to try not to use SSRI medications in
+type II addiction, and when forced to, to monitor closely for decreases in
+dopamine release.*
 
-There is a temporary exception to this principal. When someone has been using high dose amphetamines chronically for a long time, they have essentially depleted the VTA dopamine stores. Whatever you do to raise dopamine won’t work well until those stores are normal again. It is often necessary to briefly fool the brain into thinking things are all right when first starting treatment on such a patient by giving him an SSRI. This can often allow him to “feel better” while he’s building up dopamine stores. It must be stressed that this is a temporary measure, and the expectation must be set several times that this medication will likely make him worse over time if he stays on it. Unfortunately, the massive marketing of SSRIs as anti-depressants have been effective, and most addicted patients would rather believe they have major depression than addiction. It will not be uncommon for a patient to take an SSRI, feel better, and immediately become convinced he doesn’t have addiction after all. It’s a tricky technique with a lot of opportunity for pitfalls, but sometimes it’s the only thing that works at first with a dopamine depleted VTA.
+There is a temporary exception to this principle. When someone has been using
+high dose amphetamines chronically for a long time, they have essentially
+depleted the VTA dopamine stores. Whatever you do to raise dopamine won’t work
+well until those stores are normal again. It is often necessary to briefly fool
+the brain into thinking things are all right when first starting treatment on
+such a patient by giving him an SSRI. This can often allow him to “feel better”
+while he’s building up dopamine stores. It must be stressed that this is a
+temporary measure, and the expectation must be set several times that this
+medication will likely make him worse over time if he stays on it. Unfortunately,
+the massive marketing of SSRIs as anti-depressants have been effective, and most
+addicted patients would rather believe they have major depression than addiction.
+It will not be uncommon for a patient to take an SSRI, feel better, and
+immediately become convinced he doesn’t have addiction after all. It’s a tricky
+technique with a lot of opportunity for pitfalls, but sometimes it’s the only
+thing that works at first with a dopamine depleted VTA.
+<div style="page-break-after: always;"></div>
 
-Hierarchy of Treatment – Upstream to Downstream
+
+## Hierarchy of Treatment – Upstream to Downstream
 
 It is a general truism that water flows downstream. To us, that just means that the force of gravity is the most powerful force acting on water. If we were going to engineer something to move water, gravity would be our main concern. So if we are engineering a medical solution to low dopamine in the midbrain we need to be aware of the main force acting upon it. In the case of dopamine it is the neurobiology of the system, which, like water, is arranged in an upstream to downstream series.
 

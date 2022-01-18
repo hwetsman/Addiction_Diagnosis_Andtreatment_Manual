@@ -493,7 +493,14 @@ the ADAM Way never to use benzodiazepines to affect GABAb.*
 
 ## Where the drugs work
 
-In order to understand what to do for a patient who has the primary illness of addiction you must know what’s wrong. It would be nice to have a test for that, but we’re not there just yet. Instead, we rely on the age-old art of taking a history. In this case it’s not the history of drug use that most people are taught that focuses on the behavior and amount and timing. In our history taking what’s important are the biological cues that tell us what the patient needs in the way of medication. For us to knowledgably take this history, we need to know where all the drugs work in our model.
+In order to understand what to do for a patient who has the primary illness of
+addiction you must know what’s wrong. It would be nice to have a test for that,
+but we’re not there just yet. Instead, we rely on the age-old art of taking a
+history. In this case it’s not the history of drug use that most people are
+taught that focuses on the behavior and amount and timing. In our history taking
+what’s important are the biological cues that tell us what the patient needs in
+the way of medication. For us to knowledgably take this history, we need to know
+where all the drugs work in our model.
 
 
 ![Figure 8 - WHERE THE DRUGS WORK](Images/Where_The_Drugs_Work.jpg)
@@ -558,18 +565,58 @@ asks for tables, so here they are:
 Table 2 - Type II Effects of Specific Drugs
 
 
-Now this list is for Type IIs. It essentially is saying what the drugs are doing to increase dopamine tone. There are people who are using drugs to decrease dopamine release or for other reasons entirely. In addition, there are patients who were originally Type I and now have Type II symptoms as well that may be using a cocktail of drugs in order to attempt to manage mixed symptoms. The table for Type I effects is below:
+Now this list is for Type IIs. It essentially is saying what the drugs are doing
+to increase dopamine tone. There are people who are using drugs to decrease
+dopamine release or for other reasons entirely. In addition, there are patients
+who were originally Type I and now have Type II symptoms as well that may be
+using a cocktail of drugs in order to attempt to manage mixed symptoms. The
+table for Type I effects is below:
+
+
+<table>
+	<tr>
+		<th>Drug</th>
+		<th>Action</th>
+		<th>What it Tells You About the Patient</th>
+	</tr>
+	<tr>
+		<td>Opioids</td>
+		<td>Mu Opioid Receptor Agonist</td>
+		<td>Don’t get dopamine release from opioids</td>
+	</tr>
+	<tr>
+		<td>Cannabis</td>
+		<td>CB1 Receptor Agonist</td>
+		<td>Benefitting from sedating properties</td>
+	</tr>
+	<tr>
+		<td>Sedatives</td>
+		<td>GABAa and GABAb</td>
+		<td>Benefitting from sedating properties or from GABAb decrease of dopamine release</td>
+	</tr>
+	<tr>
+		<td>Alcohol</td>	<td>Multiple</td>	<td>Not much</td>
+	</tr>
+	<tr>
+</table>
 
 Table 3 - Type I Effects of Specific Drugs
-Drug	Action	What it Tells You About the Patient
-Opioids	Mu Opioid Receptor Agonist	Don’t get dopamine release from opioids
-Cannabis	CB1 Receptor Agonist	Benefitting from sedating properties
-Sedatives	GABAa and GABAb	Benefitting from sedating properties or from GABAb decrease of dopamine release
-Alcohol	Multiple	Not much
 
-There are a few different lines of thought that must be kept in mind simultaneously: Type I symptoms, Type II symptoms, specific actions and time course of drugs at reward center, changes in reward center stemming from past drug use, and other factors. It takes experience to keep all those in mind at the same time. But they all come down to the same thing, finding out why the patient is using what they are using. Only with that knowledge can we devise a specific medical regimen to relieve the symptoms that get in the way of recovery. So it is a basic principal of the Townsend way to understand why the patient uses what he uses, not just what he uses.
 
-The Difference Between a Drug and a Medicine
+
+There are a few different lines of thought that must be kept in mind
+simultaneously: Type I symptoms, Type II symptoms, specific actions and time
+course of drugs at reward center, changes in reward center stemming from past
+drug use, and other factors. It takes experience to keep all those in mind at
+the same time. But they all come down to the same thing, finding out why the
+patient is using what they are using. Only with that knowledge can we devise a
+specific medical regimen to relieve the symptoms that get in the way of
+recovery. So it is a basic principal of the Townsend way to understand why the
+patient uses what he uses, not just what he uses.
+<div style="page-break-after: always;"></div>
+
+
+## The Difference Between a Drug and a Medicine
 
 Seeing that we focus our medical interventions on the same mechanisms affected by drugs, some people ask, “So why would I want to substitute one drug for another.” This brings up the difference between a drug and a medicine. Here’s my answer.
 

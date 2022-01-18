@@ -637,7 +637,7 @@ ask yourself: “Which patient is more sober?”
 
 Often, I’ll hear from family of a patient on a medication that they are
 uncomfortable with the patient taking a chemical to free him from the use of
-another chemical. We have a three-point test to show families and 
+another chemical. We have a three-point test to show families and
 patients the difference between a drug and a medicine. Again, I’ll pick on
 buprenorphine. I ask the patient, “When you were taking the opiates did taking
 them make you want to take more?” If they answer yes, I’ll raise one finger.
@@ -667,54 +667,130 @@ fast but only for a short period of time.*
 
 ## Biology of Recovery
 
-So far, we’ve focused on the dopamine side of the dopamine tone equation and haven’t mentioned dopamine receptors. Any model of the biology of addiction must explain why some people get better without any medical intervention. I believe we can put these two together and create an answer. First, we’ll have to review one of my favorite studies .
+So far, we’ve focused on the dopamine side of the dopamine tone equation and
+haven’t mentioned dopamine receptors. Any model of the biology of addiction must
+explain why some people get better without any medical intervention. I believe
+we can put these two together and create an answer. First, we’ll have to review
+one of my favorite studies[^27].
 
-The researchers used 4 normal infant male monkeys. They knew the monkeys were normal for two reasons: they had normal density of D2 receptors on PET scan and, when offered cocaine, they didn’t like it. Remember, if you have enough dopamine tone, something that raises it is not actually pleasurable.  Then they took the monkeys away from their mothers and housed them individually where they couldn’t even see each other. So, in essence, each monkey was in solitary confinement. Rapidly the D2 receptor density was lower on PET scan and now, when offered cocaine, the monkeys avidly used it. When dopamine receptor density fell so did dopamine tone. The cocaine returned dopamine tone to normal by raising dopamine level now that the monkeys were isolated.
+The researchers used 4 normal infant male monkeys. They knew the monkeys were
+normal for two reasons: they had normal density of D<sub>2</sub> receptors on
+PET scan and, when offered cocaine, they didn’t like it. Remember, if you have
+enough dopamine tone, something that raises it is not actually pleasurable.  
+Then they took the monkeys away from their mothers and housed them individually
+where they couldn’t even see each other. So, in essence, each monkey was in
+solitary confinement. Rapidly the D<sub>2</sub> receptor density was lower on PET scan and
+now, when offered cocaine, the monkeys avidly used it. When dopamine receptor
+density fell so did dopamine tone. The cocaine returned dopamine tone to normal
+by raising dopamine level now that the monkeys were isolated.
 
-They then raised these monkeys with continued isolation and cocaine use to the age of adolescence and put them together in a troop-sized cage. The first thing the monkeys did was to fight to find out which one was the alpha male. After that was decided, the researchers rescanned the monkeys. The alpha male’s D2 receptor density returned to normal, and he used much less cocaine than before. The other three subservient yet socially housed monkeys still had lower D2 density and continued to use cocaine the same as they did when alone.
+They then raised these monkeys with continued isolation and cocaine use to the
+age of adolescence and put them together in a troop-sized cage. The first thing
+the monkeys did was to fight to find out which one was the alpha male. After
+that was decided, the researchers rescanned the monkeys. The alpha male’s D<sub>2</sub>
+receptor density returned to normal, and he used much less cocaine than before.
+The other three subservient yet socially housed monkeys still had lower D<sub>2</sub>
+density and continued to use cocaine the same as they did when alone.
 
-This study shows me that the stress of being isolated and the stress of feeling less than are the same stress, that the stress decreases D2 receptor density and, therefore, dopamine tone.
+This study shows me that the stress of being isolated and the stress of feeling
+less than are the same stress, that the stress decreases D<sub>2</sub> receptor density
+and, therefore, dopamine tone.
 
-Think for a minute what someone gets from an AA meeting: you are never alone again, and you aren’t less than anyone. Think what happens when someone is living a 12-step life: I am here to help and therefore have enough to help with; I’m not alone because I have a higher power; so I’m not alone or less than.
+Think for a minute what someone gets from an AA meeting: you are never alone
+again, and you aren’t less than anyone. Think what happens when someone is
+living a 12-step life: I am here to help and therefore have enough to help with;
+I’m not alone because I have a higher power; so I’m not alone or less than.
 
 Now let’s look at our equation again:
 
 Equation 2 - Dopamine Tone
-DT=DA × DR × T
+DT = DA × DR × T
 
 and put the factors into a table.
 
 
+
+<table>
+	<tr>
+		<th>Factor</th>
+		<th>DR Density</th>
+		<th>DA availability</th>
+		<th>Time</th>
+	</tr>
+	<tr>
+		<td>Intervention</td>
+		<td>Recovery</td>
+		<td>Increase DA production or release</td>
+		<td>Block DA reuptake pump or block DA catabolism</td>
+	</tr>
+	<tr>
+</table>
 Table 4 - Effect of Various Interventions on the Factors of Dopamine Tone
-Factor	DR Density	DA availability	Time
-Intervention	Recovery	Increase DA production or release	Block DA reuptake pump or block DA catabolism
-
-Because it is the goal of the Addiction Medicine physician to increase the dopamine tone of the patient on a long-term basis, each of these factors is critical to us. We cannot focus on increasing dopamine and ignore the receptors. We cannot handle the medications and ignore the recovery aspects.  It is as important for the Addiction Medicine physician to understand the mechanisms of recovery, whether he’s in recovery himself or not, as it is for any other physician treating a chronic illness to know the mechanisms of lifestyle change on that illness. We cannot abdicate this responsibility to the counselors; we are the only ones who can credibly explain the biological reality to the patient. In essence, the equation tells us that without recovery, the patient will always need medication. That is, their only way off medication, or to a lower dose and a more sustainable future course, is recovery. So it is a basic principal of the Townsend Way that the physician be a primary advocate for the patient’s entering a recovery lifestyle.
-
-I am not advocating only for the 12-step recovery culture. Any recovery will do but let’s look at what is necessary in a recovery culture for it to effect D2 density. I learned from reading William White’s monograph  that there are five attributes that any successful recovery culture has to have:
-
-	A community – no one recovers alone
-	Horizontal interactions – no hierarchy, everyone is equal regardless of recovery time
-	A mentor – a loving teacher who is not a boss but who shares what worked for him
-	Confession/Amendment – while it need not be public, it is important for at least one other human being to have heard what shames us and still find us acceptable
-	Serving others – this is a technique that many recovery cultures have found to be a sustainable source of dopamine receptor density, though they don’t put it that way
-
-If your patient has such a program, that’s fine. If they have found a non-12-step program that doesn’t meet these five criteria or they have fallen into a version of 12-step recovery in which one or more of these are lost, it is the physician’s responsibility to advise them on the biology so they can decide if they want to change.
-
-This information also leads me to the advice I give to people wanting to get off medications or set some time limit to their medications. I usually say instead, “Stay on the medication until you’re finished your ninth step. After that, let’s try to taper.” The information does two things: focuses the person on the biology rather than on an artificial deadline, and puts the patient in charge. They can’t come back later and say, “I don’t want to work the steps so I’d like you to raise your magic wand and give me more dopamine receptors so I can stop the meds.” It is a basic principal of the Townsend Way to advocate for patients to stay on their medication until they have the maximum opportunity for success off of the medication.
 
 
+Because it is the goal of the Addiction Medicine physician to increase the
+dopamine tone of the patient on a long-term basis, each of these factors is
+critical to us. We cannot focus on increasing dopamine and ignore the receptors.
+We cannot handle the medications and ignore the recovery aspects.  It is as
+important for the Addiction Medicine physician to understand the mechanisms of
+recovery, whether he or she is in recovery themselves or not, as it is for any other
+physician treating a chronic illness to know the mechanisms of lifestyle change
+on that illness. We cannot abdicate this responsibility to the counselors; we
+are the only ones who can credibly explain the biological reality to the
+patient. In essence, the equation tells us that without recovery, the patient
+will always need medication. That is, their only way off medication, or to a
+lower dose and a more sustainable future course, is recovery. *So it is a basic
+principal of the ADAM Way that the physician be a primary advocate for the
+patient’s entering a recovery lifestyle.*
 
-The Point of Addiction Medicine
+I am not advocating only for the 12-step recovery culture. Any recovery will do
+but let’s look at what is necessary in a recovery culture for it to effect D<sub>2</sub>
+density. I learned from reading William White’s monograph[^28] that there are
+five attributes that any successful recovery culture has to have:
 
-This brings us to the discussion of another goal of Addiction Medicine. In my mind, it’s not just the goal, but rather the whole point. It is the reason a medical model should be used.
+	- A community – no one recovers alone
+	- Horizontal interactions – no hierarchy, everyone is equal regardless of
+	recovery time
+	- A mentor – a loving teacher who is not a boss but who shares what worked
+	for him
+	- Confession/Amendment – while it need not be public, it is important for at
+	least one other human being to have heard what shames us and still find us
+	acceptable
+	- Serving others – this is a technique that many recovery cultures have
+	found to be a sustainable source of dopamine receptor density, though they
+	don’t put it that way
 
-I believe that the point of Addiction Medicine is to use biological interventions to raise dopamine tone so that the patient can get into and sustain recovery. Once there, if there is no need for medications to enhance dopamine tone, then they can be tapered off. If, through aging, dopamine tone falls during recovery and increased dopamine tone is necessary to sustain recovery, medication can be added back.
+If your patient has such a program, that’s fine. If they have found a
+non-12-step program that doesn’t meet these five criteria or they have fallen
+into a version of 12-step recovery in which one or more of these are lost, it is
+the physician’s responsibility to advise them on the biology so they can decide
+if they want to change.
 
-Some people who have long held a position that there is no role for medication in recovery have now come to believe that medications can be useful in getting people into recovery. But the idea of using medications to affect addiction after years of recovery is still alien to them. To these people, recovery should give all the answers, and there should be no need for addiction medication later in life. I think this position ignores a basic fact of aging, that nothing physical is exempt from the process. We don’t think our pancreas is exempt; why should we think our mid-brain is?
-It is a basic principle of the Townsend Way to intervene medically, psychologically, or educationally at any point in the addicted patient’s lifecycle when interventions are necessary regardless of how many years the patient has in recovery.
+This information also leads me to the advice I give to people wanting to get
+off medications or set some time limit to their medications. I usually say
+instead, “Stay on the medication until you’re finished your ninth step. After
+that, let’s try to taper.” The information does two things: focuses the person
+on the biology rather than on an artificial deadline, and puts the patient in
+charge. They can’t come back later and say, “I don’t want to work the steps so
+I’d like you to raise your magic wand and give me more dopamine receptors so I
+can stop the meds.” *It is a basic principal of the ADAM Way to advocate for
+patients to stay on their medication until they have the maximum opportunity for
+success off of the medication.*
+<div style="page-break-after: always;"></div>
 
-Other DA Releasers and What is a “Drug?”
+
+## The Point of Addiction Medicine
+
+*This brings us to the discussion of another goal of Addiction Medicine. In my mind, it’s not just the goal, but rather the whole point. It is the reason a medical model should be used.*
+
+*I believe that the point of Addiction Medicine is to use biological interventions to raise dopamine tone so that the patient can get into and sustain recovery. Once there, if there is no need for medications to enhance dopamine tone, then they can be tapered off. If, through aging, dopamine tone falls during recovery and increased dopamine tone is necessary to sustain recovery, medication can be added back.*
+
+*Some people who have long held a position that there is no role for medication in recovery have now come to believe that medications can be useful in getting people into recovery. But the idea of using medications to affect addiction after years of recovery is still alien to them. To these people, recovery should give all the answers, and there should be no need for addiction medication later in life. I think this position ignores a basic fact of aging, that nothing physical is exempt from the process. We don’t think our pancreas is exempt; why should we think our mid-brain is?
+It is a basic principle of the Townsend Way to intervene medically, psychologically, or educationally at any point in the addicted patient’s lifecycle when interventions are necessary regardless of how many years the patient has in recovery.*
+<div style="page-break-after: always;"></div>
+
+
+##Other DA Releasers and What is a “Drug?”
 
 This brings us to another way of looking at what is a “drug.” The word drug is in quotations because what we should really call them are rewards; they don’t have to be external chemicals. Once you understand the neurochemistry and understand the final common pathway of dopamine tone and dopamine spike, it becomes clear that whatever the cause, the effect is the same. Our midbrains have no way to tell the difference between a spike of dopamine caused by heroin or by eating a piece of cake. Dopamine is dopamine.
 
@@ -973,11 +1049,15 @@ There will always be a medical camp that doesn’t see addiction as unique. Ther
 [25]: Usiello A, et al. Distinct Functions of the Two Isoforms of Dopamine D-2
   Receptors. Nature 408: 199-203.
 
-Weich S, et al. Effect of anxiolytic and hypnotic drug prescriptions on mortality hazards: retrospective cohort study. BMJ 2014;348:g 1996
+[26]: Weich S, et al. Effect of anxiolytic and hypnotic drug prescriptions on
+  mortality hazards: retrospective cohort study. BMJ 2014;348:g 1996
 
-Morgan D, et al. Social dominance in monkeys’ dopamine D2 receptors and cocaine self-administration. Nat Neurosci. 5 (2):  169-174.
+[27]: Morgan D, et al. Social dominance in monkeys’ dopamine D2 receptors and
+  cocaine self-administration. Nat Neurosci. 5 (2):  169-174.
 
-White, WL. Recovery Management and Recover-oriented systems of care: Scientific rationale and promising practices.  2008. Northeast Addiction Technology Transfer Center.
+[28]: White, WL. Recovery Management and Recover-oriented systems of care:
+  Scientific rationale and promising practices.  2008. Northeast Addiction
+  Technology Transfer Center.
 
 Laviola G, et al. Risk-taking behavior in adolescent mice: psychobiological determinants and early epigenetic influence. NeuroSci and Biobehav Rev 27 (1-2): 19-31.
 

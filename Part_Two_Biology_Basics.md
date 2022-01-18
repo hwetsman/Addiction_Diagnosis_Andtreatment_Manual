@@ -861,57 +861,146 @@ Regardless of what lane you’re in, the road is still going to the same place;
 it’s just a decision about how fast you want to get there. If the goal is to
 avoid the death from addiction, it’s best to get off the road entirely.
 
-This means that the old “one drug at a time” method of addiction treatment is not good long-term care. It means that smoking cessation is not different from addiction treatment in addiction patients. It means that it is not okay for someone to stop drinking and start overeating. It is a basic principle of the Townsend Way to advocate for abstinence from all rewards that cause supra-physiologic spikes for the patient and to help the patient gain the dopamine tone they need to not crave or seek any such reward.
+This means that the old “one drug at a time” method of addiction treatment is
+not good long-term care. It means that smoking cessation is not different from
+addiction treatment in addiction patients. It means that it is not okay for
+someone to stop drinking and start overeating. *It is a basic principle of the
+ADAM Way to advocate for abstinence from all rewards that cause supra-
+physiologic spikes for the patient and to help the patient gain the dopamine
+tone they need to not crave or seek any such reward.*
+<div style="page-break-after: always;"></div>
 
 
-Where the Medications Work
+##Where the Medications Work
 
-When thinking about the medications used to treat addiction, we must divide them into the appropriate categories. They are:
+When thinking about the medications used to treat addiction, we must divide them
+into the appropriate categories. They are:
 
-	Medications used to ease withdrawal
-	Medications used to raise dopamine tone
-	Medications used to decrease cue induced craving
-	Medications used to modulate dopamine spike
+- Medications used to ease withdrawal
+- Medications used to raise dopamine tone
+- Medications used to decrease cue induced craving
+ -Medications used to modulate dopamine spike
 
-There is another category that is often included in addiction medication lists, but it is a better treatment for substance abuse than addiction as the point of the treatment is to stop the behavior of drug taking rather than to treat the underlying condition. That category is:
+There is another category that is often included in addiction medication lists,
+but it is a better treatment for substance abuse than addiction as the point of
+the treatment is to stop the behavior of drug taking rather than to treat the
+underlying condition. That category is:
 
-	Medications that completely block dopamine spike
+- Medications that completely block dopamine spike
 
-Medications to ease withdrawal: These medications work outside the reward system and aren’t directly addiction treatment. Medical withdrawal, also erroneously called “detox,” is not a form of treatment for addiction, but rather a specific easing of the symptoms of substance withdrawal. The biology of withdrawal has more to do with a part of the brain called the Periaqueductal Gray and structures that direct autonomic tone, and only has an indirect effect on lowing dopamine release. As such, medications aimed at easing withdrawal act for this purpose outside of the reward system. In the case of withdrawal from opioids, the medications used work at the opioid receptors in various parts of the brain as well as the periphery, especially the intestinal tract, to ease withdrawal. In the case of sedative hypnotics, the medications for withdrawal act primarily at GABA receptors in the brain. There are general medications that don’t specifically counter primary withdrawal but only decrease symptoms, such as clonidine, and are inappropriate as stand-alone medication in sedative hypnotic withdrawal because they do not decrease kindling or the risk of seizure.
+### Medications to ease withdrawal: These medications work outside the reward system
+and aren’t directly addiction treatment. Medical withdrawal, also erroneously
+called “detox,” is not a form of treatment for addiction, but rather a specific
+easing of the symptoms of substance withdrawal. The biology of withdrawal has
+more to do with a part of the brain called the Periaqueductal Gray and structures
+that direct autonomic tone, and only has an indirect effect on lowing dopamine
+release. As such, medications aimed at easing withdrawal act for this purpose
+outside of the reward system. In the case of withdrawal from opioids, the
+medications used work at the opioid receptors in various parts of the brain as
+well as the periphery, especially the intestinal tract, to ease withdrawal. In
+the case of sedative hypnotics, the medications for withdrawal act primarily at
+GABA receptors in the brain. There are general medications that don’t
+specifically counter primary withdrawal but only decrease symptoms, such as
+clonidine, and are inappropriate as stand-alone medication in sedative hypnotic
+withdrawal because they do not decrease kindling or the risk of seizure.
 
-The idea of stopping kindling is a paramount principle in treating withdrawal from sedative hypnotics. Some other principles are to not taper the exact chemical that caused the tolerance in the first place, use instead a cross tolerant agent. Another principle is to use the longest half-life medication possible to provide for the slowest smoothest taper. Details about choice of medications in various environments is beyond the scope of this book and well detailed elsewhere.
+The idea of stopping kindling is a paramount principle in treating withdrawal
+from sedative hypnotics. Some other principles are to not taper the exact
+chemical that caused the tolerance in the first place, use instead a cross
+tolerant agent. Another principle is to use the longest half-life medication
+possible to provide for the slowest smoothest taper. Details about choice of
+medications in various environments is beyond the scope of this book and well
+detailed elsewhere.
 
-Medications used to raise dopamine tone: This group is quite a heterogeneous group as there are several ways to raise dopamine tone depending on the specific pathology of the patient. These medications should be considered in the “upstream to downstream” order in which dopamine tone is produced. The order is important because if the system has a “dam” upstream, trying something to increase flow downstream is not likely to be that effective. That order is
+### Medications used to raise dopamine tone: This group is quite a heterogeneous
+group as there are several ways to raise dopamine tone depending on the specific
+pathology of the patient. These medications should be considered in the
+“upstream to downstream” order in which dopamine tone is produced. The order is
+important because if the system has a “dam” upstream, trying something to
+increase flow downstream is not likely to be that effective. That order is
 
-	Dopamine Production
-	Dopamine Release
-	Dopamine at the Receptor
+1. Dopamine Production
+2. Dopamine Release
+3. Dopamine at the Receptor
 
-Dopamine Production: Currently the only medication we have identified that effects dopamine production is L-methylfolate. For those with a specific genetic defect of the MTHFR gene, the production of L-methylfolate from folate is diminished, and, as L-methylfolate is necessary for dopamine production, the production of dopamine is reduced. Taking L-methylfolate will restore dopamine production to normal in those patients. Also anyone taking medication that decreases the effectiveness of MTHFR could benefit from L-methylfolate as well.
+#### Dopamine Production: Currently the only medication we have identified that
+effects dopamine production is L-methylfolate. For those with a specific genetic
+defect of the MTHFR gene, the production of L-methylfolate from folate is
+diminished, and, as L-methylfolate is necessary for dopamine production, the
+production of dopamine is reduced. Taking L-methylfolate will restore dopamine
+production to normal in those patients. Also, anyone taking medication that
+decreases the effectiveness of MTHFR could benefit from L-methylfolate as well.
 
-An example of the importance of this is seen in this comparison of patients at Townsend who had genetic testing and were offered treatment. Some of them took L-methylfolate and some chose not to.
+An example of the importance of this is seen in this comparison of patients at
+Townsend who had genetic testing and were offered treatment. Some of them took
+L-methylfolate and some chose not to.
 
-Serious polymorphisms of MTHFR are described in the general literature as affecting about 30% of the population. As you can see, there are far fewer people seeking treatment for addiction that have normal MTHFR function than one would expect in the general public, and the effect of treatment on those who are not normal at MTHFR is profound.
+Serious polymorphisms of MTHFR are described in the general literature as
+affecting about 30% of the population. As you can see, there are far fewer
+people seeking treatment for addiction that have normal MTHFR function than one
+would expect in the general public, and the effect of treatment on those who are
+not normal at MTHFR is profound.
 
-The following chart takes some explaining. Across the X-axis, the one that runs horizontally along the bottom, there are three groups of patients listed and the width they take up gives you a visual indicator of how prevalent they are in the Townsend patient population. Along the Y-axis, the vertical one to the left, is a percentage of the patients in each group who completed the Townsend IOP program. The key to the right shows that completers are colored blue and non-completers are colored red.
+The following chart takes some explaining. Across the X-axis, the one that runs
+horizontally along the bottom, there are three groups of patients listed and the
+width they take up gives you a visual indicator of how prevalent they are in the
+Townsend patient population. Along the Y-axis, the vertical one to the left, is
+a percentage of the patients in each group who completed the Townsend IOP
+program. The key to the right shows that those who completed are colored blue
+and those who did not are colored red.
 
-Of those few percent of patient that had normal MTHFR function from the beginning, all completed IOP treatment for addiction at Townsend. A little less than half the patients had significant MTHFR polymorphism and chose to take L-methylfolate; they had a completion rate above 80%. About half the patients had a significant polymorphism of MTHFR and chose not to take L-methylfolate. Their completion rate was approximately 12%. This finding caused Townsend physicians to begin suggesting L-methylfolate to all admissions even before genetic testing results returned.
+Of those few percent of patient that had normal MTHFR function from the
+beginning, all completed IOP treatment for addiction at Townsend. A little less
+than half the patients had significant MTHFR polymorphism and chose to take
+L-methylfolate; they had a completion rate above 80%. About half the patients
+had a significant polymorphism of MTHFR and chose not to take L-methylfolate.
+Their completion rate was approximately 12%. This finding caused physicians at
+my old treatment center to begin suggesting L-methylfolate to all admissions
+even before genetic testing results returned.
 
 
 
 
 
-Figure 9 - OUTCOME BY MTHFR FUNCTION AND TREATMENT
+![Figure 9 - OUTCOME BY MTHFR FUNCTION AND TREATMENT](Images/Outcome_By_MTHFR_Function_And_Treatment.jpg)
 
-Dopamine Release: Two known agents cause the tonic release of dopamine from the VTA. They are buprenorphine and varenicline. Buprenorphine works as a long acting partial agonist at the mu opioid receptor. Varenicline works as a somewhat shorter acting partial agonist at the nicotinic acetylcholine receptor. Agonist activity at both receptors causes dopamine release.
 
-Another class of agents that indirectly increases dopamine release is specific monoamine oxidase B inhibitors. Monoamine Oxidase B (MAOb) is the primary breakdown pathway for dopamine after it is taken back up by the VTA via the dopamine transporter (DT). Increased activity by MAOb, for instance because of genetic polymorphism, would result in less dopamine being packaged per vesicle, so that even if vesicular release were normal, there would be less dopamine release. Inhibiting MAOb would return that release to normal.
+#### Dopamine Release: Two known agents cause the tonic release of dopamine from
+the VTA. They are buprenorphine and varenicline. Buprenorphine works as a long-
+acting partial agonist at the mu opioid receptor. Varenicline works as a
+somewhat shorter acting partial agonist at the nicotinic acetylcholine receptor.
+Agonist activity at both receptors causes dopamine release.
 
-Finally, a third strategy in increasing dopamine release is not so indirect as negative. It is avoiding the decrease of dopamine release caused by increasing serotonin levels, for instance, from an SSRI medication. When serotonin levels are raised, increased agonist activity at the serotonin 2a receptor (HTR2a) on the VTA decreases dopamine release. Avoiding increasing serotonin will avoid that problem. If, one day, we get specific agents that agonize serotonin receptor 2c, we could use those to increase dopamine release.
+Another class of agents that indirectly increases dopamine release is specific
+monoamine oxidase B inhibitors. Monoamine Oxidase B (MAOb) is the primary
+breakdown pathway for dopamine after it is taken back up by the VTA via the
+dopamine transporter (DT). Increased activity by MAOb, for instance because of
+genetic polymorphism, would result in less dopamine being packaged per vesicle,
+so that even if vesicular release were normal, there would be less dopamine
+release. Inhibiting MAOb would return that release to normal.
 
-It is important to note here one strategy for increasing dopamine release that is useful as a drug, but not as a medication for a chronic condition. That method is amphetamines. Amphetamines cause an increase in dopamine release, though not through the normal channels, but by running the dopamine transporter (DT) in reverse. While this is useful for short periods of time, it leaves the practitioner with one of two untenable choices when treating someone with addiction. Either you treat only part of the day to allow dopamine stores to be rebuilt and have the patient experience a “crash,” or you treat for 24/7 and never allow stores to be rebuilt leading to, at some point years down the road, an untreatable patient who can’t get out of bed and can’t raise the dose of amphetamine anymore because they’re toxic. It is a basic principle of the Townsend way not to use amphetamines to increase dopamine tone.
+Finally, a third strategy in increasing dopamine release is not so indirect as
+negative. It is avoiding the decrease of dopamine release caused by increasing
+serotonin levels, for instance, from an SSRI medication. When serotonin levels
+are raised, increased agonist activity at the serotonin 2a receptor (HTR2a) on
+the VTA decreases dopamine release. Avoiding increasing serotonin will avoid
+that problem. If, one day, we get specific agents that agonize serotonin
+receptor 2c, we could use those to increase dopamine release.
 
-Dopamine at the Receptor: Once dopamine production is normalized and dopamine release is normalized there still might be people with lower dopamine tone because of problems with dopamine receptors or post receptor signaling problems. Additionally, there may be people who have an overactive dopamine reuptake pump (DAT) or Co-O-methyl transferase enzyme (COMT), though the latter should matter less than the former because DAT is the main terminator of the dopamine signal at the NA.
+It is important to note here one strategy for increasing dopamine release that
+is useful as a drug, but not as a medication for a chronic condition. That
+method is amphetamines. Amphetamines cause an increase in dopamine release,
+though not through the normal channels, but by running the dopamine transporter
+(DT) in reverse. While this is useful for short periods of time, it leaves the
+practitioner with one of two untenable choices when treating someone with
+addiction. Either you treat only part of the day to allow dopamine stores to be
+rebuilt and have the patient experience a “crash,” or you treat for 24/7 and
+never allow stores to be rebuilt leading to, at some point years down the road,
+an untreatable patient who can’t get out of bed and can’t raise the dose of
+amphetamine anymore because they’re toxic. *It is a basic principle of the ADAM
+way not to use amphetamines to increase dopamine tone.*
+
+#### Dopamine at the Receptor: Once dopamine production is normalized and dopamine release is normalized there still might be people with lower dopamine tone because of problems with dopamine receptors or post receptor signaling problems. Additionally, there may be people who have an overactive dopamine reuptake pump (DAT) or Co-O-methyl transferase enzyme (COMT), though the latter should matter less than the former because DAT is the main terminator of the dopamine signal at the NA.
 
 In those cases, the strategy would be to increase the amount of dopamine at the receptor with a DAT blocking agent such as bupropion.  Do not use amphetamines for this, because, as noted above, they don’t just block the DAT, but run it in reverse causing anomalous release of dopamine rather than a rise in dopamine from the patient’s release during DAT blockade.
 
@@ -919,7 +1008,7 @@ There is a caution to be heard about the use of bupropion. If you use bupropion 
 
 It is also possible to decrease COMT activity using a herbal supplement called Rhodiola Rosea. This would be best used in people who’s COMT is overactive, however it could boost DA at the synapse by a small amount even in normal activity COMT individuals.
 
-Medications to ease cue induced craving: Cue induced craving is caused by a glutamate signal from the amygdala to the VTA. The VTA then spins up, causing a dopamine release followed by a crash with the fall in dopamine bringing on the craving. Given that stream of action, there are several places one could intervene to decrease cue induced craving. We could block dopamine, we could block the endorphin receptor to make sure that any secondary endorphin release from the NA didn’t stimulate even more DA from the VTA, or we could stop the whole thing from starting by modulating down the glutamate signal. Blocking dopamine makes addicts feel worse and they crave or use even more . Mu blockade often results in the same thing only with the use of substances or behaviors that stimulate the system in a way that bypasses the now useless mu receptor. The best way to ease cue induced craving is to modulate down the glutamate signal that starts the problem in the first place.
+### Medications to ease cue induced craving: Cue induced craving is caused by a glutamate signal from the amygdala to the VTA. The VTA then spins up, causing a dopamine release followed by a crash with the fall in dopamine bringing on the craving. Given that stream of action, there are several places one could intervene to decrease cue induced craving. We could block dopamine, we could block the endorphin receptor to make sure that any secondary endorphin release from the NA didn’t stimulate even more DA from the VTA, or we could stop the whole thing from starting by modulating down the glutamate signal. Blocking dopamine makes addicts feel worse and they crave or use even more . Mu blockade often results in the same thing only with the use of substances or behaviors that stimulate the system in a way that bypasses the now useless mu receptor. The best way to ease cue induced craving is to modulate down the glutamate signal that starts the problem in the first place.
 
 There are some principles to be aware of in this treatment. First, cue induced craving is rarely the main reason someone is using when they first come to treatment. That means that if we successfully treat the cue induced craving and don’t handle the other reasons for using, we will not stop the using, and we, and the patient, will interpret that we failed with our medical treatment. Treating cue induced craving is best done after dopamine tone is normalized and use is restricted to that brought on by cue induced craving. At that point, the patient will notice a great change as opposed to little change when the treatment is instituted.
 
@@ -927,17 +1016,17 @@ The second principle of import is that cue induced craving can exist even withou
 
 It is a basic principle of the Townsend Way to treat cue induced craving after normalizing dopamine tone, even if no obvious cues are reported, if there is continued use or craving.
 
-Medications to modulate the dopamine spike: In general, someone with a lower dopamine tone will have a higher dopamine spike. This is because the D2 receptor exists in two forms, long and short, L and S. The D2L is the primary post-synaptic receptor and the D2S is the primary pre-synaptic receptor. The function of D2S is to turn off the dopamine release. If there is insufficient dopamine release, insufficient dopamine receptor activation or insufficient dopamine receptor density there will not be enough D2S to turn off the spike. The dopamine/endorphin positive feedback loop, which is also responsible for the height of the spike, is modulated by the action of GABAb at both the VTA and the NA.
+### Medications to modulate the dopamine spike: In general, someone with a lower dopamine tone will have a higher dopamine spike. This is because the D2 receptor exists in two forms, long and short, L and S. The D2L is the primary post-synaptic receptor and the D2S is the primary pre-synaptic receptor. The function of D2S is to turn off the dopamine release. If there is insufficient dopamine release, insufficient dopamine receptor activation or insufficient dopamine receptor density there will not be enough D2S to turn off the spike. The dopamine/endorphin positive feedback loop, which is also responsible for the height of the spike, is modulated by the action of GABAb at both the VTA and the NA.
 
 Generally, as we raise someone’s dopamine tone, their spike will decrease because of the greater activation of D2S. However, there is a polymorphism of the gene responsible for creation of the D2 receptor, DRD2, which causes a splice variant and a change in the ratio of D2L to D2S. With this polymorphism, patients have a smaller percentage of the short form of the receptor and therefore less pre-synaptic signal to shut off the spike. Such people, when their dopamine tone is raised will still experience a high rewarding spike, perhaps even from stimuli that aren’t normally considered rewarding. Such people may complain of transient high dopamine symptoms with medication. Because the dopamine spike is followed by a crash, such people often find that they are triggered to use even when exposed to stimuli not normally thought of as a drug. Efforts to modulate the dopamine spike in these cases can come from increasing GABAb tone. Recent work has also found that glutamate modulation may help with lowering the spike as well.
 
 Whether the cause is decreased GABAb tone itself or the D2 splice variant, increasing GABAb tone or toning down glutamate can be useful to modulate the dopamine spike. Baclofen, the only pure GABAb agent approved for humans, and all the anti-epileptic drugs (AEDs) are useful for this purpose. Benzodiazepines are more GABAa than GABAb and are not safely used in people with addiction. Acamprosate is a glutamate modulator that has an FDA indication in alcohol dependence.
+<div style="page-break-after: always;"></div>
 
 
 
 
-
-Danger of SSRIs
+## Danger of SSRIs
 
 If we look at the cartoon of the mid-brain reward system, we see that the dopamine signal leads indirectly to an increase of a serotonin signal to areas of the cortex. This signal is what gives people with a normal functioning midbrain a sense of being okay; there’s enough of everything and things will be all right. If we give someone with a poorly functioning dopamine signal a medication to boost their levels of serotonin, such as an SSRI, the cortical signal will increase despite the absence of it natural cause, good dopamine tone in the midbrain. Sounds like a great treatment for people with addiction, right?
 

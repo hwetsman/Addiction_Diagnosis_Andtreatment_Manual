@@ -611,24 +611,61 @@ drug use, and other factors. It takes experience to keep all those in mind at
 the same time. But they all come down to the same thing, finding out why the
 patient is using what they are using. Only with that knowledge can we devise a
 specific medical regimen to relieve the symptoms that get in the way of
-recovery. So it is a basic principal of the Townsend way to understand why the
-patient uses what he uses, not just what he uses.
+recovery. *So it is a basic principal of the ADAM way to understand why the
+patient uses what he uses, not just what he uses.*
 <div style="page-break-after: always;"></div>
 
 
 ## The Difference Between a Drug and a Medicine
 
-Seeing that we focus our medical interventions on the same mechanisms affected by drugs, some people ask, “So why would I want to substitute one drug for another.” This brings up the difference between a drug and a medicine. Here’s my answer.
+Seeing that we focus our medical interventions on the same mechanisms affected
+by drugs, some people ask, “So why would I want to substitute one drug for
+another.” This brings up the difference between a drug and a medicine. Here’s
+our answer.
 
-“A drug is something I use, when I want to, to change how I feel right now; a medication is something I take, as prescribed by someone else, to effect a chronic problem without changing how I feel right now.” Some may find fault with that, so I’d like to explore some of the implications with you.
+“A drug is something I use, when I want to, to change how I feel right now; a
+medication is something I take, as prescribed by someone else, to effect a
+chronic problem without changing how I feel right now.” Some may find fault with
+that, so I’d like to explore some of the implications with you.
 
-Imagine this scenario. One patient is free from using what brought him to treatment and taking buprenorphine daily as directed from which he feels no lift or other acute mind-altering effect. The other patient is also free from taking what brought him to treatment and smoking cigarettes whenever he wants to or feels the need.  He is smoking more now that he did when he was “using.” Now, ask yourself: “Which patient is more sober?”
+Imagine this scenario. One patient is free from using what brought him to
+treatment and taking buprenorphine daily as directed from which he feels no lift
+or other acute mind-altering effect. The other patient is also free from taking
+what brought him to treatment and smoking cigarettes whenever he wants to or
+feels the need.  He is smoking more now that he did when he was “using.” Now,
+ask yourself: “Which patient is more sober?”
 
-Often, I’ll hear from family of a patient on a medication that they are uncomfortable with the patient taking a chemical to free him from the use of another chemical. I have developed a three-point test to show families and patients the difference between a drug and a medicine. Again, I’ll pick on buprenorphine. I ask the patient, “When you were taking the opiates did taking them make you want to take more?” If they answer yes, I’ll raise one finger. “Did taking them make you high?” If they say yes, I’ll raise a second finger. “Did taking them make you do stupid things you regretted later?” If they say yes, I’ll raise a third finger. “Now, when you take Suboxone does it make you want to take extra Suboxone?” When they say no, I drop a finger. “When you take Suboxone does it make you high?” When they say no, I drop a finger. “When you take Suboxone does it make you do stupid things you later wish you hadn’t done?” When they say no, I drop a finger. I then say, “So Suboxone may be an opiate in the test tube, but it doesn’t seem to be working like an opiate in your brain.” That usually helps people settle down.
+Often, I’ll hear from family of a patient on a medication that they are
+uncomfortable with the patient taking a chemical to free him from the use of
+another chemical. We have a three-point test to show families and 
+patients the difference between a drug and a medicine. Again, I’ll pick on
+buprenorphine. I ask the patient, “When you were taking the opiates did taking
+them make you want to take more?” If they answer yes, I’ll raise one finger.
+“Did taking them make you high?” If they say yes, I’ll raise a second finger.
+“Did taking them make you do stupid things you regretted later?” If they say
+yes, I’ll raise a third finger. “Now, when you take Suboxone does it make you
+want to take extra Suboxone?” When they say no, I drop a finger. “When you take
+Suboxone does it make you high?” When they say no, I drop a finger. “When you
+take Suboxone does it make you do stupid things you later wish you hadn’t done?”
+When they say no, I drop a finger. I then say, “So Suboxone may be an opiate in
+the test tube, but it doesn’t seem to be working like an opiate in your brain.”
+That usually helps people settle down.
 
-The Townsend Way uses medication but does not use drugs. Chemicals used to increase dopamine tone are used to increase the tone but not the reward pulse itself. To illustrate the difference, imagine that you are on a dock and the boat is on the water 6 feet below you. You could wait for the tide to come in and raise the boat to your level, or you could hope for a six-foot wave that would bring the boat to your level for just a couple of seconds. Which do you think is safer? In this example drugs would provide the wave and medications would raise the tide. We will need to wait longer for the effects of the tide, but it is safer in the long run. It is a basic principle of the Townsend Way to use the longest acting, most tonic medication when raising dopamine tone and not substances that work fast but only for a short period of time.
+The ADAM Way uses medication but does not use drugs. Chemicals used to increase
+dopamine tone are used to increase the tone but not the reward pulse itself. To
+illustrate the difference, imagine that you are on a dock and the boat is on the
+water 6 feet below you. You could wait for the tide to come in and raise the
+boat to your level, or you could hope for a six-foot wave that would bring the
+boat to your level for just a couple of seconds. Which do you think is safer? In
+this example drugs would provide the wave and medications would raise the tide.
+We will need to wait longer for the effects of the tide, but it is safer in the
+long run. *It is a basic principle of the ADAM Way to use the longest acting,
+most tonic medication when raising dopamine tone and not substances that work
+fast but only for a short period of time.*
+<div style="page-break-after: always;"></div>
 
-Biology of Recovery
+
+## Biology of Recovery
 
 So far, we’ve focused on the dopamine side of the dopamine tone equation and haven’t mentioned dopamine receptors. Any model of the biology of addiction must explain why some people get better without any medical intervention. I believe we can put these two together and create an answer. First, we’ll have to review one of my favorite studies .
 

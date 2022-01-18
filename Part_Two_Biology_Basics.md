@@ -781,12 +781,30 @@ success off of the medication.*
 
 ## The Point of Addiction Medicine
 
-*This brings us to the discussion of another goal of Addiction Medicine. In my mind, it’s not just the goal, but rather the whole point. It is the reason a medical model should be used.*
+*This brings us to the discussion of another goal of Addiction Medicine. In my
+mind, it’s not just the goal, but rather the whole point. It is the reason a
+medical model should be used.*
 
-*I believe that the point of Addiction Medicine is to use biological interventions to raise dopamine tone so that the patient can get into and sustain recovery. Once there, if there is no need for medications to enhance dopamine tone, then they can be tapered off. If, through aging, dopamine tone falls during recovery and increased dopamine tone is necessary to sustain recovery, medication can be added back.*
+*I believe that the point of Addiction Medicine is to use biological
+interventions to raise dopamine tone so that the patient can get into and
+sustain recovery. Once there, if there is no need for medications to enhance
+dopamine tone, then they can be tapered off. If, through aging, dopamine tone
+falls during recovery and increased dopamine tone is necessary to sustain
+recovery, medication can be added back.*
 
-*Some people who have long held a position that there is no role for medication in recovery have now come to believe that medications can be useful in getting people into recovery. But the idea of using medications to affect addiction after years of recovery is still alien to them. To these people, recovery should give all the answers, and there should be no need for addiction medication later in life. I think this position ignores a basic fact of aging, that nothing physical is exempt from the process. We don’t think our pancreas is exempt; why should we think our mid-brain is?
-It is a basic principle of the Townsend Way to intervene medically, psychologically, or educationally at any point in the addicted patient’s lifecycle when interventions are necessary regardless of how many years the patient has in recovery.*
+*Some people who have long held a position that there is no role for medication
+in recovery have now come to believe that medications can be useful in getting
+people into recovery. But the idea of using medications to affect addiction
+after years of recovery is still alien to them. To these people, recovery should
+give all the answers, and there should be no need for addiction medication later
+in life. I think this position ignores a basic fact of aging, that nothing
+physical is exempt from the process. We don’t think our pancreas is exempt; why
+should we think our mid-brain is?*
+
+*It is a basic principle of the ADAM Way to intervene medically,
+psychologically, or educationally at any point in the addicted patient’s
+lifecycle when interventions are necessary regardless of how many years the
+patient has in recovery.*
 <div style="page-break-after: always;"></div>
 
 

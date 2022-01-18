@@ -1190,17 +1190,37 @@ thing that works at first with a dopamine depleted VTA.
 
 ## Hierarchy of Treatment – Upstream to Downstream
 
-It is a general truism that water flows downstream. To us, that just means that the force of gravity is the most powerful force acting on water. If we were going to engineer something to move water, gravity would be our main concern. So if we are engineering a medical solution to low dopamine in the midbrain we need to be aware of the main force acting upon it. In the case of dopamine it is the neurobiology of the system, which, like water, is arranged in an upstream to downstream series.
+It is a general truism that water flows downstream. To us, that just means that
+the force of gravity is the most powerful force acting on water. If we were
+going to engineer something to move water, gravity would be our main concern. So
+if we are engineering a medical solution to low dopamine in the midbrain we need
+to be aware of the main force acting upon it. In the case of dopamine it is the
+neurobiology of the system, which, like water, is arranged in an upstream to
+downstream series.
 
-You cannot build up dopamine at the synapse unless you are releasing dopamine. You cannot release dopamine unless you produce dopamine.
+You cannot build up dopamine at the synapse unless you are releasing dopamine.
+You cannot release dopamine you haven't produced.
 
-These two facts give us our upstream/downstream direction. Our priority is ensuring adequate dopamine production. Without dopamine production at its best, dopamine release will not be at its best. Any dopamine-releasing agent we use will not work as well as it could without proper dopamine production.
+These two facts give us our upstream/downstream direction. Our priority is
+ensuring adequate dopamine production. Without dopamine production at its best,
+dopamine release will not be at its best. Any dopamine-releasing agent we use
+will not work as well as it could without proper dopamine production.
 
-Once proper dopamine production is ensured, the next priority is dopamine release. You cannot develop your best dopamine tone at the synapse without good dopamine release. Any agent we use to raise dopamine levels in the synapse will not work as well until dopamine release is at its best.
+Once proper dopamine production is ensured, the next priority is dopamine
+release. You cannot develop your best dopamine tone at the synapse without good
+dopamine release. Any agent we use to raise dopamine levels in the synapse will
+not work as well until dopamine release is at its best.
 
-Once dopamine production is fully realized, then, and only then, can release be up to its full genetic potential. Once release is normalized, then, and only then, can agents be used to increase dopamine levels at the synapse to their full effect. Any time we go outside this sequence we need to be aware that we are acting against the most powerful force acting on the system. We would be better to act in concert with it.
+Once dopamine production is fully realized, then, and only then, can release be
+up to its full genetic potential. Once release is normalized, then, and only
+then, can agents be used to increase dopamine levels at the synapse to their
+full effect. Any time we go outside this sequence we need to be aware that we
+are acting against the most powerful force acting on the system. We would be
+better to act in concert with it.
 
-It is a basic principle of the Townsend Way to use the upstream to downstream understanding of the dopamine cascade when raising dopamine tone.
+*It is a basic principle of the ADAM Way to use the upstream to downstream
+understanding of the dopamine cascade when raising dopamine tone.*
+<div style="page-break-after: always;"></div>
 
 
 More About Typology

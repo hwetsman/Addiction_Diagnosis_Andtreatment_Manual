@@ -810,9 +810,18 @@ patient has in recovery.*
 
 ##Other DA Releasers and What is a “Drug?”
 
-This brings us to another way of looking at what is a “drug.” The word drug is in quotations because what we should really call them are rewards; they don’t have to be external chemicals. Once you understand the neurochemistry and understand the final common pathway of dopamine tone and dopamine spike, it becomes clear that whatever the cause, the effect is the same. Our midbrains have no way to tell the difference between a spike of dopamine caused by heroin or by eating a piece of cake. Dopamine is dopamine.
+This brings us to another way of looking at what is a “drug.” The word drug is
+in quotations because what we should really call them are rewards; they don’t
+have to be external chemicals. Once you understand the neurochemistry and
+understand the final common pathway of dopamine tone and dopamine spike, it
+becomes clear that whatever the cause, the effect is the same. Our midbrains
+have no way to tell the difference between a spike of dopamine caused by heroin
+or by eating a piece of cake. Dopamine is dopamine.
 
-So whatever causes a spike of dopamine at the reward center can be rewarding. Whatever causes an increase in dopamine tone will be sought. Here is an incomplete list of things found in the literature that increase dopamine tone temporarily:
+So whatever causes a spike of dopamine at the reward center can be rewarding.
+Whatever causes an increase in dopamine tone will be sought. Here is an
+incomplete list of things found in the literature that increase dopamine tone
+temporarily:
 
 	Dangerous or risky behavior[^29]
 	Staying up late[^30]
@@ -832,9 +841,25 @@ Here are some things that are known to decrease dopamine tone:
 	Shame
 	Chronic Stress
 
-Now, there may be a spectrum such that some of these things create higher supra-physiologic spikes than others. Given that the loss of VTA cells is going to be greater given a higher spike, one might say that, in general, cocaine is going to be more damaging than, say, overeating. However, it may not be as simple as that. There is probably a good deal of undiscovered genetics surrounding what determines the height of a spike from a given reward. There are people who have a higher spike from a sugar binge than they do from cocaine. So rather than focus on the drug, it is more important for the medical treatment of addiction to focus on the specific patient’s spike.
+Now, there may be a spectrum such that some of these things create higher
+supra-physiologic spikes than others. Given that the loss of VTA cells is going
+to be greater given a higher spike, one might say that, in general, cocaine is
+going to be more damaging than, say, overeating. However, it may not be as
+simple as that. There is probably a good deal of undiscovered genetics
+surrounding what determines the height of a spike from a given reward. There are
+people who have a higher spike from a sugar binge than they do from cocaine. So
+rather than focus on the drug, it is more important for the medical treatment of
+addiction to focus on the specific patient’s spike.
 
-There is good evidence that shows that patients who abstain from the reward or chemical that brings them into treatment but continue to use other spike causing rewards have faster progression and greater chance of restarting the reward they originally tried to stop . There is no reason to believe this is not true of all spike-causing rewards. Imagine a highway where heroin and cocaine are the left lane, alcohol is the middle lane and compulsive overeating is the right lane. Regardless of what lane you’re in, the road is still going to the same place; it’s just a decision about how fast you want to get there. If the goal is to avoid the death from addiction, it’s best to get off the road entirely.
+There is good evidence that shows that patients who abstain from the reward or
+chemical that brings them into treatment but continue to use other spike causing
+rewards have faster progression and greater chance of restarting the reward they
+originally tried to stop[^37]. There is no reason to believe this is not true of all
+spike-causing rewards. Imagine a highway where heroin and cocaine are the left
+lane, alcohol is the middle lane and compulsive overeating is the right lane.
+Regardless of what lane you’re in, the road is still going to the same place;
+it’s just a decision about how fast you want to get there. If the goal is to
+avoid the death from addiction, it’s best to get off the road entirely.
 
 This means that the old “one drug at a time” method of addiction treatment is not good long-term care. It means that smoking cessation is not different from addiction treatment in addiction patients. It means that it is not okay for someone to stop drinking and start overeating. It is a basic principle of the Townsend Way to advocate for abstinence from all rewards that cause supra-physiologic spikes for the patient and to help the patient gain the dopamine tone they need to not crave or seek any such reward.
 
@@ -1104,7 +1129,7 @@ There will always be a medical camp that doesn’t see addiction as unique. Ther
 [36]: Wang GJ, et al. Enhanced striatal dopamine release during food stimulation
   in binge eating disorder. Obesity 19(8):1601-8.
 
-Stuyt EB. Recovery Rates After Treatment for Alcohol/Drug Dependence: Tobacco Users vs. Non-tobacco Users. Am J on Addictions 6(2):159-167.
+[37]: Stuyt EB. Recovery Rates After Treatment for Alcohol/Drug Dependence: Tobacco Users vs. Non-tobacco Users. Am J on Addictions 6(2):159-167.
 
 Zack M and Poulos CX. A D2 antagonist enhances the rewarding and priming effects of gambling episode in pathological gamblers. Neuropsychophamracology 32(8):1678-86.
 

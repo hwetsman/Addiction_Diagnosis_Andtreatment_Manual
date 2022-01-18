@@ -1273,9 +1273,19 @@ that there are four biological types generated:
 Table 5 - Typology by Spike and Tone
 
 
-One can see in these four types, types that appear like Type I and Type II addiction, as well as non-addicted anxious people and anhedonic people. All these types may come to addiction treatment, but the diagnosis of addiction is not made by typology, rather the typology is used to determine what medication and treatment to use and in what sequence.
+One can see in these four types, types that appear like Type I and Type II
+addiction, as well as non-addicted anxious people and anhedonic people. All
+these types may come to addiction treatment, but the diagnosis of addiction is
+not made by typology, rather the typology is used to determine what medication
+and treatment to use and in what sequence.
 
-As the goal of seeing these types is to sequence treatment, it is also important for the physician to understand if these types were genetic or acquired. If acquired, then rather than treating an underlying cause, removing the cause may be more appropriate. Understanding that high and low tone and high and low spike can be acquired or genetic allows us to redraw the quadrants to show descriptions of 16 types that may come from different causes and lead to different treatments:
+As the goal of seeing these types is to sequence treatment, it is also important
+for the physician to understand if these types were genetic or acquired. If
+acquired, then rather than treating an underlying cause, removing the cause may
+be more appropriate. Understanding that high and low tone and high and low spike
+can be acquired or genetic allows us to redraw the quadrants to show
+descriptions of 16 types that may come from different causes and lead to
+different treatments:
 
  
 Table 6 - Spike and Tone Typology by Cause

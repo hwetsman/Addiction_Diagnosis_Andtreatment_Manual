@@ -450,40 +450,113 @@ turns out both are correct.
 
 The D2 receptor exists as a splice variant. That is there is a place in the gene
 that causes a splicing of the exonal fragments differently so that two forms of
-the protein are made. There is the D2L, which is the excitatory receptor on the
-NA and D2S, which is the auto receptor on the VTA axon[^25].
+the protein are made. There is the D2<sub>L</sub>, which is the excitatory receptor on the
+NA and D2<sub>S</sub>, which is the auto receptor on the VTA axon[^25].
 
 
 ![Figure 7 - D2L AND D2S](Images/D2L_AND_D2S.jpg)
 
-So, in the normal person, as dopamine is released there is enough to trigger the excitatory response from the NA and enough to provide negative feedback to the D2S auto receptor to shut off dopamine release when appropriate. In the person who doesn’t have enough dopamine there is not enough to get an excitatory response or to shut the signal off. If drug is taken, there is an acute rise to excite a rewarding signal, but only a slow response to shut off release. This causes the low dopamine person to have a higher-than-normal spike. That’s a perfect set up for attachment to external rewards: low tone and unrewarding normal activities and a sufficient spike to cause reward and attachment only when an external event causes it.
+So, in the normal person, as dopamine is released there is enough to trigger
+the excitatory response from the NA and enough to provide negative feedback to
+the D2<sub>S</sub> auto receptor to shut off dopamine release when appropriate.
+In the person who doesn’t have enough dopamine there is not enough to get an
+excitatory response or to shut the signal off. If drug is taken, there is an
+acute rise to excite a rewarding signal, but only a slow response to shut off
+release. This causes the low dopamine person to have a higher-than-normal spike.
+That’s a perfect set up for attachment to external rewards: low tone and
+unrewarding normal activities and a sufficient spike to cause reward and
+attachment only when an external event causes it.
 
-For the person in addiction treatment, as you raise his dopamine tone with whatever medication is appropriate, his dopamine spike will fall to accommodate his need. As he needs a lower spike, he will get a lower spike, in most cases. However, in some cases, because of a genetic polymorphism of the gene for the D2 receptor, DRD2, there is insufficient D2S produced. Such a person will not have a compensatory lowering of his dopamine spike as we raise his dopamine tone. His dopamine spike will stay high regardless of the change in his dopamine tone. Such a person may complain of high dopamine symptoms or continue to use because of “the allergy” in spite of normal dopamine tone.
+For the person in addiction treatment, as you raise his dopamine tone with
+whatever medication is appropriate, his dopamine spike will fall to accommodate
+his need. As he needs a lower spike, he will get a lower spike, in most cases.
+However, in some cases, because of a genetic polymorphism of the gene for the
+D<sub>2</sub> receptor, DRD2, there is insufficient D2<sub>S</sub> produced.
+Such a person will not have a compensatory lowering of his dopamine spike as we
+raise his dopamine tone. His dopamine spike will stay high regardless of the
+change in his dopamine tone. Such a person may complain of high dopamine
+symptoms or continue to use because of “the allergy” in spite of normal
+dopamine tone.
 
-Such people can be treated to mute the spike by using any agent that is more GABAb than GABAa. Generally, the Anti-epileptic drugs (AEDs) are useful as well as baclofen, the only pure GABAb agent approved for human use.
+Such people can be treated to mute the spike by using any agent that is more
+GABAb than GABAa. Generally, the Anti-epileptic drugs (AEDs) are useful as well
+as baclofen, the only pure GABAb agent approved for human use.
 
-Of note here is that benzodiazepines generally affect GABAa more than GABAb. GABAa causes the release of dopamine rather than a slowing of its release. This makes the benzodiazepines rewarding and unsafe to use in people with addiction. This has recently been reinforced clinically by work showing that regardless of whether addiction was present or not, all cause rates of death are increased in patients taking anxiolytic or hypnotic agents . So, it is a basic principal of the Townsend Way never to use benzodiazepines to affect GABAb.
+Of note here is that benzodiazepines generally affect GABAa more than GABAb.
+GABAa causes the release of dopamine rather than a slowing of its release. This
+makes the benzodiazepines rewarding and unsafe to use in people with addiction.
+This has recently been reinforced clinically by work showing that regardless of
+whether addiction was present or not, all cause rates of death are increased in
+patients taking anxiolytic or hypnotic agents[^26]. *So, it is a basic principal of
+the ADAM Way never to use benzodiazepines to affect GABAb.*
+<div style="page-break-after: always;"></div>
 
-Where the drugs work
+## Where the drugs work
 
 In order to understand what to do for a patient who has the primary illness of addiction you must know what’s wrong. It would be nice to have a test for that, but we’re not there just yet. Instead, we rely on the age-old art of taking a history. In this case it’s not the history of drug use that most people are taught that focuses on the behavior and amount and timing. In our history taking what’s important are the biological cues that tell us what the patient needs in the way of medication. For us to knowledgably take this history, we need to know where all the drugs work in our model.
 
 
-Figure 8 - WHERE THE DRUGS WORK
+![Figure 8 - WHERE THE DRUGS WORK](Images/Where_The_Drugs_Work.jpg)
 
-As you can see, certain drugs work in very specific places while others, such as alcohol, work just about everywhere. To use the model, what you want to find out is which drugs alleviated what symptoms. For instance, if alcohol alleviated high dopamine Type I symptoms, it’s probably acting via the GABA system outside the reward system. If alcohol alleviated low dopamine Type II symptoms it could be acting anywhere inside the reward system.
+As you can see, certain drugs work in very specific places while others, such as
+alcohol, work just about everywhere. To use the model, what you want to find out
+is which drugs alleviated what symptoms. For instance, if alcohol alleviated
+high dopamine Type I symptoms, it’s probably acting via the GABA system outside
+the reward system. If alcohol alleviated low dopamine Type II symptoms it could
+be acting anywhere inside the reward system.
 
-Additionally, even a drug like cannabis, which only acts at the one place, can tell you little because of where that place is. The CB1 receptor is on the cell body of the NA, and therefore stimulation of that receptor can mimic dopamine tone without actually raising it. So, what is necessary is in depth knowledge of this system, not just a cursory view of a table of effects. However, everyone wants tables so here they are:
+Additionally, even a drug like cannabis, which only acts at the one place, can
+tell you little because of where that place is. The CB1 receptor is on the cell
+body of the NA, and therefore stimulation of that receptor can mimic dopamine
+tone without actually raising it. So, what is necessary is in depth knowledge of
+this system, not just a cursory view of a table of effects. However, everyone
+asks for tables, so here they are:
+
+<table>
+	<tr>
+		<th>Drug</th>
+		<th>Action</th>
+		<th>What It Tells You About the Patient</th>
+	</tr>
+	<tr>
+		<td>Opioids</td>
+		<td>Mu opioid receptor Agonist</td>
+		<td>Benefits from dopamine release</td>
+	</tr>
+	<tr>
+		<td>Amphetamine</td>
+		<td>Reverses dopamine reuptake pump</td>
+		<td>Benefits from dopamine release</td>
+	</tr>
+	<tr>
+		<td>Cocaine</td>
+		<td>Blocks dopamine reuptake pump</td>
+		<td>Has enough release to benefit from reuptake blockade</td>
+	</tr>
+	<tr>
+		<td>Nicotine</td>
+		<td>Nicotine Receptor Agonist</td>
+		<td>Benefits from dopamine release</td>
+	</tr>
+	<tr>
+		<td>Alcohol</td>
+		<td>Multiple</td>
+		<td>Not much</td>
+	</tr>
+	<tr>
+		<td>Cannabis</td>
+		<td>CB1 receptor agonist</td>
+		<td>Not much</td>
+	</tr>
+	<tr>
+		<td>Benzodiazepines or Barbiturates</td>
+		<td>GABAa</td>
+		<td>Benefitting from dopamine release</td>
+	</tr>
+</table>
 
 Table 2 - Type II Effects of Specific Drugs
-Drug	Action	What It Tells You About the Patient
-Opioids	Mu opioid receptor Agonist	Benefits from dopamine release
-Amphetamine	Reverses dopamine reuptake pump	Benefits from dopamine release
-Cocaine	Blocks dopamine reuptake pump	Has enough release to benefit from reuptake blockade
-Nicotine	Nicotine Receptor Agonist	Benefits from dopamine release
-Alcohol	Multiple	Not much
-Cannabis	CB1 receptor agonist	Not much
-Benzodiazepines or Barbiturates	GABAa	Benefitting from dopamine release
+
 
 Now this list is for Type IIs. It essentially is saying what the drugs are doing to increase dopamine tone. There are people who are using drugs to decrease dopamine release or for other reasons entirely. In addition, there are patients who were originally Type I and now have Type II symptoms as well that may be using a cocktail of drugs in order to attempt to manage mixed symptoms. The table for Type I effects is below:
 
@@ -802,16 +875,19 @@ There will always be a medical camp that doesn’t see addiction as unique. Ther
 [21]: Wanat MJ, et al. CRF acts in the midbrain to attenuate Accumbens dopamine
   release to rewards but not their predictors. Nat Neurosci 16, 383–385 (2013).
 
-[23]: Crombag HS et al. Context-induced relapse to drug seeking: a review.
+[22]: Crombag HS et al. Context-induced relapse to drug seeking: a review.
   Phil Trans of R Soc B 2008. 363(1507); 3233-3243.
 
-[24]: Backstrom P and Hyytia P. Ionotropic and Metabotropic Glutamate Receptor
+[23]: Backstrom P and Hyytia P. Ionotropic and Metabotropic Glutamate Receptor
   Antagonism Attenuates Cue-Induced Cocaine Seeking.
   Neurospychopharmacology 31, 778-786.
 
-Kimberly A, et al. GABAb Receptor Activation in the Vental Tegmental Area Inhibits the Acquistion and Expression of Opiate-Induced Motor Sensitization. Pharmacol and Exp Ther 308 (2): 667-678.
+[24]: Kimberly A, et al. GABAb Receptor Activation in the Vental Tegmental Area
+  Inhibits the Acquistion and Expression of Opiate-Induced Motor Sensitization.
+  Pharmacol and Exp Ther 308 (2): 667-678.
 
-Usiello A, et al. Distinct Functions of the Two Isoforms of Dopamine D-2 Receptors. Nature 408: 199-203.
+[25]: Usiello A, et al. Distinct Functions of the Two Isoforms of Dopamine D-2
+  Receptors. Nature 408: 199-203.
 
 Weich S, et al. Effect of anxiolytic and hypnotic drug prescriptions on mortality hazards: retrospective cohort study. BMJ 2014;348:g 1996
 

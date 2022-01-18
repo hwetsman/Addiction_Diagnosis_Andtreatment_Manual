@@ -1000,21 +1000,68 @@ an untreatable patient who can’t get out of bed and can’t raise the dose of
 amphetamine anymore because they’re toxic. *It is a basic principle of the ADAM
 way not to use amphetamines to increase dopamine tone.*
 
-#### Dopamine at the Receptor: Once dopamine production is normalized and dopamine release is normalized there still might be people with lower dopamine tone because of problems with dopamine receptors or post receptor signaling problems. Additionally, there may be people who have an overactive dopamine reuptake pump (DAT) or Co-O-methyl transferase enzyme (COMT), though the latter should matter less than the former because DAT is the main terminator of the dopamine signal at the NA.
+#### Dopamine at the Receptor: Once dopamine production is normalized and
+dopamine release is normalized there still might be people with lower dopamine
+tone because of problems with dopamine receptors or post receptor signaling
+problems. Additionally, there may be people who have an overactive dopamine
+reuptake pump (DAT) or Co-O-methyl transferase enzyme (COMT), though the latter
+should matter less than the former because DAT is the main terminator of the
+dopamine signal at the NA.
 
-In those cases, the strategy would be to increase the amount of dopamine at the receptor with a DAT blocking agent such as bupropion.  Do not use amphetamines for this, because, as noted above, they don’t just block the DAT, but run it in reverse causing anomalous release of dopamine rather than a rise in dopamine from the patient’s release during DAT blockade.
+In those cases, the strategy would be to increase the amount of dopamine at the
+receptor with a DAT blocking agent such as bupropion.  Do not use amphetamines
+for this, because, as noted above, they don’t just block the DAT, but run it in
+reverse causing anomalous release of dopamine rather than a rise in dopamine
+from the patient’s release during DAT blockade.
 
-There is a caution to be heard about the use of bupropion. If you use bupropion or any other chronic DAT blocking medication in someone with a hyperactive MAOb enzyme, the effect of your treatment will make the MAOb even more efficient, leading to greater DA destruction in the VTA cytoplasm before it can be packaged in the vesicle. While vesicular release would not change, the amount of DA in each vesicle could, so using bupropion in such an individual wouldn’t be the best choice. A MAOb inhibitor would be better.
+There is a caution to be heard about the use of bupropion. If you use bupropion
+or any other chronic DAT blocking medication in someone with a hyperactive MAOb
+enzyme, the effect of your treatment will make the MAOb even more efficient,
+leading to greater DA destruction in the VTA cytoplasm before it can be packaged
+in the vesicle. While vesicular release would not change, the amount of DA in
+each vesicle could, so using bupropion in such an individual wouldn’t be the
+best choice. A MAOb inhibitor would be better.
 
-It is also possible to decrease COMT activity using a herbal supplement called Rhodiola Rosea. This would be best used in people who’s COMT is overactive, however it could boost DA at the synapse by a small amount even in normal activity COMT individuals.
+It is also possible to decrease COMT activity using a herbal supplement called
+Rhodiola Rosea. This would be best used in people who’s COMT is overactive,
+however it could boost DA at the synapse by a small amount even in normal
+activity COMT individuals.
 
-### Medications to ease cue induced craving: Cue induced craving is caused by a glutamate signal from the amygdala to the VTA. The VTA then spins up, causing a dopamine release followed by a crash with the fall in dopamine bringing on the craving. Given that stream of action, there are several places one could intervene to decrease cue induced craving. We could block dopamine, we could block the endorphin receptor to make sure that any secondary endorphin release from the NA didn’t stimulate even more DA from the VTA, or we could stop the whole thing from starting by modulating down the glutamate signal. Blocking dopamine makes addicts feel worse and they crave or use even more . Mu blockade often results in the same thing only with the use of substances or behaviors that stimulate the system in a way that bypasses the now useless mu receptor. The best way to ease cue induced craving is to modulate down the glutamate signal that starts the problem in the first place.
+### Medications to ease cue induced craving: Cue induced craving is caused by a
+glutamate signal from the amygdala to the VTA. The VTA then spins up, causing a
+dopamine release followed by a crash with the fall in dopamine bringing on the
+craving. Given that stream of action, there are several places one could
+intervene to decrease cue induced craving. We could block dopamine, we could
+block the endorphin receptor to make sure that any secondary endorphin release
+from the NA didn’t stimulate even more DA from the VTA, or we could stop the
+whole thing from starting by modulating down the glutamate signal. Blocking
+dopamine makes addicts feel worse and they crave or use even more[^38]. Mu blockade
+often results in the same thing only with the use of substances or behaviors
+that stimulate the system in a way that bypasses the now useless mu receptor.
+The best way to ease cue induced craving is to modulate down the glutamate
+signal that starts the problem in the first place.
 
-There are some principles to be aware of in this treatment. First, cue induced craving is rarely the main reason someone is using when they first come to treatment. That means that if we successfully treat the cue induced craving and don’t handle the other reasons for using, we will not stop the using, and we, and the patient, will interpret that we failed with our medical treatment. Treating cue induced craving is best done after dopamine tone is normalized and use is restricted to that brought on by cue induced craving. At that point, the patient will notice a great change as opposed to little change when the treatment is instituted.
+There are some principles to be aware of in this treatment. First, cue induced
+craving is rarely the main reason someone is using when they first come to
+treatment. That means that if we successfully treat the cue induced craving and
+don’t handle the other reasons for using, we will not stop the using, and we,
+and the patient, will interpret that we failed with our medical treatment.
+Treating cue induced craving is best done after dopamine tone is normalized and
+use is restricted to that brought on by cue induced craving. At that point, the
+patient will notice a great change as opposed to little change when the
+treatment is instituted.
 
-The second principle of import is that cue induced craving can exist even without the person knowing it. Studies of cue induced craving have shown that cues can induce the reaction even if they are present for less time than it takes the conscious mind to register their presence . That means that a patient may say they are craving and there are no cues when, in fact, there are. Don’t eliminate cue induced craving from the differential just because a patient says there are no cues.
+The second principle of import is that cue induced craving can exist even
+without the person knowing it. Studies of cue induced craving have shown that
+cues can induce the reaction even if they are present for less time than it
+takes the conscious mind to register their presence . That means that a patient
+may say they are craving and there are no cues when, in fact, there are. Don’t
+eliminate cue induced craving from the differential just because a patient says
+there are no cues.
 
-It is a basic principle of the Townsend Way to treat cue induced craving after normalizing dopamine tone, even if no obvious cues are reported, if there is continued use or craving.
+*It is a basic principle of the ADAM Way to treat cue induced craving after
+normalizing dopamine tone, even if no obvious cues are reported, if there is
+continued use or craving.*
 
 ### Medications to modulate the dopamine spike: In general, someone with a lower dopamine tone will have a higher dopamine spike. This is because the D2 receptor exists in two forms, long and short, L and S. The D2L is the primary post-synaptic receptor and the D2S is the primary pre-synaptic receptor. The function of D2S is to turn off the dopamine release. If there is insufficient dopamine release, insufficient dopamine receptor activation or insufficient dopamine receptor density there will not be enough D2S to turn off the spike. The dopamine/endorphin positive feedback loop, which is also responsible for the height of the spike, is modulated by the action of GABAb at both the VTA and the NA.
 
@@ -1218,8 +1265,11 @@ There will always be a medical camp that doesn’t see addiction as unique. Ther
 [36]: Wang GJ, et al. Enhanced striatal dopamine release during food stimulation
   in binge eating disorder. Obesity 19(8):1601-8.
 
-[37]: Stuyt EB. Recovery Rates After Treatment for Alcohol/Drug Dependence: Tobacco Users vs. Non-tobacco Users. Am J on Addictions 6(2):159-167.
+[37]: Stuyt EB. Recovery Rates After Treatment for Alcohol/Drug Dependence:
+  Tobacco Users vs. Non-tobacco Users. Am J on Addictions 6(2):159-167.
 
-Zack M and Poulos CX. A D2 antagonist enhances the rewarding and priming effects of gambling episode in pathological gamblers. Neuropsychophamracology 32(8):1678-86.
+[38]: Zack M and Poulos CX. A D2 antagonist enhances the rewarding and priming
+  effects of gambling episode in pathological gamblers.
+  Neuropsychophamracology 32(8):1678-86.
 
 Childress AR, et al. Prelude to Passion: Limbic Activation by “Unseen” Drug and Sexual Cues. PLOSone 3(1): e1506.

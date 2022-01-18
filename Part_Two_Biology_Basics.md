@@ -1253,12 +1253,25 @@ Silkworth’s phenomenological explanation, dopamine tone would mediate the
 Once we see that the spike and tone are different things, what becomes clear is
 that there are four biological types generated:
  
-
-	High Spike	Low Spike
-High Tone	Anxious person who will attach to the sedatives they use to medicate their anxiety	Anxious person who will have less attachment to sedatives used for anxiety
-
-Low Tone	Anhedonic person who can use external rewards to feel better and will easily attach to them	Anhedonic person who is unable to get much reward out of anything and won't attach well to external rewards either
+<table>
+	<tr>
+		<th> </th>
+		<th>High Spike</th>
+		<th>Low Spike</th>
+	</tr>
+	<tr>
+		<td>High Tone</td>
+		<td>Anxious person who will attach to the sedatives they use to medicate their anxiety</td>
+		<td>Anxious person who will have less attachment to sedatives used for anxiety</td>
+	</tr>
+	<tr>
+		<td>Low Tone</td>
+		<td>Anhedonic person who can use external rewards to feel better and will easily attach to them</td>
+		<td>Anhedonic person who is unable to get much reward out of anything and won't attach well to external rewards either</td>
+	</tr>
+</table>
 Table 5 - Typology by Spike and Tone
+
 
 One can see in these four types, types that appear like Type I and Type II addiction, as well as non-addicted anxious people and anhedonic people. All these types may come to addiction treatment, but the diagnosis of addiction is not made by typology, rather the typology is used to determine what medication and treatment to use and in what sequence.
 

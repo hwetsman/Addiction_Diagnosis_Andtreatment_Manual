@@ -1331,13 +1331,15 @@ Table 6 - Spike and Tone Typology by Cause
 
 These different types may direct us to various types of treatment sequencing:
 
-Table 7 - Treatment Sequencing in Spike and Tone Typology
+
 		High Spike	Low Spike
 		Acquired	Genetic	Acquired	Genetic
 High Tone	Acquired	First decrease adrenergic tone with alpha 2 agonist, then lower dopamine with SSRI and if still high spike consider GABAb agent	The tone must be lowered with SSRI and if spike is intolerable or using doesn’t stop add GABAb agent	If low spike is iatrogenic, stop cause; tone can be decreased with careful use of AED or SSRI	If high tone is iatrogenic, stop cause. If traumatic use SSRI or AED
 	Genetic	The spike must be lowered first with GABAb agent and if tone is not tolerable add SSRI	If anxiety is intolerable start SSRI or AED agent for anxiety; if using is more intolerable start GABAb first	If low spike is iatrogenic stop cause, add SSRI or AED to lower tone if needed	Any mixed GABA agent will do. Over time SSRI’s will work but may lead to poop-out
 Low Tone	Acquired	Removing cause is important, but often will need increased tone to tolerate the wait to improve	Treat spike with GABAb agent and then increase tone; when patient is feeling better stop SSRI or other cause	Increase tone first and then remove the cause of lowered spike; then remove cause of lowered tone	Treat low dopamine tone; then remove cause
 	Genetic	Remove cause of high spike or add GABAb agent and then increase tone	Increase tone and spike should self modulate; if not add GABAb agent	First increase tone and then remove the cause of decreased spike	Treat the low dopamine tone
+Table 7 - Treatment Sequencing in Spike and Tone Typology
+
 
 
 The determination of which type the patient is can most likely be made by detailed pre-drug and recent history, as well as neuro-cognitive testing, and confirmed or better defined with genetic testing. This kind of conscious typing before treating can add discipline and clarity of thought making it easier to regroup if the first treatment proves incorrect.

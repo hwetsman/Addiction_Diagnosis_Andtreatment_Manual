@@ -814,15 +814,15 @@ This brings us to another way of looking at what is a “drug.” The word drug 
 
 So whatever causes a spike of dopamine at the reward center can be rewarding. Whatever causes an increase in dopamine tone will be sought. Here is an incomplete list of things found in the literature that increase dopamine tone temporarily:
 
-	Dangerous or risky behavior
-	Staying up late
+	Dangerous or risky behavior[^29]
+	Staying up late[^30]
 	Sleeping late
-	Being the center of attention
-	Being liked
-	Making someone smile
-	Completion of a hard task
-	Sexual climax
-	Taking in food
+	Being the center of attention[^31]
+	Being liked[^32]
+	Making someone smile[^33]
+	Completion of a hard task[^34]
+	Sexual climax[^35]
+	Taking in food[^36]
 	Drugs
 
 Here are some things that are known to decrease dopamine tone:
@@ -1077,21 +1077,32 @@ There will always be a medical camp that doesn’t see addiction as unique. Ther
   Scientific rationale and promising practices.  2008. Northeast Addiction
   Technology Transfer Center.
 
-Laviola G, et al. Risk-taking behavior in adolescent mice: psychobiological determinants and early epigenetic influence. NeuroSci and Biobehav Rev 27 (1-2): 19-31.
+[29]: Laviola G, et al. Risk-taking behavior in adolescent mice:
+  psychobiological determinants and early epigenetic influence. NeuroSci and
+  Biobehav Rev 27 (1-2): 19-31.
 
-Volkow ND, et al. Sleep Deprivation Decreases Binding of [11C]Raclopride to Dopamine D2/D3 Receptors in the Human Brain. Journal of Neuroscience 28(34): 8454-8461.
+[30]: Volkow ND, et al. Sleep Deprivation Decreases Binding of [11C]Raclopride
+  to Dopamine D2/D3 Receptors in the Human Brain.
+  Journal of Neuroscience 28(34): 8454-8461.
 
-Martinez D, et al. Dopamine Type 2/3 receptor availability in the Striatum and Social Status in Hjman Volunteers. Bio Psych 67 (3): 275-278.
+[31]: Martinez D, et al. Dopamine Type 2/3 receptor availability in the
+  Striatum and Social Status in Hjman Volunteers. Bio Psych 67 (3): 275-278.
 
-Hsu DT, et al. Response of the mu-opioid system to social rejection and acceptance. Mol Psych (20 August 2013) doi:10.1038/mp.2013.96
+[32]: Hsu DT, et al. Response of the mu-opioid system to social rejection and
+  acceptance. Mol Psych (20 August 2013) doi:10.1038/mp.2013.96
 
-Iwase M et al. Neural substrates of human facial expression of pleasant emotion induced by comic films: A PET study. NeuroImage, 17:758-768.
+[33]: Iwase M et al. Neural substrates of human facial expression of pleasant
+  emotion induced by comic films: A PET study. NeuroImage, 17:758-768.
 
-Wassum KM, et al. Phasic mesolimbic dopamine signaling precedes and predicts performance of a self-initiated action sequence task. Bio Psych 71(10):846-54.
+[34]: Wassum KM, et al. Phasic mesolimbic dopamine signaling precedes and
+  predicts performance of a self-initiated action sequence task.
+  Bio Psych 71(10):846-54.
 
-Komisaruk BR and Whipple B. Functional MRI of the Brain During Orgasm in Women. Brain Research 1024.1 (2004): 77-88.
+[35]: Komisaruk BR and Whipple B. Functional MRI of the Brain During Orgasm in
+  Women. Brain Research 1024.1 (2004): 77-88.
 
-Wang GJ, et al. Enhanced striatal dopamine release during food stimulation in binge eating disorder. Obesity 19(8):1601-8.
+[36]: Wang GJ, et al. Enhanced striatal dopamine release during food stimulation
+  in binge eating disorder. Obesity 19(8):1601-8.
 
 Stuyt EB. Recovery Rates After Treatment for Alcohol/Drug Dependence: Tobacco Users vs. Non-tobacco Users. Am J on Addictions 6(2):159-167.
 

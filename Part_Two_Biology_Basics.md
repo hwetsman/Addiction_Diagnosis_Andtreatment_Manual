@@ -1288,13 +1288,45 @@ descriptions of 16 types that may come from different causes and lead to
 different treatments:
 
  
+<table>
+	<tr>
+		<th> </th>
+		<th>Acquired High Spike</th>
+		<th>Genetic	High Spike</th>
+		<th>Acquired Low Spike</th>
+		<th>Genetic Low Spike</th>
+	</tr>
+	<tr>
+		<td>Acquired High Tone</td>
+		<td>Can be derived from PTSD or other hyper-adrenergic disorder flooding system with catecholamines</td>
+		<td>Trauma induced anxiety in a patient who can easily become attached to the sedatives they use</td>
+		<td>Tone increased by increased release from trauma and spike lowered from GABA agent or baclofen given for PTSD</td>
+		<td>High D2<sub>S</sub>/D2<sub>L</sub> ratio and normal dopamine tone with some induced increase in tone from trauma or inhibition of reuptake/metabolism</td>
+	</tr>
+	<tr>
+		<td>Genetic High Tone</td>
+		<td>Anxious person, who may develop high spike with dopamine blockade acting at D2<sub>s</sub></td>
+		<td>Classic Type I addiction</td>
+		<td>Naturally occurring slow metabolism / reuptake with normal D2S/D2L ratio on GABA<sub>b</sub> agent</td>
+		<td>Anxious non-addicted person, high D2S/D2L ratio and no problem with production or release of dopamine and perhaps some slow metabolism</td>
+	</tr>
+	<tr>
+		<td>Acquired Low Tone</td>
+		<td>Can be from use of SSRIs when tone is decreased and release is so low that there is no inhibition on spike. The “hungry” SSRI poop-out patient</td>
+		<td>May be acquired by exhaustion in PTSD or age, or iatrogenic, and will easily attach to external rewards</td>
+		<td>SSRI can lower tone over time and AED or baclofen can lower spike</td>
+		<td>This person will not need the spike lowering but will have a high D2s/D2l ratio already</td>
+	</tr>
+	<tr>
+		<td>Genetic Low Tone</td>
+		<td>Has poor production, release or reuptake / metabolism and spike may be compensatory due to little D2S stimulation</td>
+		<td>Classic Type II addiction</td>
+		<td>Could be acquired in a normal person with use of SSRIs. Would probably have high D2S/D2L ratio; the “non-hungry” SSRI poop-out</td>
+		<td>Anhedonic patient would have primary symptoms of addiction without much ability to feel better or attach to a reward</td>
+	</tr>
+</table>
 Table 6 - Spike and Tone Typology by Cause
-		High Spike	Low Spike
-		Acquired	Genetic	Acquired	Genetic
-High Tone	Acquired	Can be derived from PTSD or other hyper-adrenergic disorder flooding system with catecholamines	Trauma induced anxiety in a patient who can easily become attached to the sedatives they use	Tone increased by increased release from trauma and spike lowered from GABA agent or baclofen given for PTSD	High D2S/D2L ratio and normal dopamine tone with some induced increase in tone from trauma or inhibition of reuptake/metabolism
-	Genetic	Anxious person, who may develop high spike with dopamine blockade acting at D2s	Classic Type I addiction	Naturally occurring slow metabolism / reuptake with normal D2S/D2L ratio on GABAb agent.	Anxious non-addicted person, high D2S/D2L ratio and no problem with production or release of dopamine and perhaps some slow metabolism
-Low Tone	Acquired	Can be from use of SSRIs when tone is decreased and release is so low that there is no inhibition on spike. The “hungry” SSRI poop-out patient	May be acquired by exhaustion in PTSD or age, or iatrogenic, and will easily attach to external rewards	SSRI can lower tone over time and AED or baclofen can lower spike	This person will not need the spike lowering but will have a high D2s/D2l ratio already
-	Genetic	Has poor production, release or reuptake / metabolism and spike may be compensatory due to little D2S stimulation 	Classic Type II addiction	Could be acquired in a normal person with use of SSRIs. Would probably have high D2S/D2L ratio; the “non-hungry” SSRI poop-out	Anhedonic patient would have primary symptoms of addiction without much ability to feel better or attach to a reward
+
 
 
 These different types may direct us to various types of treatment sequencing:

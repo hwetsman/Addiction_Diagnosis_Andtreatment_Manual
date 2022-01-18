@@ -1054,7 +1054,7 @@ treatment is instituted.
 The second principle of import is that cue induced craving can exist even
 without the person knowing it. Studies of cue induced craving have shown that
 cues can induce the reaction even if they are present for less time than it
-takes the conscious mind to register their presence . That means that a patient
+takes the conscious mind to register their presence[^39]. That means that a patient
 may say they are craving and there are no cues when, in fact, there are. Don’t
 eliminate cue induced craving from the differential just because a patient says
 there are no cues.
@@ -1063,11 +1063,39 @@ there are no cues.
 normalizing dopamine tone, even if no obvious cues are reported, if there is
 continued use or craving.*
 
-### Medications to modulate the dopamine spike: In general, someone with a lower dopamine tone will have a higher dopamine spike. This is because the D2 receptor exists in two forms, long and short, L and S. The D2L is the primary post-synaptic receptor and the D2S is the primary pre-synaptic receptor. The function of D2S is to turn off the dopamine release. If there is insufficient dopamine release, insufficient dopamine receptor activation or insufficient dopamine receptor density there will not be enough D2S to turn off the spike. The dopamine/endorphin positive feedback loop, which is also responsible for the height of the spike, is modulated by the action of GABAb at both the VTA and the NA.
+### Medications to modulate the dopamine spike: In general, someone with a lower
+dopamine tone will have a higher dopamine spike. This is because the D2 receptor
+exists in two forms, long and short, L and S. The D2<sub>L</sub> is the primary post-
+synaptic receptor and the D2<sub>S</sub> is the primary pre-synaptic receptor. The function
+of D2<sub>S</sub> is to turn off the dopamine release. If there is insufficient dopamine
+release, insufficient dopamine receptor activation or insufficient dopamine
+receptor density there will not be enough D2<sub>S</sub> to turn off the spike. The
+dopamine/endorphin positive feedback loop, which is also responsible for the
+height of the spike, is modulated by the action of GABAb at both the VTA and the
+NA.
 
-Generally, as we raise someone’s dopamine tone, their spike will decrease because of the greater activation of D2S. However, there is a polymorphism of the gene responsible for creation of the D2 receptor, DRD2, which causes a splice variant and a change in the ratio of D2L to D2S. With this polymorphism, patients have a smaller percentage of the short form of the receptor and therefore less pre-synaptic signal to shut off the spike. Such people, when their dopamine tone is raised will still experience a high rewarding spike, perhaps even from stimuli that aren’t normally considered rewarding. Such people may complain of transient high dopamine symptoms with medication. Because the dopamine spike is followed by a crash, such people often find that they are triggered to use even when exposed to stimuli not normally thought of as a drug. Efforts to modulate the dopamine spike in these cases can come from increasing GABAb tone. Recent work has also found that glutamate modulation may help with lowering the spike as well.
+Generally, as we raise someone’s dopamine tone, their spike will decrease
+because of the greater activation of D2<sub>S</sub>. However, there is a polymorphism of
+the gene responsible for creation of the D2 receptor, DRD2, which causes a
+splice variant and a change in the ratio of D2<sub>L</sub> to D2<sub>S</sub>. With this polymorphism,
+patients have a smaller percentage of the short form of the receptor and
+therefore less pre-synaptic signal to shut off the spike. Such people, when
+their dopamine tone is raised will still experience a high rewarding spike,
+perhaps even from stimuli that aren’t normally considered rewarding. Such people
+may complain of transient high dopamine symptoms with medication. Because the
+dopamine spike is followed by a crash, such people often find that they are
+triggered to use even when exposed to stimuli not normally thought of as a drug.
+Efforts to modulate the dopamine spike in these cases can come from increasing
+GABAb tone. Recent work has also found that glutamate modulation may help with
+lowering the spike as well.
 
-Whether the cause is decreased GABAb tone itself or the D2 splice variant, increasing GABAb tone or toning down glutamate can be useful to modulate the dopamine spike. Baclofen, the only pure GABAb agent approved for humans, and all the anti-epileptic drugs (AEDs) are useful for this purpose. Benzodiazepines are more GABAa than GABAb and are not safely used in people with addiction. Acamprosate is a glutamate modulator that has an FDA indication in alcohol dependence.
+Whether the cause is decreased GABA<sub>b</sub> tone itself or the D2 splice variant,
+increasing GABAb tone or toning down glutamate can be useful to modulate the
+dopamine spike. Baclofen, the only pure GABA<sub>b</sub> agent approved for humans, and all 
+the anti-epileptic drugs (AEDs) are useful for this purpose. Benzodiazepines are
+more GABA<sub>a</sub> than GABA<sub>b</sub> and are not safely used in people with addiction.
+Acamprosate is a glutamate modulator that has an FDA indication in alcohol
+dependence.
 <div style="page-break-after: always;"></div>
 
 
@@ -1272,4 +1300,5 @@ There will always be a medical camp that doesn’t see addiction as unique. Ther
   effects of gambling episode in pathological gamblers.
   Neuropsychophamracology 32(8):1678-86.
 
-Childress AR, et al. Prelude to Passion: Limbic Activation by “Unseen” Drug and Sexual Cues. PLOSone 3(1): e1506.
+[39]: Childress AR, et al. Prelude to Passion: Limbic Activation by “Unseen”
+  Drug and Sexual Cues. PLOSone 3(1): e1506.

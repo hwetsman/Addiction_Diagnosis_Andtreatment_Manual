@@ -736,17 +736,77 @@ process for just a few days.
 
 ## How Much is Determined
 
-We really want to be in charge. We really want to make decisions with our minds and have them be good ones. Even when we do things that are ineffective or downright stupid, we really want to say that we made the decision, that we were in charge. We worship the mind we make decisions with, and we abhor anyone who tells us that something about our decisions or choices is determined by biology.
-I see this all the time in patients with addiction. Perhaps it’s just that they are socialized in a culture that is so focused on choice that they can’t accept that the disease is biological. Almost everyone I’ve met who came to treatment came to stop a behavior that they considered was a choice. Very few understood the actual biological nature of the unified illness until they were taught it. Most, when taught, saw it right away, but some fight the idea, holding on to the end to the idea that they make the choices and are in charge.
-I read a study recently that illustrates the principle here even though it has nothing to do with addiction. Scientists at the University of Toronto  showed pictures of men’s faces to heterosexual women at various points in their ovulation cycle. Half the pictures were of self-identified gay men and half were of self-identified heterosexual men. They asked the women to pick which were the pictures of the heterosexual men.
-A couple of points are illustrative. First, universally, all the women thought they did terrible at picking out the heterosexual men. No matter how close they were to ovulating or not, they felt that no one could do this. They couldn’t consciously find differences and, therefore, believed they couldn’t do it. The second point is that the closer the women were to ovulation the better they were at picking out the heterosexual men, an ability that fell off rapidly after ovulation.
-Remember, these weren’t videos. There were no pheromones. There was no sound. They couldn’t interact with the men. The only thing they could do was look at facial photos.
-Consciously, they had no idea that they could tell any difference. The part of the brain that they are aware of cannot do this, and so they didn’t think it was possible. It didn’t matter if the women wanted children or not. It had nothing to do with their wishes or their choices.
-I’m going to leave aside all the other aspects of this study and just go over what it may mean for addiction. Obviously, the study needs to be replicated, but assuming the findings are real, this tells us something important.
-First, our brain is active in areas we aren’t aware of. It’s making choices and judgments we aren’t privy to. There’s activity there that we can’t monitor or control with our cortex. If it can happen in this aspect of a woman’s brain it can happen in the reward center where addiction is active.
-Second, our brains aren’t “hardwired” the way we think. There are, of course, genetic limits, but even those may be modified or compensated for by other behaviors. Our brains just aren’t as steady as we thought, they are plastic and changeable, and not necessarily the way we’d pick or chose them to be. It’s not just women who have cycles and not all cycles are monthly. Circadian cycles, annual cycles, multi-year cycles all exist, and, in addition, there’s aging. We can’t necessarily rely on our brain to be the same as it was yesterday, no matter how much we want it to be so.
-So back to people with addiction. What do you do if you can’t trust your brain to make decisions or even to monitor decisions? There are several things that successfully recovering addicts have found over the years. First, don’t do it alone. A loving community of other recovering people can see things you can’t and know how to get you to see it. Second, you can’t change yourself by thinking differently; you must change your thinking by behaving differently. You just can’t decide that this time the drink won’t set you off; you must not take the first drink. Also, you can’t pick and choose which drugs are safe and which aren’t. Your reward system has already decided, and you weren’t invited to the meeting. Finally, you can’t direct your recovery yourself. You may come up with a brilliant plan based on all the best information, but if your cortex isn’t running the show, it’s not likely that your plan will work.
-So how much is determined? Not everything, but a lot more than we thought, and a lot more than we are comfortable with.
+We really want to be in charge. We really want to make decisions with our minds
+and have them be good ones. Even when we do things that are ineffective or
+downright stupid, we really want to say that we made the decision, that we were
+in charge. We worship the mind we make decisions with, and we abhor anyone who
+tells us that something about our decisions or choices is determined by biology.
+
+I see this all the time in patients with addiction. Perhaps it’s just that they
+are socialized in a culture that is so focused on choice that they can’t accept
+that the disease is biological. Almost everyone I’ve met who came to treatment
+came to stop a behavior that they considered was a choice. Very few understood
+the actual biological nature of the unified illness until they were taught it.
+Most, when taught, saw it right away, but some fight the idea, holding on to the
+end to the idea that they make the choices and are in charge.
+
+Here's a classic study that illustrates the principle even though it has nothing
+to do with addiction. Scientists at the University of Toronto[^45] showed pictures
+of men’s faces to heterosexual women at various points in their ovulation cycle.
+Half the pictures were of self-identified gay men and half were of self-
+identified heterosexual men. They asked the women to pick which were the
+pictures of the heterosexual men.
+
+A couple of points are illustrative. First, universally, all the women thought
+they did terrible at picking out the heterosexual men. No matter how close they
+were to ovulating or not, they felt that no one could do this. They couldn’t
+consciously find differences and, therefore, believed they couldn’t do it. The
+second point is that the closer the women were to ovulation the better they were
+at picking out the heterosexual men, an ability that fell off rapidly after
+ovulation.
+
+Remember, these weren’t videos. There were no pheromones. There was no sound.
+They couldn’t interact with the men. The only thing they could do was look at
+facial photos.
+
+Consciously, they had no idea that they could tell any difference. The part of
+the brain that they are aware of cannot do this, and so they didn’t think it was
+possible. It didn’t matter if the women wanted children or not. It had nothing
+to do with their wishes or their choices.
+
+I’m going to leave aside all the other aspects of this study and just go over
+what it may mean for addiction. Obviously, the study needs to be replicated,
+but assuming the findings are real, this tells us something important.
+
+First, our brain is active in areas we aren’t aware of. It’s making decisions
+and judgments we aren’t privy to. There’s activity there that we can’t monitor
+or control with our cortex. If it can happen in this aspect of a woman’s brain
+it can happen in the reward center where addiction is active.
+
+Second, our brains aren’t “hardwired” the way we think. There are, of course,
+genetic limits, but even those may be modified or compensated for by other
+behaviors. Our brains just aren’t as steady as we thought, they are plastic and
+changeable, and not necessarily the way we’d pick or chose them to be. It’s not
+just women who have cycles and not all cycles are monthly. Circadian cycles,
+annual cycles, multi-year cycles all exist, and, in addition, there’s aging. We
+can’t necessarily rely on our brain to be the same as it was yesterday, no
+matter how much we want it to be so.
+
+So back to people with addiction. What do you do if you can’t trust your brain
+to make decisions or even to monitor decisions? There are several things that
+successfully recovering addicts have found over the years. First, don’t do it
+alone. A loving community of other recovering people can see things you can’t
+and know how to get you to see it. Second, you can’t change yourself by thinking
+differently; you must change your thinking by behaving differently. You just
+can’t decide that this time the drink won’t set you off; you must not take the
+first drink. Also, you can’t pick and choose which drugs are safe and which
+aren’t. Your reward system has already decided, and you weren’t invited to the
+meeting. Finally, you can’t direct your recovery yourself. You may come up with
+a brilliant plan based on all the best information, but if your cortex isn’t
+running the show, it’s not likely that your plan will work.
+
+So how much is determined? Not everything, but a lot more than we thought, and a
+lot more than we are comfortable with.
 <div style="page-break-after: always;"></div>
  
 ## Monitoring Addiction vs “Physical Disease”

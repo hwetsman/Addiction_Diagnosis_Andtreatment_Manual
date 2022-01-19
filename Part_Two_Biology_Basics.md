@@ -1354,7 +1354,7 @@ These different types may direct us to various types of treatment sequencing:
 		<td>Treat low dopamine tone; then remove cause</td>
 	</tr>
 	<tr>
-		<td>Genetic Low Tone</td>	
+		<td>Genetic Low Tone</td>
 		<td>Remove cause of high spike or add GABAb agent and then increase tone</td>
 		<td>Increase tone and spike should self modulate; if not add GABAb agent</td>
 		<td>First increase tone and then remove the cause of decreased spike</td>
@@ -1365,20 +1365,98 @@ Table 7 - Treatment Sequencing in Spike and Tone Typology
 
 
 
-The determination of which type the patient is can most likely be made by detailed pre-drug and recent history, as well as neuro-cognitive testing, and confirmed or better defined with genetic testing. This kind of conscious typing before treating can add discipline and clarity of thought making it easier to regroup if the first treatment proves incorrect.
- 
-“One Addiction at a Time” – NOT
+The determination of which type the patient is can most likely be made by
+detailed pre-drug and recent history, as well as neuro-cognitive testing, and
+confirmed or better defined with genetic testing. This kind of conscious typing
+before treating can add discipline and clarity of thought making it easier to
+regroup if the first treatment proves incorrect.
+<div style="page-break-after: always;"></div>
 
-First, let me say that I’m a big proponent of 12-step recovery. I don’t think anyone has come up with a tool better than 12-step recovery, certainly not one with a 70-year track record. That said, there are some things I must take issue with, concerning medical care for addicted patients, with certain people now presenting themselves as experts in 12-step recovery. Please understand that I’m not taking issue with AA or NA or any other 12-step fellowship. These fellowships do not take a stand on outside issues, and the medical care of addicted patients is, for them, an outside issue.
-Unfortunately, not all members of such fellowships share that view, even some with considerable experience. Here’s an example. A patient of mine whose most effective reward was opioids had a difficult time staying sober, even when taking Suboxone. I asked him what was happening, and he told me that he wasn’t taking the medicine after all, because it made him sleepy. Of course, opioids generally don’t make opioid addicts sleepy, so this seemed a very rare occurrence.
-Now this patient was also a compulsive over-eater and was quite overweight. I asked him when he was taking his last dose of medication: 5 pm. His complaint was that he was falling asleep in evening NA meetings. I suggested that it might be his still uncontrolled eating and the binge he had for dinner that was more responsible for his sedation, but he thought otherwise. I thought that he should take his buprenorphine, as it would likely decrease his craving to overeat as well as for opioids and, in time, make things better. But he had talked to other people in NA who saw that he was falling asleep in meetings and told him that buprenorphine was probably the culprit. I told him that was unlikely, but he was sure they were right. He did agree to an experiment though.
-I asked him to take his last dose of buprenorphine, not before the meeting, but after meeting. If he were right, he’d get a good sedative effect and go to sleep, as he wanted to. He’d also get to stay awake in the meeting. If I was right, he’d probably still fall asleep in the meeting. Two days later he called and said the buprenorphine kept him awake and could he have something for sleep? Was he still sleepy in the meeting? Yes.
-This patient’s story illustrates two problems I see a great deal. First is that the old wives’ tale of “one addiction at a time” is alive and thriving in some 12-step communities. The second is that there is, concerning some medications for addiction, a rash of “contempt before investigation.”
-I don’t know where the idea comes from that we can only deal with one addiction at a time. The concept of one addiction being different from another is so foreign to me that I have a hard time understanding what the phrase means. Does someone who compulsively gambles, compulsively masturbates, compulsively overeats and is an alcoholic and opiate addict really have 5 diseases? We know from the smoking literature that if someone starts using one fast acting reward to stop using another, or even continues using one reward while trying to stop another, it doesn’t work very well. But perhaps because overeating is legal and encouraged by the fast-food industry, it doesn’t seem to be the same as taking a drink. I don’t think our midbrains are aware of congress, food packaging or even what we’re doing to boost our dopamine levels. It only sees that we are or are not getting the dopamine.
-The dogmatic reaction, without experience with the medications, of some people in the recovering community to medications for addiction is astounding. Especially when it comes to buprenorphine. I’m struck with how this medication somehow got a special place in the minds of some recovering people – like the devil incarnate. I’ve heard, “it’s just like heroin,” “I’ll just be addicted to that now,” “he isn’t clean.” I’ve even had the experience with an addictions counselor who said to me, “If you’d only seen the horror stories I’ve seen, you’d never use the drug.” When I asked, he’d seen two people who didn’t do well and couldn’t tell me if they had gotten proper addiction medical care or not but was unwilling to believe that I had seen scores of people who had never before been able to work a 12-step program who could now function well enough to do so on the medication.
-The whole issue of buprenorphine is not going to be settled here, but I’m struck with the number of people in recovery who think it’s okay for me to give a patient bupropion because it’s “an anti-depressant” but not buprenorphine because it’s “a pain med.” Again, I don’t think our midbrains care what words people made up to describe other uses for these medications. The midbrain reward system truly has singleness of purpose, and it is this, “Am I getting the dopamine or not?”
-The lesson for the physician practicing the Townsend Way is that there is a lot of education in this job, as there is a lot more misinformation available to the patient away from us. It is a basic principle of the Townsend way that addiction is a single illness and that no medicine is better or worse because of what it is called or how it works.
- 
+
+## “One Addiction at a Time” – NOT
+
+First, let me say that I’m a big proponent of 12-step recovery. I don’t think
+anyone has come up with a tool better than 12-step recovery, certainly not one
+with a 70-year track record. That said, there are some things I must take issue
+with, concerning medical care for addicted patients, with certain people now
+presenting themselves as experts in 12-step recovery. Please understand that
+I’m not taking issue with AA or NA or any other 12-step fellowship. These
+fellowships do not take a stand on outside issues, and the medical care of
+addicted patients is, for them, an outside issue.
+
+Unfortunately, not all members of such fellowships share that view, even some
+with considerable experience. Here’s an example. A patient of mine whose most
+effective reward was opioids had a difficult time staying sober, even when
+taking buprenorphine. I asked him what was happening, and he told me that he
+wasn’t taking the medicine after all, because it made him sleepy. Of course,
+opioids generally don’t make opioid addicts sleepy, so this seemed a very rare
+occurrence.
+
+Now this patient was also a compulsive over-eater and was quite overweight. I
+asked him when he was taking his last dose of medication. He told me 5 pm.
+His complaint was that he was falling asleep in evening NA meetings. I suggested
+that it might be his still uncontrolled eating and the binge he had for dinner
+that was more responsible for his sedation, but he thought otherwise. I thought
+that he should take his buprenorphine, as it would likely decrease his craving
+to overeat as well as for opioids and, in time, make things better. But he had
+talked to other people in NA who saw that he was falling asleep in meetings and
+told him that buprenorphine was probably the culprit. I told him that was
+unlikely, but he was sure they were right. He did agree to an experiment though.
+
+I asked him to take his last dose of buprenorphine, not before the meeting, but
+after meeting. If he were right, he’d get a good sedative effect and go to
+sleep, as he wanted to. He’d also get to stay awake in the meeting. If I was
+right, he’d probably still fall asleep in the meeting. Two days later he called
+and said the buprenorphine kept him awake and could he have something for sleep?
+Was he still sleepy in the meeting? Yes.
+
+This patient’s story illustrates two problems I see a great deal. First is that
+the old wives’ tale of “one addiction at a time” is alive and thriving in some
+12-step communities. The second is that there is, concerning some medications
+for addiction, a rash of “contempt before investigation.”
+
+I don’t know where the idea comes from that we can only deal with one addiction
+at a time. The concept of one addiction being different from another is so
+foreign to me that I have a hard time understanding what the phrase means. Does
+someone who compulsively gambles, compulsively masturbates, compulsively
+overeats and is an alcoholic and opiate addict really have 5 diseases? We know
+from the smoking literature that if someone starts using one fast acting reward
+to stop using another, or even continues using one reward while trying to stop
+another, it doesn’t work very well. But perhaps because overeating is legal and
+encouraged by the fast-food industry, it doesn’t seem to be the same as taking a
+drink. I don’t think our midbrains are aware of congress, food packaging or even
+what we’re doing to boost our dopamine levels. It only sees that we are or are
+not getting the dopamine.
+
+The dogmatic reaction, without experience with the medications, of some people
+in the recovering community to medications for addiction is astounding.
+Especially when it comes to buprenorphine. I’m struck with how this medication
+somehow got a special place in the minds of some recovering people – like the
+devil incarnate. I’ve heard, “it’s just like heroin,” “I’ll just be addicted to
+that now,” “he isn’t clean.” I’ve even had the experience with an addictions
+counselor who said to me, “If you’d only seen the horror stories I’ve seen,
+you’d never use the drug.” When I asked, he’d seen two people who didn’t do well
+and couldn’t tell me if they had gotten proper addiction medical care or not but
+was unwilling to believe that I had seen scores of people who had never before
+been able to work a 12-step program who could now function well enough to do so
+on the medication.
+
+The whole issue of buprenorphine is not going to be settled here, but I’m struck
+with the number of people in recovery who think it’s okay for me to give a
+patient bupropion because it’s “an anti-depressant” but not buprenorphine
+because it’s “a pain med.” Again, I don’t think our midbrains care what words
+people made up to describe other uses for these medications. The midbrain reward
+system truly has singleness of purpose, and it is this, “Am I getting the
+dopamine or not?”
+
+The lesson for the physician practicing the ADAM Way is that there is a lot of
+education in this job, as there is a lot more misinformation available to the
+patient away from us. *It is a basic principle of the ADAM way that addiction is
+a single illness and that no medicine is better or worse because of what it is
+called or how it works.*
+<div style="page-break-after: always;"></div>
+
+
 Why a Brain Doctor Should Believe Addiction Has a Spiritual Component
 
 Modern medicine is supposed to take a biopsychosocial view of illness. In fact, lately the spiritual dimension has been added so that we need a biopsychosociospiritual view. I have heard views of the spiritual dimension of addiction from two sets of physicians: those who practice medicine whether, they treat addiction or not, and those that bring a deep personal understanding of addiction recovery to their practice of medicine. The first group understands that any illness can weigh on one’s spirit, but the second group understands that addiction is perhaps unique among illnesses in its spiritual dimension. Some might argue that the second group is bringing a non-medical view into their medical practice. I don’t believe that is the case. My belief comes not from understanding addiction recovery, but rather from my understanding of addiction biology. In the case of addiction, the unique biology of the illness is what brings about the spiritual dimension.

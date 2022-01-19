@@ -1,3 +1,19 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+<center><h1>Addiction Diagnosis and Treatment Manual (ADAM)</h1></center>
+ <div style="page-break-after: always;"></div>
+
 <center><h1>Forward</h1></center>
 
 Long before the APA’s Diagnostic and Statistical Manual of Mental Disorders

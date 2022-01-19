@@ -32,9 +32,9 @@ We’ve also noticed that it helps with what we used to call “denial” and no
 Since using acamprosate, I have not had the need to use a GABAb agent much other than for withdrawal. The GABAb effect must have been lowering glutamate but maybe not as directly because acamprosate seems to work better than the AEDs on the issue of denial.
 
 Opioid Receptor Agents: A lot of doctors block the opioid receptor, which makes sense if you want to stop drug use. It doesn’t make as much sense if you’re treating what was wrong with the person before they started using drugs to feel better. The medication to block the opiate receptor is called naltrexone, and it has recently been released as a once a month shot for people who have had trouble maintaining abstinence. Hopefully, we will soon have genetic markers for who needs buprenorphine and who can safely take naltrexone over the long term.
-
+<div style="page-break-after: always;"></div>
  
-From Methadone to Suboxone
+### From Methadone to Suboxone
 
 Methadone, because of its high affinity for the mu receptor, its long half-life, and it’s deep deposition into tissue, poses a special problem when inducing buprenorphine treatment. The “common wisdom” taught in the eight-hour buprenorphine training generally provides an insufficient model to successfully transfer most methadone patients to Suboxone. As a result, it has become a common thinking that there are many people who cannot make the transition and “need methadone.” This section will give you background on why the typical method doesn’t work and alternative methods that do. It will also discuss a few problems that accompany Suboxone induction and early treatment after methadone.
 
@@ -55,9 +55,9 @@ Methadone is long lasting in the body because of its long half-life and its depo
 Suboxone is hard to self-administer, as it requires a specific technique rather than just swallowing. If the patient stops using the proper technique the effective dose will fall and, perhaps, mu receptor coverage will fall, leading to precipitated withdrawal with the next dose as noted above.
 
 Consultation is often required, and many practitioners are afraid to attempt outpatient transition from methadone to Suboxone. Should you have any questions, seek consultation with someone experienced in these methods.
-
+<div style="page-break-after: always;"></div>
  
-Bupropion
+### Bupropion
 
 Suboxone was not the first addition wonder drug. Long before Suboxone became available I found great use from bupropion (Wellbutrin). Bupropion is a dopamine and nor-epinephrine reuptake blocker. Our primary interest in it is to block the reuptake of dopamine at the DAT and increase the amount of dopamine in the synapse of the VTA/NA. Of course, we can’t limit the actions of bupropion to that area, so we’ll be raising dopamine levels throughout the brain.
 
@@ -122,8 +122,10 @@ Miscellaneous Problems:
 
 “I have a high dopamine spike”
 	Obviously, patients don’t use these words, but if you some evidence to believe that the patient has a higher-than-normal dopamine spike, you’ll want to blunt that spike with a GABAb agent before starting Wellbutrin. If we don’t, the increased spike will just increase the reward signal from rewarding behaviors and agents and make it difficult for the patient to stop the behavior.        
+<div style="page-break-after: always;"></div>
+
  
-Sedative Hypnotic Withdrawal
+### Sedative Hypnotic Withdrawal
 
 Sedative Hypnotics include anything that can down-regulate the GABA receptors including alcohol, benzodiazepines, barbiturates, “Z-drugs”, and others. Sedative-hypnotic withdrawal is dangerous in that seizures and death are possible outcomes. As this document is concerned only with sedative-hypnotic withdrawal I will refer to it as withdrawal syndrome (WDS) from here out and not repeat sedative-hypnotic.
 

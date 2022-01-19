@@ -1331,13 +1331,36 @@ Table 6 - Spike and Tone Typology by Cause
 
 These different types may direct us to various types of treatment sequencing:
 
-
-		High Spike	Low Spike
-		Acquired	Genetic	Acquired	Genetic
-High Tone	Acquired	First decrease adrenergic tone with alpha 2 agonist, then lower dopamine with SSRI and if still high spike consider GABAb agent	The tone must be lowered with SSRI and if spike is intolerable or using doesn’t stop add GABAb agent	If low spike is iatrogenic, stop cause; tone can be decreased with careful use of AED or SSRI	If high tone is iatrogenic, stop cause. If traumatic use SSRI or AED
-	Genetic	The spike must be lowered first with GABAb agent and if tone is not tolerable add SSRI	If anxiety is intolerable start SSRI or AED agent for anxiety; if using is more intolerable start GABAb first	If low spike is iatrogenic stop cause, add SSRI or AED to lower tone if needed	Any mixed GABA agent will do. Over time SSRI’s will work but may lead to poop-out
-Low Tone	Acquired	Removing cause is important, but often will need increased tone to tolerate the wait to improve	Treat spike with GABAb agent and then increase tone; when patient is feeling better stop SSRI or other cause	Increase tone first and then remove the cause of lowered spike; then remove cause of lowered tone	Treat low dopamine tone; then remove cause
-	Genetic	Remove cause of high spike or add GABAb agent and then increase tone	Increase tone and spike should self modulate; if not add GABAb agent	First increase tone and then remove the cause of decreased spike	Treat the low dopamine tone
+<table>
+	<tr>
+		<th> </th>
+		<th>Acquired High Spike</th>
+		<th>Genetic	High Spike</th>
+		<th>Acquired Low Spike</th>
+		<th>Genetic Low Spike</th>
+	</tr>
+	<tr>
+		<td>Acquired High Tone</td>
+		<td>First decrease adrenergic tone with alpha 2 agonist, then lower dopamine with SSRI and if still high spike consider</td>
+		<td>GABAb agent	The tone must be lowered with SSRI and if spike is intolerable or using doesn’t stop add GABAb agent</td>
+		<td>If low spike is iatrogenic, stop cause; tone can be decreased with careful use of AED or SSRI</td>
+		<td>If high tone is iatrogenic, stop cause. If traumatic use SSRI or AED</td>
+	</tr>
+	<tr>
+		<td>Acquired Low Tone</td>		
+		<td>Removing cause is important, but often will need increased tone to tolerate the wait to improve</td>
+		<td>Treat spike with GABAb agent and then increase tone; when patient is feeling better stop SSRI or other cause</td>
+		<td>Increase tone first and then remove the cause of lowered spike; then remove cause of lowered tone</td>
+		<td>Treat low dopamine tone; then remove cause</td>
+	</tr>
+	<tr>
+		<td>Genetic Low Tone</td>	
+		<td>Remove cause of high spike or add GABAb agent and then increase tone</td>
+		<td>Increase tone and spike should self modulate; if not add GABAb agent</td>
+		<td>First increase tone and then remove the cause of decreased spike</td>
+		<td>Treat the low dopamine tone</td>
+	</tr>
+</table>
 Table 7 - Treatment Sequencing in Spike and Tone Typology
 
 

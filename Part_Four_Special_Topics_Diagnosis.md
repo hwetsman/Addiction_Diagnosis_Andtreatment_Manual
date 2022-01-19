@@ -1,7 +1,19 @@
-Special Topics - Diagnosis
- 
 
-PTSD
+
+
+
+
+
+
+
+
+
+
+<center><h2>Special Topics - Diagnosis</h2></center>
+ 
+<div style="page-break-after: always;"></div>
+
+### PTSD
 
 Co-morbidity with PTSD is as common as PTSD. First, we’ll discuss PTSD and then the comorbidity with addiction.
 
@@ -32,13 +44,13 @@ Good treatments for arousal and re-experiencing include the agents that decrease
 It is important to note that the arousal and re-experiencing symptoms respond to treatment immediately as do addiction symptoms. This is not major depression and doesn’t require 6 weeks of waiting regardless of the class of medications we use. We would follow the PTSD patient just as closely as any other addiction patient and only be satisfied with the treatment that suppressed symptoms enough for more focused addiction treatment to continue.
 
 Of particular interest is the interaction of depressive symptoms and PTSD. There are two causes and two different affective correlates in trauma patients. First there is the person who is affectively deficient because of a state of exhaustion. This can be quickly reversed with proper treatment. Second is the case of those who have decreased white matter from a discontinuation of neurogenesis caused by the chronic activation of cortisol receptors. This latter process, while it can be symptomatically treated quickly, will take weeks to respond anatomically.
-
+<div style="page-break-after: always;"></div>
  
-Major Depression
+### Major Depression
 
 The illness of biological major depression is distinct from the DSM set of symptoms that are over inclusive. In real major depression there is a decrease in white matter and an actual shrinkage of the brain. The normal brain has about 10,000 interconnections to each of its 100 billion neurons. With a chronic stress situation, increased cortisol can decrease or stop production of brain derived neurotrophic factor (BDNF) and a resulting pruning back of neuronal interconnectedness.
 
 This syndrome of brain shrinkage, and this syndrome alone, is the syndrome that takes 6 to 8 weeks to respond to medical treatment. This is because the neuron takes time to grow back. Those syndromes that are not anatomically based, but rather based on chemical deficit, will reverse immediately on the correct treatment being applied.
 
 All medications that are labeled as anti-depressants block the cortisol receptor independent of what monoamines they affect. In addition, there are several medications that don’t affect monoamines at all but have a robust anti-depressant response. They are generally not used as anti-depressants because of their lack of side effects and resulting lack of immediate symptom relief. This latter group includes Buspar and several anti-epileptic medications as well as lithium.
- 
+ <div style="page-break-after: always;"></div>

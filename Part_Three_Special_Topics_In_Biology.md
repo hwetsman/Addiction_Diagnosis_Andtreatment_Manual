@@ -848,12 +848,49 @@ report is influenced by a lot more than the acid in my esophagus.
 
 What we’re missing in addiction medicine is the same thing we’re missing in the
 rest of medicine, monitoring. Technology may improve this with cheaper monitors
-that are less intrusive and internal medicine will probably benefit before addiction medicine will, but right now you don’t see a lot of people running around checking their esophageal acid levels and learning on a day-to-day basis what helps and what doesn’t. If we could, the effect would be startling. Instead of saying to a patient, “don’t eat this” and “don’t do that,” we’d be saying, “how did that work?” Things would get a lot easier, and we wouldn’t be relying on subjective data. We might even find out that our long-held beliefs were wrong.
+that are less intrusive and internal medicine will probably benefit before
+addiction medicine will, but right now you don’t see a lot of people running
+around checking their esophageal acid levels and learning on a day-to-day basis
+what helps and what doesn’t. If we could, the effect would be startling. Instead
+of saying to a patient, “don’t eat this” and “don’t do that,” we’d be saying,
+“how did that work?” Things would get a lot easier, and we wouldn’t be relying
+on subjective data. We might even find out that our long-held beliefs were wrong.
 
-Here’s an example. My doctors told me that caffeine increases acid production and decreases the tension in the sphincter between the stomach and esophagus. Therefore, I need to stay away from caffeine, as it will make GERD worse. They learned this in school. However, in 1975, when they were in school, an article in the New England Journal of Medicine  showed that caffeine actually increased the tone of the sphincter. Old study you say? Here’s the abstract from another study from 1994.  It’s obviously from a commonwealth country. I really included it because I love they way they spell esophagus.
-“Coffee and tea are believed to cause gastro-oesophageal reflux: however, the effects of these beverages and of their major component, caffeine, have not been quantified. The aim of this study was to evaluate gastro-oesophageal reflux induced by coffee and tea before and after a decaffeination process, and to compare it with water and water-containing caffeine. Three hour ambulatory pH-metry was performed on 16 healthy volunteers, who received 300ml of (i) regular coffee, decaffeinated coffee or tap water (n=16), (ii) normal tea, decaffeinated tea, tap water, or coffee adapted to normal tea in caffeine concentration (n=6, and (iii) caffeine-free and caffeine-containing water (n=8) together with a standardized breakfast. Regular coffee induced a significant (P<0.05) gastro-oesophageal reflux compared with tap water and normal tea, which were not different from each other. Decaffeination of coffee significantly (p<0.05) diminished gastro-oesophageal reflux, whereas decaffeination of tea or addition of caffeine to water had no effect. Coffee adapted to normal tea in caffeine concentration significantly (p<0.05) increased gastro-oesophageal reflux. Coffee, in contrast to tea, increases gastro-oesophageal reflux, an effect that is less pronounced after decaffeination. Caffeine does not seem to be responsible for gastro-oesophageal reflux which must be attributed to other components of coffee.”
+Here’s an example. My doctors told me that caffeine increases acid production
+and decreases the tension in the sphincter between the stomach and esophagus.
+Therefore, I need to stay away from caffeine, as it will make GERD worse. They
+learned this in school. However, in 1975, when they were in school, an article
+in the New England Journal of Medicine[^46] showed that caffeine actually
+increased the tone of the sphincter. Old study you say? Here’s the abstract from
+another study from 1994.[^47] It’s obviously from a commonwealth country. I
+really included it because I love they way they spell esophagus.
 
-So, it isn’t caffeine I should stay away from, it’s coffee. Interesting study but on a very small number of people. What would be the effect of thousands of people with real time measurements all submitting their data in real time with food and beverage intake? It would revolutionize the care of GERD. We need the same sort of thing in addiction medicine. I bet our old thoughts would be revolutionized as well.
+>“Coffee and tea are believed to cause gastro-oesophageal reflux: however, the
+effects of these beverages and of their major component, caffeine, have not been
+quantified. The aim of this study was to evaluate gastro-oesophageal reflux
+induced by coffee and tea before and after a decaffeination process, and to
+compare it with water and water-containing caffeine. Three hour ambulatory
+pH-metry was performed on 16 healthy volunteers, who received 300ml of (i)
+regular coffee, decaffeinated coffee or tap water (n=16), (ii) normal tea,
+decaffeinated tea, tap water, or coffee adapted to normal tea in caffeine
+concentration (n=6, and (iii) caffeine-free and caffeine-containing water (n=8)
+together with a standardized breakfast. Regular coffee induced a significant
+(P<0.05) gastro-oesophageal reflux compared with tap water and normal tea, which
+were not different from each other. Decaffeination of coffee significantly
+(p<0.05) diminished gastro-oesophageal reflux, whereas decaffeination of tea or
+addition of caffeine to water had no effect. Coffee adapted to normal tea in
+caffeine concentration significantly (p<0.05) increased gastro-oesophageal
+reflux. Coffee, in contrast to tea, increases gastro-oesophageal reflux, an
+effect that is less pronounced after decaffeination. Caffeine does not seem to
+be responsible for gastro-oesophageal reflux which must be attributed to other
+components of coffee.”
+
+So, it isn’t caffeine I should stay away from, it’s coffee. Interesting study
+but on a very small number of people. What would be the effect of thousands of
+people with real time measurements all submitting their data in real time with
+food and beverage intake? It would revolutionize the care of GERD. We need the
+same sort of thing in addiction medicine. I bet our old thoughts would be
+revolutionized as well. As you'll see in a bit. ADAM may help there.
 <div style="page-break-after: always;"></div>
 
 

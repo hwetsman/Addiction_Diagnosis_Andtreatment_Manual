@@ -414,18 +414,79 @@ what type of patient has the illness of addiction, and it is the most common
 typology used in the addiction treatment field: DSM Personality Disorders.
 Unfortunately, it's not the right typology.
 
-For any system to tell us about "what kind of patient has the disease," it must exist outside the illness. It must be a separate axis of measurement. That's the idea behind the various axes of DSM. It is believed that Axis I and Axis II have little overlap so that their juxtaposition would give increased information. However, concepts behind DSM personality disorders on Axis II and Substance Use Disorder on Axis I were both initiated in 1980 before the first description of the neurobiology of addiction by DiChiari in 1988. Therefore, Axis II needs to be reviewed in light of the neurobiology we've described.
+For any system to tell us about "what kind of patient has the disease," it must
+exist outside the illness. It must be a separate axis of measurement. That's the
+idea behind the original axes of DSM-III. It was seen that Axis I and Axis II
+have little overlap so that their juxtaposition would give increased information.
+However, concepts behind DSM personality disorders on the then Axis II and
+Substance Use Disorder on Axis I were both initiated in 1980 before the first
+description of the neurobiology of addiction by DiChiari in 1988. Therefore,
+the concept of personality disorder needs to be reviewed in light of the
+neurobiology we've described.
 
-The Axis II Personality Disorders are described as long-standing maladaptive sets of responding to the world that are hard to change even with therapy. They describe, in essence, what type of person, the patient is, but also that the patient is an extreme of this type. Personality disorders are not personality types; they represent an attachment to a limited repertoire of responses that the patient continues to use despite their lack of effectiveness and adverse consequences. That should give have been a hint right there. What else does DSM describe as an attachment to something in spite of the fact that it's causing harm and doesn't work anymore? That's right, Axis I Substance Use Disorder. Now that we understand addiction, as it exists in nature, not limited to substances, we must ask, "Do personality disorders represent addiction?" My answer is yes.
+The Personality Disorders are described as long-standing maladaptive sets of
+responding to the world that are hard to change even with therapy. They describe,
+in essence, what type of person, the patient is, but also that the patient is an
+extreme of this type. Personality disorders are not personality types; they
+represent an attachment to a limited repertoire of responses that the patient
+continues to use despite their lack of effectiveness and adverse consequences.
+That should have been a hint right there. What else does DSM describe as an
+attachment to something in spite of the fact that it's causing harm and doesn't
+work anymore? That's right, Substance Use Disorders. Now that we understand
+addiction, as it exists in nature, not limited to substances, we must ask, "Do
+personality disorders represent addiction?" My answer is yes.
 
-Let's try something to explore this. Get two books: the DSM and Alcoholics Anonymous. Open the DSM to the criteria set for any personality disorder except Schizotypal (which really belongs on Axis I) and open Alcoholics Anonymous to page 59, where the 12 steps are listed. Now we have to recognize that the personality disorder criteria are behavioral just like everything else in DSM; that is, when you stop behaving like those criteria, you don't have it anymore. Compare the criteria for the personality disorder to the behavior of someone living a life as described in the 12 steps. Is it possible to live those steps and still behave in a way to meet the DSM criteria? No, it's not. And my experience is that working the 12-steps does rapidly change behavior and personality structure even in someone who meets criteria for a personality disorder, while DSM says that the personality disorders are resistant to change. If this is not something you've seen with your own eyes, you won't believe me. That's okay. Let's look at it from a different angle.
+Let's try something to explore this. Get two books: the DSM and Alcoholics
+Anonymous. Open the DSM to the criteria set for any personality disorder except
+Schizotypal (which really belonged on the old Axis I) and open Alcoholics
+Anonymous to page 59, where the 12 steps are listed. Now we have to recognize
+that the personality disorder criteria are behavioral just like everything else
+in DSM; that is, when you stop behaving like those criteria, you don't have it
+anymore. Compare the criteria for the personality disorder to the behavior of
+someone living a life as described in the 12 steps. Is it possible to live those
+steps and still behave in a way to meet the DSM criteria? No, it's not. And my
+experience is that working the 12-steps does rapidly change behavior and
+personality structure even in someone who meets criteria for a personality
+disorder, while DSM says that the personality disorders are resistant to change.
+If this is not something you've seen with your own eyes, you won't believe me.
+That's okay. Let's look at it from a different angle.
 
-We know that in people with low midbrain dopamine tone, certain behaviors can be rewarding. We've seen a partial list of them. One is power over others. Imagine what the life trajectory would be for a young boy born with low dopamine tone who can feel better when he has power over others. At first, the only times he feels better is when he has power over others. Then, as he ages, this is less effective. He starts to seek out other things that can more powerfully raise dopamine tone, like nicotine, and then alcohol. Remember what low dopamine tone does to risk/reward calculations. Remember how self-centering it is. Can you build a picture of such a boy growing up to meet the criteria for one of the DSM personality disorders? Of course, you can.
+We know that in people with low midbrain dopamine tone, certain behaviors can be
+rewarding. We've seen a partial list of them. One is power over others. Imagine
+what the life trajectory would be for a young boy born with low dopamine tone
+who can feel better when he has power over others. At first, the only times he
+feels better is when he has power over others. Then, as he ages, this is less
+effective. He starts to seek out other things that can more powerfully raise
+dopamine tone, like nicotine, and then alcohol. Remember what low dopamine tone
+does to risk/reward calculations. Remember how self-centering it is. Can you
+build a picture of such a boy growing up to meet the criteria for one of the
+DSM personality disorders? Of course, you can.
 
-But so, what if you can? The personality disorders are hard to treat, right? What good will it do?
+But so, what if you can? The personality disorders are hard to treat, right?
+What good will it do?
 
-Perhaps we've seen them as hard to treat because we don't recognize them for what they are. Perhaps they feel so hopeless because they start so early that not even the patient remembers a time before they were there. It's hard to have hope in change if something has never been different. My experience, however, is that if the biology is explained to the patient, they can easily come to understand behaviors as rewards and more readily choose abstinence for those rewards, once given sufficient substitutes, just as they can for substances. So, my point is, not that it's easy to treat personality disorders, but rather that it's no harder than treating addiction, because the treatment is the same. So rather than an Axis II diagnosis being a reason why addiction treatment didn't work, as it commonly expressed in the treatment industry, it is a measure of the treatment center's misunderstanding of addiction and limitations in treatment. I find that resorting to Axis II diagnosis almost entirely precludes proper treatment for addiction because it leaves the oldest "drug" unrecognized, and this continual use of this reward will increase the chances of relapse onto others. It is a basic principle of the Townsend way to understand what would have been an Axis II personality disorder diagnosis as the earliest “drug” in the patient’s repertoire and not to label people with Axis II as an expression of their lack of response to treatment.
+Perhaps we've seen them as hard to treat because we don't recognize them for
+what they are. Perhaps they feel so hopeless because they start so early that
+not even the patient remembers a time before they were there. It's hard to have
+hope in change if something has never been different. My experience, however, is
+that if the biology is explained to the patient, they can easily come to
+understand behaviors as rewards and more readily choose abstinence for those
+rewards, once given sufficient substitutes, just as they can for substances. So,
+my point is, not that it's easy to treat personality disorders, but rather that
+it's no harder than treating addiction, because the treatment is the same.
+
+So rather than a personality disorder diagnosis being a reason why addiction
+treatment didn't work, as it commonly expressed in the treatment industry, it is
+a measure of the treatment center's misunderstanding of addiction and
+limitations in treatment. I find that resorting to personality disorder
+diagnosis almost entirely precludes proper treatment for addiction because it
+leaves the oldest "drug" unrecognized, and this continual use of this reward
+will increase the chances of relapse onto others. *It is a basic principle of
+the ADAM way to understand what would have been a personality disorder diagnosis
+as the earliest “drug” in the patient’s repertoire and not to label people with
+a personality disorder as an expression of their lack of response to treatment.*
 <div style="page-break-after: always;"></div>
+
 
 ## Now About Sleep
 

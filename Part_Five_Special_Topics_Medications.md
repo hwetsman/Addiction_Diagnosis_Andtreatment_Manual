@@ -107,25 +107,88 @@ who needs buprenorphine and who can safely take naltrexone over the long term.
 
 ### From Methadone to Suboxone
 
-Methadone, because of its high affinity for the mu receptor, its long half-life, and it’s deep deposition into tissue, poses a special problem when inducing buprenorphine treatment. The “common wisdom” taught in the eight-hour buprenorphine training generally provides an insufficient model to successfully transfer most methadone patients to Suboxone. As a result, it has become a common thinking that there are many people who cannot make the transition and “need methadone.” This section will give you background on why the typical method doesn’t work and alternative methods that do. It will also discuss a few problems that accompany Suboxone induction and early treatment after methadone.
+Methadone, because of its high affinity for the mu receptor, its long half-life,
+and its deep deposition into tissue, poses a special problem when inducing
+buprenorphine treatment. The “common wisdom” taught in the eight-hour
+buprenorphine training generally provides an insufficient model to successfully
+transfer most methadone patients to Suboxone. As a result, it has become common
+thinking that there are many people who cannot make the transition and “need
+methadone.” This section will give you background on why the typical method
+doesn’t work and alternative methods that do. It will also discuss a few
+problems that accompany Suboxone induction and early treatment after methadone.
 
-The common method of moving someone from methadone to Suboxone involves tapering their methadone down to 30 to 40mg, stopping there, waiting 72 hours while maintaining the person’s withdrawal symptoms, and then beginning Suboxone induction. It is suggested to use 2mg test doses in case induction is premature and precipitated withdrawal is induced. For someone who is not taking much more than 40mg of methadone a day this method is sufficient, however most patients admitting to treatment take more, perhaps much more, methadone a day.
+The common method of moving someone from methadone to Suboxone involves tapering
+their methadone down to 30 to 40mg, stopping there, waiting 72 hours while
+maintaining the person’s withdrawal symptoms, and then beginning Suboxone
+induction. It is suggested to use 2mg test doses in case induction is premature
+and precipitated withdrawal is induced. For someone who is not taking much more
+than 40mg of methadone a day this method is sufficient, however most patients
+admitting to treatment take more, perhaps much more, methadone a day.
 
-Why it won’t work in most cases is something that is readily apparent if one views addiction as a chronic illness. If, as I believe, using is brought on by symptoms of addiction, then tapering methadone slowly, while not resulting in much withdrawal, will result in increased symptoms of addiction, the very symptoms that started the use in the first place. I have never successfully tapered someone from over 80mg to 40mg in an unregulated outpatient setting. The taper required is so slow and the misery of symptoms is so great that they cannot last the time without using.
+Why it won’t work in most cases is something that is readily apparent if one
+views addiction as a chronic illness. If, as we've outlined, using is brought on
+by symptoms of addiction, then tapering methadone slowly, while not resulting in
+much withdrawal, will result in increased symptoms of addiction, the very
+symptoms that started the use in the first place. I have never successfully
+tapered someone from over 80mg to 40mg in an unregulated outpatient setting. The
+taper required is so slow and the misery of symptoms is so great that they
+cannot last the time without using.
 
-What to do instead is perhaps not intuitive. If the patient cannot remain adherent to a slow taper down to 40mg of methadone, the primary alternative is to stop methadone immediately and entirely. This will of course put the patient into opioid withdrawal at a time when they cannot be induced on Suboxone. The withdrawal requires treatment by other means. There are two other means.
+What to do instead is perhaps not intuitive. If the patient cannot remain
+adherent to a slow taper down to 40mg of methadone, the primary alternative is
+to stop methadone immediately and entirely. This will of course put the patient
+into opioid withdrawal at a time when they cannot be induced on Suboxone. The
+withdrawal requires treatment by other means. There are two other means.
 
-Non-opioid treatment of opioid withdrawal is what all of us did before Suboxone. Clonidine to block the adrenergic spike, baclofen or xanaflex for spasms, antihistamines for sedation if necessary and Imodium for diarrhea are helpful here. The patient will require frequent check-ins with your office staff, and you’ll want to be in touch daily with them.
+Non-opioid treatment of opioid withdrawal is what all of us did before Suboxone.
+Clonidine to block the adrenergic spike, baclofen or xanaflex for spasms,
+antihistamines for sedation if necessary and Imodium for diarrhea are helpful
+here. The patient will require frequent check-ins with your office staff, and
+you’ll want to be in touch daily with them.
 
-Treating only for pain is another option though some feel uncomfortable with it. In this method the patient is withdrawn from methadone without any medical help at all. If they are asymptomatic, one does nothing. If they complain of pain, one can choose to treat their pain with a long half-life opioid pain reliever such as Oxycontin. It should be noted that, as the patient is opioid dependent, the prescriber in this case would want to note that he is treating acute pain in an opioid dependent person and is taking certain specific actions to avoid abuse and diversion of the medication. In this case the treatment may be that the prescriptions are called in daily or twice a day at your preference. They may be taken at home or in your office at your preference. But it is important to remain a prescriber not distributor, so you and your staff should never hold or keep a patient’s medication for them. The patient can be treated for 72 hours with a long-acting opioid and then switched to a short acting opioid if treatment is still needed for pain. If further treatment is not needed the patient can usually be induced onto Suboxone 48 hours after the last Oxycontin; if further treatment with a short acting agent such as oxycodone is needed it can be continued for three days under similar regimen. Once you have determined that the acute pain problem is resolved you can stop the oxycodone and induce Suboxone after 24 hours for addiction treatment.
+Treating only for pain is another option though some feel uncomfortable with it.
+In this method the patient is withdrawn from methadone without any medical help
+at all. If they are asymptomatic, one does nothing. If they complain of pain,
+one can choose to treat their pain with a long half-life opioid pain reliever
+such as Oxycontin. It should be noted that, as the patient is opioid dependent,
+the prescriber in this case would want to note that he is treating acute pain in
+an opioid dependent person and is taking certain specific actions to avoid abuse
+and diversion of the medication. In this case the treatment may be that the
+prescriptions are called in daily or twice a day at your preference. They may be
+taken at home or in your office at your preference. But it is important to
+remain a prescriber not distributor, so you and your staff should never hold or
+keep a patient’s medication for them. The patient can be treated for 72 hours
+with a long-acting opioid and then switched to a short acting opioid if
+treatment is still needed for pain. If further treatment is not needed the
+patient can usually be induced onto Suboxone 48 hours after the last Oxycontin;
+if further treatment with a short acting agent such as oxycodone is needed it
+can be continued for three days under similar regimen. Once you have determined
+that the acute pain problem is resolved you can stop the oxycodone and induce
+Suboxone after 24 hours for addiction treatment. Similar pain treatment regimens
+utilizing Fentanyl patches exist in the literature.
 
 Special problems:
 
-Methadone is long lasting in the body because of its long half-life and its deposition and slow leaching from tissues. It has a high affinity for the mu receptor. If Suboxone coverage of the mu receptor falls between doses during induction or even during the first month or more with high dose methadone patients, methadone can find its way back onto the receptor so that the patient experiences a bit of withdrawal with each dose of Suboxone. It is therefore imperative that the patient’s Suboxone dose and dosing frequency be sufficient to give 24/7 complete coverage to the mu receptor. It is my experience that the typical dosing regimen taught in the 8-hour course is usually insufficient, which explains why so few patients are successfully transferred from methadone to Suboxone.
+Methadone is long lasting in the body because of its long half-life and its
+deposition and slow leaching from tissues. It has a high affinity for the mu
+receptor. If Suboxone coverage of the mu receptor falls between doses during
+induction or even during the first month or more with high dose methadone
+patients, methadone can find its way back onto the receptor so that the patient
+experiences a bit of withdrawal with each dose of Suboxone. It is therefore
+imperative that the patient’s Suboxone dose and dosing frequency be sufficient
+to give 24/7 complete coverage to the mu receptor. It is my experience that the
+typical dosing regimen taught in the 8-hour course is usually insufficient,
+which explains why so few patients are successfully transferred from methadone
+to Suboxone.
 
-Suboxone is hard to self-administer, as it requires a specific technique rather than just swallowing. If the patient stops using the proper technique the effective dose will fall and, perhaps, mu receptor coverage will fall, leading to precipitated withdrawal with the next dose as noted above.
+Suboxone is hard to self-administer, as it requires a specific technique rather
+than just swallowing. If the patient stops using the proper technique the
+effective dose will fall and, perhaps, mu receptor coverage will fall, leading
+to precipitated withdrawal with the next dose as noted above.
 
-Consultation is often required, and many practitioners are afraid to attempt outpatient transition from methadone to Suboxone. Should you have any questions, seek consultation with someone experienced in these methods.
+Consultation is often required, and many practitioners are afraid to attempt
+outpatient transition from methadone to Suboxone. Should you have any questions,
+seek consultation with someone experienced in these methods.
 <div style="page-break-after: always;"></div>
  
 ### Bupropion

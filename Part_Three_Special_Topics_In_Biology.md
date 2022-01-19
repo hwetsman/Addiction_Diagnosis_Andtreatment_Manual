@@ -623,17 +623,114 @@ effective history and be able to be more effective in helping the patient.
 
 ## The Difference Between a Drug and a Medication
 
-This is probably the second most important question in the field of addiction treatment, the first being whether addiction is an illness. I think it’s clear where I fall on the answer to that question, but once addiction is a illness, then comes the question of the role of medication in its treatment.
-The field seems divided, but it’s always been divided. There have always been those that thought that any medication for someone with addiction would interfere with recovery, and while anti-depressants have largely become acceptable to this crowd, there are still a few who think even this is too much. This seems to stem from two ideas as far as I can tell. The first is the belief that “authentic suffering”  is required for true recovery and anything, even medication that blunts that suffering, will delay recovery. The other source seems to be the desire for “natural” recovery, I suppose stemming from the idea that it is the unnatural drugs that have caused the problem in the first place.
-The second pole of the division is the group that has always advocated agonist maintenance treatment for addiction as a total treatment. This group seems based fundamentally on the need to restore biological function as the only goal of treatment. The idea being that the illness is purely physical and once it’s fixed the person is normal. Of course, there are many people in the middle, perhaps even most people, but these two poles seem to define the field.
-I think these two groups have reached their opposite conclusions because of polar opposite views of the illness. The biological group sees a physiologic derangement that needs fixing. They historically have not paid enough attention to what happened to the person’s character structure during the years that the illness was active. The other group seems to be focused on the effect of the drug and gives little thought to the possibility of an underlying, even genetic, physiological derangement that caused the problem. With this background in mind, let’s look at how the two groups visualize drugs and medicine.
-The “take no medicine” group sees any agent that acts at the same site or in a similar way to a drug as a drug and believes that it has no use in the treatment of addiction. The famous, or infamous, example of the day is Suboxone. It’s a partial opioid agonist and does what it does at the opioid receptor. Therefore, this group says it is an opioid and therefore anyone who takes it is not “clean.” While this view is not the mainstream, the belief system is influential and there are several treatment centers set up according to this philosophy.
-The “medication is enough” group sees any agent that relieves suffering as a medication. It doesn’t matter where it’s used or if patients could use it as a drug, as long as some effort is made to limit its abuse. It doesn’t matter how it acts or how it relieves suffering. In the case of buprenorphine, this group responds enthusiastically to the ability to provide opioid (partial) agonist treatment in an outpatient setting, releasing them from the restrictions of the methadone clinic. Again, while this view is not the mainstream, the belief system is influential and there are several academic writers speaking about such “medication only” regimens. Their nod to psychosocial treatment has historically been to have a nurse call once a week to make sure the patient is taking their medication.
-Of course, both groups are wrong and their errors are based on ignorance and fear. The “no medicine” group is afraid that doctors will just load people with addiction up with other drugs that will lead to similar if not larger problems in the future, not only delaying recovery but also doing actual harm. The medication only group is afraid that non-medical professionals will run the show requiring ideologies and belief systems of the patients and picking who lives and who dies according to who accepts the ideology of “the cult.” The examples that each group can site are real, but rare.
-As in all things a middle path must be found. Townsend takes a middle path. Is our path any less of an ideology than the extremes? I hope so. The evidence that leads us to this path is in this book, and, hopefully, by now you are convinced.
-For us a drug is what we use now to change how we feel now; it is the epitome of self will attempting to control nature. A medication is what one takes no matter how it makes one feel acutely because it is a treatment for an illness; it is the epitome of surrender to a fact of nature. Is there any role for drugs in recovery? We don’t think so. That means there’s no role for overeating, smoking, compulsive sex, compulsive exercise, compulsive gambling or spending, etc in recovery, because once we have the disease of addiction, we can use many if not all of those things as a drug. Is there a role for chemicals that act at the same site as some drugs? There can be. But to be medications they must be taken like medications. It is not usually the chemical in the medication that causes the problem but rather how it is used.
-Medication is a tool, not a solution in the treatment of addiction. As long as both sides in the debate embrace the extremes, we will see continued problems and confusion for patients and other interested parties. A good topical example is buprenorphine. There is so much fear and hype around the medication that some doctors who are approved to use it refuse to write prescriptions for it because they are afraid of running afoul of the FDA or DEA. And it’s not so out of the question either. The federal government must be open to comments by all citizens and, unfortunately, some of them are presenting hype and fear. Government, even governments that strive to be data driven, can be driven by political pressure no matter how divorced from reality the source of the pressure is. I know professionals in the field who will not speak their mind at professional meetings for fear of peer reaction. The result is that hundreds die of overdoses of full opioid agonists because the “no medicine” group can find and present in hysterical fashion a few cases of buprenorphine abuse.
-But often families and patients are quite worried about our starting a “drug” to treat addiction. We’ve developed a quick three-point test to ask the patient after they’ve started the medication. Ask them if, when they were taking their MER, they wanted more after they took it. When they say yes, hold up one finger. Ask them if their MER made them “high.” When they say yes hold up another finger. Ask them if it made them do things they later regretted. When they say yes, hold up a third finger. Now ask them if their medication is causing craving and the wish to take more and more medication. When they say no, withdraw a finger. Ask them if the medication makes them “high.” When they say no, withdraw a finger. Finally, ask them if, on the medication, they do stupid things they later regret. When they say no, withdraw the last finger. At this point I usually say something like, “Well your medication may work like an opioid in a test tube, but it doesn’t seem to work like an opioid in your body,” or the appropriate phrase if the medication is not buprenorphine. This usually works to calm fears of the medication. If the person is afraid before taking the medication, it is usually helpful to set up a trial by asking them if they’d trust our process for just a few days.
+This is probably the second most important question in the field of addiction
+treatment, the first being whether addiction is an illness. I think it’s clear
+where I fall on the answer to that question, but once addiction is a illness,
+then comes the question of the role of medication in its treatment.
+
+The field seems divided, but it’s always been divided. There have always been
+those that thought that any medication for someone with addiction would
+interfere with recovery, and while anti-depressants have largely become
+acceptable to this crowd, there are still a few who think even this is too much.
+This seems to stem from two ideas as far as I can tell. The first is the belief
+that “authentic suffering”[^44] is required for true recovery and anything, even
+medication that blunts that suffering, will delay recovery. The other source
+seems to be the desire for “natural” recovery, I suppose stemming from the idea
+that it is the unnatural drugs that have caused the problem in the first place.
+
+The second pole of the division is the group that has always advocated agonist
+maintenance treatment for addiction as a total treatment. This group seems based
+fundamentally on the need to restore biological function as the only goal of
+treatment. The idea being that the illness is purely physical and once it’s
+fixed the person is normal. Of course, there are many people in the middle,
+perhaps even most people, but these two poles seem to define the field.
+
+I think these two groups have reached their opposite conclusions because of
+polar opposite views of the illness. The biological group sees a physiologic
+derangement that needs fixing. They historically have not paid enough attention
+to what happened to the person’s character structure during the years that the
+illness was active. The other group seems to be focused on the effect of the
+drug and gives little thought to the possibility of an underlying, even genetic,
+physiological derangement that caused the problem. With this background in mind, l
+et’s look at how the two groups visualize drugs and medicine.
+
+The “take no medicine” group sees any agent that acts at the same site or in a
+similar way to a drug as a drug and believes that it has no use in the treatment
+of addiction. The famous, or infamous, example of the day is Suboxone. It’s a
+partial opioid agonist and does what it does at the opioid receptor. Therefore,
+this group says it is an opioid and, therefore anyone who takes it is not
+“clean.” While this view is not the mainstream, the belief system is influential
+and there are several treatment centers set up according to this philosophy.
+
+The “medication is enough” group sees any agent that relieves suffering as a
+medication. It doesn’t matter where it’s used or if patients could use it as a
+drug, as long as some effort is made to limit its abuse. It doesn’t matter how
+it acts or how it relieves suffering. In the case of buprenorphine, this group
+responds enthusiastically to the ability to provide opioid (partial) agonist
+treatment in an outpatient setting, releasing them from the restrictions of the
+methadone clinic. Again, while this view is not the mainstream, the belief
+system is influential and there are several academic writers speaking about such
+“medication only” regimens. Their nod to psychosocial treatment has historically
+been to have a nurse call once a week to make sure the patient is taking their
+medication.
+
+Of course, both groups are wrong and their errors are based on ignorance and
+fear. The “no medicine” group is afraid that doctors will just load people with
+addiction up with other drugs that will lead to similar if not larger problems
+in the future, not only delaying recovery but also doing actual harm. The
+medication only group is afraid that non-medical professionals will run the show
+requiring ideologies and belief systems of the patients and picking who lives
+and who dies according to who accepts the ideology of “the cult.” The examples
+that each group can site are real, but rare.
+
+As in all things a middle path must be found. ADAM opens a road to a middle
+path. Is our path any less of an ideology than the extremes? I hope so. The
+evidence that leads us to this path is in this book, and, hopefully, by now you
+are convinced.
+
+For us a drug is what we use now to change how we feel now; it is the epitome of
+self will attempting to control nature. A medication is what one takes no matter
+how it makes one feel acutely because it is a treatment for an illness; it is
+the epitome of surrender to a fact of nature. Is there any role for drugs in
+recovery? We don’t think so. That means there’s no role for overeating, smoking,
+compulsive sex, compulsive exercise, compulsive gambling or spending, etc in
+recovery, because once we have the disease of addiction, we can use many if not
+all of those things as a drug. Is there a role for chemicals that act at the
+same site as some drugs? There can be. But to be medications they must be taken
+like medications. It is not usually the chemical in the medication that causes
+the problem but rather how it is used.
+
+Medication is a tool, not a solution in the treatment of addiction. As long as
+both sides in the debate embrace the extremes, we will see continued problems
+and confusion for patients and other interested parties. A good topical example
+is buprenorphine. There is so much fear and hype around the medication that some
+doctors who are approved to use it refuse to write prescriptions for it because
+they are afraid of running afoul of the FDA or DEA. And it’s not so out of the
+question either. The federal government must be open to comments by all citizens
+and, unfortunately, some of them are presenting hype and fear. Government, even
+governments that strive to be data driven, can be driven by political pressure
+no matter how divorced from reality the source of the pressure is. I know
+professionals in the field who will not speak their mind at professional
+meetings for fear of peer reaction. The result is that hundreds die of overdoses
+of full opioid agonists because the “no medicine” group can find and present in
+hysterical fashion a few cases of buprenorphine abuse.
+
+But often families and patients are quite worried about our starting a “drug” to
+treat addiction. We’ve developed a quick three-point test to ask the patient
+after they’ve started the medication. Ask them if, when they were taking their
+MER, they wanted more after they took it. When they say yes, hold up one finger.
+Ask them if their MER made them “high.” When they say yes hold up another finger.
+Ask them if it made them do things they later regretted. When they say yes, hold
+up a third finger. Now ask them if their medication is causing craving and the
+wish to take more and more medication. When they say no, withdraw a finger. Ask
+them if the medication makes them “high.” When they say no, withdraw a finger.
+Finally, ask them if, on the medication, they do stupid things they later regret.
+When they say no, withdraw the last finger. At this point I usually say
+something like, “Well your medication may work like your MER in a test tube,
+but it doesn’t seem to work like it in your body.” This usually works to calm
+fears of the medication. If the person is afraid before taking the medication,
+it is usually helpful to set up a trial by asking them if they’d trust our
+process for just a few days.
 <div style="page-break-after: always;"></div>
 
 

@@ -1457,17 +1457,91 @@ called or how it works.*
 <div style="page-break-after: always;"></div>
 
 
-Why a Brain Doctor Should Believe Addiction Has a Spiritual Component
+## Why a Brain Doctor Should Believe Addiction Has a Spiritual Component
 
-Modern medicine is supposed to take a biopsychosocial view of illness. In fact, lately the spiritual dimension has been added so that we need a biopsychosociospiritual view. I have heard views of the spiritual dimension of addiction from two sets of physicians: those who practice medicine whether, they treat addiction or not, and those that bring a deep personal understanding of addiction recovery to their practice of medicine. The first group understands that any illness can weigh on one’s spirit, but the second group understands that addiction is perhaps unique among illnesses in its spiritual dimension. Some might argue that the second group is bringing a non-medical view into their medical practice. I don’t believe that is the case. My belief comes not from understanding addiction recovery, but rather from my understanding of addiction biology. In the case of addiction, the unique biology of the illness is what brings about the spiritual dimension.
-While midbrain dopamine tone is important for hedonic tone, midbrain signals also reach areas of the cortex where we are signaled that everything is okay, and we have enough. In short, if we don’t have enough midbrain dopamine tone, we don’t have enough of anything.
-Remember, that addiction is not caused by normal people drinking too much but rather by this biology and often caused by genetics. Imagine now a child born with such biology. This lack of “I have enough” signal leads to a restlessness that can never be contented. Every time we are asked for something, it is as if we are being asked for our life’s breath, and we become irritable. Restless, Irritable and Discontented, the famous triad of the basic state of the unrecovered addict. But so far these are just symptoms. Why would I say they cause the spiritual dimension of the illness?
-We were all born to survive. We would like to believe that our cortex is in control. We would like to believe that given the choice between two options we could decide on the higher course in all cases. We would like to believe, in short, that we are civilized. However, in our self-referential over-prizing of the cortex we forget that it is not the only decision-making center of the brain. We were not designed to be civilized, but to survive. Given a survival situation, it is a rare individual indeed who will be able to pick death over personal safety. If heroes were common, they wouldn’t be heroes.
-Consider the following thought experiment. Imagine something you know you shouldn’t do, such as stealing. You probably don’t steal regularly. Whether you don’t steal because you are afraid of getting caught or because you think it is wrong does not matter. What matters is that you don’t steal. Now imagine that you have not eaten in 6 days. You are reaching the limit of your ability to survive. I have bread but won’t share. Would you steal my bread? What if you still didn’t want to steal? What if you thought it would be better for society that you die rather than commit an anti-social act? Could you refrain from stealing to save your life? I doubt it too.
-So, what does this have to do with addiction? It is the midbrain dopamine tone that gives us the signal that we have enough. This is not perceived as a nice to have, but as a necessity of life. This is a survival signal, one the cortex cannot override. Imagine that child born with not enough. Imagine him trying to learn to ask for what he needs. Imagine that the rejections are perceived, not by choice but by biology, as life threatening. He will not learn to ask and hear “no.” He will learn to cajole, manipulate, force, bully, and use every other means he can to get what his brain tells him he needs to survive. He will come to rely only on himself because he can trust no one else to always get the dopamine. He will become alone, self-centered, ego driven. He will not know that his thoughts and behaviors are driven by biology beyond his control. He will grow up thinking that he wants to be this way, that he is this way because that’s the way he chooses to be. He will be living without a spiritual connection to the universe.
-It is no coincidence that the first step of recovery is acceptance that one is powerless over addiction. It is recognition that the illness is beyond the control of choice or wish or cortex that frees the person with addiction to listen to something else besides his own midbrain. This acceptance, that I cannot make decisions about what I want and what I need, that I get bad information from my brain about what you ought to give me and what I ought to get, that I need to rely on direction from outside my own skull in order to get the life I really want, this is the acceptance that opens the door to recovery from this illness.
-Of course, Addiction Medicine as a specialty can aid in reaching this point. Many people, even with genetically determined addiction, can be helped with medication to bring their midbrain dopamine tone to normal or near normal. Then, the imperious demands of the midbrain can be quieted so that the patient can learn to listen to another voice.
-There will always be a medical camp that doesn’t see addiction as unique. There will always be a recovery camp that sees the spiritual process in addiction and recovery as outside the understanding of medicine. But more and more, through brain research that illuminates the underpinnings of the illness, we are coming to understand a true middle road where both camps can live and recover. It is a basic principle of the Townsend way to use medication to foster recovery and growth of spirit, not as a substitute for that growth.
+Modern medicine is supposed to take a biopsychosocial view of illness. In fact,
+lately the spiritual dimension has been added so that we need a
+biopsychosociospiritual view. I have heard views of the spiritual dimension of
+addiction from two sets of physicians: those who practice medicine whether,
+they treat addiction or not, and those that bring a deep personal understanding
+of addiction recovery to their practice of medicine. The first group understands
+that any illness can weigh on one’s spirit, but the second group understands
+that addiction is perhaps unique among illnesses in its spiritual dimension.
+Some might argue that the second group is bringing a non-medical view into their
+medical practice. I don’t believe that is the case. My belief comes not from
+understanding addiction recovery, but rather from my understanding of addiction
+biology. In the case of addiction, the unique biology of the illness is what
+brings about the spiritual dimension.
+
+While midbrain dopamine tone is important for hedonic tone, midbrain signals
+also reach areas of the cortex where we are signaled that everything is okay,
+and we have enough. In short, if we don’t have enough midbrain dopamine tone,
+we don’t have enough of anything.
+
+Remember, that addiction is not caused by normal people drinking too much but
+rather by this biology and often caused by genetics. Imagine now a child born
+with such biology. This lack of “I have enough” signal leads to a restlessness
+that can never be contented. Every time we are asked for something, it is as if
+we are being asked for our life’s breath, and we become irritable. Restless,
+Irritable and Discontented, the famous triad of the basic state of the
+unrecovered addict. But so far these are just symptoms. Why would I say they
+cause the spiritual dimension of the illness?
+
+We were all born to survive. We would like to believe that our cortex is in
+control. We would like to believe that given the choice between two options we
+could decide on the higher course in all cases. We would like to believe, in
+short, that we are civilized. However, in our self-referential over-prizing of
+the cortex we forget that it is not the only decision-making center of the brain.
+We were not designed to be civilized, but to survive. Given a survival situation,
+it is a rare individual indeed who will be able to pick death over personal
+safety. If heroes were common, they wouldn’t be heroes.
+
+Consider the following thought experiment. Imagine something you know you
+shouldn’t do, such as stealing. You probably don’t steal regularly. Whether you
+don’t steal because you are afraid of getting caught or because you think it is
+wrong does not matter. What matters is that you don’t steal. Now imagine that
+you have not eaten in 6 days. You are reaching the limit of your ability to
+survive. I have bread but won’t share. Would you steal my bread? What if you
+still didn’t want to steal? What if you thought it would be better for society
+that you die rather than commit an anti-social act? Could you refrain from
+stealing to save your life? I doubt it too.
+
+So, what does this have to do with addiction? It is the midbrain dopamine tone
+that gives us the signal that we have enough. This is not perceived as a nice to
+have, but as a necessity of life. This is a survival signal, one the cortex
+cannot override. Imagine that child born with not enough. Imagine him trying to
+learn to ask for what he needs. Imagine that the rejections are perceived, not
+by choice but by biology, as life threatening. He will not learn to ask and hear
+“no.” He will learn to cajole, manipulate, force, bully, and use every other
+means he can to get what his brain tells him he needs to survive. He will come
+to rely only on himself because he can trust no one else to always get the
+dopamine. He will become alone, self-centered, ego driven. He will not know that
+his thoughts and behaviors are driven by biology beyond his control. He will
+grow up thinking that he wants to be this way, that he is this way because
+that’s the way he chooses to be. He will be living without a spiritual
+connection to the universe.
+
+It is no coincidence that the first step of recovery is acceptance that one is
+powerless over addiction. It is recognition that the illness is beyond the
+control of choice or wish or cortex that frees the person with addiction to
+listen to something else besides his own midbrain. This acceptance, that I
+cannot make decisions about what I want and what I need, that I get bad
+information from my brain about what you ought to give me and what I ought to
+get, that I need to rely on direction from outside my own skull in order to get
+the life I really want, this is the acceptance that opens the door to recovery
+from this illness.
+
+Of course, Addiction Medicine as a specialty can aid in reaching this point.
+Many people, even with genetically determined addiction, can be helped with
+medication to bring their midbrain dopamine tone to normal or near normal. Then,
+the imperious demands of the midbrain can be quieted so that the patient can learn to listen to another voice.
+There will always be a medical camp that doesn’t see addiction as unique. There
+will always be a recovery camp that sees the spiritual process in addiction and
+recovery as outside the understanding of medicine. But more and more, through
+brain research that illuminates the underpinnings of the illness, we are coming
+to understand a true middle road where both camps can live and recover. It is a
+basic principle of the Townsend way to use medication to foster recovery and
+growth of spirit, not as a substitute for that growth.
 
 
 [12]: American Psychiatric Association (2000). Diagnostic and Statistical Manual

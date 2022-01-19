@@ -490,15 +490,51 @@ a personality disorder as an expression of their lack of response to treatment.*
 
 ## Now About Sleep
 
-It’s very common to have sleep problems in early recovery, and it is also very common for people with addiction to have had sleep problems all their lives. This has less to do with the past drug use than it does with brain functioning, so I’d like to explain a bit about that and how the addiction doctor can help.
+It’s very common to have sleep problems in early recovery, and it is also very
+common for people with addiction to have had sleep problems all their lives.
+This has less to do with the past drug use than it does with brain functioning,
+so I’d like to explain a bit about that and how the addiction doctor can help.
 
-In general, there are two kinds of sleep troubles: trouble falling asleep and trouble staying asleep. Trouble staying asleep is most often a direct result of not having enough dopamine tone in the midbrain. Dopamine is the “I have enough” chemical. Low dopamine is the same signal your body uses to tell you you’re in a famine and in a famine, you aren’t supposed to sleep soundly; someone may come and steal your apples. So, the patient’s ability to sleep soundly is an important biological marker that tells the physician when the medication prescribed has returned dopamine tone to normal. If one prescribes a sleep agent, the marker will be masked. It will be harder for the physician to know when the right dose of the medication has been reached.
+In general, there are two kinds of sleep troubles: trouble falling asleep and
+trouble staying asleep. Trouble staying asleep is most often a direct result of
+not having enough dopamine tone in the midbrain. Dopamine is the “I have enough”
+chemical. Low dopamine is the same signal your body uses to tell you you’re in a
+famine and in a famine, you aren’t supposed to sleep soundly; someone may come
+and steal your apples. So, the patient’s ability to sleep soundly is an
+important biological marker that tells the physician when the medication
+prescribed has returned dopamine tone to normal. If one prescribes a sleep
+agent, the marker will be masked. It will be harder for the physician to know
+when the right dose of the medication has been reached.
 
-Trouble falling asleep in addiction is generally not a nighttime problem; it’s a problem of the whole day. As we go through the day without vigorous recovery work, we accumulate little things here and there that play on our minds. As we’re busy and keeping ourselves distracted with day-to-day business, we don’t notice. When our head hits the pillow however, the distraction is gone, and all that stuff comes rushing back. So, the part of us that is keeping us awake can be thought of as the healthiest part that’s saying, “Hey, don’t go to sleep. We have recovery work left to do.” If you just lay there awake in bed, you’ll be practicing being awake in bed. Remember, you get more of whatever you practice. If you take a sleeping pill, you’re shutting up the healthiest part of you. Sounds like a lose/lose situation.
+Trouble falling asleep in addiction is generally not a nighttime problem; it’s a
+problem of the whole day. As we go through the day without vigorous recovery
+work, we accumulate little things here and there that play on our minds. As
+we’re busy and keeping ourselves distracted with day-to-day business, we don’t
+notice. When our head hits the pillow however, the distraction is gone, and all
+that stuff comes rushing back. So, the part of us that is keeping us awake can
+be thought of as the healthiest part that’s saying, “Hey, don’t go to sleep. We
+have recovery work left to do.” If you just lay there awake in bed, you’ll be
+practicing being awake in bed. Remember, you get more of whatever you practice.
+If you take a sleeping pill, you’re shutting up the healthiest part of you.
+Sounds like a lose/lose situation.
 
-Instead, if you can’t fall asleep in 20 minutes or so, get out of bed, sit in a chair, and read the Big Book, Alcoholics Anonymous. Don’t read in bed, don’t read a novel or a magazine. One of two things will happen. You’ll either get tired and go to sleep – you win. Or you’ll get good recovery work done – you win. You may stay up all night reading the Big Book. I’ve given this advice to hundreds of patients and not one (who didn’t nap the next day) has ever told me he didn’t sleep the next night.
+Instead, if you can’t fall asleep in 20 minutes or so, get out of bed, sit in a
+chair, and read the Big Book, Alcoholics Anonymous. Don’t read in bed, don’t
+read a novel or a magazine. One of two things will happen. You’ll either get
+tired and go to sleep – you win. Or you’ll get good recovery work done – you win.
+You may stay up all night reading the Big Book. I’ve given this advice to
+hundreds of patients and not one (who didn’t nap the next day) has ever told me
+he didn’t sleep the next night.
 
-Of course, there are other causes of not sleeping besides addiction. Some are medical and associated with the brain and some are medical and not associated with the brain. Also, the normal human trauma response disrupts sleep and will generally pass in a few weeks if there are no reasons for it to become chronic. A chronic trauma response is common in people with addiction so it’s a big one to keep in mind. In general, the key is that not sleeping is a symptom of something else, not the main problem. It is a basic principle of the Townsend way not to merely treat the symptom of insomnia but to find and resolve the underlying disorder. 
+Of course, there are other causes of not sleeping besides addiction. Some are
+medical and associated with the brain and some are medical and not associated
+with the brain. Also, the normal human trauma response disrupts sleep and will
+generally pass in a few weeks if there are no reasons for it to become chronic.
+A chronic trauma response is common in people with addiction so it’s a big one
+to keep in mind. In general, the key is that not sleeping is a symptom of s
+omething else, not the main problem. *It is a basic principle of the ADAM way
+not to merely treat the symptom of insomnia but to find and resolve the
+underlying disorder.*
 <div style="page-break-after: always;"></div>
 
 ## Drug of Choice

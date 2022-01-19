@@ -539,15 +539,85 @@ underlying disorder.*
 
 ## Drug of Choice
 
-When I think about it, there are few terms in the addiction treatment field that are sillier than “Drug of Choice.” As if we get to choose which drug makes the brain go “BAM.” When you talk to a person with addiction and ask, “What’s your drug of choice?” what you get is the answer to “What drug that is available to you lately at a price you can afford that makes you feel better with the least side effects?” Quite a mouthful, huh?
-Would we ask a diabetic if their toxin of choice is sugar? How did they choose sugar? Why didn’t they choose to have an abnormal reaction to arsenic instead of sugar? What a stupid choice! Using the concept of choice, as in which would you choose if they were all lined up, can confuse us and strengthen the stigma and the idea that people with addiction are normal people who choose to use drugs. If we asked someone with addiction if they chose to have cocaine work the way it works with them or if they chose to have an abnormal reaction to alcohol, we’d hear a resounding “no.” “If I had the choice of what my brain reacted to I’d have picked something a lot cheaper and easier to get than cocaine,” something like wildflowers or dandelions, no doubt.
-What is it we really want to know when we ask the question? And why? Well, up to now we really haven’t had a good reason. We just needed a word to write down in the “Drug of Choice” box on the assessment. In many cases it meant something, for instance when the person used only one drug. Most of the time however it doesn’t mean much with regard to choosing treatment. However, because researchers like things that come in boxes there has been a lot of research on “Drug of Choice.” It’s been used to predict treatment outcomes regarding which treatment is used. One example of such a research question would be, “Do alcoholics or opioid addicts do better when given naltrexone?” By dividing people up by “Drug of Choice” we manage to make one population (alcoholics), which is heterogeneous, sound different from another (opioid addicts) which is heterogeneous in a different and overlapping way with regard to neurobiology. It’s really no wonder most addiction research doesn’t make much sense.
-But still insurance companies ask the question, and the government asks the question so we ask the question, as if we get to choose. But modern science gives us a new reason to ask a question about “Drug of Choice.” It’s just not the question we’ve been asking.
-We don’t have many lab tests that we can use clinically in addiction medicine. It would be great if we had rapid, inexpensive PET scans that could predict something in individual patients instead of groups of subjects. But we don’t, at least not yet. In the meantime, we get to ask the patient about the drugs he’s used and with the knowledge of how those drugs work in the brain we can make some informed choices about which medications might help the patient. The problem is that people use the drug they use for a lot of different reasons, and we need to know those reasons as well for it to mean anything clinically.
-For instance, we may ask a person if he likes to use cocaine. He says “no,” that he hates it. If we take it that far and no further, we think that cocaine doesn’t work for him and that a dopamine reuptake blocker such as bupropion wouldn’t work as a medication for him. But if we ask him why he doesn’t like cocaine, we may get more information. He may tell us he doesn’t like the crash or the paranoia, but that he can feel normal for about 10 minutes when he uses cocaine. If it was the only drug that worked for him, he’d use it but fortunately alcohol works as well and lasts longer so he drinks. It tells us first that he would likely do better on bupropion and second that he’s not likely to respond to naltrexone as some alcoholics do.
-So we do need a question; it’s just not, “What’s your Drug of Choice.” It’s more like “What drug or drugs work to make your brain feel normal at the peak of the experience regardless of what side effects or time course may make you not like the experience in general.” You know, the DODWTMYBFNATPOTEROWSEOTCMMYNLTEIG. We need a shorter acronym; the government wouldn’t even use that one, and they thought up SAMHSA!
-And while we’re at it we need a term that doesn’t make people think that people with addiction get to choose what makes them feel better. Cocaine doesn’t have a street value because a lot of people choose it; it has a street value because it works to make a lot of people with addiction feel normal for a brief period. When we use the word “choose” society gets the wrong idea and will come up with the wrong solution.
-So we use the term, Most Effective Reward. It’s not limited to drugs and alcohol, it is focused biologically on the core problem, and it doesn’t imply conscious choice. There are still limitations. We must remember cultural aspects and economic availability. Just because someone’s most effective reward isn’t cocaine doesn’t mean that bupropion won’t work. They may have never been exposed to cocaine. But if we start thinking in terms of Most Effective Reward (MER) rather than Drug of Choice, we’ll likely take a more effective history and be able to be more effective in helping the patient.
+When I think about it, there are few terms in the addiction treatment field that
+are sillier than “Drug of Choice.” As if we get to choose which drug makes the
+brain go “BAM.” When you talk to a person with addiction and ask, “What’s your
+drug of choice?” what you get is the answer to “What drug that is available to
+you lately at a price you can afford that makes you feel better with the least
+side effects?” Quite a mouthful, huh?
+
+Would we ask a diabetic if their toxin of choice is sugar? How did they choose
+sugar? Why didn’t they choose to have an abnormal reaction to arsenic instead of
+sugar? What a stupid choice! Using the concept of choice, as in which would you
+choose if they were all lined up, can confuse us and strengthen the stigma and
+the idea that people with addiction are normal people who choose to use drugs.
+If we asked someone with addiction if they chose to have cocaine work the way it
+works with them or if they chose to have an abnormal reaction to alcohol, we’d
+hear a resounding “no.” “If I had the choice of what my brain reacted to I’d
+have picked something a lot cheaper and easier to get than cocaine,” something
+like wildflowers or dandelions, no doubt.
+
+What is it we really want to know when we ask the question? And why? Well, up to
+now we really haven’t had a good reason. We just needed a word to write down in
+the “Drug of Choice” box on the assessment. In many cases it meant something,
+for instance when the person used only one drug. Most of the time however it
+doesn’t mean much with regard to choosing treatment. However, because
+researchers like things that come in boxes there has been a lot of research on
+“Drug of Choice.” It’s been used to predict treatment outcomes regarding which
+treatment is used. One example of such a research question would be, “Do
+alcoholics or opioid addicts do better when given naltrexone?” By dividing
+people up by “Drug of Choice” we manage to make one population (alcoholics),
+which is heterogeneous, sound different from another (opioid addicts) which is
+heterogeneous in a different and overlapping way with regard to neurobiology.
+It’s really no wonder most addiction research doesn’t make much sense.
+
+But still insurance companies ask the question, and the government asks the
+question so we ask the question, as if we get to choose. But modern science
+gives us a new reason to ask a question about “Drug of Choice.” It’s just not
+the question we’ve been asking.
+
+We don’t have many lab tests that we can use clinically in addiction medicine.
+It would be great if we had rapid, inexpensive PET scans that could predict
+something in individual patients instead of groups of subjects. But we don’t, at
+least not yet. In the meantime, we get to ask the patient about the drugs he’s
+used and with the knowledge of how those drugs work in the brain we can make
+some informed choices about which medications might help the patient. The
+problem is that people use the drug they use for a lot of different reasons, and
+we need to know those reasons as well for it to mean anything clinically.
+
+For instance, we may ask a person if he likes to use cocaine. He says “no,” that
+he hates it. If we take it that far and no further, we think that cocaine
+doesn’t work for him and that a dopamine reuptake blocker such as bupropion
+wouldn’t work as a medication for him. But if we ask him why he doesn’t like
+cocaine, we may get more information. He may tell us he doesn’t like the crash
+or the paranoia, but that he can feel normal for about 10 minutes when he uses
+cocaine. If it was the only drug that worked for him, he’d use it but
+fortunately alcohol works as well and lasts longer so he drinks. It tells us f
+irst that he would likely do better on bupropion and second that he’s not likely
+to respond to naltrexone as some alcoholics do.
+
+So we do need a question; it’s just not, “What’s your Drug of Choice.” It’s more
+like “What drug or drugs work to make your brain feel normal at the peak of the
+experience regardless of what side effects or time course may make you not like
+the experience in general.” You know, the DODWTMYBFNATPOTEROWSEOTCMMYNLTEIG. We n
+eed a shorter acronym; the government wouldn’t even use that one, and they
+thought up SAMHSA!
+
+And while we’re at it we need a term that doesn’t make people think that people
+with addiction get to choose what makes them feel better. Cocaine doesn’t have a
+street value because a lot of people choose it; it has a street value because it
+works to make a lot of people with addiction feel normal for a brief period.
+When we use the word “choose” society gets the wrong idea and will come up with
+the wrong solution.
+
+So in practicing the ADAM way, we use the term, **Most Effective Reward**. It’s
+not limited to drugs and alcohol, it is focused biologically on the core problem,
+and it doesn’t imply conscious choice. There are still limitations. We must
+remember cultural aspects and economic availability. Just because someone’s most
+effective reward isn’t cocaine doesn’t mean that bupropion won’t work. They may
+have never been exposed to cocaine. But if we start thinking in terms of Most
+Effective Reward (MER) rather than Drug of Choice, we’ll likely take a more
+effective history and be able to be more effective in helping the patient.
 <div style="page-break-after: always;"></div>
 
 

@@ -1029,24 +1029,84 @@ into a big black box, and like magic, the finished product comes out the other
 side. What goes in is our experience, and what comes out is our emotion. What
 goes on in the big black box is that emotion generation process.
 
-So someone calls us a bad name, and we get angry. Why? We don’t know, something happened in that big black box, I guess.
-Well psychologists have been looking in the box, and while they still haven’t figured out how it works, they have figured out what we do about it. They’ve outlined two strategies people use to change negative emotion. These are called “reappraisal” and “expressive suppression,” and they work at different points in the process. Reappraisal seems to work inside the black box somewhere and expressive suppression is like standing by the conveyor right outside the black box taking things off before they can be packed and shipped.
+So someone calls us a bad name, and we get angry. Why? We don’t know, something
+happened in that big black box, I guess.
 
-We’re all familiar with expressive suppression, at least those of us who live with other people are. That’s where you have a negative emotion, and you just hold it in or tell yourself you don’t feel it. We all also know how little it does to make things better.
+Well psychologists have been looking in the box, and while they still haven’t
+figured out how it works, they have figured out what we do about it. They’ve
+outlined two strategies people use to change negative emotion. These are called
+“reappraisal” and “expressive suppression,” and they work at different points
+in the process. Reappraisal seems to work inside the black box somewhere and
+expressive suppression is like standing by the conveyor right outside the black
+box taking things off before they can be packed and shipped.
 
-But most people who haven’t been in cognitive therapy don’t know what reappraisal is so let’s look at that. Reappraisal has several steps. First you must recognize something happened and that you had a reaction. Second, you question your reaction. Third, you look at why you had the reaction, and fourth, you look at the underlying assumptions that led to your reaction. By the time you get that far, you’ve gone a long way to reappraising your reaction to whatever happened.
-Of course, most people stop there if they get that far, and most people figure out they were right after all. But we could take it one step further. We could talk to someone else. Why? Because if we are unwilling to talk to another person, it’s probably because we used the reappraisal process to just fool ourselves into reinforcing the original assumptions. If we are willing to talk to another person, it’s much less likely that we’ve done that. And if we did, the other person has a shot at catching it and pointing it out to us.
+We’re all familiar with expressive suppression, at least those of us who live
+with other people are. That’s where you have a negative emotion, and you just h
+old it in or tell yourself you don’t feel it. We all also know how little it
+does to make things better.
 
-Lest you think this all may sound nice but be completely made up I want to tell you about a study published a few years ago . In the study 17 women looked at video designed to either elicit a neutral or a negative reaction. They did this while either using either suppression or reappraisal. They were asked about their emotional experience and their facial expressions were videotaped. Both reappraisal and suppression decreased emotional behavior and experience. But here’s the kicker. They did the study with everyone’s head in a fast fMRI machine. The women who used reappraisal had very early (less than 5 seconds) response in their frontal cortex and decreased response in the amygdala (where emotional memory is stored) while those who used suppression had a late (10 to 15 seconds) response in the frontal cortex but increased response in the amygdala.
+But most people who haven’t been in cognitive therapy don’t know what
+reappraisal is so let’s look at that. Reappraisal has several steps. First you
+must recognize something happened, and that you had a reaction. Second, you
+question your reaction. Third, you look at why you had the reaction, and fourth,
+you look at the underlying assumptions that led to your reaction. By the time
+you get that far, you’ve gone a long way to reappraising your reaction to
+whatever happened.
 
-So using reappraisal seems to give us just as good a result faster and more permanently than suppression, which leaves all those negative emotional memories piled up in the amygdala. Well, why don’t we all just use reappraisal? Probably because suppression is easier; it doesn’t cost us as much effort. You get what you pay for.
+Of course, most people stop there, if they get that far. And most people decide
+they were right after all. But we could take it one step further. We could talk
+to someone else. Why? Because if we are unwilling to talk to another person,
+it’s probably because we used the reappraisal process to just fool ourselves
+into reinforcing the original assumptions. If we are willing to talk to another
+person, it’s much less likely that we’ve done that. And if we did, the other
+person has a shot at catching it and pointing it out to us.
 
-Since I’m not writing this about psychology but about practicing addiction medicine, you’re probably wondering why I’m writing about this at all. It’s because the 4th and 5th step as outlined in Alcoholics Anonymous is as good an example of reappraisal as you’ll find anywhere, and you’re in a unique position to teach the patient about this. The more we practice it the quicker we get at it and as it becomes a second nature thing, it happens in seconds. Suppression is something we can do when we are not engaged in recovery. We can suppress alone, even when we are isolated. In fact suppression probably works better when no one is around to remind us of the garbage backing up in our amygdala. We can just pat ourselves on the back for not hitting that guy with the baseball bat and think everything is fine. The only problem is that the amygdala doesn’t like to hold on to garbage for long and it leaks out on someone else pretty quickly leaving us wondering why they’re mad at us.
+Lest you think this all may sound nice but be completely made up I want to tell
+you about a study published a few years ago[^51]. In the study 17 women looked at
+video designed to either elicit a neutral or a negative reaction. They did this
+while either using either suppression or reappraisal. They were asked about
+their emotional experience and their facial expressions were videotaped. Both
+reappraisal and suppression decreased emotional behavior and experience. But
+here’s the kicker. They did the study with everyone’s head in a fast fMRI
+machine. The women who used reappraisal had very early (less than 5 seconds)
+response in their frontal cortex and decreased response in the amygdala (where
+emotional memory is stored) while those who used suppression had a late
+(10 to 15 seconds) response in the frontal cortex but increased response in the
+amygdala.
 
-Reappraisal, taken all the way, requires a community to do it in. It requires someone to listen in a non-judgmental way. It requires acceptance. It requires love. You can get that in therapy, but it’s so much better when you have 10 recovering friends for free 24/7 than one therapist at an hourly rate once a week.
+So using reappraisal seems to give us just as good a result faster and more
+permanently than suppression, which leaves all those negative emotional memories
+piled up in the amygdala. Well, why don’t we all just use reappraisal? Probably
+because suppression is easier; it doesn’t cost us as much effort. You get what
+you pay for.
 
-So what if we never learn what goes on in the big black box? Who cares? If we have a way to reappraise what happens and how we feel, a way that can lead us to all the benefits of suppression with none of the side effects, we really don’t have to know why it works. Because it does.
- 
+Since I’m not writing this about psychology but about practicing addiction
+medicine, you’re probably wondering why I’m writing about this at all. It’s
+because the 4th and 5th step as outlined in Alcoholics Anonymous is as good an
+example of reappraisal as you’ll find anywhere, and you’re in a unique position
+to teach the patient about this. The more we practice it the quicker we get at
+it and as it becomes a second nature thing, it happens in seconds. Suppression
+is something we can do when we are not engaged in recovery. We can suppress
+alone, even when we are isolated. In fact suppression probably works better when
+no one is around to remind us of the garbage backing up in our amygdala. We can
+just pat ourselves on the back for not hitting that guy with the baseball bat
+and think everything is fine. The only problem is that the amygdala doesn’t
+like to hold on to garbage for long and it leaks out on someone else pretty
+quickly leaving us wondering why they’re mad at us.
+
+Reappraisal, taken all the way, requires a community to do it in. It requires
+someone to listen in a non-judgmental way. It requires acceptance. It requires
+love. You can get that in therapy, but it’s so much better when you have 10
+recovering friends for free 24/7 than one therapist at an hourly rate once a
+week.
+
+So what if we never learn what goes on in the big black box? Who cares? If we
+have a way to reappraise what happens and how we feel, a way that can lead us
+to all the benefits of suppression with none of the side effects, we really
+don’t have to know why it works. Because it does.
+ <div style="page-break-after: always;"></div>
+
+
 [40]: Volkow, N. D. et al. Reproductibility of repeated measures of 11C
   raclopride binding in the human brain. J. Nucl. Med. 34, 609−613 (1993)
 

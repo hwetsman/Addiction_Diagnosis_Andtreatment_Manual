@@ -811,13 +811,48 @@ lot more than we are comfortable with.
  
 ## Monitoring Addiction vs “Physical Disease”
 
-We are often confronted in this field with the idea that somehow addiction is less physical than other diseases. Nothing could be further from the truth, but it’s a common misconception. Perhaps a better way of stating the reality is that addiction is no more “mental” than other physical illnesses.
-One of the ways the misconception is stated to me is that I somehow have less to go on with medical treatment than my colleagues that treat ailments outside of the brain. I’m having my own challenge with a condition right now that belies that. A couple of years ago I started to feel ill and it turned out I had a hiatal hernia, gastro-esophageal reflux (GERD). So, I was started on medication and did well. I evidently had also gotten some scarring on my vocal cord from the GERD, and this had to be attended to as well. The scarring didn’t improve after six months of medication, so the medication was changed, and I had to get off caffeine. I actually felt worse reflux on the new medication, so it was changed back to the old but at double the original dose. I still felt worse than I did on the original treatment that didn’t improve my vocal cord scarring.
-What I noticed recently is the decision-making process of my doctor in all this. I’ve never had my esophageal reflux measured. They have no way to know if the reflux is better or just less acidic on the medication. They make decisions based on ideas such as caffeine makes reflux worse rather than on measuring if it makes it worse in me. There’s no profound knowledge of my specific physiology or genetics in these decisions. They seem to be made based on what has worked in studies that may, or may not, apply to me.
-I don’t really see how theses ENT and GI doctors are really any better off than people who treat behavioral brain disease. Sure, they could measure the acid in my esophagus, but they don’t. It’s too expensive. I could measure someone’s dopamine release and baseline dopamine receptor availability, but I don’t; it’s too expensive. Okay, I had gastroscopy and they could see the esophagus was better with the medication, but how often can you do that? What tools do they have for ongoing monitoring that I don’t have? We both rely on the subjective reports of patients, and as a patient, I can tell you my subjective report is influenced by a lot more than the acid in my esophagus.
-What we’re missing in addiction medicine is the same thing we’re missing in regular medicine, monitoring. Technology may improve this with cheaper monitors that are less intrusive and internal medicine will probably benefit before addiction medicine will, but right now you don’t see a lot of people running around checking their esophageal acid levels and learning on a day-to-day basis what helps and what doesn’t. If we could, the effect would be startling. Instead of saying to a patient, “don’t eat this” and “don’t do that,” we’d be saying, “how did that work?” Things would get a lot easier, and we wouldn’t be relying on subjective data. We might even find out that our long-held beliefs were wrong.
+We are often confronted in this field with the idea that somehow addiction is
+less physical than other diseases. Nothing could be further from the truth, but
+it’s a common misconception. Perhaps a better way of stating the reality is that
+addiction is no more “mental” than other physical illnesses.
+
+One of the ways the misconception is stated to me is that I somehow have less to
+go on with medical treatment than my colleagues that treat ailments outside of
+the brain. I’ve had my own challenge with a condition in the past that belies
+that. A several years ago I started to feel ill, and it turned out I had a
+hiatal hernia, gastro-esophageal reflux (GERD). So, I was started on medication
+and did well. I evidently had also gotten some scarring on my vocal cord from
+the GERD, and this had to be attended to as well. The scarring didn’t improve
+after six months of medication, so the medication was changed, and I had to get
+off caffeine. I actually felt worse reflux on the new medication, so it was
+changed back to the old but at double the original dose. I still felt worse than
+I did on the original treatment that didn’t improve my vocal cord scarring.
+
+What I noticed was the decision-making process of my doctor in all this. I’d
+never had my esophageal reflux measured. They have no way to know if the reflux
+is better or just less acidic on the medication. They make decisions based on
+ideas such as caffeine makes reflux worse rather than on measuring if it makes
+it worse in me. There’s no profound knowledge of my specific physiology or
+genetics in these decisions. They seem to be made based on what has worked in
+studies that may, or may not, apply to me.
+
+I don’t really see how theses ENT and GI doctors are really any better off than
+people who treat behavioral brain disease. Sure, they could measure the acid in
+my esophagus, but they don’t. It’s too expensive. I could measure someone’s
+dopamine release and baseline dopamine receptor availability with PET, but I
+don’t; it’s too expensive. Okay, I had gastroscopy and they could see the
+esophagus was better with the medication, but how often can you do that? What
+tools do they have for ongoing monitoring that I don’t have? We both rely on the
+subjective reports of patients, and as a patient, I can tell you my subjective
+report is influenced by a lot more than the acid in my esophagus.
+
+What we’re missing in addiction medicine is the same thing we’re missing in the
+rest of medicine, monitoring. Technology may improve this with cheaper monitors
+that are less intrusive and internal medicine will probably benefit before addiction medicine will, but right now you don’t see a lot of people running around checking their esophageal acid levels and learning on a day-to-day basis what helps and what doesn’t. If we could, the effect would be startling. Instead of saying to a patient, “don’t eat this” and “don’t do that,” we’d be saying, “how did that work?” Things would get a lot easier, and we wouldn’t be relying on subjective data. We might even find out that our long-held beliefs were wrong.
+
 Here’s an example. My doctors told me that caffeine increases acid production and decreases the tension in the sphincter between the stomach and esophagus. Therefore, I need to stay away from caffeine, as it will make GERD worse. They learned this in school. However, in 1975, when they were in school, an article in the New England Journal of Medicine  showed that caffeine actually increased the tone of the sphincter. Old study you say? Here’s the abstract from another study from 1994.  It’s obviously from a commonwealth country. I really included it because I love they way they spell esophagus.
 “Coffee and tea are believed to cause gastro-oesophageal reflux: however, the effects of these beverages and of their major component, caffeine, have not been quantified. The aim of this study was to evaluate gastro-oesophageal reflux induced by coffee and tea before and after a decaffeination process, and to compare it with water and water-containing caffeine. Three hour ambulatory pH-metry was performed on 16 healthy volunteers, who received 300ml of (i) regular coffee, decaffeinated coffee or tap water (n=16), (ii) normal tea, decaffeinated tea, tap water, or coffee adapted to normal tea in caffeine concentration (n=6, and (iii) caffeine-free and caffeine-containing water (n=8) together with a standardized breakfast. Regular coffee induced a significant (P<0.05) gastro-oesophageal reflux compared with tap water and normal tea, which were not different from each other. Decaffeination of coffee significantly (p<0.05) diminished gastro-oesophageal reflux, whereas decaffeination of tea or addition of caffeine to water had no effect. Coffee adapted to normal tea in caffeine concentration significantly (p<0.05) increased gastro-oesophageal reflux. Coffee, in contrast to tea, increases gastro-oesophageal reflux, an effect that is less pronounced after decaffeination. Caffeine does not seem to be responsible for gastro-oesophageal reflux which must be attributed to other components of coffee.”
+
 So, it isn’t caffeine I should stay away from, it’s coffee. Interesting study but on a very small number of people. What would be the effect of thousands of people with real time measurements all submitting their data in real time with food and beverage intake? It would revolutionize the care of GERD. We need the same sort of thing in addiction medicine. I bet our old thoughts would be revolutionized as well.
 <div style="page-break-after: always;"></div>
 

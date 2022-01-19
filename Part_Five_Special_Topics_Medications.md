@@ -15,25 +15,96 @@
 
 ### Medications used in addiction
 
-**GABA Receptor Agents**: There are three reasons for using a medicine that turns on the GABA receptors. They are distinguished by the receptors they affect. Agents that are useful in medical withdrawal from alcohol or sedatives must agonize both the GABAa and the GABAb receptor. While benzodiazepines do this, they are generally not appropriate in the outpatient treatment of addiction because they can be rewarding and lead to compulsive use if unsupervised. Other medications that are agonists at both GABA receptors are the “Anti-epileptic Drugs” also known as AEDs. These are medications such as valproic acid and carbamazepine that are both rapidly titrated, affect both GABAa and GABAb and are useful in sedative hypnotic withdrawal. Other AEDs are slower to titrate and less useful in the treatment of withdrawal symptoms.
+**GABA Receptor Agents**: There are three reasons for using a medicine that
+turns on the GABA receptors. They are distinguished by the receptors they
+affect. Agents that are useful in medical withdrawal from alcohol or sedatives
+must agonize both the GABA<sub>a</sub> and the GABA<sub>b</sub> receptor. While benzodiazepines do
+this, they are generally not appropriate in the outpatient treatment of
+addiction because they can be rewarding and lead to compulsive use if
+unsupervised. Other medications that are agonists at both GABA receptors are the
+“Anti-epileptic Drugs” also known as AEDs. These are medications such as
+valproic acid and carbamazepine that are both rapidly titrated, affect both
+GABA<sub>a</sub> and GABA<sub>b</sub> and are useful in sedative hypnotic withdrawal. Other AEDs are
+slower to titrate and less useful in the treatment of withdrawal symptoms.
 
-A reason other than withdrawal management to use an agent that acts positively at a GABA receptor is to use one that specifically agonizes GABAb primarily. Under the influence of GABAb the dopamine spike from a drug is not as high and the resulting crash is not as low. It can help someone who is trying to stop using from using as much as they had been. There’s no guarantee with it, but it can be a useful technique. The AEDs are good for this GABAb effect as well as an old muscle relaxant called baclofen. We don’t need to use this as much as we used to, now that acamprosate is available in this country (see glutamate agents below).
+A reason other than withdrawal management to use an agent that acts positively
+at a GABA receptor is to use one that specifically agonizes GABAsub>b</sub> primarily.
+Under the influence of GABAsub>b</sub> the dopamine spike from a drug is not as high and
+the resulting crash is not as low. It can help someone who is trying to stop
+using from using as much as they had been. There’s no guarantee with it, but it
+can be a useful technique. The AEDs are good for this GABAsub>b</sub> effect as well as an
+old muscle relaxant called baclofen. We don’t need to use this as much as we
+used to, now that acamprosate is available in this country (see glutamate agents
+below).
 
-The final reason to use GABA agents in addiction treatment is to treat underlying anxiety in Type I patients. The AEDs are good for this, and any can be used. The primary considerations are time to titration and med-med interactions. Benzodiazepines are generally not appropriate medications for the treatment of anxiety disorders in people with addiction.
+The final reason to use GABA agents in addiction treatment is to treat
+underlying anxiety in Type I patients. The AEDs are good for this, and any can
+be used. The primary considerations are time to titration and med-med
+interactions. Benzodiazepines are generally not appropriate medications for the
+treatment of anxiety disorders in people with addiction.
 
-**Dopamine Agents**: We can affect dopamine tone by increasing the amount of dopamine at the receptor. This can be done by increasing the amount of dopamine produced, the amount of dopamine released or decreasing the reuptake or degradation of dopamine in the synapse. For increasing the amount produced, in those patients who are genetically affected by MTHFR mutation we use Deplin, a prescription form of L-methylfolate. For those with decreased dopamine release we could use either buprenorphine, selegiline, or Chantix depending on why the patient had decreased release. If both production and release is thought to be appropriate, we can use bupropion to increase the amount by decreasing reuptake. There is suggestion that an herbal supplement, Rhodiola Rosia, can decrease COMT degradation of dopamine.
+**Dopamine Agents**: We can affect dopamine tone by increasing the amount of
+dopamine at the receptor. This can be done by increasing the amount of dopamine
+produced, the amount of dopamine released or decreasing the reuptake or
+degradation of dopamine in the synapse. For increasing the amount produced, in
+those patients who are genetically affected by MTHFR mutation we use
+L-methylfolate. For those with decreased dopamine release we could use either
+buprenorphine, selegiline, or Chantix depending on why the patient had decreased
+release. If both production and release is thought to be appropriate, we can use
+bupropion to increase the amount by decreasing reuptake. There is suggestion
+that an herbal supplement, Rhodiola Rosia, can decrease COMT degradation of
+dopamine.
 
-There are two problematic medications that have been used to raise dopamine in people with addiction. The first is amphetamines, and the second is a drug called modafinil. Amphetamines are dangerous because they don’t just block the reuptake of dopamine, they run the reuptake pump in reverse. This produces a situation where the patient and doctor are forced to choose between two equally abhorrent long-term possibilities: that the patient have a daily crash to restore dopamine reuptake (which will raise risk of returning to compulsive use) and risk a chronic dose escalation with no drug holiday (which could lead to an untreatable condition in several years with depletion of dopamine stores). Townsend doesn’t use amphetamines in patients with addiction. At first it was thought that modafinil worked like bupropion, and only blocked the reuptake of dopamine. But reports suggest that, at least in some patients, it acts more like an amphetamine. Until we can determine, perhaps genetically, who can and can’t take modafinil safely, its use should only be undertaken with the most cautious care.
+There are two problematic medications that have been used to raise dopamine in
+people with addiction. The first is amphetamines, and the second is a drug
+called modafinil. Amphetamines are potentially dangerous because they don’t just
+block the reuptake of dopamine, they run the reuptake pump in reverse. This
+produces a situation where the patient and doctor are forced to choose between
+two equally abhorrent long-term possibilities: that the patient have a daily
+crash to restore dopamine reuptake (which will raise risk of returning to
+compulsive use) and risk a chronic dose escalation with no drug holiday (which
+could lead to an untreatable condition in several years with depletion of
+dopamine stores). I didn't use amphetamines in patients with addiction. At first
+it was thought that modafinil worked like bupropion, and only blocked the
+reuptake of dopamine. But reports suggest that, at least in some patients, it
+acts more like an amphetamine. Until we can determine, perhaps genetically, who
+can and can’t take modafinil safely, its use should only be undertaken with the
+most cautious care.
 
-**Glutamate Modulators**: Acamprosate works to block the glutamate-triggered craving that comes in response to sensory cues that remind the patient of previous drug use. The glutamate signal is normally released in the reward center and serves to get the compulsive use cycle spinning. Because each dopamine spike is followed by a crash, this spinning leads to the craving one normally feels during the dopamine crash. With acamprosate blocking the glutamate signal, the reward circuit doesn’t spin up as much, and there is less chance of craving.
+**Glutamate Modulators**: Acamprosate works to block the glutamate-triggered
+craving that comes in response to sensory cues that remind the patient of
+previous drug use. The glutamate signal is normally released in the reward
+center and serves to get the compulsive use cycle spinning. Because each
+dopamine spike is followed by a crash, this spinning leads to the craving one
+normally feels during the dopamine crash. With acamprosate blocking the
+glutamate signal, the reward circuit doesn’t spin up as much, and there is less
+chance of craving.
 
-We’ve also noticed that it helps with what we used to call “denial” and now call “pre-thought level of disease acceptance.” I think the denial is caused by an overflow of the brain’s opioids into the area that remembers emotions, and under the influence of this overflow the person cannot remember how bad it was to use. As the acamprosate tunes down the glutamate signal, the reward system doesn’t get spun up. So, instead of the brain’s opioids flooding the area and causing “denial,” acamprosate keeps the opioid flood from happening. It’s been very helpful and low in side effects.
+We’ve also noticed that it helps with what we used to call “denial” and now
+call “pre-thought level of disease acceptance.” (More on the stages of disease
+acceptance in a later section.) I think the denial is caused by an overflow of
+the brain’s opioids into the area that remembers emotions, and under the
+influence of this overflow the person cannot remember how bad it was to use. As
+the acamprosate tunes down the glutamate signal, the reward system doesn’t get
+spun up. So, instead of the brain’s opioids flooding the area and causing
+“denial,” acamprosate keeps the opioid flood from happening. It’s been very
+helpful and low in side effects.
 
-Since using acamprosate, I have not had the need to use a GABAb agent much other than for withdrawal. The GABAb effect must have been lowering glutamate but maybe not as directly because acamprosate seems to work better than the AEDs on the issue of denial.
+Since using acamprosate, I have not had the need to use a GABA<sub>b</sub> agents
+much other than for withdrawal. The GABA<sub>b</sub> effect must have been lowering
+glutamate but maybe not as directly because acamprosate seems to work better
+than the AEDs on the issue of denial.
 
-**Opioid Receptor Agents**: A lot of doctors block the opioid receptor, which makes sense if you want to stop drug use. It doesn’t make as much sense if you’re treating what was wrong with the person before they started using drugs to feel better. The medication to block the opiate receptor is called naltrexone, and it has recently been released as a once a month shot for people who have had trouble maintaining abstinence. Hopefully, we will soon have genetic markers for who needs buprenorphine and who can safely take naltrexone over the long term.
+**Opioid Receptor Agents**: A lot of doctors block the opioid receptor, which
+makes sense if you want to stop drug use. It doesn’t make as much sense if
+you’re treating what was wrong with the person before they started using drugs
+to feel better. The medication to block the opiate receptor is called naltrexone,
+and it has recently been released as a once a month shot for people who have had
+trouble maintaining abstinence. Hopefully, we will soon have genetic markers for
+who needs buprenorphine and who can safely take naltrexone over the long term.
 <div style="page-break-after: always;"></div>
- 
+
+
 ### From Methadone to Suboxone
 
 Methadone, because of its high affinity for the mu receptor, its long half-life, and it’s deep deposition into tissue, poses a special problem when inducing buprenorphine treatment. The “common wisdom” taught in the eight-hour buprenorphine training generally provides an insufficient model to successfully transfer most methadone patients to Suboxone. As a result, it has become a common thinking that there are many people who cannot make the transition and “need methadone.” This section will give you background on why the typical method doesn’t work and alternative methods that do. It will also discuss a few problems that accompany Suboxone induction and early treatment after methadone.

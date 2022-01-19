@@ -167,7 +167,7 @@ that the acute pain problem is resolved you can stop the oxycodone and induce
 Suboxone after 24 hours for addiction treatment. Similar pain treatment regimens
 utilizing Fentanyl patches exist in the literature.
 
-Special problems:
+**Special problems**:
 
 Methadone is long lasting in the body because of its long half-life and its
 deposition and slow leaching from tissues. It has a high affinity for the mu
@@ -190,72 +190,250 @@ Consultation is often required, and many practitioners are afraid to attempt
 outpatient transition from methadone to Suboxone. Should you have any questions,
 seek consultation with someone experienced in these methods.
 <div style="page-break-after: always;"></div>
- 
+
 ### Bupropion
 
-Suboxone was not the first addition wonder drug. Long before Suboxone became available I found great use from bupropion (Wellbutrin). Bupropion is a dopamine and nor-epinephrine reuptake blocker. Our primary interest in it is to block the reuptake of dopamine at the DAT and increase the amount of dopamine in the synapse of the VTA/NA. Of course, we can’t limit the actions of bupropion to that area, so we’ll be raising dopamine levels throughout the brain.
+Suboxone was not the first addition wonder drug. Long before Suboxone became
+available I found great use from bupropion (Wellbutrin). Bupropion is a dopamine
+and nor-epinephrine reuptake blocker. Our primary interest in it is to block the
+reuptake of dopamine at the DAT and increase the amount of dopamine in the
+synapse of the VTA/NA. Of course, we can’t limit the actions of bupropion to
+that area, so we’ll be raising dopamine levels throughout the brain.
 
-The effect of bupropion is immediate. As soon as it gets to the brain it blocks the DAT and, in the appropriate patient, dopamine level starts to rise. When the patient needs bupropion, and you get to the appropriate dose symptom release will be that day or the next. This is, of course, in contrast to its effect as an anti-depressant. As you know, Major Depression is a biological illness that results in symptomatology by the loss of neuronal interconnectedness due to decreased neurogenesis. When bupropion or any anti-depressant is given for Major Depression, it acts at the cortisol receptor to block cortisol, reversing the chronic stress signal, restarting the production of BDNF and reinstituting neurogenesis. The BDNF must then travel down to the axonal terminal, restart axonal growth, and the axon has to grow back to make the connection that was lost. This regrowth process is what takes 6-8 weeks for an anti-depressant to work and is not of primary interest to us in addiction medicine.
+The effect of bupropion is immediate. As soon as it gets to the brain it blocks
+the DAT and, in the appropriate patient, dopamine level starts to rise. When the
+patient needs bupropion, and you get to the appropriate dose symptom relief will
+be that day or the next. This is, of course, in contrast to its effect as an
+anti-depressant. As you know, Major Depression is a biological illness that
+results in symptomatology by the loss of neuronal interconnectedness due to
+decreased neurogenesis. When bupropion or any anti-depressant is given for Major
+Depression, it acts at the cortisol receptor to block cortisol, reversing the
+chronic stress signal, restarting the production of BDNF and reinstituting
+neurogenesis. The BDNF must then travel down to the axonal terminal, restart
+axonal growth, and the axon has to grow back to make the connection that was
+lost. This regrowth process is what takes 6-8 weeks for an anti-depressant to
+work and is not of primary interest to us in addiction medicine.
 
-For our purposes, bupropion will work in three different types of patients: those with a hyperactive DAT, those with a hyperactive COMT, those with low density or low function of dopamine receptors or downstream messengers. Because of its action it will not work, in general, on people who don’t make enough dopamine or people who don’t release enough dopamine. In addition, because bupropion works throughout the brain, special care will be needed with those patients with addiction who are genetically Type I.
+For our purposes, bupropion will work in three different types of patients:
+those with a hyperactive DAT, those with a hyperactive COMT, those with low
+density or low function of dopamine receptors or downstream messengers. Because
+of its action it will not work, in general, on people who don’t make enough
+dopamine or people who don’t release enough dopamine. In addition, because
+bupropion works throughout the brain, special care will be needed with those
+patients with addiction who are genetically Type I.
 
-	Hyperactive DAT:  This case is clear-cut. The DAT is hyperactive, and we are blocking it with bupropion. When we do, dopamine level will rise in the synapse.
+#### Hyperactive DAT:  
+This case is clear-cut. The DAT is hyperactive, and we are blocking it with
+bupropion. When we do, dopamine level will rise in the synapse.
 
-	Hyperactive COMT: This is a case of indirect effect. As the DAT is not the problem in this patient the action of bupropion, while perhaps useful, won’t be the best long-term solution. However, we may not know about the COMT effect at the time of prescription of bupropion. When we block DAT dopamine tone will rise, but because COMT is hyperactive we are just giving it more dopamine to chew. This will work, but it will be indirect. If we find later that this person has hyperactive COMT, we may wish to switch to a medication or supplement that blocks COMT.
+#### Hyperactive COMT:
+This is a case of indirect effect. As the DAT is not the problem in this patient
+the action of bupropion, while perhaps useful, won’t be the best long-term
+solution. However, we may not know about the COMT effect at the time of
+prescription of bupropion. When we block DAT dopamine tone will rise, but
+because COMT is hyperactive we are just giving it more dopamine to chew. This
+will work, but it will be indirect. If we find later that this person has
+hyperactive COMT, we may wish to switch to a medication or supplement that
+blocks COMT.
 
-	Low DR density, low DR function, or downstream signaling problem: Again, this is a case of indirect effect, however there are no more direct treatments currently available. Bupropion is useful here to raise the level of dopamine at the receptor so that more signal can get through.
+#### Low DR density, low DR function, or downstream signaling problem:
+Again, this is a case of indirect effect, however there are no more direct
+treatments currently available. Bupropion is useful here to raise the level of
+dopamine at the receptor so that more signal can get through.
 
-	Insufficient dopamine production: If we don’t make enough dopamine, we can’t release enough dopamine, and if we can’t release enough dopamine, blockade of the DAT will not result in as sufficient a rise in dopamine level. As you know, the only factor we can currently reverse in dopamine production is that related to MTHFR. While MTHFR problems exist in around 25-30% of the population, you’ll note that the addicted population has a much higher rate of MTHFR problems. Luckily, we have Deplin for these patients. Once on Deplin, if these patients need bupropion, it should work, but only after Deplin.
+#### Insufficient dopamine production: If we don’t make enough dopamine, we
+can’t release enough dopamine, and if we can’t release enough dopamine, blockade
+of the DAT will not result in as sufficient a rise in dopamine level. As you
+know, the only factor we can currently reverse in dopamine production is that
+related to MTHFR. While MTHFR problems exist in around 25-30% of the population,
+you’ll note that the addicted population has a much higher rate of MTHFR
+problems. Luckily, we have L-methylfolate for these patients. Once on
+L-methylfolate, if these patients need bupropion, it should work, but only
+after L-methylfolate.
 
-Don’t release enough dopamine: The reasoning is as above, but here the problem isn’t dopamine production. If someone has poor dopamine release because of a mu receptor polymorphism we can use Suboxone. If they have poor dopamine release because of a nicotine receptor problem we can use Chantix. Sometimes when people are on bupropion and we start either of these medications they find they have too much dopamine, and in this case, we’d remove bupropion, the downstream medication.
+#### Don’t release enough dopamine:
+The reasoning is as above, but here the problem isn’t dopamine production. If
+someone has poor dopamine release because of a mu receptor polymorphism we can
+use Suboxone. If they have poor dopamine release because of a nicotine receptor
+problem we can use Chantix. Sometimes when people are on bupropion and we start
+either of these medications they find they have too much dopamine, and in this
+case, we’d remove bupropion, the downstream medication.
 
-Cautions on people with hyperactive MAOb: Patients with hyperactive MAOb will breakdown dopamine after reuptake before it can be safely packaged into vesicles. If such a patient is put on bupropion, the effect is intensified because reuptake is slower and presentation of dopamine at the enzyme will be slower and more effective. These are people who make experience a resumption of symptoms after initial relief of symptoms with bupropion. They would be better to be treated with a specific MAOb inhibitor unless contraindicated.
+#### Cautions on people with hyperactive MAO<sub>b</sub>:
+Patients with hyperactive MAO<sub>b</sub> will breakdown dopamine after
+reuptake before it can be safely packaged into vesicles. If such a patient is
+put on bupropion, the effect is intensified because reuptake is slower and
+presentation of dopamine at the enzyme will be slower and more effective. These
+are people who make experience a resumption of symptoms after initial relief of
+symptoms with bupropion. They would be better to be treated with a specific
+MAO<sub>b</sub> inhibitor unless contraindicated.
 
-Cautions on genetic Type I’s: People who genetically have high dopamine and anxious symptoms will begin to use sedatives to cope. While these sedatives are helpful at first, each time the alcohol or sedative causes a midbrain dopamine reward spike there is some increased loss of VTA cells. This can lead, over time, to their development of addiction by loss of midbrain dopamine tone. When they present to treatment for addiction they pose a special problem, because we must cover for the high dopamine symptoms first before raising dopamine in the midbrain. That can be done with either an SSRI to lower dopamine release or a GABAb agent to decrease the dopamine spike. Some precaution should be taken in these people before starting bupropion, even if bupropion is indicated, or else they will likely have an increase in anxiety and be unable to tolerate the bupropion.
+#### Cautions on genetic Type I’s:
+People who genetically have high dopamine and anxious symptoms will begin to use
+sedatives to cope. While these sedatives are helpful at first, each time the
+alcohol or sedative causes a midbrain dopamine reward spike there is some
+increased loss of VTA cells. This can lead, over time, to their development of
+addiction by loss of midbrain dopamine tone. When they present to treatment for
+addiction they pose a special problem, because we must cover for the high
+dopamine symptoms first before raising dopamine in the midbrain. That can be
+done with either an SSRI to lower dopamine release or a GABA<sub>b</sub> agent to decrease
+the dopamine spike. Some precaution should be taken in these people before
+starting bupropion, even if bupropion is indicated, or else they will likely
+have an increase in anxiety and be unable to tolerate the bupropion.
 
-In dosing bupropion, we must first be aware of the many forms in which it comes. Wellbutrin (immediate release) peaks in one hour and would have to be taken three times a day to achieve a steady state. However, this rapid peaking is associated with four times the seizure risk of SSRI’s and SHOULD NEVER BE USED IN CLINICAL CASES. Wellbutrin SR is a form that peaks in three hours and is marketed for bid use. In some people it can be used bid, but some cannot get an even steady state without using SR three times a day. It has the same seizure risk as an SSRI and is generally safe to use. Wellbutrin XL peaks in five hours and is marketed as once a day. Very rarely will someone be able to take once a day dosing of XL, and then only at the lowest dose. Generally, it’s a twice a day medication. Aplenzin is a form of bupropion bromide instead of bupropion chloride. They say it is longer lasting, but it has about the same pharmacokinetic profile of XL.
+In dosing bupropion, we must first be aware of the many forms in which it comes.
+Wellbutrin (immediate release) peaks in one hour and would have to be taken
+three times a day to achieve a steady state. However, this rapid peaking is
+associated with four times the seizure risk of SSRI’s and SHOULD NEVER BE USED
+IN CLINICAL CASES. Wellbutrin SR is a form that peaks in three hours and is
+marketed for bid use. In some people it can be used bid, but some cannot get an
+even steady state without using SR three times a day. It has the same seizure
+risk as an SSRI and is generally safe to use. Wellbutrin XL peaks in five hours
+and is marketed as once a day. Very rarely will someone be able to take once a
+day dosing of XL, and then only at the lowest dose. Generally, it’s a twice a
+day medication. Aplenzin is a form of bupropion bromide instead of bupropion
+chloride. They say it is longer lasting, but it has about the same
+pharmacokinetic profile of XL.
 
-The dose of bupropion must be titrated and cannot be guessed ahead of time. It is best to start with 150mg of the XL in the morning for three days. If the patient is not well in three days, we add 150mg at bedtime. (It is important to note that the dose is given at bedtime not in the evening. As the peaking is not for five hours, if we take it at bedtime, we go to sleep, and it rises while the patient is asleep. If the patient takes it at 8 and tries to go to sleep three hours later the rising level may prevent sleep.) If the patient is not well three days after starting bid, the morning dose is raised to 300mg. I have rarely had to go to 300mg of Wellbutrin XL bid, and only in very large people. It is noted that this is a much faster titration than is taught for bupropion as an anti-depressant. Generally addicted patients know how to feel better fast and if we delay the effect of a medication by titrating for an illness that takes 6 weeks for neurons to grow, we’ll lose the patient.
+The dose of bupropion must be titrated and cannot be guessed ahead of time. It
+is best to start with 150mg of the XL in the morning for three days. If the
+patient is not well in three days, we add 150mg at bedtime. (It is important to
+note that the dose is given at bedtime not in the evening. As the peaking is not
+for five hours, if we take it at bedtime, we go to sleep, and it rises while
+the patient is asleep. If the patient takes it at 8 and tries to go to sleep
+three hours later the rising level may prevent sleep.) If the patient is not
+well three days after starting bid, the morning dose is raised to 300mg. I have
+rarely had to go to 300mg of Wellbutrin XL bid, and only in very large people.
+It is noted that this is a much faster titration than is taught for bupropion as
+an anti-depressant. Generally addicted patients know how to feel better fast and
+if we delay the effect of a medication by titrating for an illness that takes 6
+weeks for neurons to grow, we’ll lose the patient.
 
-It is important to note that the sustained effect of most bupropion preparations is based on pill integrity. NEVER COUNSEL A PATIENT OR ALLOW A PATIENT TO CUT OR BREAK PILLS WHEN TAKING BUPROPION. Breaking pills could essentially put them in a 1-hour peaking scenario and increase seizure risk.
+It is important to note that the sustained effect of most bupropion preparations
+is based on pill integrity. NEVER COUNSEL A PATIENT OR ALLOW A PATIENT TO CUT OR
+BREAK PILLS WHEN TAKING BUPROPION. Breaking pills could essentially put them in
+a 1-hour peaking scenario and increase seizure risk.
 
-When it is necessary to stop bupropion or the patient can come off of bupropion, there can be a mild “crash,” but there is generally no significant withdrawal. Most patients can be immediately stopped, but if there is time, patient satisfaction will be aided by withdrawing bupropion at the same rate we titrated it.
+When it is necessary to stop bupropion or the patient can come off of bupropion,
+there can be a mild “crash,” but there is generally no significant withdrawal.
+Most patients can be immediately stopped, but if there is time, patient
+satisfaction will be aided by withdrawing bupropion at the same rate we titrated
+it.
 
-Miscellaneous Problems:
+#### Miscellaneous Problems:
 
-“Wellbutrin never worked for me”
-	This is heard generally from patients who need Deplin or some medication to increase dopamine release. They can be assuaged with explanations of the biology and will be confident that you know what you’re talking about when they see the effects when used again, after the appropriate medication is in place.
+*“Wellbutrin never worked for me.”*
 
-“Wellbutrin made me irritable”
-	And it may have. This is heard from some people who shouldn’t be on bupropion, people with normal or high dopamine. They can be made to be irritable with too much dopamine. However, there is a group of patients who benefit from bupropion who will say this same thing. Most physicians don’t dose Wellbutrin correctly and when dosed once a day the patients will get irritable when the level is falling later in the day. Ask these patients when they got irritable. Was it in the AM within the five hours after the dose or later in the PM? Most will say it was in the PM. If so then you can assure them that they were not made irritable by the Wellbutrin, but rather by the Wellbutrin going away. This is good news as it means they were feeling better when they had a good Wellbutrin level, and it will work when dosed correctly. If someone says they were irritable 3 hours to 6 hours after taking it, then it was the medication making them irritable.
+This is heard generally from patients who need L-methylfolate or some medication
+to increase dopamine release. They can be assuaged with explanations of the
+biology and will be confident that you know what you’re talking about when they
+see the effects when used again, after the appropriate medication is in place.
 
-“I’m bulimic”
-	Well, frankly, this one scares most people to death, or at least scares them to the point where they won’t use Wellbutrin. But we must understand why there is a contraindication to use in bulimia.
-	Back before SSRIs hit the market Wellbutrin was developed. It was ready to go, approved for use in depression. The makers noted in the studies that not only did depression get better, but “obsessive compulsive” behaviors such as smoking, overeating, gambling, and drinking got better as well. Trying to make more money, they decided to do a study to treat an “obsessive compulsive” behavior. It was the 80’s and Karen Carpenter was dying of bulimia, so they tried that. It worked too. Because bulimics are compulsive overeaters who purge, and because compulsive overeating is a dopamine reward-based behavior in addiction, some of the patients responded to Wellbutrin. There were two problems. The first was that they were using immediate release Wellbutrin with its increased risk of seizure. The second was that they used practicing bulimics who were throwing up several times a day who consequently had disturbed electrolytes. There was, of course, and increased prevalence of seizures in this study. The drug was pulled, and more studies were done. I often wonder if they hadn’t been greedy, would we have twelve dopamine reuptake inhibitors and Prozac instead of twelve SSRIs and Wellbutrin.
-	In any case there has never been to my knowledge any study of non-active bulimics who had increased risk of seizure with Wellbutrin. In fact, since relapse into purging is started by compulsive overeating, and overeating can be decreased with bupropion; one might consider that the risk is actually lower.
+*“Wellbutrin made me irritable.”*
 
-“I’m an still drinking alcoholic”
-	It’s odd to think that there’s a warning on Wellbutrin about giving it to drinking alcoholics. Turns out that if you do, they can suddenly stop drinking and have withdrawal seizures. To us that’s less of a warning than an advertisement. The key here is to cover withdrawal and prevent seizures. If bupropion is indicated the physician and patient must do a risk/benefit analysis and make a joint decision on how to proceed.
+And it may have. This is heard from some people who shouldn’t be on bupropion,
+people with normal or high dopamine. They can be made to be irritable with too
+much dopamine. However, there is a group of patients who benefit from bupropion
+who will say this same thing. Most physicians don’t dose Wellbutrin correctly
+and when dosed once a day the patients will get irritable when the level is
+falling later in the day. Ask these patients when they got irritable. Was it in
+the AM within the five hours after the dose or later in the PM? Most will say it
+was in the PM. If so then you can assure them that they were not made irritable
+by the Wellbutrin, but rather by the Wellbutrin going away. This is good news as
+it means they were feeling better when they had a good Wellbutrin level, and it
+will work when dosed correctly. If someone says they were irritable 3 hours to 6
+hours after taking it, then it was the medication making them irritable.
 
-“I’ve had a seizure in the past”
-	If you treat addiction, you’ll meet lots of people who have had a seizure. Too much cocaine, too much amphetamine, too little alcohol are all precursors of the odd seizure. While any seizure is to be avoided. The simple fact that the person has had a seizure in the past must be viewed in the context of the complete illness. Again, the patient and doctor need to do a joint risk/benefit decision on how to proceed.
+*“I’m bulimic.”*
 
-“I’m on Effexor”
-	I’ve never had much luck adding Wellbutrin to Effexor or any other SNRI. Wellbutrin increases both dopamine and norepinephrine so the two medications both blocking NE reuptake can be a bit much. Also, bupropion blocks the metabolism of Effexor and therefore raises its blood level. If someone has “SSRI poop-out” from Effexor and you give them Wellbutrin, the Effexor level rises and they feel worse, blaming the Wellbutrin. I’ve had more luck switching to another SSRI without NE reuptake blockade and then starting the Wellbutrin.
+Well, frankly, this one scares most people to death, or at least scares them to
+the point where they won’t use Wellbutrin. But we must understand why there is a
+contraindication to use in bulimia.
 
-“I’m on a MAOI”
-	It is clearly contraindicated to take bupropion while taking an MAOI.
+Back before SSRIs hit the market Wellbutrin was developed. It was ready to go,
+approved for use in depression. The makers noted in the studies that not only
+did depression get better, but “obsessive compulsive” behaviors such as smoking,
+overeating, gambling, and drinking got better as well. Trying to make more money,
+they decided to do a study to treat an “obsessive compulsive” behavior. It was
+the 80’s and Karen Carpenter was dying of bulimia, so they tried that. It worked
+too. Because bulimics are compulsive overeaters who purge, and because
+compulsive overeating is a dopamine reward-based behavior in addiction, some of
+the patients responded to Wellbutrin. There were two problems. The first was
+that they were using immediate release Wellbutrin with its increased risk of
+seizure. The second was that they used practicing bulimics who were throwing up
+several times a day who consequently had disturbed electrolytes. There was, of
+course, an increased prevalence of seizures in this study. The drug was pulled,
+and more studies were done. I often wonder if they hadn’t been greedy, would we
+have twelve dopamine reuptake inhibitors and Prozac instead of twelve SSRIs and
+Wellbutrin.
 
-“Wellbutrin is giving me insomnia”
-	There are two basic forms of not sleeping patients complain of: inability to go to sleep and inability to stay asleep. The inability to stay asleep is a low dopamine phenomenon. When our dopamine tone is lowered, we aren’t designed to sleep soundly. Low dopamine tone is part of the starvation signal, and in a famine, it would be counterproductive to sleep soundly. You might come in and steal my food, or I might miss the noise of game passing by. When patients complain of this on bupropion, it should be considered that they are not taking enough to keep the level high enough at night to prevent this low dopamine dip from waking them up.
-	If someone is complaining of not falling asleep, and there aren’t many people with addiction that don’t complain of that, it should be remembered that there IS NO SAFE CHRONIC SLEEP AID IN ADDICTION. The primary reason people with addiction are not able to fall asleep is that there are still many thoughts in their mind on which they have not done step work during the day. So rather than see the inability to go to sleep as a problem of the night, it is most properly seen as a problem of the entire day. It is best to direct the patient back to their recovery for the solution to this problem. If the problem starts only when they are on bupropion, consider changing the time of the second dose or lowering the dose.
+In any case there has never been to my knowledge any study of non-active
+bulimics who had increased risk of seizure with Wellbutrin. In fact, since
+relapse into purging is started by compulsive overeating, and overeating can be
+decreased with bupropion; one might consider that the risk is actually lower.
 
-“Wellbutrin is making me irritable”
-	Like the insomnia from lowered dopamine tone, when people are taking incorrectly dosed Wellbutrin, they sometimes experience a crash during the afternoon. It should be remembered that it is a basic principle of addiction medicine to avoid crashes wherever possible.
-	When patients present with this complaint, I ask when is it making them irritable. Is it during the late morning, three to five hours after the dose? Or is it between 2 and 5PM when they are crashing. If it is during the crash, the answer is to add another dose to the AM so that the load will be spread across the day. If they are getting irritable from the Wellbutrin peak it is necessary to consider if it is from DA or NE. If from NE, alpha two agonists can be employed if not contraindicated. If you feel it’s from DA, consider a GABAb agent or SSRI to blunt the effect, or even whether Wellbutrin is the correct medication for the patient.
+*“I’m an still drinking alcoholic.”*
 
-“I have a high dopamine spike”
-	Obviously, patients don’t use these words, but if you some evidence to believe that the patient has a higher-than-normal dopamine spike, you’ll want to blunt that spike with a GABAb agent before starting Wellbutrin. If we don’t, the increased spike will just increase the reward signal from rewarding behaviors and agents and make it difficult for the patient to stop the behavior.        
+It’s odd to think that there’s a warning on Wellbutrin about giving it to
+drinking alcoholics. Turns out that if you do, they can suddenly stop drinking
+and have withdrawal seizures. To us that’s less of a warning than an
+advertisement. The key here is to cover withdrawal and prevent seizures. If
+bupropion is indicated the physician and patient must do a risk/benefit analysis
+and make a joint decision on how to proceed.
+
+*“I’ve had a seizure in the past.”*
+
+If you treat addiction, you’ll meet lots of people who have had a seizure. Too
+much cocaine, too much amphetamine, too little alcohol are all precursors of the
+odd seizure. While any seizure is to be avoided. The simple fact that the person
+has had a seizure in the past must be viewed in the context of the complete
+illness. Again, the patient and doctor need to do a joint risk/benefit decision
+on how to proceed.
+
+*“I’m on Effexor.”*
+
+I’ve never had much luck adding Wellbutrin to Effexor or any other SNRI.
+Wellbutrin increases both dopamine and norepinephrine so the two medications
+both blocking NE reuptake can be a bit much. Also, bupropion blocks the
+metabolism of Effexor and therefore raises its blood level. If someone has
+“SSRI poop-out” from Effexor and you give them Wellbutrin, the Effexor level
+rises and they feel worse, blaming the Wellbutrin. I’ve had more luck switching
+to another SSRI without NE reuptake blockade and then starting the Wellbutrin.
+
+*“I’m on a MAOI.”*
+
+It is clearly contraindicated to take bupropion while taking an MAOI.
+
+*“Wellbutrin is giving me insomnia.”*
+
+There are two basic forms of not sleeping patients complain of: inability to go
+to sleep and inability to stay asleep. The inability to stay asleep is a low
+dopamine phenomenon. When our dopamine tone is lowered, we aren’t designed to
+sleep soundly. Low dopamine tone is part of the starvation signal, and in a
+famine, it would be counterproductive to sleep soundly. You might come in and
+steal my food, or I might miss the noise of game passing by. When patients
+complain of this on bupropion, it should be considered that they are not taking
+enough to keep the level high enough at night to prevent this low dopamine dip
+from waking them up.
+
+If someone is complaining of not falling asleep, and there aren’t many people
+with addiction that don’t complain of that, it should be remembered that there
+IS NO SAFE CHRONIC SLEEP AID IN ADDICTION. The primary reason people with
+addiction are not able to fall asleep is that there are still many thoughts in
+their mind on which they have not done step work during the day. So rather than
+see the inability to go to sleep as a problem of the night, it is most properly
+seen as a problem of the entire day. It is best to direct the patient back to
+their recovery for the solution to this problem. If the problem starts only when
+they are on bupropion, consider changing the time of the second dose or lowering
+the dose.
+
+*“I have a high dopamine spike”*
+
+Obviously, patients don’t use these words, but if you some evidence to believe
+that the patient has a higher-than-normal dopamine spike, you’ll want to blunt
+that spike with a GABA<sub>b</sub> agent before starting Wellbutrin. If we don’t,
+the increased spike will just increase the reward signal from rewarding
+behaviors and agents and make it difficult for the patient to stop the behavior.        
 <div style="page-break-after: always;"></div>
 
  

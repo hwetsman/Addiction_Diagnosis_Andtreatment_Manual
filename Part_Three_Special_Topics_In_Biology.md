@@ -200,33 +200,95 @@ we were sitting on the sidelines.
 
 ## A Self-centering Illness
 
-Addiction Medicine physicians are often faced with the self-centeredness of people with addiction, as are most people who deal with such people. It immediately grates on one’s sense of what the interaction should be, and often creates a defensiveness in us that keeps us from hearing what the person with addiction is actually saying. Society looks at this self-centeredness and sees willful selfish behavior, not illness.
-So, the question is, is the self-centeredness of a person with addiction a mark of unconscionable behavior, a personality trait that predisposes to addiction or something else entirely? The first two have been long debated, as they are the only two that were seen as possibilities without understanding the underlying biology of the illness. Without modern scientific understanding (that is, left with only society’s observations or the observational definitions in the DSM) there is no way to understand an original biology that causes addiction and that could account for behaviors that are often seen with the illness but have not been seen to have the same cause. So, any biological model of addiction must explain self-centeredness. I think the known biology does.
-If we accept that the biology of addiction is often created genetically or environmentally early in life, and we accept that this biology is best characterized by the effects of a lowered dopamine tone in the reward center, we can begin to understand that the illness begins before the first external drug and has a discrete set of symptoms other than drug use. The train of effects of not having enough dopamine tone in the reward center is that there is not a signal of wellbeing to a part of the brain’s cortex (insula) that is set up to calculate the self of “wellness.”  It is related to another part of the cortex (cingulate) that seems to calculate the need for behavioral reaction to the lack of “wellness.”  This circuit seems to function in its natural state, not for determining when we need more cocaine, but to tell us when we should act to protect ourselves. It is, in short, a survival mechanism.
-As all survival mechanisms, it is unconscious and automatic. It drives behavior at a deep level regardless of what we “think” we ought to do. It should be noted that this circuit doesn’t drive us to ask for help, it drives us to act in our own self-interest. Survival mechanisms wouldn’t do much good for the organism if they required thought, or politely asking for help from other organisms.
-In most people this circuit only drives behavior in dire circumstances such as famine, war, natural disaster, etc. But in some who have a lowered dopamine tone, this circuit will be active all the time. If the lowered dopamine tone starts early and is life-long, this drive to act to protect oneself will become ingrained in the person’s repertoire of behaviors. They will act, most of the time, as if their wellbeing depended on their own ability to solve the situation or problem. They will, by necessity, center their behavior and attention on their own needs as those needs are signaled as paramount by their biology.
-This hypothesis is testable, I believe. If I am correct, we will see more self-centeredness in people who develop the symptoms of addiction early than in those who develop it late in life. And, in fact, that's what we see. It's clear from Cloninger's work that such is the case. Many other researchers have noted age of onset of addiction to vary with personality style and the more self-centered styles are associated with earlier age of onset.  
-If Addiction Could Only Talk
+Addiction Medicine physicians are often faced with the self-centeredness of
+people with addiction, as are most who deal with such people. It
+immediately grates on one’s sense of what the interaction should be, and often
+creates a defensiveness in us that keeps us from hearing what the person with
+addiction is actually saying. Society looks at this self-centeredness and sees
+willful selfish behavior, not illness.
+
+So, the question is, is the self-centeredness of a person with addiction a mark
+of unconscionable behavior, a personality trait that predisposes to addiction or
+something else entirely? The first two have been long debated, as they are the
+only two that were seen as possibilities without understanding the underlying
+biology of the illness. Without modern scientific understanding (that is, left
+with only society’s observations or the observational definitions in the
+DSM) there is no way to understand an original biology that causes both addiction
+and self-centeredness. So, any biological model of addiction must explain
+self-centeredness. I think the known biology does.
+
+If we accept that the biology of addiction is often created genetically or
+environmentally early in life, and we accept that this biology is best
+characterized by the effects of a lowered dopamine tone in the reward center, we
+can begin to understand that the illness begins before the first external drug
+and has a discrete set of symptoms other than drug use. The train of effects of
+not having enough dopamine tone in the reward center is that there is not a
+signal of wellbeing to a part of the brain’s cortex (insula) that is set up to
+calculate the state of “wellness.”  It is related to another part of the cortex
+(cingulate) that seems to calculate the need for behavioral reaction to the lack
+of “wellness.”  This circuit seems to function in its natural state, not for
+determining when we need more cocaine, but to tell us when we should act to
+protect ourselves. It is, in short, a survival mechanism.
+
+As all survival mechanisms, it is unconscious and automatic. It drives behavior
+at a deep level regardless of what we “think” we ought to do. It should be noted
+that this circuit doesn’t drive us to ask for help, it drives us to act in our
+own self-interest. Survival mechanisms wouldn’t do much good for the organism if
+they required thought, or politely asking for help from other organisms.
+
+In most people this circuit only drives behavior in dire circumstances such as
+famine, war, natural disaster, etc. But in some who have a lowered dopamine tone,
+this circuit will be active all the time. If the lowered dopamine tone starts
+early and is life-long, this drive to act to protect oneself will become
+ingrained in the person’s repertoire of behaviors. They will act, most of the
+time, as if their wellbeing depended on their own ability to solve the situation
+or problem. They will, by necessity, center their behavior and attention on
+their own needs as those needs are signaled as paramount by their biology.
+
+This hypothesis is testable, I believe. If I am correct, we will see more
+self-centeredness in people who develop the symptoms of addiction early than in
+those who develop it late in life. And, in fact, that's what we see. It's clear
+from Cloninger's work that such is the case. Many other researchers have noted
+age of onset of addiction to vary with personality style and the more self-
+centered styles are associated with earlier age of onset. 
+<div style="page-break-after: always;"></div>
+
+ 
+## If Addiction Could Only Talk
 
 It would be nice if addiction could talk, or rather, speak in a language we could understand clearly. It would be great if it would just say, “Excuse me, I’m a little low on dopamine tone, please see your doctor for this problem.” Even a dashboard light would be enough, maybe a little red LED under our thumbnail that would light up to tell us we need professional attention. It would be nice, but it doesn’t happen, so we’ll probably have to learn the language addiction does use: symptoms.
+
 Symptoms, I’ve found, come in two varieties. The first are primary (sorry, no pun intended) symptoms directly caused by the neurobiology of lowered dopamine tone in the midbrain reward system. The second are secondary (there I go again) symptoms caused either by secondary neurobiological changes or that are learned. I’ll give examples of the primary and secondary neurobiological symptoms I usually see but it’s the learned symptoms I want to get into in greater depth.
+
 I’ve mentioned elsewhere what the primary symptoms are: poor attention, poor memory, inability to attach to others, relative anhedonia, restlessness, and feeling like there’s something missing or we don’t have enough. These cause secondary symptoms directly from the neurobiological changes or by the way we interpret them and translate them into our social and family environment. Examples of secondary biological symptoms are low motivation, feeling inadequate and irritability. What I’d really like to spend some time on are the translated or learned symptoms, basically what our brain learns to say to try to get the message across.
+
 If you think of the midbrain as someone who speaks a different language and the cortex as a translator this may start to make a little sense. The midbrain doesn’t speak English; it speaks Symptom. But the people around us who could be of any help at all are all speaking English (at least in my case) so we try to get the cortex to translate. How that translation sounds depends on a lot of things. Age at onset of the disease, social background, cultural influence, and family illness history are all some but not all the influences on this translation. Think about it this way. If you’re hearing Arabic translated into English, might you not get a different translation from a native speaker than from someone who learned Arabic as an adult. And might you get a different translation from someone born in Indonesia than from someone born in Morocco? So, let’s take a look at some of these factors and how they may change the translation we hear.
 Age at onset
+
 What I mean here is not age of onset of drug use but age of onset of the primary symptoms. Of course, that onset is usually followed immediately by frantic efforts to raise dopamine tone but the first of these is rarely drug use if the onset is in childhood. So, what would someone use to raise dopamine tone at the age of three or four? An incomplete list includes foods high in sugar or fat, getting someone to show us praise, novel stimuli, and feeling more powerful than those around us. So those could get expressed as a sweet tooth, people pleasing, thrill seeking, or bullying.
+
 Of course, drug use does occur in very young children. I grew up with someone who was exposed very early to paregoric, an opioid preparation that used to be used for colic and upset stomach in children. He very much liked the effect produced by the paregoric and complained of intestinal problems a great deal. Of course, his mother, not understanding he was asking for increased dopamine took him to the pediatrician who didn’t understand he was asking for increased dopamine and treated a spastic intestine that didn’t exist. The midbrain quickly learned that when it needed more dopamine it should have a stomachache. More about learned symptoms later.
+
 As we lose dopamine tone with age, many people can get the symptoms after they become an adult. By that time, they’ll have learned words that express some of the events in the midbrain. They may be able to say they’re anxious or depressed. They may be able to say their feeling “picked on” because they don’t have enough of anything. In general, they’ll have more resources to express verbally what’s happening in the midbrain, but, of course, they won’t be able to say, “Doctor, I have a low dopamine tone in my midbrain.”
-Social Background
+
+### Social Background
+
 How could social status or background matter? Here’s one I’ve noticed. Most kids who can’t pay attention well get pretty sick and tired of getting kicked around for it. “Why can’t you do anything right?” “You never follow directions.” “Your brother doesn’t leave his things laying around.” Who wouldn’t get sick of that? So, kids react differently in different situations. The child of two professionals who prize educational achievement above all else may learn to compensate with obsessive neatness and note taking. If you can’t order your mind, at least order your external world so you can’t forget much. The same child born to a family that doesn’t prize education or that can’t afford to support the obsessive reaction will have to develop a different strategy. That’s probably why when I meet a low dopamine person who is obsessive, they are often from an upper middle to upper class family with highly educated parents. It has nothing to do with the child’s intelligence or attributes; it’s just an epiphenomenon of their social environment.
-Cultural Influence
+
+
+### Cultural Influence
 Different cultures will allow different expressions of the symptoms. For instance, that kid that had to have stomach cramps to get paregoric would have had to find a different way in a more stoic culture or one that didn’t have access to modern medication. Some cultures will allow the kinds of drugs that kids in our culture can get early: caffeine, nicotine, sugar. Others will not allow those drugs for children. Some behaviors will be acceptable and others not. So, while the family is the basic unit of culture, the culture at large can have an effect on the developing illness equal to or greater than that of the family.
-Family Illness History
+
+
+### Family Illness History
 It’s probably easier to be an alcoholic if you grow up in an alcoholic home. Your parents are more likely to see drinking as acceptable and you observe people using alcohol to medicate their emotional state early on in your life. However, family illness history doesn’t just predispose to the use of a particular drug or behavior; in some cases it can protect against it. Another boy I grew up with grew up in a home where his mother chain-smoked. He’s never picked up a cigarette in his life, not because he had normal dopamine but because he was so disgusted by his mother’s use of the drug. I can’t tell you how many people I meet using heroin or cocaine whose fathers were alcoholic and who never drank. They hated the idea of turning into their father and thought if they only avoided his drug, they’d avoid the outcome. Of course, it didn’t work like that but still that’s their thinking.
+
 So, once you see addiction in terms of a biological brain disease you have to start noticing things more subtle than what we usually term a drug. In the Townsend Way we have identified 9 behaviors that can be used before the first use of a drug as a dopamine raising behavior. In a recent study of 966 admissions to Townsend’s IOP, we saw the following distribution of the number of behaviors used before the first drug or alcohol intake. The average person used 5 of these behaviors before the first use of a drug. None said they used no such behavior before their first “drug.”
 
 Figure 10 - PRE-DRUG BEHAVIORS USED TO RAISE DA TONE
 
 I think this has important implications for treatment. Up to now, most treatment programs have focused on “drugs or alcohol” to the exclusion of other drugs like nicotine. So, a person with addiction may just leave treatment using a drug that will progress his illness more slowly but still progress his illness. It also affects “relapse” rates as we have seen.
+
 While the issue of nicotine and, to some extent, sugar and overeating are becoming more recognized in treatment programs, some of the earliest behaviors are considered part of the patient’s underlying personality and not addressed at all. I think we, as a field, would improve our service to our patients and society if we addressed these early rewarding behaviors as drugs in treatment. We’d get a more complete treatment and a more sober patient. This brings us to some of the earliest “drugs” available and a discussion of DSM Axis II personality disorders.
 <div style="page-break-after: always;"></div>
 

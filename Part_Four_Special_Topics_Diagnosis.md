@@ -140,9 +140,25 @@ quickly, will take weeks to respond anatomically.
  
 ### Major Depression
 
-The illness of biological major depression is distinct from the DSM set of symptoms that are over inclusive. In real major depression there is a decrease in white matter and an actual shrinkage of the brain. The normal brain has about 10,000 interconnections to each of its 100 billion neurons. With a chronic stress situation, increased cortisol can decrease or stop production of brain derived neurotrophic factor (BDNF) and a resulting pruning back of neuronal interconnectedness.
+The illness of biological major depression is distinct from the DSM set of
+symptoms that are over inclusive. In real major depression there is a decrease
+in white matter and an actual shrinkage of the brain. The normal brain has
+about 10,000 interconnections to each of its 100 billion neurons. With a chronic
+stress situation, increased cortisol can decrease or stop production of brain
+derived neurotrophic factor (BDNF) and a resulting pruning back of neuronal
+interconnectedness.
 
-This syndrome of brain shrinkage, and this syndrome alone, is the syndrome that takes 6 to 8 weeks to respond to medical treatment. This is because the neuron takes time to grow back. Those syndromes that are not anatomically based, but rather based on chemical deficit, will reverse immediately on the correct treatment being applied.
+This syndrome of brain shrinkage, and this syndrome alone, is the syndrome that
+takes 6 to 8 weeks to respond to medical treatment. This is because the neuron
+takes time to grow back. Those syndromes that are not anatomically based, but
+rather based on chemical deficit, will reverse immediately on the correct
+treatment being applied.
 
-All medications that are labeled as anti-depressants block the cortisol receptor independent of what monoamines they affect. In addition, there are several medications that don’t affect monoamines at all but have a robust anti-depressant response. They are generally not used as anti-depressants because of their lack of side effects and resulting lack of immediate symptom relief. This latter group includes Buspar and several anti-epileptic medications as well as lithium.
+All medications that are labeled as anti-depressants block the cortisol receptor
+independent of what monoamines they affect. In addition, there are several
+medications that don’t affect monoamines at all but have a robust anti-
+depressant response. They are generally not used as anti-depressants because of
+their lack of side effects and resulting lack of immediate symptom relief. This
+latter group includes Buspar and several anti-epileptic medications as well as
+lithium.
  <div style="page-break-after: always;"></div>

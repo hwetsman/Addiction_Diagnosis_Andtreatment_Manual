@@ -118,25 +118,83 @@ result. The field and the patients could only benefit. 
 
 ## Addiction as Professional Wrestling
 
-In the world of professional wrestling, everybody’s got a name. The name isn’t just an identifier of person but also of personality: Edge, Tank Abbot, Ultimo Dragon, etc. While most neuroscientists would shudder to think this, neuroscience has the same convention. In the case of addiction, it’s always been presented that The Cortex is battling The Midbrain.
+In the world of professional wrestling, everybody’s got a name. The name isn’t
+just an identifier of person but also of personality: Edge, Tank Abbot, Ultimo
+Dragon, etc. While most neuroscientists would shudder to think this,
+neuroscience has the same convention. In the case of addiction, it’s always been
+presented that The Cortex is battling The Midbrain.
 
-The Cortex evokes thoughts of calm deliberation, executive control, and the will. The Midbrain is the brain’s reward system and the seat of pleasure. Modern psychiatry and neuroscience understand addiction in terms of The Midbrain overpowering The Cortex when in fact it’s The Cortex who should be champ. While I think that’s a mistake, it is a vast improvement over what came before: The Cortex was the only one in the ring.
+The Cortex evokes thoughts of calm deliberation, executive control, and the
+will. The Midbrain is the brain’s reward system and the seat of pleasure. Modern
+psychiatry and neuroscience understand addiction in terms of The Midbrain
+overpowering The Cortex when it’s The Cortex who should be champ. While I think
+that’s a mistake, it is a vast improvement over what came before: The Cortex was
+the only one in the ring.
 
-Before modern neuroscience and the understanding of the brain biology of addiction it was thought that addiction was a decision. Anyone who drank too much was a normal person who chose to drink too much because they were selfish and wanted more enjoyment than others had. There was no disorder; it was just the will of a selfish or bad person.
+Before modern neuroscience and the understanding of the brain biology of
+addiction it was thought that addiction was a decision. Anyone who drank too
+much was a normal person who chose to drink too much because they were selfish
+and wanted more enjoyment than others had. There was no disorder; it was just
+the will of a selfish or bad person.
 
-Then along came psychiatry that understood neurosis and disorders of the cortex. Addiction became understood as a disorder, but a disorder of a weakened cortex. People who used drugs or alcohol were those who wanted to stop but couldn’t because their cortex, the seat of decision making, was too weak. So, psychiatry set about treating addiction as it did neurosis very early on. The answer was psychotherapy. Unfortunately, it was a resounding failure, and people with addiction were then seen as untreatable. Most of medicine and psychiatry abandoned addicted patients at that point until the modern age of neuroscience.
+Then along came psychiatry that understood neurosis and disorders of the cortex.
+Addiction became understood as a disorder, but a disorder of a weakened cortex.
+People who used drugs or alcohol were those who wanted to stop but couldn’t
+because their cortex, the seat of decision making, was too weak. So, psychiatry
+set about treating addiction as it did neurosis very early on. The answer was
+psychotherapy. Unfortunately, it was a resounding failure, and people with
+addiction were then seen as untreatable. Most of medicine and psychiatry
+abandoned addicted patients at that point until the modern age of neuroscience.
 
-Starting in the 1980s, discoveries were made that showed that the root pathology of addiction lay in The Midbrain. Despite all these discoveries modern neuroscience still has, as one target of addiction treatment, the idea of somehow increasing the power of The Cortex so that people can decide to stop. The corollary is that The Midbrain is too strong. It’s an interesting idea and appeals to concept of civilization taming the savage. Too bad it’s about as real as professional wrestling.
+Starting in the 1980s, discoveries were made that showed that the root pathology
+of addiction lay in The Midbrain. Despite all these discoveries modern
+neuroscience still has, as one target of addiction treatment, the idea of
+somehow increasing the power of The Cortex so that people can decide to stop.
+The corollary is that The Midbrain is too strong. It’s an interesting idea and
+appeals to the concept of civilization taming the savage. Too bad it’s about as
+real as professional wrestling.
 
-It seems that when we had to give up the idea that addiction is an illness of The Cortex and understand it as an illness of The Midbrain, we clung to the idea that the fix would be to turn it into a problem of The Cortex, because we know how to fix those. We really want this to become a matter of choice.
+It seems that when we had to give up the idea that addiction is an illness of
+The Cortex and understand it as an illness of The Midbrain, we clung to the idea
+that the fix would be to turn it into a problem of The Cortex, because we know
+how to fix those. We really want this to become a matter of choice.
 
-What’s always bothered me about this idea is that The Midbrain is designed by nature to be stronger than The Cortex so any fix for addiction that makes The Cortex stronger is like building a levee against a flood (I’m from New Orleans, so you get my point about the eventual outcome). The Midbrain is the part of our brain that makes us go get food when we haven’t eaten in 5 days. Even if The Cortex says, “We really shouldn’t steal food from that old lady. It isn’t right. It’s better to starve to death than hurt another person,” the Midbrain will just laugh, and we’ll go get the food. If we weren’t designed that way, our ancestors never would have survived.
+What’s always bothered me about this idea is that The Midbrain is designed by
+nature to be stronger than The Cortex so any fix for addiction that makes The
+Cortex stronger is like building a levee against a flood (I’m from New Orleans,
+so you get my point about the eventual outcome). The Midbrain is the part of our
+brain that makes us go get food when we haven’t eaten in 5 days. Even if The
+Cortex says, “We really shouldn’t steal food from that old lady. It isn’t right.
+It’s better to starve to death than hurt another person,” the Midbrain will just
+laugh, and we’ll go get the food. If we weren’t designed that way, our ancestors
+never would have survived.
 
-So, it always bothered me from a philosophical position that the idea of making The Cortex stronger was just human hubris, but I had no evidence. I think I do now.
+So, it always bothered me from a philosophical position that the idea of making
+The Cortex stronger was just human hubris, but I had no evidence. I think I do
+now.
 
-I recently received from a colleague the slides of a talk given some years ago by Dr. Nora Volkow, director of the National Institute of Drug Abuse. She pointed out in her slides the correlation between addiction and low density of dopamine receptors in The Midbrain. That is, in addiction The Midbrain is missing something. It’s not stronger; it’s missing something. She also noted that in 1993  and again in 2001  her group published studies showing that in cocaine “abusers” and methamphetamine “abusers” the lower the dopamine density in The Midbrain the lower the function of The Cortex. That means it’s the weakness of The Midbrain that causes the weakness of The Cortex. So, the image of two wrestlers in opposition has to go away, and I’ll stop capitalizing The Names.
+I recently received from a colleague the slides of a talk given some years ago
+by Dr. Nora Volkow, director of the National Institute of Drug Abuse. She
+pointed out in her slides the correlation between addiction and low density of
+dopamine receptors in The Midbrain. That is, in addiction The Midbrain is
+missing something. It’s not stronger; it’s missing something. She also noted
+that in 1993[^40] and again in 2001[^41] her group published studies showing
+that in cocaine “abusers” and methamphetamine “abusers” the lower the dopamine
+density in The Midbrain the lower the function of The Cortex. That means it’s
+the weakness of The Midbrain that causes the weakness of The Cortex. So, the
+image of two wrestlers in opposition has to go away, and I’ll stop capitalizing
+The Names.
 
-It’s time for us to recognize that when we say addiction is an illness, we mean it. It’s not in anyone’s control, and it isn’t going to be. There’s nothing we have that will change it from being an illness of the midbrain to a problem of the cortex. What that means is that someone with addiction will not be able to fix his problem with his own thinking and medicine will not be able to make him into someone who can fix his problem with his own thinking. That’s the essence of AA’s first step that’s worked better for this problem than my field of psychiatry has for over 70 years. As medicine grows in the knowledge in neurobiology, we shouldn’t forget the wisdom gained in addiction treatment while we were sitting on the sidelines.
+It’s time for us to recognize that when we say addiction is an illness, we mean
+it. It’s not in anyone’s control, and it isn’t going to be. There’s nothing we
+have that will change it from being an illness of the midbrain to a problem of
+the cortex. What that means is that someone with addiction will not be able to
+fix his problem with his own thinking and medicine will not be able to make him
+into someone who can fix his problem with his own thinking. That’s the essence
+of AA’s first step that’s worked better for this problem than my field of
+psychiatry has for over 70 years. As medicine grows in the knowledge in
+neurobiology, we shouldn’t forget the wisdom gained in addiction treatment while
+we were sitting on the sidelines.
 <div style="page-break-after: always;"></div>
 
 

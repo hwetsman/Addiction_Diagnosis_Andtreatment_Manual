@@ -896,10 +896,49 @@ revolutionized as well. As you'll see in a bit. ADAM may help there.
 
 ## Addictive
 
-I keep getting these emails from a company that wants to fix people’s receptors after “drug abuse.” Of course, they have an expensive proprietary treatment they’re selling. The latest missive is arguing against giving people, in or leaving prison, opioid agonist treatment if they are opioid dependent. One of the lines is, “However, many feel that putting someone who has already detoxed and had a period of abstinence from opioids on another potentially addictive opiate drug is a bad idea.” If you look up the word addictive, you’ll see that it implies causation of addiction. This really makes no sense unless you see addiction as an acute problem that is self-limited. If you see addiction as the chronic illness that it is, how can you give someone an illness they’ve already got?
-To be fair, perhaps the writer understood that the opioid dependent prisoner is still addicted even though they are no longer on opioids and perhaps they were referring to reigniting the behaviors associated with addiction such as drug seeking. To be honest, I don’t think they did mean that, but let’s say they did. Still the facts don’t back them up. Study after study has shown an increased death rate when “detoxing” someone from opioid maintenance   . The data is so clear that the lack of medication is a bigger risk that prison systems around the world have begun looking at methadone and buprenorphine maintenance at release. Study after study has shown less craving, less drug seeking, less illegal behavior, less drug use, longer engagement in treatment and better treatment outcomes with the use of opioid agonist therapy.
-In all other chronic diseases in medicine, we talk about remission and stability; never do we refer to giving the patient diabetes or hypertension again. They already have it. Only in the world of addiction treatment do we get confused between someone’s behavior and their illness state. I think this stems largely from the non-medical bias that we see in addiction treatment and in the rest of society’s reaction to addiction. We don’t treat addicts as if they were ill, but rather as if they were bad. This country has more people in jail per person than any other industrialized society in the world. Louisiana ranks number one in the country in inmates per person and the city that ranks number one in the state is where I live. Last year I heard from someone from the State prison system that told me that 65% of the inmates have addiction.
-If we keep treating addiction like an acute problem that people will just get over when they’ve had enough pain, we’ll keep having the revolving door we’ve built in the criminal justice system. When we recognize the illness for what it is and institute the evidence-based practices that are effective we’ll start to get the society we want.
+I keep getting these emails from a company that wants to fix people’s receptors
+after “drug abuse.” Of course, they have an expensive proprietary treatment
+they’re selling. The latest missive is arguing against giving people, in or
+leaving prison, opioid agonist treatment if they are opioid dependent. One of
+the lines is, “However, many feel that putting someone who has already detoxed
+and had a period of abstinence from opioids on another potentially addictive
+opiate drug is a bad idea.” If you look up the word addictive, you’ll see that
+it implies causation of addiction. This really makes no sense unless you see
+addiction as an acute problem that is self-limited. If you see addiction as the
+chronic illness that it is, how can you give someone an illness they’ve already
+got?
+
+To be fair, perhaps the writer understood that the opioid dependent prisoner is
+still addicted even though they are no longer on opioids and perhaps they were
+referring to reigniting the behaviors associated with addiction such as drug
+seeking. To be honest, I don’t think they did mean that, but let’s say they did.
+Still the facts don’t back them up. Study after study has shown an increased
+death rate when “detoxing” someone from opioid maintenance[^48][^49]. The data
+is so clear that the lack of medication is a bigger risk that prison systems
+around the world have begun looking at methadone and buprenorphine maintenance
+at release. Study after study has shown less craving, less drug seeking, less
+illegal behavior, less drug use, longer engagement in treatment and better
+treatment outcomes with the use of opioid agonist therapy.
+
+In all other chronic diseases in medicine, we talk about remission and
+stability; never do we refer to giving the patient diabetes or hypertension
+again. They already have it. Only in the world of addiction treatment do we get
+confused between someone’s behavior and their illness state. I think this stems
+largely from the non-medical bias that we see in addiction treatment and in the
+rest of society’s reaction to addiction. We don’t treat addicts as if they were
+ill, but rather as if they were bad. This country has more people in jail per
+person than any other industrialized society in the world.
+
+Louisiana ranks number one in the country in inmates per person and the city
+that ranks number one in the state is where I live. A few years ago I heard from
+someone from the State prison system that told me that 65% of the inmates have
+addiction.
+
+If we keep treating addiction like an acute problem that people will just get
+over when they’ve had enough pain, we’ll keep having the revolving door we’ve
+built in the criminal justice system. When we recognize the illness for what it
+is and institute the evidence-based practices that are effective we’ll start to
+get the society we want.
 <div style="page-break-after: always;"></div>
 
 

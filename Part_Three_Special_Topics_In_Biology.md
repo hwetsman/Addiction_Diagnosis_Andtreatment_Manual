@@ -3,28 +3,120 @@
  
 ### Definitions
 
-By the time we learn to use words to describe things like medical interventions or public policy we’ve heard most of the words in other contexts, and we have our own idea of what they mean. Long before we heard the word “addiction” in any adult setting we heard it as children. It’s meaning to us reflects our oldest understanding of the word. That is, we learned what we think addiction is long before we learned about what it really is.
-Most people I talk to about addiction are talking about something else. They are talking about drug taking, or substance abuse or criminal behavior or just being bad. They are talking about will and decision, self-deception and lying. To be sure all these things can be associated with addiction, but none of them are addiction.
-It is important to separate out the core phenomena of the illness called addiction from the surrounding epiphenomena that become associated with it. What keep getting in the way are the definitions we use. Before we can actually discuss what we have learned scientifically, we’re going to have to let go of our old definitions of words that we think we know the meaning to. Addiction is one of those words.
-One colleague suggested that the word “addiction’ is so filled with false meaning to people that we need a new word to mean the illness that we treat. I came up with Subcortical Hedonic Attachment Syndrome, but there were two problems. First, it didn’t quite capture everything that is core to addiction as an illness and second, SHAS is a stupid sounding acronym.
-So here are some definitions of addiction and related syndromes based on what I see in nature. The things listed here that are biological can be mapped to specific neurobiology. That informs treatment, as any diagnosis should.
-ADDICTION: A permanent dysfunction of the midbrain reward system and resulting hypo-frontality with characteristic symptoms relieved by using at least one rewarding substance or behavior and resulting in the compulsive use of that behavior.
-Notice, it must be permanent; a temporary dysfunction brought about by combat, domestic violence, or medication (like SSRIs) is not addiction even if accompanied by attempts at self-treatment with rewarding substances. Note that the hypo-frontality is secondary to the midbrain deficit. This is easily seen in the neurobiology. Because it is secondary, treating the primary biology of addiction best treats this hypo-frontality. The characteristic symptoms of midbrain reward system dysfunction include irritability, frustration intolerance, relative anhedonia, poor focus, poor memory, difficulty making attachments to others, and procrastination. Compulsive use of some substance without these symptoms would be a different syndrome. The substance or behavior must be used to control and be effective in controlling or mitigating at least some of the symptoms early on but may no longer do so late in the illness. Detailed history on the reasons for former use may be necessary to understand the difference between this and other syndromes. Use cannot be solely for oblivion from some life situations, in response to external stressors or, in the case of anxiolytic substances, for the control of anxiety caused by high dopamine tone. (note: some patients use the term “anxiety” when referring to low dopamine symptoms; the word itself is not enough to be exclusionary here)
-TEMPORARY REWARD SYSTEM DYSFUNCTION USE SYNDROME: The temporary production of symptoms of reward system dysfunction brought about by an environmental agent or situation leading to the compulsive use of a rewarding substance, which completely resolves with the removal of the causative environmental agent or situation.
-This will look like addiction clinically and will be differentiated from it by history. Temporary Reward System Dysfunction Use Syndrome can become Addiction with continued use and resulting damage to the midbrain reward system. Shame, isolation, poverty, and the use of some medications such as SSRIs are some of the things that can bring about temporary reward system dysfunction.
+By the time we learn to use words to describe things like medical interventions
+or public policy we’ve heard most of the words in other contexts, and we have
+our own idea of what they mean. Long before we heard the word “addiction” in any
+adult setting we heard it as children. It’s meaning to us reflects our oldest
+understanding of the word. That is, we learned what we think addiction is long
+before we learned about what it really is.
 
-COMPULSIVE USE SYNDROME: The temporary compulsive use of a substance or rewarding behavior brought about only in the aftermath of a rewarding stimuli not accompanied by chronic symptoms of midbrain reward system dysfunction and hypo-frontality.
-This is behaviorally temporary as it is often seen as repeated binging episodes and not present between episodes until triggered by another reward powerful enough to cause a high and resultant crash leading to compulsive use. Between episodes there are no symptoms of reward system dysfunction or hypo-frontality. Compulsive Use Syndrome can become addiction with continued use and resulting damage to the midbrain reward system. This would represent someone with only Silkworth’s “allergy.”
+Most people I talk to about addiction are talking about something else. They are
+talking about drug taking, or substance abuse or criminal behavior or just being
+bad. They are talking about will and decision, self-deception and lying. To be
+sure all these things can be associated with addiction, but none of them are
+addiction.
 
-ANXIETY INDUCED SUBSTANCE USE: The use, compulsive or otherwise, of any anxiolytic substance, rewarding or otherwise, to quell the symptoms of anxiety, even when done despite adverse consequences, coupled with an absence of symptoms of midbrain reward system dysfunction.
-Use must be solely for relief of anxiety and not for relief of symptoms of midbrain reward system dysfunction. There must be no symptoms of midbrain reward system dysfunction except in the immediate aftermath of a rewarding anxiolytic substance. Anxiety induced substance use can become Addiction with continued use and resulting damage to the midbrain reward system.
+It is important to separate out the core phenomena of the illness called
+addiction from the surrounding epiphenomena that become associated with it. What
+keep getting in the way are the definitions we use. Before we can actually
+discuss what we have learned scientifically, we’re going to have to let go of
+our old definitions of words that we think we know the meaning to. Addiction is
+one of those words.
 
-SUBSTANCE OR REWARDING BEHAVIOR ABUSE: The recurrent, non-compulsive use of a substance, despite knowledge of possible adverse consequences, for purposes of experimentation, fitting in with peers, to avoid social stigma or other social reason without evidence of compulsive use, anxiety relief from use or symptoms of midbrain reward system dysfunction.
-Substance or rewarding behavior abuse can become addiction with continued use and resulting damage to the midbrain reward system. This is the most commonly envisioned cause of addiction in America but is only seen in the history of a small minority of our patients coming for treatment.
+One colleague suggested that the word “addiction’ is so filled with false
+meaning to people that we need a new word to mean the illness that we treat. I
+came up with Subcortical Hedonic Attachment Syndrome, but there were two
+problems. First, it didn’t quite capture everything that is core to addiction as
+an illness and second, SHAS is a stupid sounding acronym.
 
-SUBSTANCE OR REWARDING BEHAVIOR USE: The occasional, voluntary, and non-problematic use of rewarding substances or behaviors in socially acceptable situations without compulsive use, symptoms, or symptom relief.
-If we use terms such as these when we discuss addiction, we will be driven to measure it much differently. We’ll be forced to take a less behavioral and more symptomatic approach to the problem. Because the symptoms are primary, this will lead to a better set of interventions targeted at the cause rather than at the result. The field and the patients could only benefit. 
-Addiction as Professional Wrestling
+So here are some definitions of addiction and related syndromes based on what I
+see in nature. The things listed here that are biological can be mapped to
+specific neurobiology. That informs treatment, as any diagnosis should.
+
+**ADDICTION**: A permanent dysfunction of the midbrain reward system and
+resulting hypo-frontality with characteristic symptoms relieved by using at
+least one rewarding substance or behavior and resulting in the compulsive use
+of that behavior.
+
+Notice, it must be permanent; a temporary dysfunction brought about by combat,
+domestic violence, or medication (like SSRIs) is not addiction even if
+accompanied by attempts at self-treatment with rewarding substances. Note that
+the hypo-frontality is secondary to the midbrain deficit. This is easily seen in
+the neurobiology. Because it is secondary, treating the primary biology of
+addiction best treats this hypo-frontality. The characteristic symptoms of
+midbrain reward system dysfunction include irritability, frustration intolerance,
+relative anhedonia, poor focus, poor memory, difficulty making attachments to
+others, and procrastination. Compulsive use of some substance without these
+symptoms would be a different syndrome. The substance or behavior must be used
+to control and be effective in controlling or mitigating at least some of the
+symptoms early on but may no longer do so late in the illness. Detailed history
+on the reasons for former use may be necessary to understand the difference
+between this and other syndromes. Use cannot be solely for oblivion from some
+life situations, in response to external stressors or, in the case of anxiolytic
+substances, for the control of anxiety caused by high dopamine tone.
+(note: some patients use the term “anxiety” when referring to low dopamine
+symptoms; the word itself is not enough to be exclusionary here)
+
+**TEMPORARY REWARD SYSTEM DYSFUNCTION USE SYNDROME**: The temporary production
+of symptoms of reward system dysfunction brought about by an environmental agent
+or situation leading to the compulsive use of a rewarding substance, which
+completely resolves with the removal of the causative environmental agent or
+situation.
+
+This will look like addiction clinically and will be differentiated from it by
+history. Temporary Reward System Dysfunction Use Syndrome can become Addiction
+with continued use and resulting damage to the midbrain reward system. Shame,
+isolation, poverty, and the use of some medications such as SSRIs are some of
+the things that can bring about temporary reward system dysfunction.
+
+**COMPULSIVE USE SYNDROME**: The temporary compulsive use of a substance or
+rewarding behavior brought about only in the aftermath of a rewarding stimuli
+not accompanied by chronic symptoms of midbrain reward system dysfunction and
+hypo-frontality.
+
+This is behaviorally temporary as it is often seen as repeated binging episodes
+and not present between episodes until triggered by another reward powerful
+enough to cause a high and resultant crash leading to compulsive use. Between
+episodes there are no symptoms of reward system dysfunction or hypo-frontality.
+Compulsive Use Syndrome can become addiction with continued use and resulting
+damage to the midbrain reward system. This would represent someone with only
+Silkworth’s “allergy.”
+
+**ANXIETY INDUCED SUBSTANCE USE**: The use, compulsive or otherwise, of any
+anxiolytic substance, rewarding or otherwise, to quell the symptoms of anxiety,
+even when done despite adverse consequences, coupled with an absence of symptoms
+of midbrain reward system dysfunction.
+
+Use must be solely for relief of anxiety and not for relief of symptoms of
+midbrain reward system dysfunction. There must be no symptoms of midbrain reward
+system dysfunction except in the immediate aftermath of a rewarding anxiolytic
+substance. Anxiety induced substance use can become Addiction with continued use
+and resulting damage to the midbrain reward system.
+
+**SUBSTANCE OR REWARDING BEHAVIOR ABUSE**: The recurrent, non-compulsive use of
+a substance, despite knowledge of possible adverse consequences, for purposes of
+experimentation, fitting in with peers, to avoid social stigma or other social
+reason without evidence of compulsive use, anxiety relief from use or symptoms
+of midbrain reward system dysfunction.
+
+Substance or rewarding behavior abuse can become addiction with continued use
+and resulting damage to the midbrain reward system. This is the most commonly
+envisioned cause of addiction in America but is only seen in the history of a
+small minority of our patients coming for treatment.
+
+**SUBSTANCE OR REWARDING BEHAVIOR USE**: The occasional, voluntary, and
+non-problematic use of rewarding substances or behaviors in socially acceptable
+situations without compulsive use, symptoms, or symptom relief.
+
+If we use terms such as these when we discuss addiction, we will be driven to
+measure it much differently. We’ll be forced to take a less behavioral and more
+symptomatic approach to the problem. Because the symptoms are primary, this will
+lead to a better set of interventions targeted at the cause rather than at the
+result. The field and the patients could only benefit. 
+<div style="page-break-after: always;"></div>
+
+
+## Addiction as Professional Wrestling
 
 In the world of professional wrestling, everybody’s got a name. The name isn’t just an identifier of person but also of personality: Edge, Tank Abbot, Ultimo Dragon, etc. While most neuroscientists would shudder to think this, neuroscience has the same convention. In the case of addiction, it’s always been presented that The Cortex is battling The Midbrain.
 

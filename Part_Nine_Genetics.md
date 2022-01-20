@@ -97,21 +97,74 @@ data is comining in all the time.
  
 ### The Heritability of Addiction
 
-I had a conversation with a colleague in which she took issue with my saying that addiction was largely a genetic illness. She pointed out that in studies of alcohol dependence and cocaine dependence and other DSM 5 substance use disorder diagnoses that the heritability accounted for about 50% (actually the studies were done with DSM IIIR and DSMIV, but the field is using DSM5 so I’m trying to stay consistent). So how could I say addiction is a largely genetic illness when only half of the variance is explained by genetics? Good question. We have to start with the fact that alcohol dependence, cocaine dependence and any other DSM 5 substance use disorder diagnosis aren’t the same as addiction. Here’s a case that is an example of why this is important.
+I had a conversation with a colleague in which she took issue with my saying
+that addiction was largely a genetic illness. She pointed out that in studies of
+alcohol dependence and cocaine dependence and other DSM5 substance use disorder
+diagnoses that the heritability accounted for about 50% (actually the studies
+were done with DSM IIIR and DSMIV, but the field is using DSM5 so I’m trying to
+stay consistent). So how could I say addiction is a largely genetic illness when
+only half of the variance is explained by genetics? Good question. We have to
+start with the fact that alcohol dependence, cocaine dependence and any other
+DSM 5 substance use disorder diagnosis aren’t the same as addiction. Here’s a
+case that is an example of why this is important.
 
-A young man of 24 enters treatment for addiction. He has been using a lot of cocaine and all efforts to stop have not availed. He feels terrible whenever he stops and immediately relapses. His history is negative for heavy drinking, “I wouldn’t touch the stuff.” It seems his father was a violent alcoholic and the son swore to himself that he’d never be like his father and never touch alcohol. After all, if you don’t drink you’ll never become an alcoholic. But his not drinking did not protect him from the illness of addiction.
+A young man of 24 enters treatment for addiction. He has been using a lot of
+cocaine and all efforts to stop have not availed. He feels terrible whenever he
+stops and immediately relapses. His history is negative for heavy drinking, “I
+wouldn’t touch the stuff.” It seems his father was a violent alcoholic and the
+son swore to himself that he’d never be like his father and never touch alcohol.
+After all, if you don’t drink you’ll never become an alcoholic. But his not
+drinking did not protect him from the illness of addiction.
 
-So if this young man were in one of those heritability studies on alcoholism what would he add? He would be the biological son of an alcoholic father who was not alcoholic, and his data would serve to decrease the estimated heritability of alcohol dependence. But what if we measured for addiction? He would be the biological son of someone with addiction who has addiction and his data would serve to increase the estimated heritability of addiction.
-We really don’t know what the heritability is of addiction because no one has ever looked! Science has split the illness up into the “addictions” and a bunch of stuff not even allowed to count in the addiction field and measured the heritability of each of those, but never as a single entity.
+So if this young man were in one of those heritability studies on alcoholism
+what would he add? He would be the biological son of an alcoholic father who was
+not alcoholic, and his data would serve to decrease the estimated heritability
+of alcohol dependence. But what if we measured for addiction? He would be the
+biological son of someone with addiction who has addiction and his data would
+serve to increase the estimated heritability of addiction.
 
-This young man’s case is not at all unusual, though it’s more common to meet someone who is an opioid addict, compulsive overeater or gambler with an alcoholic father than a cocaine addict with an alcoholic father. So in general I think the heritability of addiction is under estimated by current studies in the literature.
-To be fair let’s consider the opposite example. What about the people in a heritability study of alcoholism who were born of non-alcoholic parents but have addiction. Wouldn’t they decrease the heritability of addiction if we looked at the disease as a single entity? Perhaps, but remember the parents were non-alcoholic. No one asked them if they had addiction, only if they used alcohol in the illness of addiction. There were possibly some of those “non-alcoholics” who were compulsive overeaters or compulsive gamblers, etc.
+We really don’t know what the heritability is of addiction because no one has
+ever looked! Science has split the illness up into the “addictions” and a bunch
+of stuff not even allowed to count in the addiction field and measured the
+heritability of each of those, but never as a single entity.
 
-In truth I rarely meet a person with addiction who doesn’t have a family history of the illness though they may not think so at first. If you only include “drugs” in your definition you may not see Mom’s compulsive shopping/spending as the illness and think that you are the only one. Usually the family goes along with this, as Mom doesn’t want to label her shopping the same as Junior’s drinking.
+This young man’s case is not at all unusual, though it’s more common to meet
+someone who is an opioid addict, compulsive overeater or gambler with an
+alcoholic father than a cocaine addict with an alcoholic father. So in general
+I think the heritability of addiction is under estimated by current studies in
+the literature.
 
-There are people who get addiction without any genetic component but it isn’t easy and it isn’t common. There has to be pressure on them and the social setting to bring it about. That pressure exists in our society and it does happen, but for the most part, addiction is a largely genetic illness.
+To be fair let’s consider the opposite example. What about the people in a
+heritability study of alcoholism who were born of non-alcoholic parents but have
+addiction. Wouldn’t they decrease the heritability of addiction if we looked at
+the disease as a single entity? Perhaps, but remember the parents were non-
+alcoholic. No one asked them if they had addiction, only if they used alcohol in
+the illness of addiction. There were possibly some of those “non-alcoholics” who
+were compulsive overeaters or compulsive gamblers, etc.
 
-A couple of years ago the American Society of Addiction Medicine published a new definition of addiction as a biological illness. With a new unified definition of addiction, a new era of addiction studies and treatment can begin. The definition will actually catch up with clinical practice and allow scientists to start addressing the questions that need answering. Ones like, “What’s the heritability of addiction?”
+In truth I rarely meet a person with addiction who doesn’t have a family history
+of the illness though they may not think so at first. If you only include “drugs”
+in your definition you may not see Mom’s compulsive shopping/spending as the
+illness and think that you are the only one. Usually the family goes along with
+this, as Mom doesn’t want to label her shopping the same as Junior’s drug use.
+
+There are people who get addiction without any genetic component but it isn’t
+easy and it isn’t common. There has to be pressure on them and the social
+setting to bring it about. That pressure exists in our society and it does
+happen, but for the most part, addiction is a largely genetic illness.
+
+A couple of years ago the American Society of Addiction Medicine published a new
+definition of addiction as a biological illness. With that new unified definition
+of addiction, a new era of addiction studies and treatment had begun. The
+definition promised to actually catch up with clinical practice and allow
+scientists to start addressing the questions that need answering. Ones like,
+“What’s the heritability of addiction?”
+
+Unfortunately, ASAM was under pressure almost from the moment of its new
+definition to change it, and it since has done so. This pressure largely came
+from federal agencies and academic centers, but the decentralization of genetic
+science is moving faster than those in current power can move to stop the flow
+of new findings. There is still hope.
 <div style="page-break-after: always;"></div>
 
 

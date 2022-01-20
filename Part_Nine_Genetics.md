@@ -22,16 +22,76 @@ This is how they usually go: “We got together a big group of people with
 problematic use of a chemical and another group that doesn’t use that chemical.
 We measured single nucleotide polymorphisms (SNPs) of genes that we think may
 have to do with addiction to the drug and this is what we found.” The results
-are either positive or negative for a correlation between the group using that drug and a particular SNP. These studies are very interesting and usually end up in a lot of press response that “the gene for (fill in the blank) addiction has been found.” The problem is that there are a lot of pitfalls with this common methodology and the studies don’t mean what everyone thinks they mean.
+are either positive or negative for a correlation between the group using that
+drug and a particular SNP. These studies are very interesting and usually end up
+in a lot of press response that “the gene for (fill in the blank) addiction has
+been found.” The problem is that there are a lot of pitfalls with this common
+methodology and the studies don’t mean what everyone thinks they mean.
 
-The first problem is selection of the subjects. Currently DSM 5 divides addiction (which it limits to a diagnosis of Severe Substance Use Disorder) into different diagnoses based on the drug used. So when scientists go to select subjects they select for those with a particular DSM diagnosis. The problem is that a lot of things other than the illness go into what drug the person comes to treatment with. Culture, availability and family upbringing all have to do with what drug is used and confound the genetic biology of the illness. For instance, a good percentage of people that come to treatment for “opioid dependence” have a strong history of cocaine use. Many of these will say that they didn’t like cocaine much and didn’t use it much, but others will say that cocaine worked well to relieve the symptoms of addiction, in fact it worked better than opioids, however the cocaine is harder to get and opioids last longer. So biologically what’s the difference between someone who is using opioids because that’s the best drug and someone who is using opioids because it’s their second best drug and they don’t like the first because of a social or legal rather than reward phenomenon? We’ll never know if they both get stuck in the same group of opioid addicts for a study.
+The first problem is selection of the subjects. Currently DSM5 divides addiction
+(which it limits to a diagnosis of Severe Substance Use Disorder) into different
+diagnoses based on the drug used. So when scientists go to select subjects they
+select for those with a particular DSM diagnosis. The problem is that a lot of
+things other than the illness go into what drug the person comes to treatment
+with. Culture, availability and family upbringing all have to do with what drug
+is used and confound the genetic biology of the illness. For instance, a good
+percentage of people that come to treatment for “opioid dependence” have a
+strong history of cocaine use. Many of these will say that they didn’t like
+cocaine much and didn’t use it much, but others will say that cocaine worked
+well to relieve the symptoms of addiction, in fact it worked better than opioids,
+however the cocaine is harder to get and opioids last longer. So biologically
+what’s the difference between someone who is using opioids because that’s the
+best drug and someone who is using opioids because it’s their second best drug
+and they don’t like the first because of a social or legal rather than reward
+phenomenon? We’ll never know if they both get stuck in the same group of opioid
+addicts for a study.
 
-Another problem is the reporting of the SNPs that are associated with the addicted group without any knowledge of what the SNP does to the active protein. That, by it self, isn’t bad but most of these studies never hold out the possibility of the effect going both ways. It’s pretty easy to assume that if a receptor is mutated it doesn’t work as well as the normal, but that’s not a good assumption. There are many examples of polymorphisms where the mutation causes over activity rather than under activity of the protein. For instance there is a commonly studied mutation of the COMT enzyme that breaks down dopamine. The people who did the original work didn’t say this but many people assumed that this meant that the mutation kept COMT from working and therefore there was too much dopamine causing enhanced reward and leading to drug use and abuse. However, it turned out that the COMT enzyme actually works better with this polymorphism and so one would suppose a lower dopamine level leading to under activation and craving. The difference here may seem small but it leads to two entirely different world views of addiction: that drugs cause reward via dopamine and we should block the effect to stop drug use or that people who are addicted have a generally lower dopamine tone and need dopamine increasing treatments to stop using.
+Or consider a group of 'alcoholics.' Some are drinking because of low dopmaine
+tone, some for high dopamine tone, and some just to gain oblivion because they
+live is such poor circumstances, they can't stand it. Would we expect such a
+biologically hetergeneous group to have common genetics?
 
-The third problem is that of using a SNP by itself. Increasingly, and I’m glad, studies are dropping associations with single SNPs for associations with haplotypes. A haplotype is a grouping of SNPs. For instance lets say that Gene A has 4 SNPs (1,2,3, and 4) each can be either A or G. The haplotypes would be groups of these combinations such as AAGA or AGGA. This is important because one SNP may change the way the protein works and another change it back or cause some other effect. So if we only look at the first one, we will see an association that may not be there or fail to see one that is. Of course what we really need, and what we are close to getting, is complete sequencing.
-So, simply, these three problems stand in our way. Of course, there are more problems, but I want to keep this simple. We don’t know the function of the SNPs we’re measuring and without that we don’t know what to do with the information. We don’t have biological divisions that make sense when testing subjects so we aren’t going to find out the biologically important information. And lastly we should focus on the thing that actually works, the whole protein, not a single amino acid in the protein and therefore we should study haplotypes or even full sequences more so than single SNPs.
+Another problem is the reporting of the SNPs that are associated with the
+addicted group without any knowledge of what the SNP does to the active protein.
+That, by it self, isn’t bad but most of these studies never hold out the
+possibility of the effect going both ways. It’s pretty easy to assume that if a
+receptor is mutated it doesn’t work as well as the normal, but that’s not a good
+assumption. There are many examples of polymorphisms where the mutation causes
+over activity rather than under activity of the protein. For instance there is a
+commonly studied mutation of the COMT enzyme that breaks down dopamine. The
+people who did the original work didn’t say this but many people assumed that
+this meant that the mutation kept COMT from working and therefore there was too
+much dopamine causing enhanced reward and leading to drug use and abuse. However,
+it turned out that the COMT enzyme actually works better with this polymorphism
+and so one would suppose a lower dopamine level leading to under activation and
+craving. The difference here may seem small but it leads to two entirely
+different world views of addiction: that drugs cause reward via dopamine and we
+should block the effect to stop drug use or that people who are addicted have a
+generally lower dopamine tone and need dopamine increasing treatments to stop
+using.
 
-When these three problems get more attention it will become much more common that genetic studies inform treatment for illnesses, including addiction. Townsend has started to look at these problems in partnership with our patients and may start to generate some answers.
+The third problem is that of using a SNP by itself. Increasingly, and I’m glad,
+studies are dropping associations with single SNPs for associations with
+haplotypes. A haplotype is a grouping of SNPs. For instance lets say that Gene A
+has 4 SNPs (1,2,3, and 4) each can be either A or G. The haplotypes would be
+groups of these combinations such as AAGA or AGGA. This is important because one
+SNP may change the way the protein works and another change it back or cause
+some other effect. So if we only look at the first one, we will see an
+association that may not be there or fail to see one that is. Of course what we
+really need, and what we are close to getting, is complete sequencing.
+
+So, simply, these three problems stand in our way. Of course, there are more
+problems, but I want to keep this simple. We don’t know the function of the SNPs
+we’re measuring and without that we don’t know what to do with the information.
+We don’t have biological divisions that make sense when testing subjects so we
+aren’t going to find out the biologically important information. And lastly we
+should focus on the thing that actually works, the whole protein, not a single
+amino acid in the protein and therefore we should study haplotypes or even full
+sequences more so than single SNPs.
+
+When these three problems get more attention it will become much more common
+that genetic studies inform treatment for illnesses, including addiction. More
+data is comining in all the time.
 <div style="page-break-after: always;"></div>
 
  

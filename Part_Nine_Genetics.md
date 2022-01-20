@@ -526,7 +526,23 @@ clinical data on the response to Campral, a glutamate modulator.
 
 ### The Genetics of Non-dopamine Factors
 
-Blood Brain Barrier: There are four known polymorphisms for ABCB1, the protein that provides the “holes” in the blood brain barrier (BBB). We divide people into three groups for this analysis: tight, normal range, and loose with respect to the tightness of the BBB. Patients with a “tight” BBB will need higher peripheral levels of a chemical in order to get the desired level in the brain, than will “normal” patients. And so, people with “normal” tightness to their BBB will need higher peripheral blood levels to get the same CNS concentration as people with a “loose” BBB. The tightness of the BBB, in general determines how high the peripheral blood level of a chemical has to be in order to get a therapeutic level in the brain. Because the adverse effects of a medication are generally related to peripheral blood level, the BBB status can vary the risk of such effects on the patient. When dealing with a patient with a “tight” BBB, one has the choice of pushing the blood level very high in order to get enough into the brain or adjusting medication to, for instance, hit the same biological target from multiple directions at lower levels so as to keep the peripheral blood level of any one medication lower than that which would cause adverse effects.
+Blood Brain Barrier: There are four known polymorphisms for ABCB1, the protein
+that provides the “holes” in the blood brain barrier (BBB). We divide people
+into three groups for this analysis: tight, normal range, and loose with respect
+to the tightness of the BBB. Patients with a “tight” BBB will need higher
+peripheral levels of a chemical in order to get the desired level in the brain,
+than will “normal” patients. And so, people with “normal” tightness to their BBB
+will need higher peripheral blood levels to get the same CNS concentration as
+people with a “loose” BBB. The tightness of the BBB, in general determines how
+high the peripheral blood level of a chemical has to be in order to get a
+therapeutic level in the brain. Because the adverse effects of a medication are
+generally related to peripheral blood level, the BBB status can vary the risk of
+such effects on the patient. When dealing with a patient with a “tight” BBB, one
+has the choice of pushing the blood level very high in order to get enough into
+the brain or adjusting medication to, for instance, hit the same biological
+target from multiple directions at lower levels so as to keep the peripheral
+blood level of any one medication lower than that which would cause adverse
+effects.
 
 
 #### The Genetics of Drug and Medication Metabolism

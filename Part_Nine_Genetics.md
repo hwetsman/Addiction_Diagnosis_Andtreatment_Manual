@@ -170,20 +170,68 @@ of new findings. There is still hope.
 
 ### To be A1 or not to be A1; that is the question
 
-At an ASAM State of the Art Conference in Washington a few years ago I heard 2 really good talks on addiction where food is the drug or overeating is the process. Of course, the presenters didn’t put it quite that way. The first talk was by Gene-Jack Wang who has done a lot of the neuroimaging in addiction and found a lot of evidence that addiction is a single disease. Unfortunately, he interprets his findings differently and so titled his talk, “Overlapping Neural Circuits in Addiction and Obesity.” You can see from the title of the talk the focus on obesity still doesn’t look at the disease but the result; we might as well try to study diabetes by focusing on people who lost their feet. The other place I differ with Dr Wang’s conclusions is that he interprets his findings to mean that it’s the increased dopamine reward response that makes us eat more. I don’t think that’s true for most of the addicts I treat, and they are the target of his work.
+At an ASAM State of the Art Conference in Washington a few years ago I heard two
+really good talks on addiction where food is the drug or overeating is the
+process. Of course, the presenters didn’t put it quite that way. The first talk
+was by Gene-Jack Wang who has done a lot of the neuroimaging in addiction and
+found a lot of evidence that addiction is a single disease. Unfortunately, he
+interprets his findings differently and so titled his talk, “Overlapping Neural
+Circuits in Addiction and Obesity.” You can see from the title of the talk the
+focus on obesity still doesn’t look at the disease but the result; we might as
+well try to study diabetes by focusing on people who lost their feet. The other
+place I differ with Dr Wang’s conclusions is that he interprets his findings to
+mean that it’s the increased dopamine reward response that makes us eat more. I
+don’t think that’s true for most of the addicts I treat, and they are the target
+of his work.
 
-The second talk was by Eric Stice called, “Reward Circuitry Responsivity Predicts Weight Gain.” While Dr Wang’s talk was quite good, it’s Dr Stice’s talk that really gives us some information we didn’t have. He presented a number of studies that built a picture that determines who gains weight over the next year and who doesn’t.  Right there, you can see this is new because he’s not talking about rats and he’s not looking at people after the fact. He’s looking at the biology that determines their eating, not the biology caused by their eating. Rather than going into all the studies he presented, I want to just give you the picture he presented as I see it.
+The second talk was by Eric Stice called, “Reward Circuitry Responsivity
+Predicts Weight Gain.” While Dr Wang’s talk was quite good, it’s Dr Stice’s talk
+that really gives us some information we didn’t have. He presented a number of
+studies that built a picture that determines who gains weight over the next year
+and who doesn’t.  Right there, you can see this is new because he’s not talking
+about rats and he’s not looking at people after the fact. He’s looking at the
+biology that determines their eating, not the biology caused by their eating.
+Rather than going into all the studies he presented, I want to just give you the
+picture he presented as I see it.
 
-He showed that one would normally expect a dopamine response in the brain from food and even from thinking about food. He’s the first scientist I’ve heard who has said what people with addiction have long known, that the problem is low dopamine in the brain, not the dopamine from the drug.
+He showed that one would normally expect a dopamine response in the brain from
+food and even from thinking about food. He’s the first scientist I’ve heard who
+has said what people with addiction have long known, that the problem is low
+dopamine in the brain, not the dopamine from the drug.
 
-In the studies they looked at people who had two different forms of the dopamine receptor. One form has a lower response to seeing the brain’s dopamine and the other was normal. So those with the first form will presumably have a lower dopamine tone and need more of something to feel the dopamine release caused by it. The second form will feel normal dopamine release with a normal reward. Let’s call these two forms of the dopamine receptor A1 and A2.
-For the A1 people, the less their brain lit up when presented with food, the more likely they were to gain weight over the next year. That makes sense because they will need more food to feel the dopamine. For the A2 people it was just the opposite. For them, the more their brain responded to food the more likely they were to gain weight. Both groups can become obese.
+In the studies they looked at, people who had two different forms of the
+dopamine receptor. One form has a lower response to seeing the brain’s dopamine
+and the other was normal. So those with the first form will presumably have a
+lower dopamine tone and need more of something to feel the dopamine release
+caused by it. The second form will feel normal dopamine release with a normal
+reward. Let’s call these two forms of the dopamine receptor A1 and A2.
 
-The A2 people seem to act like Dr Wang expects; they far outnumber A1 people at about 75% to 25%, so he would mostly see the A2 people. The A1 people are the people I’m used to seeing that come for treatment for addiction regardless of what food or behavior they use.
+For the A1 people, the less their brain lit up when presented with food, the
+more likely they were to gain weight over the next year. That makes sense
+because they will need more food to feel the dopamine. For the A2 people it was
+just the opposite. For them, the more their brain responded to food the more
+likely they were to gain weight. Both groups can become obese.
 
-For normal, or A2, people the more rewarding foods are the more they’ll gain weight – just like Dr Wang suggests. If they want to lose weight, they just change their environment, get rid of rich foods, etc. However for the A1 people it’s the less reward they feel from food the more they’ll eat to feel normal, and the more they’ll gain weight. These people don’t respond to diet or environmental change; they will go get the dopamine some other way. So not every obese person has Addiction, it depends on why they’re obese, just as I’ve suggested with alcohol.
+The A2 people seem to act like Dr Wang expects; they far outnumber A1 people at
+about 75% to 25%, so he would mostly see the A2 people. The A1 people are the
+people I’m used to seeing that come for treatment for addiction regardless of
+what food or behavior they use.
 
-Again we come to the importance of knowing our genetic makeup. It’s really important for us to know what risks there are in genes so we can know how to modify our lives. Also, it’s important for treatment Dr Stice’s A1 people need augmentation of their dopamine tone so that they can eat less food and the A2 people perhaps need diet and environmental management and perhaps attenuation of their dopamine tone so they can eat less and lose weight.
+For normal, or A2, people the more rewarding foods are the more they’ll gain
+weight – just like Dr Wang suggests. If they want to lose weight, they just
+change their environment, get rid of rich foods, etc. However for the A1 people
+it’s the less reward they feel from food the more they’ll eat to feel normal,
+and the more they’ll gain weight. These people don’t respond to diet or
+environmental change; they will go get the dopamine some other way. So not every
+obese person has Addiction, it depends on why they’re obese, just as I’ve
+suggested with alcohol.
+
+Again we come to the importance of knowing our genetic makeup. It’s really
+important for us to know what risks there are in genes so we can know how to
+'modify our lives. Also, it’s important for treatment Dr Stice’s A1 people need
+augmentation of their dopamine tone so that they can eat less food and the A2
+people perhaps need diet and environmental management and perhaps attenuation of
+their dopamine tone so they can eat less and lose weight.
 <div style="page-break-after: always;"></div>
 
 

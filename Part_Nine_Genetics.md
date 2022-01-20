@@ -456,17 +456,71 @@ having cue induced craving, add Campral. As each change in medication is
 stabilized, re-measure the Townsend symptom score and the neurocognitive testing.
 Now we’ll go through it again with more specifics.
 
-Determining if the patient if primary Type II or not: This is done primarily by history. A primary Type II patient will give a history have having had symptoms as far back as he can remember which were at first and at once relieved by doing something to raise his dopamine tone. He will have generally enjoyed stimulants from the first and likely had a strong family history of the illness. The patient who was a primary Type I will have an almost opposite history. He will have not had low dopamine symptoms as a child and probably didn’t like his first use of a stimulant drug.
+**Determining if the patient if primary Type II or not**: This is done primarily by
+history. A primary Type II patient will give a history have having had symptoms
+as far back as he can remember which were at first and at once relieved by doing
+something to raise his dopamine tone. He will have generally enjoyed stimulants
+from the first and likely had a strong family history of the illness. The
+patient who was a primary Type I will have an almost opposite history. He will
+have not had low dopamine symptoms as a child and probably didn’t like his first
+use of a stimulant drug.
 
-Determining if the patient has a high risk of an aberrant dopamine spike: There are two ways to see this, one of which is currently not available. The two ways are looking for DRD2s polymorphisms and the other is to look at polymorphisms of the GABAb receptor that decrease its function. Currently, the GABAb route is theoretical; there are no known polymorphisms of the GABAb receptor that have been identified as lowering GABAb activity. The DRD2 receptor, as previously discussed, comes in two forms. There are two known polymorphisms that decrease the percentage of the short form (auto-receptor). There is no science on whether they both have to be minor alleles or whether the effect is only in homozygotes. What we can see from our population is that most people that have one of them have them both. The best we can tell now is that any polymorphism that decreases the percentage of DRD2s could be a risk for an aberrant spike.
+**Determining if the patient has a high risk of an aberrant dopamine spike**: There
+are two ways to see this, one of which is currently not available. The two ways
+are looking for DRD2s polymorphisms and the other is to look at polymorphisms of
+the GABAb receptor that decrease its function. Currently, the GABAb route is
+theoretical; there are no known polymorphisms of the GABAb receptor that have
+been identified as lowering GABAb activity. The DRD2 receptor, as previously
+discussed, comes in two forms. There are two known polymorphisms that decrease
+the percentage of the short form (auto-receptor). There is no science on whether
+they both have to be minor alleles or whether the effect is only in homozygotes.
+What we can see from our population is that most people that have one of them
+have them both (haplotype). The best we can tell now is that any polymorphism
+that decreases the percentage of DRD2s could be a risk for an aberrant spike.
 
-Determining if there is deficient MTHFR functioning: There are two polymorphisms identified as decreasing MTHFR function. One decreases the amount of the enzyme produced and seems to not have quite as much effect as the other. This first one is dominant, so heterozygotes will be affected the same as heterozygotes. The second polymorphism is the structural polymorphism. The presence of this allele makes an enzyme that does not function normally. Heterozygotes have a 33% reduction in function and homozygotes have a 76% reduction in function. Heterozygotes of the second form who also have the first should be dosed the same as homozygotes.
+**Determining if there is deficient MTHFR functioning**: There are two
+polymorphisms identified as decreasing MTHFR function. One decreases the amount
+of the enzyme produced and seems to not have quite as much effect as the other.
+This first one is dominant, so heterozygotes will be affected the same as
+heterozygotes. The second polymorphism is the structural polymorphism. The
+presence of this allele makes an enzyme that does not function normally.
+Heterozygotes have a 33% reduction in function and homozygotes have a 76%
+reduction in function. Heterozygotes of the second form who also have the first
+should be dosed the same as homozygotes.
 
-Determining if there is a polymorphism that may be decreasing dopamine release: There are a few to consider. First there are the three known polymorphisms of  receptor that are associated with decreased function. Next there is a well-described haplotype of the ACHNRA4 subunit that is associated with increased nicotine dependence. Thirdly, there are polymorphisms of the 5HT2a receptor that can increase its function, lowering dopamine release. Finally, there is a polymorphism of the MAOb enzyme that increases its function, decreasing the amount of dopamine that is packaged in each vesicle, thereby decreasing vesicular release. Polymorphisms of VMAT that decrease function would have the same role but there is no known medication to correct any VMAT deficiency.
+**Determining if there is a polymorphism that may be decreasing dopamine release**:
+There are a few to consider. First there are the three known polymorphisms of
+mu-receptor that are associated with decreased function. Next there is a well-
+described haplotype of the ACHNRA4 subunit that is associated with increased
+nicotine dependence. Thirdly, there are polymorphisms of the 5HT2c receptor that
+can increase its function, lowering dopamine release. Finally, there is a
+polymorphism of the MAOb enzyme that increases its function, decreasing the
+amount of dopamine that is packaged in each vesicle, thereby decreasing
+vesicular release. Polymorphisms of VMAT that decrease function would have the
+same role but there is no known medication to correct any VMAT deficiency.
 
-Determining if there is reason to raise dopamine at the Nucleus Accumbens: There are four polymorphisms that either decrease DRD2 density or decrease DRD2 efficacy. There is no hard science on these except for one, which has been repeatedly linked to DSM diagnoses linked to low DA tone. However, this one is not the whole story. In addition there is a gene called CAMK4 that creates a linkage protein in the second messenger system that has been associated with addiction. On the other side, there is a polymorphism that is linked to increase euphoria with increased dopamine tone. So, first we would screen for this last polymorphism, and if it’s NOT present, we would then check for CAMK4. If that polymorphism is present, the need for increased dopamine tone even with good production and release is likely. If CAMK4 is normal, we could look at the number of the remaining 4 polymorphisms, but this final step is not backed by hard science. Hopefully, in the future, Townsend will be able to answer this question.
+**Determining if there is reason to raise dopamine at the Nucleus Accumbens**:
+There are four polymorphisms that either decrease DRD2 density or decrease DRD2
+efficacy. There is no hard science on these except for one, which has been
+repeatedly linked to DSM diagnoses linked to low DA tone. However, this one is
+not the whole story. In addition there is a gene called CAMK4 that creates a
+linkage protein in the second messenger system that has been associated with
+addiction. On the other side, there is a polymorphism that is linked to increase
+euphoria with increased dopamine tone. So, first we would screen for this last
+polymorphism, and if it’s NOT present, we would then check for CAMK4. If that
+polymorphism is present, the need for increased dopamine tone even with good
+production and release is likely. If CAMK4 is normal, we could look at the
+number of the remaining 4 polymorphisms, but this final step is not backed by
+hard science. Hopefully, in the future, we will be able to answer this question.
 
-Determining if the patient is at risk for cue induced craving: At this point, it is less about genetics than about clinical reality. You have increased dopamine production and release if necessary, and you have increased the dopamine level at the receptor if called for. The patient either has cue induced craving or he has not. This type of craving seems to be related to the GRM5 receptor, for which there are no known polymorphisms. This is something we are in a unique position to answer as we have the GRM5 SNPs and, potentially, clinical data on the response to Campral, a glutamate modulator.
+**Determining if the patient is at risk for cue induced craving**: At this point,
+it is less about genetics than about clinical reality. You have increased
+dopamine production and release if necessary, and you have increased the
+dopamine level at the receptor if called for. The patient either has cue
+induced craving or he has not. This type of craving seems to be related to the
+GRM5 receptor, for which there are no known polymorphisms. This is something we
+are in a unique position to answer as we have the GRM5 SNPs and, potentially,
+clinical data on the response to Campral, a glutamate modulator.
 <div style="page-break-after: always;"></div>
 
 

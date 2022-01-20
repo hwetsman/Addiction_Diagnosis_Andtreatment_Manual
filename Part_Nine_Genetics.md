@@ -339,53 +339,122 @@ addiction. For instance, “Of the other people you know with addiction, what
 traits did you have in common with them before your first use of any drug?” To
 be honest, so much addiction research has been done without being informed by
 the experience of those with the disease, that academic research has really lost
-its way. 
+its way. So, what can we do?
 <div style="page-break-after: always;"></div>
 
 
 ### Genetics of Dopamine Related Factors
 
-Well that’s the question, isn’t it? Hopefully this will answer it. First, we need to understand that our work with genetics will not answer the question of whether or not someone has the disease of addiction. Addiction is a complex chronic illness with many determinants, and will likely never have a clear single test for its presence or absence. The second thing we need to understand is that the genetic testing will give us a view of how the patient was born, and unless you’re treating a neonate, a lot has happened to him since then. Age and damage from reward usage or lifestyle can change the original functioning a great deal. Finally, beyond genetics there are epigenetic factors that we don’t have much of a view into currently. For instance if someone is heterozygous for a trait, there is evidence that in some genes one or the other form is suppressed. This complicates greatly the predictive power that genetics can have in a complex illness. Diet, exercise, environment, and many other factors can also have epigenetic influences that can complicate a calculation made purely on the genetics of the patient. But with all that said, let’s take a look at what we can see.
+Well that’s the question, isn’t it? Hopefully this will answer it. First, we
+need to understand that our work with genetics will not answer the question of
+whether or not someone has the disease of addiction. Addiction is a complex
+chronic illness with many determinants, and will likely never have a clear
+single test for its presence or absence. The second thing we need to understand
+is that the genetic testing will give us a view of how the patient was born, and
+unless you’re treating a neonate, a lot has happened to him since then. Age and
+damage from reward usage or lifestyle can change the original functioning a
+great deal. Finally, beyond genetics there are epigenetic factors that we don’t
+have much of a view into currently. For instance if someone is heterozygous for
+a trait, there is evidence that in some genes one or the other form is
+suppressed. This complicates greatly the predictive power that genetics can have
+in a complex illness. Diet, exercise, environment, and many other factors can
+also have epigenetic influences that can complicate a calculation made purely on
+the genetics of the patient. But with all that said, let’s take a look at what
+we can see.
 
-Genetics can give us a glimpse into the workings of both neurotransmitters and their receptors. We can see some aspects of drug and medication metabolism. Issues of permeability of the blood brain barrier and miscellaneous factors can be seen. All these factors and more lie along an axis of scientific quality from rigorous definition by extended trials to pure speculation. Unfortunately it is skewed towards the latter, because no one has done much with the genetics of addiction. The closest thing we have is the genetics of this or that substance dependence syndrome, which may or may not have anything to do with the underlying illness of addiction. Seems like I just can’t stop telling you about the limitations, huh? You’re probably ready for me to say something positive.
+Genetics can give us a glimpse into the workings of both neurotransmitters and
+their receptors. We can see some aspects of drug and medication metabolism.
+Issues of permeability of the blood brain barrier and miscellaneous factors can
+be seen. All these factors and more lie along an axis of scientific quality from
+rigorous definition by extended trials to pure speculation. Unfortunately it is
+skewed towards the latter, because no one has done much with the genetics of
+addiction. The closest thing we have is the genetics of this or that substance
+dependence syndrome, which may or may not have anything to do with the
+underlying illness of addiction. Seems like I just can’t stop telling you about
+the limitations, huh? You’re probably ready for me to say something positive.
 
-One thing positive we know has nothing to do with genetics. That’s our biological model. Without it the genetics won’t do us any good at all. So before I tell you how the genetics can be useful, I’ll repeat a couple of things about the model.
+One thing positive we know has nothing to do with genetics. That’s our
+biological model. Without it the genetics won’t do us any good at all. So before
+I tell you how the genetics can be useful, I’ll repeat a couple of things about
+the model.
 
-In the model there are two main points around dopamine: dopamine tone and dopamine spike. Generally if you bring tone up to normal the spike will fix itself but sometimes, and we think this is genetic, the spike is not normalized with dopamine tone and will need a separate treatment. We should remember that when dealing with dopamine tone, we want to treat, as much as is possible, from upstream to downstream. Finally, there is also to be considered the aspect of cue induced craving from a glutamate signal from the Amygdala to the VTA.
+In the model there are two main points around dopamine: dopamine tone and
+dopamine spike. Generally if you bring tone up to normal the spike will fix
+itself but sometimes, and this seems genetic, the spike is not normalized
+with dopamine tone and will need a separate treatment. We should remember that
+when dealing with dopamine tone, we want to treat, as much as is possible, from
+upstream to downstream. Finally, there is also to be considered the aspect of
+cue induced craving from a glutamate signal from the Amygdala to the VTA.
 
-Dopamine tone: This was introduced earlier and we won’t go through it again here except to point out the various areas of intervention. We can increase dopamine production. We can increase dopamine release, both directly and indirectly. We can decrease dopamine metabolism. And finally, we can decrease dopamine reuptake.
+**Dopamine tone**: This was introduced earlier and we won’t go through it again
+here except to point out the various areas of intervention. We can increase
+dopamine production. We can increase dopamine release, both directly and
+indirectly. We can decrease dopamine metabolism. And finally, we can decrease
+dopamine reuptake.
 
-We can take another look at Equation 2, which has three terms. The three terms, Dopamine, Dopamine Receptors, and Time can be expanded to specific factor that map to specific genetic targets.
+We can take another look at Equation 2, which has three terms. The three terms,
+Dopamine, Dopamine Receptors, and Time can be expanded to specific factor that
+map to specific genetic targets.
 
+<center>DA ≈ (DA Production × DA Release ÷ DA Catabolism in synapse)</center>
 Equation 3 - Dopamine Amount Expanded
-DA =(DA Production × DA Release ÷ DA Catabolism in synapse)
 
 and one of these can be further expanded:
 
+<center>DA Release ≈ Rate of Vesicular Release × Dopamine per each Vesicle</center>
 Equation 4 - Dopamine Release Expanded
-DA Release ≈Rate of Vesicular Release × Dopamine per each Vesicle
 
-Within these equations, we could replace each biological function with the gene products that are responsible for that function. Alteration of those gene products would give us the expected alteration in the outcome.
+Within these equations, we could replace each biological function with the gene
+products that are responsible for that function. Alteration of those gene
+products would give us the expected alteration in the outcome.
 
-So
+So,
 
+<center>DA Production ≈ Tyrosine Hydroxylase × Methylenetetrahydrofolate Reductase</center>
 Equation 5 - DA Production Genetic Targets
-DA Production ≈Tyrosine Hydroxylase × Methylenetetrahydrofolate Reductase
 
+<center>DA Release ≈(μ Receptor × Nicotine Receptor ÷Serotonin 2a Receptor)× Vesicular Transporter ÷MAOb</center>
 Equation 6 - DA Release Genetic Targets
-DA Release ≈(μ Receptor × Nicotine Receptor ÷Serotonin 2a Receptor)× Vesicular Transporter ÷MAOb
 
 And the time function also has genetic targets:
+
+<center>Time ≈ 1÷Dopamine Transporter × COMT</center>
 Equation 7 - Time Genetic Targets
-Time ≈1÷Dopamine Transporter × COMT
 
-Dopamine spike: The dopamine spike is the reinforcing signal in reward. It is the result of a positive feedback loop between the dopaminergic VTA and the endorphin producing Nucleus Accumbens. It can be affected by anything that can affect the positive feedback loop. We can intervene with GABAb receptor agonists to moderate the spike and resulting crash. There are other ways to stop the spike such as complete endorphin antagonism, but such a method can leave one, not with a modulated spike, but with no spike.
+**Dopamine spike**: The dopamine spike is the reinforcing signal in reward. It
+is the result of a positive feedback loop between the dopaminergic VTA and the
+endorphin producing Nucleus Accumbens. It can be affected by anything that can
+affect the positive feedback loop. We can intervene with GABAb receptor agonists
+to moderate the spike and resulting crash. There are other ways to stop the
+spike such as complete endorphin antagonism, but such a method can leave one,
+not with a modulated spike, but with no spike.
 
-So, this leads us to an overview of the algorithmic approach to Type II addiction whether it is inherent or has come about as a result of drug use in a Type I patient. The first step is to determine if the patient was genetically a Type II or not. If the patient was genetically Type I who became Type II, then it is necessary to treat the Type I symptoms first before raising dopamine tone. We can do that with a non-benzodiazepine/non-barb GABA agent of choice or an SSRI. (Caution is required with SSRIs because they can lower dopamine release increasingly as time passes via the HTR2a receptor.)
+So, this leads us to an overview of the algorithmic approach to Type II
+addiction whether it is inherent or has come about as a result of drug use in a
+Type I patient. The first step is to determine if the patient was genetically a
+Type II or not. If the patient was genetically Type I who became Type II, then
+it is necessary to treat the Type I symptoms first before raising dopamine tone.
+We can do that with a non-benzodiazepine/non-barb GABA agent of choice or an
+SSRI. (Caution is required with SSRIs because they can lower dopamine release
+increasingly as time passes via the HTR2c receptor.)
 
-If the patient is a primary Type II, then determine if he has high risk of aberrantly high dopamine spike by looking at the DRD2 receptor. If so treat with a non-benzodiazepine/non-barb GABA agent, but not an SSRI.
+If the patient is a primary Type II, then determine if he has high risk of
+aberrantly high dopamine spike by looking at the DRD2 receptor. If so treat
+with a non-benzodiazepine/non-barb GABA agent, but not an SSRI.
 
-Then continue on to see if the patient has deficient MTHFR function. If so give Deplin 7.5mg qd for heterozygote or equivalent or 7.5mg bid for homozygote or equivalent. Then determine polymorphisms at MAOb, receptor, and ACHRNA4. If  polymorphisms appear to have decreased dopamine release consider Suboxone. If ACHRNA4, then Chantix. If MAOb is hyperactive, then Emsam. If the patient is still symptomatic after increasing dopamine release, add Wellbutrin XL, unless they are on a MAOI. (Also exercise caution when using Wellbutrin in someone with MAOb polymorphisms whether they are on an MAOI or not. Such patients can have a poop-out effect a few weeks after starting Wellbutrin.) Also consider raising dopamine at the receptor with Rhodiola rosea if COMT has a polymorphism that works overtime. If, after raising dopamine at the receptor, the patient is still having cue induced craving, add Campral. As each change in medication is stabilized, re-measure the Townsend symptom score and the neurocognitive testing. Now we’ll go through it again with more specifics.
+Then continue on to see if the patient has deficient MTHFR function. If so give
+L-methylfolate. Then determine polymorphisms at MAOb, μ-receptor, and ACHRNA4.
+If μ polymorphisms appear to have decreased dopamine release consider Suboxone.
+If ACHRNA4, then Chantix. If MAOb is hyperactive, then Emsam. If the patient is
+still symptomatic after increasing dopamine release, add Wellbutrin XL, unless
+they are on a MAOI. (Also exercise caution when using Wellbutrin in someone with
+MAOb polymorphisms whether they are on an MAOI or not. Such patients can have a
+poop-out effect a few weeks after starting Wellbutrin.) Also consider raising
+dopamine at the receptor with Rhodiola rosea if COMT has a polymorphism that
+works overtime. If, after raising dopamine at the receptor, the patient is still
+having cue induced craving, add Campral. As each change in medication is
+stabilized, re-measure the Townsend symptom score and the neurocognitive testing.
+Now we’ll go through it again with more specifics.
 
 Determining if the patient if primary Type II or not: This is done primarily by history. A primary Type II patient will give a history have having had symptoms as far back as he can remember which were at first and at once relieved by doing something to raise his dopamine tone. He will have generally enjoyed stimulants from the first and likely had a strong family history of the illness. The patient who was a primary Type I will have an almost opposite history. He will have not had low dopamine symptoms as a child and probably didn’t like his first use of a stimulant drug.
 

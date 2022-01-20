@@ -237,26 +237,109 @@ their dopamine tone so they can eat less and lose weight.
 
 ### GWAS or GWASn’t
 
-GWAS stands for Genome Wide Association Study. In a GWAS we’d take two groups, one that has an illness and one who doesn’t and then look across the entire genome in a shotgun type of way to see what genetic polymorphisms are associated with that illness. As you can imagine, we’d need a large number of people in both groups. For illnesses where there is no theory as to why they occur or no known pathophysiology to aim at, it’s a great way to get started.
-For those who don’t have a biological definition of addiction or for those who use DSM’s behavioral approach to diagnosis, it sounds like a good idea. Too bad the disease of addiction didn’t read the DSM.
+GWAS stands for Genome Wide Association Study. In a GWAS we’d take two groups,
+one that has an illness and one who doesn’t and then look across the entire
+genome in a shotgun type of way to see what genetic polymorphisms are associated
+with that illness. As you can imagine, we’d need a large number of people in
+both groups. For illnesses where there is no theory as to why they occur or no
+known pathophysiology to aim at, it’s a great way to get started.
 
-I’ve looked at the genome wide testing of over 1800 people in the last three years or so and, among other things, I looked at some SNPs (single nucleotide polymorphisms) that the addiction literature said were important because of findings in previous large, respected GWAS studies. For instance there were 4 genes implicated in some of those studies, but the studies weren’t really on addiction. They used diagnoses such as alcohol dependence, cocaine dependence or nicotine dependence. The bottom line is that I’ve stopped looking at those SNPs because after the first 100 people I looked at there were no differences between those with and without addiction and no differences by the most commonly used drug in those with addiction. I’ll tell you more reasons in a bit.
+For those who don’t have a biological definition of addiction or for those who
+use DSM’s behavioral approach to diagnosis, it sounds like a good idea. Too bad
+the disease of addiction didn’t read the DSM.
 
-Now those who laud GWAS studies for addiction will say that I was too hasty. “Only a hundred people? Those studies had thousands of people. How can you make any determination after only 100 people?” Because I practice medicine on one person at a time and will never see 10,000 patients in my lifetime. Things that are only seen in high-powered studies may be of interest to academics but they aren’t of interest to my patients. There are a few more reasons why I’m not looking for arcane one in 10,000 associations.
+I’ve looked at the genome wide testing of over 1800 people in the three years
+before writing this, and, among other things, I looked at some SNPs
+(single nucleotide polymorphisms) that the addiction literature said were
+important because of findings in previous large, respected GWAS studies. For
+instance there were 4 genes implicated in some of those studies, but the studies
+weren’t really on addiction. They used diagnoses such as alcohol dependence,
+cocaine dependence or nicotine dependence. The bottom line is that I’ve stopped
+looking at those SNPs because after the first 100 people I looked at there were
+no differences between those with and without addiction and no differences by
+the most commonly used drug in those with addiction. I’ll tell you more reasons
+in a bit.
 
-Addiction is a terminal, chronic, incurable illness with population prevalence of about 10 to 20% and is the ultimate cause behind the top 5 leading causes of death of Americans. Anything that important and that common has to have important factors that don’t need 10,000 subjects to see. Also, none of the studies were actually studies of an illness called addiction; they studied things like alcohol dependence. Let’s just take a minute to look at alcohol dependence and what GWAS studies measure.
+Now those who laud GWAS studies for addiction will say that I was too hasty.
+“Only a hundred people? Those studies had thousands of people. How can you make
+any determination after only 100 people?” Because I practice medicine on one
+person at a time and will never see 10,000 patients in my lifetime. Things that
+are only seen in high-powered studies may be of interest to academics but they
+aren’t of interest to my patients. There are a few more reasons why I’m not
+looking for arcane one in 10,000 associations.
 
-According to the old DSM nomenclature, to have the diagnosis of alcohol dependence you have to have three out of 7 alcohol related behavioral criteria in a single 12-month period. You can have them because your opioid receptor doesn’t work well and alcohol works to boost the signal. You can have them because your dopamine receptor doesn’t work well and alcohol works to boost dopamine release. You can have them because you’re being beaten at home and alcohol helps to tune out the pain. You can have them because you feel anxious and obsessive and alcohol helps you to calm down. You can have them because there used to be a good reason for you to drink too much, but even though the reason is gone now, you can’t stop because of the withdrawal symptoms. I can keep going with another couple of dozen reasons, but I think you get the point. The group that meets the criteria for alcohol dependence is biologically heterogeneous to such an extent that they don’t even all have the disease of addiction. And those that do, probably have it for multiple reasons.
+Addiction is a terminal, chronic, incurable illness with population prevalence
+of about 10 to 20% and is the ultimate cause behind the top 5 leading causes of
+death of Americans. Anything that important and that common has to have
+important factors that don’t need 10,000 subjects to see. Also, none of the
+studies were actually studies of an illness called addiction; they studied
+things like alcohol dependence. Let’s just take a minute to look at alcohol
+dependence and what GWAS studies measure.
 
-So those that laud GWAS studies are now saying, “That’s my point. The population is so heterogeneous that you need a large sample to find the multiple factors.” That would be true if we didn’t have actual biological targets for the disease. If you read DSM, we don’t. If you understand addiction as a biological illness, we do. And if you look at the targets that derive from such an understanding, you don’t need 10,000 people in your sample.
+According to the old DSM nomenclature, to have the diagnosis of alcohol
+dependence you have to have three out of 7 alcohol related behavioral criteria
+in a single 12-month period. You can have them because your opioid receptor
+doesn’t work well and alcohol works to boost the signal. You can have them
+because your dopamine receptor doesn’t work well and alcohol works to boost
+dopamine release. You can have them because you’re being beaten at home and
+alcohol helps to tune out the pain. You can have them because you feel anxious
+and obsessive and alcohol helps you to calm down. You can have them because
+there used to be a good reason for you to drink too much, but even though the
+reason is gone now, you can’t stop because of the withdrawal symptoms. I can
+keep going with another couple of dozen reasons, but I think you get the point.
+The group that meets the criteria for alcohol dependence is biologically
+heterogeneous to such an extent that they don’t even all have the disease of
+addiction. And those that do, probably have it for multiple reasons.
 
-For instance we saw in our first 40 patients a marker for deciding who needs Deplin and had a good model of markers for that medication within the first 100 patients. That was based on understanding how that medication actually works in addiction and testing it. We found in our first 100, a marker for those that can’t handle dopamine increases and need GABAb agents first. That’s because we had an understanding of how that addiction works.
+So those that laud GWAS studies are now saying, “That’s my point. The population
+is so heterogeneous that you need a large sample to find the multiple factors.”
+That would be true if we didn’t have actual biological targets for the disease.
+If you read DSM, we don’t. If you understand addiction as a biological illness.
+We do. And if you look at the targets that derive from such an understanding,
+you don’t need 10,000 people in your sample.
 
-If I’ve stopped looking at the result of GWAS studies, what should we do instead? The first thing is to define addiction in a biological, not behavioral, sense. This book does that. Then look for the actual biological factors that exist in the model and test them multiple times in populations only large enough to power the study. This will not lead us to a gene for addiction, but nothing else will either. There isn’t one SNP for cystic fibrosis, there are at least 30. There isn’t one gene for diabetes, but several. It will be the same for addiction.
+For instance we saw in our first 40 patients a marker for deciding who needs
+L-methylfolate and had a good model of markers for that medication within the
+first 100 patients. That was based on understanding how that medication actually
+works in addiction and testing it. We found in our first 100, a marker for those
+that can’t handle dopamine increases and need GABA<sub>b</sub> agents first. That’s because
+we had an understanding of how that addiction works.
 
-Here’s an example of a study that someone could do right now if they happen to have a large genetic dataset. Ask everyone in the dataset one question, “When you took your first opioid pain medication of your life, did it give you energy?” That’s a specific biological factor that is likely genetic. Now look at the SNPs you have for the opioid receptors and the pro-opiomelanocortin gene, and if you want, add the dopamine reward system and the liver enzymes that break down opioids. Select only as big a subset of your dataset that you need to power a large effect size, because the factor has a large effect size. In this case about 10% of the population gets energy from opioids and their experience is not even close to the response of the other 90% of the population who get a little nauseated and take a nap. Any SNPs stand out as being associated with energy on first taking opioids? Now repeat the study on the other parts of your dataset to confirm it. If you have a dataset of 10,000 individuals and did this ten times you’d have the most confirmed finding in science history.
+If I’ve stopped looking at the result of GWAS studies, what should we do
+instead? The first thing is to define addiction in a biological, not behavioral,
+sense. This book does that. Then look for the actual biological factors that
+exist in the model and test them multiple times in populations only large enough
+to power the study. This will not lead us to a gene for addiction, but nothing
+else will either. There isn’t one SNP for cystic fibrosis, there are at least 30.
+There isn’t one gene for diabetes, but several. It will be the same for addiction.
 
-This is the kind of work that is going to become very available and bump us ahead in our scientific understanding. As more and more people get genome wide testing for themselves, either direct from the companies offering them or through their doctor, the more people will be available to participate in this kind of research. And when I say participate, I mean participate. While we ask them, for instance, what the response to their first opioid is we may also want to ask them what other things they think may be biologically related to their addiction. For instance, “Of the other people you know with addiction, what traits did you have in common with them before your first use of any drug?” To be honest, so much addiction research has been done without being informed by the experience of those with the disease, that academic research has really lost its way. Now that ASAM has defined addiction in a biological sense, and future researchers will research the validity of the definition, we will start to actually have research on addiction. It’s about time.
+Here’s an example of a study that someone could do right now if they happen to
+have a large genetic dataset. Ask everyone in the dataset one question, “When
+you took your first opioid pain medication of your life, did it give you
+energy?” That’s a specific biological factor that is likely genetic. Now look
+at the SNPs you have for the opioid receptors and the pro-opiomelanocortin gene,
+and if you want, add the dopamine reward system and the liver enzymes that break
+down opioids. Select only as big a subset of your dataset that you need to power
+a large effect size, because the factor has a large effect size. In this case
+about 10% of the population gets energy from opioids and their experience is not
+even close to the response of the other 90% of the population who get a little
+nauseated and take a nap. Any SNPs stand out as being associated with energy on
+first taking opioids? Now repeat the study on the other parts of your dataset to
+confirm it. If you have a dataset of 10,000 individuals and did this ten times
+you’d have the most confirmed finding in science history.
+
+This is the kind of work that is going to become very available and bump us
+ahead in our scientific understanding. As more and more people get genome wide
+testing for themselves, either direct from the companies offering them or
+through their doctor, the more people will be available to participate in this
+kind of research. And when I say participate, I mean participate. While we ask
+them, for instance, what the response to their first opioid is we may also want
+to ask them what other things they think may be biologically related to their
+addiction. For instance, “Of the other people you know with addiction, what
+traits did you have in common with them before your first use of any drug?” To
+be honest, so much addiction research has been done without being informed by
+the experience of those with the disease, that academic research has really lost
+its way. 
 <div style="page-break-after: always;"></div>
 
 

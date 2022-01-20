@@ -606,23 +606,75 @@ acting type. Types \*2 and \*17 are the most common in our population with
 about a third being positive for \*2 and about half that for \*17, so the
 combination is not unheard of. In general we can tell that if someone is
 \*1/\*2, they are somewhat slower, and if \*2/\*2, then a lot slower, than
-normal. If \*1/\*17, they are somewhat faster, and if \*17/\*17, then a lot 
+normal. If \*1/\*17, they are somewhat faster, and if \*17/\*17, then a lot
 faster, than normal. In the case of Plavix, a pro-drug, slow metabolizers
 never make enough of the active metabolite to respond to the medicine. In
 the case of Nexium, slow metabolizers don’t need to take it as frequently or
 in as high a dose. So CYP2C19 is another enzyme with which to illustrate the
 basic principles of pharmacogenomics.
 
-CYP2D6: This is a very important enzyme for us in that it metabolizes most SSRIs and, though not usually recognized, methadone. The genetics of 2D6 is complicated in that not only do the alleles affect function, but there is also copy number variation of the gene itself so that someone with lower functioning alleles can have normal function because they have increased copies of the gene. We cannot test for copy number variation with SNP testing – this requires much more expensive sequencing tests. In general CYP2D6 has some decreased function variants: *9, *10, *17, and *41 and also some non-functioning variants: *3B, *4F, *4G, *6, *7, *8, *12, *14, *20.  In addition, there is in the literature, a concept for quantifying 2D6 function that divides people into poor metabolizers, intermediate metabolizers and extensive metabolizers. In this scheme *1 is given a score of 1, the non-functional types a score of 0, and the low functioning types a score of .5. The alleles are added up so that a *1/*1 score would be a 2 and a *12/*17 would score a 0.5. In this scheme a person with a zero would be a poor metabolizer, someone with a .5 would be an intermediate metabolizer and someone with a 1 or more would be an extensive metabolizer. While the scheme is widely adopted there are no actual studies of blood levels to back it up and it seems overly generous in its assumption of multiple copies of the gene.
+**CYP2D6**: This is a very important enzyme for us in that it metabolizes most SSRIs
+and, though not usually recognized, methadone. The genetics of 2D6 is
+complicated in that not only do the alleles affect function, but there is also
+copy number variation of the gene itself so that someone with lower functioning
+alleles can have normal function because they have increased copies of the gene.
+We cannot test for copy number variation with SNP testing – this requires much
+more expensive sequencing tests. In general CYP2D6 has some decreased function
+variants: \*9, \*10, \*17, and \*41 and also some non-functioning variants: \*3B, \*4F,
+\*4G, \*6, \*7, \*8, \*12, \*14, \*20.  In addition, there is in the literature, a
+concept for quantifying 2D6 function that divides people into poor metabolizers,
+intermediate metabolizers and extensive metabolizers. In this scheme \*1 is given
+a score of 1, the non-functional types a score of 0, and the low functioning
+types a score of .5. The alleles are added up so that a \*1/\*1 score would be a 2
+and a \*12/\*17 would score a 0.5. In this scheme a person with a zero would be a
+poor metabolizer, someone with a .5 would be an intermediate metabolizer and
+someone with a 1 or more would be an extensive metabolizer. While the scheme is
+widely adopted there are no actual studies of blood levels to back it up and it
+seems overly generous in its assumption of multiple copies of the gene.
 
-CYP3A4: This is the enzyme that is primarily responsible for metabolizing buprenorphine to nor-buprenorphine. While there are several types that effect function, the only one we’ve seen in our population is *1B which has increased function. *1B is a post-migration African derived polymorphism. This means that we would see it in people of African descent. This raises several interesting issues. One is that there is a literature describing higher doses in populations with a higher percentage of African-Americans and some interpretation of that literature to suggest a greater degree of diversion or abuse because of this higher average dose. The studies involved took no notice of the genetics that could explain the entire finding. Another interesting illustration that CYP3A4 gives us is that even people who are “white” can have this allele. My half-sister and I (we share an Irish mother) both have this polymorphism, and no one would ever look at either of us and think that we have African ancestry. This illustrates why pharmacogenomics is so important in healthcare. We cannot take a person’s entire genetics for granted because of the color of his skin or any other single feature. Ethnicity doesn’t exist in the world of genetics. Even in things such as hypertension where we were taught that European-Americans with HTN are more likely to respond to an ACE inhibitor while African-Americans are more likely to respond to a beta-blocker, we should not be looking at skin color, but rather at the actual genetics to see who is the best candidate for which treatment.
+**CYP3A4**: This is the enzyme that is primarily responsible for metabolizing
+buprenorphine to nor-buprenorphine. While there are several types that effect
+function, the only one we’ve seen in our population is \*1B which has increased
+function. \*1B is a post-migration African derived polymorphism. This means that
+we would see it in people of African descent. This raises several interesting
+issues. One is that there is a literature describing higher doses in populations
+with a higher percentage of African-Americans and some interpretation of that
+literature to suggest a greater degree of diversion or abuse because of this
+higher average dose. The studies involved took no notice of the genetics that
+could explain the entire finding. Another interesting illustration that CYP3A4
+gives us is that even people who are “white” can have this allele. My half-
+sister and I (we share an Irish mother) both have this polymorphism, and no one
+would ever look at either of us and think that we have African ancestry. This
+illustrates why pharmacogenomics is so important in healthcare. We cannot take a
+person’s entire genetics for granted because of the color of his skin or any
+other single feature. Ethnicity doesn’t exist in the world of genetics. Even in
+things such as hypertension where we were taught that European-Americans with
+HTN are more likely to respond to an ACE inhibitor while African-Americans are
+more likely to respond to a beta-blocker, we should not be looking at skin color,
+but rather at the actual genetics to see who is the best candidate for which
+treatment.
 
-UGT2B7: This is another very interesting enzyme for us. It is not an enzyme of primary metabolism like the CYP enzymes are, but rather a part of the glucuronidation pathway. UGT2B7 specifically glucuronidates nor-buprenorphine so that it can be excreted in the urine. There are types *2a and *2b, both of which have higher function than *1. What is most common in our population is to see *1/*2a. Those patients with *2/*2 will glucuronidate nor-buprenorphine faster than most people. You can imagine from the genetics of both CYP3A4 and UGT2B7 that there will be some people who are slow metabolizers of buprenorphine and slow glucuronidation individuals of nor-buprenorphine who may have a higher buprenorphine/nor-buprenorphine ratio in their urine. However this situation is quite rare, and as mentioned above in another section, patients should have more nor-buprenorphine in their urine than buprenorphine.
+**UGT2B7**: This is another very interesting enzyme for us. It is not an enzyme of
+primary metabolism like the CYP enzymes are, but rather a part of the
+glucuronidation pathway. UGT2B7 specifically glucuronidates nor-buprenorphine so
+that it can be excreted in the urine. There are types \*2a and \*2b, both of which
+have higher function than \*1. What is most common in our population is to see
+\*1/\*2a. Those patients with \*2/\*2 will glucuronidate nor-buprenorphine faster
+than most people. You can imagine from the genetics of both CYP3A4 and UGT2B7
+that there will be some people who are slow metabolizers of buprenorphine and
+slow glucuronidation individuals of nor-buprenorphine who may have a higher
+buprenorphine/nor-buprenorphine ratio in their urine. However this situation is
+quite rare, and as mentioned above in another section, patients should have more
+nor-buprenorphine in their urine than buprenorphine.
 
  
 #### One Final Genetic Marker
 
-HLA B75 is a marker that is mostly found in those of Asian descent. In our case Asian includes Native American. Those with HLA B75 have a higher rate of Stevens-Johnson Syndrome when taking carbamazepine. It is not clear from the literature if these patients have a higher risk of SJS with other anti-epileptic medications.
+**HLAB75**: This is a marker that is mostly found in those of Asian descent. In
+our case Asian includes Native American. Those with HLA B75 have a higher rate of 
+Stevens-Johnson Syndrome when taking carbamazepine. It is not clear from the
+literature if these patients have a higher risk of SJS with other anti-epileptic
+medications.
 
 
  

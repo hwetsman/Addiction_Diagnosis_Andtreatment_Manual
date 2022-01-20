@@ -547,17 +547,71 @@ effects.
 
 #### The Genetics of Drug and Medication Metabolism
 
-There are some general principles for looking at these enzymes, which, by the way, are largely responsible for determining the peripheral blood level of the medication we give and the drugs that people take. The first principle to be understood is that very few, if any, of these enzymes are solely responsible for their action. There is a great deal of overlap between them, which creates confusion. Second, they can be induced and inhibited by various of their substrates in a non-straightforward way. Thirdly, they all have a wild type, or normal, configuration which is denoted, by convention, as *1.
+There are some general principles for looking at these enzymes, which, by the
+way, are largely responsible for determining the peripheral blood level of the
+medication we give and the drugs that people take. The first principle to be
+understood is that very few, if any, of these enzymes are solely responsible for
+their action. There is a great deal of overlap between them, which creates
+confusion. Second, they can be induced and inhibited by various of their
+substrates in a non-straightforward way. Thirdly, they all have a wild type, or
+normal, configuration which is denoted, by convention, as *1.
 
-CYP1A2: This enzyme metabolizes caffeine, imipramine, clomipramine, fluvoxamine, ondansetron, melatonin, and, to some extent, warfarin among others. Ondansetron (Zofran) is a 5HTR3 antagonist that has been shown to be helpful in Type I alcoholics and it has been associated with QT prolongation and torsade de pointes. CYP1A2 has several subtypes based on polymorphism in addition to the wild type, *1. These common types are: *1C, *1F, *1K, *3, *4, *5, *6, *8, *11, *16. Of these, only a few are noteworthy. CYP1A2*1F has increased enzymatic activity in smokers regardless of what other type they have. *1C, *1K, *3, *6, *16 all have decreased function.
+**CYP1A2**: This enzyme metabolizes caffeine, imipramine, clomipramine, fluvoxamine,
+ondansetron, melatonin, and, to some extent, warfarin among others. Ondansetron
+(Zofran) is a 5HTR3 antagonist that has been shown to be helpful in Type I
+alcoholics and it has been associated with QT prolongation and torsade de
+pointes. CYP1A2 has several subtypes based on polymorphism in addition to the
+wild type, \*1. These common types are: \*1C, \*1F, \*1K, \*3, \*4, \*5, \*6,
+\*8, \*11, \*16. Of these, only a few are noteworthy. CYP1A2*1F has increased
+enzymatic activity in smokers regardless of what other type they have. \*1C,
+\*1K, \*3, \*6, \*16 all have decreased function.
 
-CYP2A6: This enzyme is responsible for breaking down nicotine and cotinine as well as metabolizing valproic acid. CYP2A6*1 is, of course, wild type. *2, *5, and *6 have near complete loss of all activity. *9 has decreased function, and *17 has increased function. There is no science on the function of the enzyme when heterozygous for both a lowering and raising polymorphisms.
+**CYP2A6**: This enzyme is responsible for breaking down nicotine and cotinine
+as well as metabolizing valproic acid. CYP2A6*1 is, of course, wild type. \*2,
+\*5, and \*6 have near complete loss of all activity. \*9 has decreased function,
+and *17 has increased function. There is no science on the function of the
+enzyme when heterozygous for both a lowering and raising polymorphisms.
 
-CYP2B6: This enzyme is responsible most for the metabolism of bupropion though other enzymes are involved. Also it metabolizes selegiline (Emsam), sertraline, nicotine, modafinil, ketamine, and valproic acid. CYP2B6*2 has increased function; types *6, *11, and *15 have decreased function; and types *16 and *28 have very decreased function. Again, there is no science predicting function when someone is heterozygous for both function increasing and decreasing polymorphisms. This statement will not be repeated, as it is true throughout for all of these enzymes.
+**CYP2B6**: This enzyme is responsible most for the metabolism of bupropion though
+other enzymes are involved. Also it metabolizes selegiline (Emsam), sertraline,
+nicotine, modafinil, ketamine, and valproic acid. CYP2B6*2 has increased
+function; types \*6, \*11, and \*15 have decreased function; and types \*16 and \*28
+have very decreased function. Again, there is no science predicting function
+when someone is heterozygous for both function increasing and decreasing
+polymorphisms. This statement will not be repeated, as it is true throughout for
+all of these enzymes.
 
-CYP2C9: This enzyme has little to do with drugs our patients use or the medications we use to treat them. It has only a minor role in the metabolism of cannabinoids. It is included in our reports because it is of such importance in general health and because it is such a good illustration of why pharmacogenomics is so important. 2C9 is the primary enzyme for metabolizing warfarin and the activities of its polymorphisms have been well studied. *2 heterozygotes have 20% reduction in function and 40% for homozygotes, and *3 heterozygotes have 40% reduction in function and 80% for homozygotes. *6 is completely inactive, while *5, *8, *11 and *12 are only slightly decreased in function. This allows us to give a percentage of function calculation most of the combinations found in the patients. For instance if a patient is “*1/*2” then they would have a calculated function of 80%. If they were “*2/*3” it would be 40% of normal function.
+**CYP2C9**: This enzyme has little to do with drugs our patients use or the
+medications we use to treat them. It has only a minor role in the metabolism of
+cannabinoids. It is included in our reports because it is of such importance in
+general health and because it is such a good illustration of why
+pharmacogenomics is so important. 2C9 is the primary enzyme for metabolizing
+warfarin and the activities of its polymorphisms have been well studied. \*2
+heterozygotes have 20% reduction in function and 40% for homozygotes, and \*3
+heterozygotes have 40% reduction in function and 80% for homozygotes. \*6 is
+completely inactive, while \*5, \*8, \*11 and \*12 are only slightly decreased in
+function. This allows us to give a percentage of function calculation most of
+the combinations found in the patients. For instance if a patient is “\*1/\*2”
+then they would have a calculated function of 80%. If they were “\*2/\*3” it would
+be 40% of normal function.
 
-CYP2C19: This is a most important enzyme in general health. Most of the medications that are advertised directly to patients on TV (Nexium, Plavix, etc.) are metabolized by 2C19. There are several non-functional types: *2, *2B, *4 (recessive), *6, *7, *8. In addition there are some poor metabolizing types: *3, *9, and perhaps *10. What is most interesting about CYP2C19 is that there is also a fast metabolizing type: *17. There is no science on what happens when *17 is mixed with a non-functional or slow acting type. Types *2 and *17 are the most common in our population with about a third being positive for *2 and about half that for *17, so the combination is not unheard of. In general we can tell that if someone is *1/*2, they are somewhat slower, and if *2/*2, then a lot slower, than normal. If *1/*17, they are somewhat faster, and if *17/*17, then a lot faster, than normal. In the case of Plavix, a pro-drug, slow metabolizers never make enough of the active metabolite to respond to the medicine. In the case of Nexium, slow metabolizers don’t need to take it as frequently or in as high a dose. So CYP2C19 is another enzyme with which to illustrate the basic principles of pharmacogenomics.
+**CYP2C19**: This is a most important enzyme in general health. Most of the
+medications that are advertised directly to patients on TV (Nexium, Plavix,
+etc.) are metabolized by 2C19. There are several non-functional types: \*2,
+\*2B, \*4 (recessive), \*6, \*7, \*8. In addition there are some poor
+metabolizing types: \*3, \*9, and perhaps \*10. What is most interesting about
+CYP2C19 is that there is also a fast metabolizing type: \*17. There is no
+science on what happens when \*17 is mixed with a non-functional or slow
+acting type. Types \*2 and \*17 are the most common in our population with
+about a third being positive for \*2 and about half that for \*17, so the
+combination is not unheard of. In general we can tell that if someone is
+\*1/\*2, they are somewhat slower, and if \*2/\*2, then a lot slower, than
+normal. If \*1/\*17, they are somewhat faster, and if \*17/\*17, then a lot 
+faster, than normal. In the case of Plavix, a pro-drug, slow metabolizers
+never make enough of the active metabolite to respond to the medicine. In
+the case of Nexium, slow metabolizers don’t need to take it as frequently or
+in as high a dose. So CYP2C19 is another enzyme with which to illustrate the
+basic principles of pharmacogenomics.
 
 CYP2D6: This is a very important enzyme for us in that it metabolizes most SSRIs and, though not usually recognized, methadone. The genetics of 2D6 is complicated in that not only do the alleles affect function, but there is also copy number variation of the gene itself so that someone with lower functioning alleles can have normal function because they have increased copies of the gene. We cannot test for copy number variation with SNP testing – this requires much more expensive sequencing tests. In general CYP2D6 has some decreased function variants: *9, *10, *17, and *41 and also some non-functioning variants: *3B, *4F, *4G, *6, *7, *8, *12, *14, *20.  In addition, there is in the literature, a concept for quantifying 2D6 function that divides people into poor metabolizers, intermediate metabolizers and extensive metabolizers. In this scheme *1 is given a score of 1, the non-functional types a score of 0, and the low functioning types a score of .5. The alleles are added up so that a *1/*1 score would be a 2 and a *12/*17 would score a 0.5. In this scheme a person with a zero would be a poor metabolizer, someone with a .5 would be an intermediate metabolizer and someone with a 1 or more would be an extensive metabolizer. While the scheme is widely adopted there are no actual studies of blood levels to back it up and it seems overly generous in its assumption of multiple copies of the gene.
 

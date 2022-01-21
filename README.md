@@ -1,6 +1,6 @@
 <center><h1>Addiction_Diagnosis_Andtreatment_Manual</h1></center>
 <center><h1>(ADAM)</h1></center>
-
+<center>Howard Wetsman MD, DFASAM</center>
 
 This is a manual of addiction diagnosis and treatment based on a biological model of the illness as it exists in nature. 
 

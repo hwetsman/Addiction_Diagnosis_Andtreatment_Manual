@@ -1,6 +1,6 @@
-<center><h1>Addiction_Diagnosis_Andtreatment_Manual</h1></center>
-<center><h1>(ADAM)</h1></center>
-<center>Howard Wetsman MD, DFASAM</center>
+<p align="center"><h1>Addiction_Diagnosis_Andtreatment_Manual</h1>
+<h1>(ADAM)</h1>
+Howard Wetsman MD, DFASAM</p>
 
 
 

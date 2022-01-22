@@ -51,17 +51,84 @@ chronic disease of addiction. That said, we’ll explore what 12-step recovery i
 how it helps people with addiction, and finally, what other kinds of recovery
 may have in common with it.
 
-Describing what 12-step recovery is can be more easily done by describing some of the things which it is not and addressing some common misconceptions about it. 12-step recovery groups are not lead by professionals. They are not therapy, and they have no initiations or formal membership. Twelve-step recovery meetings consist of groups of people at various stages in their recovery who come together to share their experience and help each other maintain their gains. Many people new to the idea of 12-step meetings tell us, “I don’t need to sit around and hear other people’s problems. I have enough of my own.” If you find a group where everyone talks about the problems of addiction and not the solutions they’ve found, find another group. Wallowing in problems is not what 12-step recovery is about.  Another common reason we hear for not wanting to go to 12-step meetings is the “God thing.”
+Describing what 12-step recovery is can be more easily done by describing some
+of the things which it is not and addressing some common misconceptions about it.
+12-step recovery groups are not lead by professionals. They are not therapy, and
+they have no initiations or formal membership. Twelve-step recovery meetings
+consist of groups of people at various stages in their recovery who come
+together to share their experience and help each other maintain their gains.
+Many people new to the idea of 12-step meetings tell us, “I don’t need to sit
+around and hear other people’s problems. I have enough of my own.” If you find a
+group where everyone talks about the problems of addiction and not the solutions
+they’ve found, find another group. Wallowing in problems is not what 12-step
+recovery is about.  Another common reason we hear for not wanting to go to
+12-step meetings is the “God thing.”
 
-Twelve-step recovery is not a religion, but it does have a spiritual element. While religion teaches what God is, twelve-step groups encourage members to consider their own conception of God, or whatever they want to call a power greater than themselves. This Higher Power is a core component of recovery, and studies have shown that people in addiction treatment who have come to believe in a power greater than themselves stay sober longer and have better quality of life than people who leave addiction treatment without such a concept. And that’s all that’s needed, a concept of some power greater than oneself. The key here isn’t so much that there is such a power, just that we’re each not our own higher power.  Once we resign from the position of creator and director of the universe, having some concept of something else that is seems to come naturally.
+Twelve-step recovery is not a religion, but it does have a spiritual element.
+While religion teaches what God is, twelve-step groups encourage members to
+consider their own conception of God, or whatever they want to call a power
+greater than themselves. This Higher Power is a core component of recovery, and
+studies have shown that people in addiction treatment who have come to believe
+in a power greater than themselves stay sober longer and have better quality of
+life than people who leave addiction treatment without such a concept. And
+that’s all that’s needed, a concept of some power greater than oneself. The key
+here isn’t so much that there is such a power, just that we’re each not our own
+higher power.  Once we resign from the position of creator and director of the
+universe, having some concept of something else that is seems to come naturally.
 
-That brings up another common problem people have when considering going to 12-step recovery meetings: powerlessness. Many people confuse the phrase “powerless over our addiction” to mean that 12-step recovery programs teach that you can never be free of the illness and that somehow we aren’t responsible for our own behavior. Nothing could be further from the truth. When 12-step groups discuss powerlessness, it is in the same sense that someone with any other chronic illness, such as diabetes, is powerless to make themselves illness free. It doesn’t mean that the person has to be symptomatic or have a downhill course or die of the illness.  It just means that we, by ourselves, cannot make ourselves  into people without addiction; that is, we are powerless to cure ourselves.
+That brings up another common problem people have when considering going to
+12-step recovery meetings: powerlessness. Many people confuse the phrase
+“powerless over our addiction” to mean that 12-step recovery programs teach that
+you can never be free of the illness and that somehow we aren’t responsible for
+our own behavior. Nothing could be further from the truth. When 12-step groups
+discuss powerlessness, it is in the same sense that someone with any other
+chronic illness, such as diabetes, is powerless to make themselves illness free.
+It doesn’t mean that the person has to be symptomatic or have a downhill course
+or die of the illness.  It just means that we, by ourselves, cannot make
+ourselves into people without addiction; that is, we are powerless to cure
+ourselves.
 
-So how could realizing we powerless to cure ourselves and not in charge of directing the universe help us get over addiction? The answer lies in what addiction does to the brain. As we presented earlier, the urge to get to a normal dopamine tone in the reward center of the brain is a very strong one. It’s so strong that as we try to live with it, we come to understand that it cannot be denied. Since most people with addiction have symptoms of the illness even before their first drug, we’ve all come up with ways to counter a low dopamine tone and learned to avoid those things that lower it further. Unfortunately, one of the things that happens to many people with addiction is that we come to believe we must be able to achieve these goal. When we are told “no” we feel as if we are failing in something. We therefore learn to avoid hearing  “no” by controlling the situation and the people around us. Since people generally don’t accept being controlled, this sets up conflict in which we will experience loss which also causes a decrease in dopamine tone. Because we can’t live up to our own expectations we feel somehow “less than” those around us. You probably figured out by now that feeling less than causes decreased dopamine too. So addiction is a vicious circle where our brain is trying to get more dopamine, and in doing so, puts us in situations which actually lower dopamine tone. Twelve-step recovery stops that cycle by helping us realize we are powerless over how much dopamine our brains make and we aren’t in charge of getting more. It turns out that if you can internalize that you are not, and never have to be, alone in handling your illness and that you are not less than anyone, you can feel better and not live an addicted life even though the illness isn’t gone.
+So how could realizing we are powerless to cure ourselves and are not in charge
+of directing the universe help us get over addiction? The answer lies in what
+addiction does to the brain. As we presented earlier, the urge to get to a
+normal dopamine tone in the reward center of the brain is a very strong one.
+It’s so strong that as we try to live with it, we come to understand that it
+cannot be denied. Since most people with addiction have symptoms of the illness
+even before their first drug, we’ve all come up with ways to counter a low dopamine tone and learned to avoid those things that lower it further. Unfortunately, one of the things that happens to
+many people with addiction is that we come to believe we must be able to achieve
+this goal. When we are told “no” we feel as if we are failing in something. We
+therefore learn to avoid hearing “no” by controlling the situation and the
+people around us. Since people generally don’t accept being controlled, this
+sets up conflict in which we will experience loss which also causes a decrease
+in dopamine tone. Because we can’t live up to our own expectations we feel
+somehow “less than” those around us. You probably figured out by now that
+feeling less than causes decreased dopamine too. So addiction often results in a
+vicious cycle where our brain is trying to get more dopamine, and in doing so,
+puts us in situations which actually lower dopamine tone. Twelve-step recovery
+stops that cycle by helping us realize we are powerless over how much dopamine
+our brains make, and we aren’t in charge of getting more. It turns out that if
+you can internalize that you are not, and never have to be, alone in handling
+your illness, and that you are not less than anyone, you can feel better and not
+live an addicted life even though the illness isn’t gone.
 
-If that’s how 12-step recovery helps people, how do other kinds of recovery do it? Just that way. If you examine other forms of recovery, you’ll find that while they may use different  names or have different values, any that are successful will have in common instilling in its members that they are not alone and not less than. So if there are many forms of recovery and they all have that in common, why are we focusing on 12-step recovery? Well, there are a couple of reasons. First, 12-step recovery has been around a long time and stood the test of time. It’s the form of recovery about which there is the most research. Also, 12-step recovery, by focusing on the actual working of the steps, helps people actively live their recovery. Just learning that you are not alone and not less than are not enough. If they were, you could just read this and that would be the end of it. We wish that worked, but it doesn’t.
+If that’s how 12-step recovery helps people, how do other kinds of recovery do
+it? Just that same way. If you examine other forms of recovery, you’ll find that
+while they may use different names or have different values, any that are
+successful over long periods of time will have in common instilling in its
+members that they are not alone and not less than. So if there are many forms of
+recovery and they all have that in common, why are we focusing on 12-step 
+recovery? Well, there are a couple of reasons. First, 12-step recovery has been
+around a long time and stood the test of time. It’s the form of recovery about
+which there is the most research. Also, 12-step recovery, by focusing on the
+actual working of the steps, helps people actively live their recovery. Just
+learning that you are not alone and not less than are not enough. If they were,
+you could just read this and that would be the end of it. We wish that worked,
+but it doesn’t.
 
-Townsend exists to help you have the life you want in spite of having addiction. Whatever kind of recovery you choose is fine with us. As long as you are meeting your goals and are successful  in building the life you want, we’re happy. 
+Good addiction treatment exists to help the patient have the life they want in
+spite of having addiction. Whatever kind of recovery they choose is fine with me.
+As long as they are meeting their goals and are successful in building the life
+they want, I'm happy. 
 
 
 ### Step One

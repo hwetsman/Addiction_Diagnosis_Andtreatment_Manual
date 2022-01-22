@@ -236,15 +236,51 @@ fit on the poster in the group room. 
 
 ### Step Three
 
-“Made a decision to turn our will and our lives over to the care of God as we understood him”
+>“Made a decision to turn our will and our lives over to the care of God as we understood him”
 
-Okay, so here God comes into the conversation, and we’re back to dealing with the patient who doesn’t want anything to do with God, or worse, believes that they have a sufficient understanding of God and can’t learn anything else. Let’s take the patient who doesn’t want to have anything to do with God first.
+Okay, so here God comes into the conversation, and we’re back to dealing with
+the patient who doesn’t want anything to do with God, or worse, believes that
+they have a sufficient understanding of God and can’t learn anything else. Let’s
+take the patient who doesn’t want to have anything to do with God first.
 
-This patient may not believe in God, but more commonly we see a patient who doesn’t want to believe in God. That is, that they have some belief, but the idea of God they have is repellant to them and they reject it. It’s not that they don’t believe in God, but rather they don’t want God to be who they believe him to be. This is a moderately easy problem to handle. Brief conversation about their ideas about God will generally show the physician that this is the case. One can then ally with the patient that the nature of God is not what they are afraid of. This is usually in the nature of a punishing or demanding deity. After brief discussion about what they are afraid God is, it is relatively easy to then suggest, “What would you like God to be?” This may even work as homework, asking the patient to come back to the next appointment with a list of things they want God to be. They can be assured at this point that the decision to turn one’s will and life over to the care of God can be to the care of God as the patient wishes God to be, not as someone told him God is.
+This patient may not believe in God, but more commonly we see a patient who
+doesn’t want to believe in God. That is, that they have some belief, but the
+idea of God they have is repellant to them and they reject it. It’s not that
+they don’t believe in God, but rather they don’t want God to be who they believe
+him to be. This is a moderately easy problem to handle. Brief conversation about
+their ideas about God will generally show the physician that this is the case.
+One can then ally with the patient that the nature of God is not what they are
+afraid of. This is usually in the nature of a punishing or demanding deity.
+After brief discussion about what they are afraid God is, it is relatively easy
+to then suggest, “What would you like God to be?” This may even work as
+homework, asking the patient to come back to the next appointment with a list of
+things they want God to be. They can be assured at this point that the decision
+to turn one’s will and life over to the care of God can be to the care of God as
+the patient wishes God to be, not as someone told him God is.
 
-Of course there are patients who just don’t believe there is a God. These patients are not prevented from taking this step. They are handled by a special case of the technique noted above. In this case, the discussion centers on, not God, but the nature of creation. Even if the patient has an absolute belief that there is no act of creation, but rather just a physical accident at the core of everything, they can still acknowledge that physical law rules the universe. It is clear that physical law is more powerful than they. It will be clear on discussion that their life to this point has not been in concert with physical law. For them, this step can mean that they will be restored to sanity by following physical law rather than attempting to be more powerful than the universe. Many people in long recovery have made such a start.
+Of course there are patients who just don’t believe there is a God. These
+patients are not prevented from taking this step. They are handled by a special
+case of the technique noted above. In this case, the discussion centers on, not
+God, but the nature of creation. Even if the patient has an absolute belief that
+there is no act of creation, but rather just a physical accident at the core of
+everything, they can still acknowledge that physical law rules the universe. It
+is clear that physical law is more powerful than they. It will be clear on
+discussion that their life to this point has not been in concert with physical
+law. For them, this step can mean that they will be restored to sanity by
+following physical law rather than attempting to be more powerful than the
+universe. Many people in long recovery have made such a start.
 
-Now there is the patient who believes that he and God have a special relationship, and that these steps, and the whole recovery process, are beneath them. This patient will protest that they have already taken this step, that no further change on their part is necessary. If this patient’s relationship with God is the same as the one they had when using, it is doubtful that this will be a sufficient surrender to effect change. If one asks them, “Well, if you’ve always lived by this step, how did you come to be here,” one gets a load of rationalization about being tested or failing or some other such item. It’s important to gently move the patient away from this special status that they’ve imagined for themselves. It is a rationalization of their uniqueness and will stand in their way of their recovery. 
+Now there is the patient who believes that he and God have a special
+relationship, and that these steps, and the whole recovery process, are beneath
+them and their advanced spiritual status. This patient will protest that they
+have already taken this step, that no further change on their part is necessary.
+If this patient’s relationship with God is the same as the one they had when
+using, it is doubtful that this will be a sufficient surrender to effect change.
+If one asks them, “Well, if you’ve always lived by this step, how did you come
+to be here,” one gets a load of rationalization about being tested or failing or
+some other such item. It’s important to gently move the patient away from this
+special status that they’ve imagined for themselves. It is a rationalization of
+their uniqueness and will stand in their way of their recovery. 
 
 
 ### Step Four

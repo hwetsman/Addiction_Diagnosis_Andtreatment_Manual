@@ -116,7 +116,7 @@ it? Just that same way. If you examine other forms of recovery, you’ll find th
 while they may use different names or have different values, any that are
 successful over long periods of time will have in common instilling in its
 members that they are not alone and not less than. So if there are many forms of
-recovery and they all have that in common, why are we focusing on 12-step 
+recovery and they all have that in common, why are we focusing on 12-step
 recovery? Well, there are a couple of reasons. First, 12-step recovery has been
 around a long time and stood the test of time. It’s the form of recovery about
 which there is the most research. Also, 12-step recovery, by focusing on the
@@ -133,17 +133,53 @@ they want, I'm happy. 
 
 ### Step One
 
-“We admitted we were powerless over alcohol – that our lives had become unmanageable”
+>“We admitted we were powerless over alcohol – that our lives had become unmanageable”
 
-There are two objectionable words in this step: powerlessness and unmanageable. No one in America today was raised to believe that either of those words would be complements if applied to themselves. We all naturally bristle at their use. To the unschooled ear, this step speaks of failure. It can make one feel less than, which lowers dopamine tone, and can stop a person’s exploration of recovery before it even starts. But you can help this person understand that no such message is meant or is inherent in the step.
+There are two objectionable words in this step: 'powerlessness' and
+'unmanageable'. No one in America today was raised to believe that either of
+those words would be complements if applied to themselves. We all naturally
+bristle at their use. To the unschooled ear, this step speaks of failure. It can
+make one feel less than, which lowers dopamine tone, and can stop a person’s
+exploration of recovery before it even starts. But you can help this person
+understand that no such message is meant or is inherent in the step.
 
-The first place the steps are mentioned in Alcoholics Anonymous is on page 59. That means that there are 58 pages of context before this first step is read. With the steps having been taken out of the book and placed on the wall, most people’s first exposure to them is without any context at all. You can provide that context. If you are willing to learn no more than this fact, you can still, if you find any objection in your patient, ask them not to judge the steps until they’ve read the first 58 pages and gotten the context. If you are willing to learn more, read on.
+The first place the steps are mentioned in Alcoholics Anonymous is on page 59.
+That means that there are 58 pages of context before this first step is read.
+With the steps having been taken out of the book and placed on the wall, most
+people’s first exposure to them is without any context at all. You can provide
+that context. If you are willing to learn no more than this fact, you can still,
+if you find any objection in your patient, ask them not to judge the steps until
+they’ve read the first 58 pages and gotten the context. If you are willing to
+learn more, read on.
 
-The context for the word powerless relates directly to the biology of the illness and is something you are well equipped to explain. Knowing what you know about dopamine tone and Silkworth’s “obsession of the mid” you can explain to the person with addiction why they have not been able to stop on their own for good. Knowing what you know about the compulsive use cycle and Silkworth’s “allergy” you can explain to the person why they have not been able to use moderately when they use. In short you can explain why they can’t use like a normal person and why they can’t not use at all. This is all that is meant by powerless: that the person with addiction cannot successfully keep from using and they cannot control their use once they start. That’s it, just the biology. There are no judgments in the steps.
+The context for the word powerless relates directly to the biology of the
+illness and is something you are well equipped to explain. Knowing what you know
+about dopamine tone and Silkworth’s “obsession of the mind” you can explain to
+the person with addiction why they have not been able to stop on their own for
+good. Knowing what you know about the compulsive use cycle and Silkworth’s
+“allergy” you can explain to the person why they have not been able to use
+moderately when they use. In short, you can explain why they can’t use like a
+normal person, and why they can’t not use at all. This is all that is meant by
+powerless: that the person with addiction cannot successfully keep from using
+and they cannot control their use once they start. That’s it, just the biology.
+There are no judgments in the steps.
 
-If you life has become a futile effort to fight a force of nature, if your every waking moment has been taken up with either an attempt to stop all together or moderate what you cannot moderate, I would say that it is, by definition, unmanageable. Addiction goes beyond the time when the patient is using a behavior or a drug. It grows to consume their entire life. At every moment they are either using, thinking about using, trying not to use, waiting to use or getting over having used. Room allotted to other pursuits gets lost. That’s all unmanageable means; it doesn’t mean that the patient is unmanageable or somehow deficient in their ability to manage. It means that anyone with this illness, which is progressive and chronic, will reach a point of unmanageability as it expands to fill their life.
+If you life has become a futile effort to fight a force of nature, if your every
+waking moment has been taken up with either an attempt to stop all together or
+moderate what you cannot moderate, I would say that it is, by definition,
+unmanageable. Addiction goes beyond the time when the patient is using a
+behavior or a drug. It grows to consume their entire life. At every moment they
+are either using, thinking about using, trying not to use, waiting to use or
+getting over having used. Room allotted to other pursuits gets lost. That’s all
+unmanageable means; it doesn’t mean that the patient is somehow deficient in
+their ability to manage. It means that anyone with this illness, which is
+progressive and chronic, will reach a point of unmanageability as it expands to
+fill their life.
 
-There need be no fear on the part of your patient over the words in step one. No loss of dopamine tone need happen. All that step one means is that the biology is there and we accept we are ill; the rest just follows from the nature of the illness.
+There need be no fear on the part of your patient over the words in step one. No
+loss of dopamine tone need happen. All that step one means is that the biology
+is there, and we accept we are ill; the rest just follows from the nature of the
+illness.
 
 
 ### Step Two

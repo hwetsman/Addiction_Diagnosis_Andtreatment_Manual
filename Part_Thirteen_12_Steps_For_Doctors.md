@@ -184,15 +184,54 @@ illness.
 
 ### Step Two
 
-“Came to believe that only a power greater than ourselves could restore us to sanity”
+>“Came to believe that only a power greater than ourselves could restore us to sanity”
 
-Here again there are two objectionable ideas: “power greater than ourselves” and “sanity.” Most people read this step, and having read the word “believe,” take “power greater than ourselves” to mean God. If the patient has fixed ideas on the non-existence of a deity or, worse, thinks their understanding of God is sufficient without recovery, this step can stop them cold. While I would not argue with anyone’s religious beliefs, I would suggest that had the writers meant God, they would have said it. As you will see, the steps do refer to God when appropriate, but not here. Here there is only “a power greater than ourselves,” and I think that’s all they mean.
+Here again there are two objectionable ideas: “power greater than ourselves” and
+“sanity.” Most people read this step, and having read the word “believe,” take
+“power greater than ourselves” to mean God. If the patient has fixed ideas on
+the non-existence of a deity or, worse, thinks their understanding of God is
+sufficient without recovery, this step can stop them cold. While I would not
+argue with anyone’s religious beliefs, I would suggest that had the writers
+meant God, they would have said it. As you will see, the steps do refer to God
+when appropriate, but not here. Here there is only “a power greater than
+ourselves,” and I think that’s all they mean.
 
-That the patient needs a power greater than himself or herself follows naturally from step one and the biology of the illness. At this point in a person’s recovery the power may only be medication, you, the group, or AA. It is not necessary for the patient to come to believe in God, only that they not believe that they are God. What you know of the self-centering nature of low dopamine tone can explain to the patient why they have felt they must stand alone their entire life. You can explain why they have felt the need to be in absolute control even when they had no control at all. You can explain why the illness and the biology made them think they needed to be the “higher power.” All that is necessary at this step is for the patient to “come to believe” that there is something more than himself or herself, because after step one, they have recognized that they are not, by themselves, enough. But enough for what? Enough to restore them to sanity, which brings us to the next objectionable word.
+That the patient needs a power greater than himself or herself follows naturally
+from step one and the biology of the illness. At this point in a person’s
+recovery the power may only be medication, you, the group, or AA. It is not
+necessary for the patient to come to believe in God, only that they not believe
+that they are God. What you know of the self-centering nature of low dopamine
+tone can explain to the patient why they have felt they must stand alone their
+entire life. You can explain why they have felt the need to be in absolute control even when they had no control at all. You can explain why the illness and the biology made them think they needed
+to be the “higher power.” All that is necessary at this step is for the patient
+to “come to believe” that there is something more than himself or herself,
+because after step one, they have recognized that they are not, by themselves,
+enough. But enough for what? Enough to restore them to sanity, which brings us
+to the next objectionable word.
 
-Again, context is everything. Reading these steps on the wall of the group room, one might take the meaning that if one needs a power greater than oneself to restore oneself to sanity that such a one must be insane. This vernacular brings synonyms to mind such as psychotic, crazy, delusional, etc. These are some of the very words that the person with addiction has been calling himself. They will immediately assume that’s what the step means, but it has nothing to do with that.
+Again, context is everything. Reading these steps on the wall of the group room,
+one might take the meaning that if one needs a power greater than oneself to
+restore oneself to sanity that such a one must be insane. This vernacular brings
+synonyms to mind such as psychotic, crazy, delusional, etc. These are some of
+the very words that the person with addiction has been calling himself. They
+will immediately assume that’s what the step means, but it has nothing to do
+with that.
 
-The context of the word sanity is found in the chapter “More About Alcoholism” which is entirely devoted to explaining the subtle twists of mind that lead someone to taking the first drink. This has to do with Silkworth’s “mental obsession” and what you know about dopamine tone. There are also aspects of cue-induced craving and something that AA couldn’t explain because it only looked at alcohol. You understand that even non-drugs can set up a “high” and the high is followed by the crash. You understand that the crash can lead to a deeper craving for a bigger drug. You understand the biology that Silkworth didn’t know about. You can explain the “insanity” of the first drink, hit, puff, etc and tell the patient that this is the entire meaning of the word sanity in step two.  We could restate this step in a less objectionable form: “Now that we’ve figured out that we have this biological illness and that no person can control a biological illness with their own mind, we realized that we will need something besides ourselves to achieve permanent abstinence,” but that wouldn’t fit on the poster in the group room. 
+The context of the word sanity is found in the chapter “More About Alcoholism”
+which is entirely devoted to explaining the subtle twists of mind that lead
+someone to taking the first drink. This has to do with Silkworth’s “mental
+obsession” and what you know about dopamine tone. There are also aspects of
+cue-induced craving and something that AA couldn’t explain because it only
+looked at alcohol. You understand that even non-drugs can set up a “high” and
+the high is followed by the crash. You understand that the crash can lead to a
+deeper craving for a bigger drug. You understand the biology that Silkworth
+didn’t know about. You can explain the “insanity” of the first drink, hit, puff,
+etc and tell the patient that this is the entire meaning of the word sanity in
+step two.  We could restate this step in a less objectionable form: “Now that
+we’ve figured out that we have this biological illness and that no person can
+control a biological illness with their own mind, we realized that we will need
+something besides ourselves to achieve permanent abstinence,” but that wouldn’t
+fit on the poster in the group room. 
 
 
 ### Step Three

@@ -31,13 +31,25 @@ the group room. These are the steps devoid of their instructions and meaning. It
 would be as likely to profit from reading the poster and doing the steps as it
 would be to read the listing of chapters in this book and trying to practice
 without reading this book. Without your help, the patient may never benefit from
-what’s on the wall. The instructions are in <ins>Alcoholics Anonymous</ins>, and we can 
+what’s on the wall. The instructions are in <ins>Alcoholics Anonymous</ins>, and we can
 encourage the patients to read it.
 
-One final thought: it is not helpful to skip ahead. People are ready to hear about steps when they are. They are ready to hear about the step they are ready to hear about. It is generally not helpful to talk about the wonderful spiritual benefits of helping others when the patient is just struggling with the idea of whether or not they have addiction. The Townsend Disease Acceptance Scale is helpful in knowing when to talk about the steps with a patient.
-Role of 12-steps in chronic disease treatment
+One final thought: it is not helpful to skip ahead. People are ready to hear
+about steps when they are. They are ready to hear about the step they are ready
+to hear about. It is generally not helpful to talk about the wonderful spiritual
+benefits of helping others when the patient is just struggling with the idea of
+whether or not they have addiction. The Disease Acceptance Scale previously
+discussed is helpful in knowing when to talk about the steps with a patient.
 
-Twelve-step recovery has been around over 70 years, but it’s one of the most misunderstood aspects of living with addiction. First, let’s make it clear that we don’t believe that 12-step recovery is the only way to live well with the chronic disease of addiction. That said, we’ll explore what 12-step recovery is, how it helps people with addiction, and finally, what other kinds of recovery may have in common with it.
+
+### Role of 12-steps in chronic disease treatment
+
+Twelve-step recovery has been around over 75 years, but it’s one of the most
+misunderstood aspects of living with addiction. First, let’s make it clear that
+we don’t believe that 12-step recovery is the only way to live well with the
+chronic disease of addiction. That said, we’ll explore what 12-step recovery is,
+how it helps people with addiction, and finally, what other kinds of recovery
+may have in common with it.
 
 Describing what 12-step recovery is can be more easily done by describing some of the things which it is not and addressing some common misconceptions about it. 12-step recovery groups are not lead by professionals. They are not therapy, and they have no initiations or formal membership. Twelve-step recovery meetings consist of groups of people at various stages in their recovery who come together to share their experience and help each other maintain their gains. Many people new to the idea of 12-step meetings tell us, “I don’t need to sit around and hear other people’s problems. I have enough of my own.” If you find a group where everyone talks about the problems of addiction and not the solutions they’ve found, find another group. Wallowing in problems is not what 12-step recovery is about.  Another common reason we hear for not wanting to go to 12-step meetings is the “God thing.”
 

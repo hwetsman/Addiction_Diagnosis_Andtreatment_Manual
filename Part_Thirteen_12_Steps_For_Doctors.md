@@ -5,13 +5,34 @@
  
 ### Why Doctors Need the Steps
 
-You may wonder why you’d need this section. If you are in recovery yourself, you may feel you know the steps well and have no need for their restating in this form. If you are not in recovery you may feel the steps are the purview of the counselor or not integral to your work. In either case, I’d suggest another view.
+You may wonder why you’d need this section. If you are in recovery yourself, you
+may feel you know the steps well and have no need for their restating in this
+form. If you are not in recovery you may feel the steps are the purview of the
+counselor or not integral to your work. In either case, I’d suggest another
+view.
 
-The primary goal of any inpatient addiction treatment is to create an outpatient. The goal of outpatient addiction treatment is to create a non-patient, someone who is no longer in need of acute, intense, professional care; such a person would be a person in recovery. As 12-step recovery culture is the dominant recovery culture in this country it behooves us all to not only know what the steps are but also how to use them in medical practice.
+The primary goal of any inpatient addiction treatment is to create an outpatient.
+The goal of outpatient addiction treatment is to create a non-patient, someone
+who is no longer in need of acute, intense, professional care; such a person
+would be a person in recovery. As 12-step recovery culture is the dominant
+recovery culture in this country it behooves us all to not only know what the
+steps are but also how to use them in medical practice.
 
-The Addiction Medicine specialist can be of critical importance here. There are many misunderstandings in the general public about the steps and step work. These misunderstandings generally lead to less acceptance and willingness to even take a look at recovery. In short, these misunderstandings make your job harder. If you can explain these misunderstandings and ease patients’ expectations, you’ll make your job easier.
+The Addiction Medicine specialist can be of critical importance here. There are
+many misunderstandings in the general public about the steps and step work.
+These misunderstandings generally lead to less acceptance and willingness to
+even take a look at recovery. In short, these misunderstandings make your job
+harder. If you can explain these misunderstandings and ease patients’
+expectations, you’ll make your job easier.
 
-One basic thing to keep in mind to this goal is that when you meet the patient, it is likely that his only exposure to the 12 steps is the poster on the wall of the group room. These are the steps devoid of their instructions and meaning. It would be as likely to profit from reading the poster and doing the steps as it would be to read the listing of “Basic Principles of Addiction Medicine the Townsend Way” and trying to practice without reading this book. Without your help, the patient may never benefit from what’s on the wall. The instructions are in Alcoholics Anonymous, and we can encourage the patients to read it.
+One basic thing to keep in mind to this goal is that when you meet the patient,
+it is likely that his only exposure to the 12 steps is the poster on the wall of
+the group room. These are the steps devoid of their instructions and meaning. It
+would be as likely to profit from reading the poster and doing the steps as it
+would be to read the listing of chapters in this book and trying to practice
+without reading this book. Without your help, the patient may never benefit from
+what’s on the wall. The instructions are in <ins>Alcoholics Anonymous</ins>, and we can 
+encourage the patients to read it.
 
 One final thought: it is not helpful to skip ahead. People are ready to hear about steps when they are. They are ready to hear about the step they are ready to hear about. It is generally not helpful to talk about the wonderful spiritual benefits of helping others when the patient is just struggling with the idea of whether or not they have addiction. The Townsend Disease Acceptance Scale is helpful in knowing when to talk about the steps with a patient.
 Role of 12-steps in chronic disease treatment

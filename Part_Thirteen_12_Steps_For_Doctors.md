@@ -466,13 +466,21 @@ place. 
 
 ### Step Seven
 
-“Humbly asked Him to remove our shortcomings”
+>“Humbly asked Him to remove our shortcomings”
 
-This one looks real easy. “Ok, God, I’m sure I don’t want to be selfish anymore. Take it away!” It only it worked like that.
+This one looks real easy. “Ok, God, I’m sure I don’t want to be selfish anymore.
+Take it away!” It only it worked like that.
 
-Here is where a knowledgeable addiction medicine physician can be very helpful. We can remind the patient that the universe doesn’t generally provide help with what we can do, only with what we can’t. We agree that the person can’t just change himself or herself, but we can suggest to them that they can practice how to be after they have the shortcoming removed.
+Here is where a knowledgeable addiction medicine physician can be very helpful.
+We can remind the patient that the universe doesn’t generally provide help with
+what we can do, only with what we can’t. We agree that the person can’t just
+change himself or herself, but we can suggest to them that they can practice how
+to be after they have the shortcoming removed.
 
-So if God hasn’t swung the lightning bolt and made them unselfish, they could, while waiting, practice being unselfish so they’ll be ready. This is a good cognitive tool to move behavioral change while still not disrupting the patient’s spiritual practice or step work. 
+So if God hasn’t swung the lightning bolt and made them unselfish, they could,
+while waiting, practice being unselfish so they’ll be ready. This is a good
+cognitive tool to move behavioral change while still not disrupting the
+patient’s spiritual practice or step work. 
 
 
 ### Step Eight

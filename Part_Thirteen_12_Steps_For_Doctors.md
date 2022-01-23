@@ -556,64 +556,146 @@ familiar with it.
 
 #### Guide to Your Spot-check Inventory
 
-For most people in recovery, the day is filled with events that bring up resentment, fear, or shame. If left to fester, these emotions can create resentment, which is the number one killer of people in recovery. A spot-check inventory done immediately upon noticing these feelings is a great way to prevent these from festering.
+For most people in recovery, the day is filled with events that bring up
+anger, fear, or shame. If left to fester, these emotions can create resentment,
+which is the number one killer of people in recovery. A spot-check inventory
+done immediately upon noticing these feelings is a great way to prevent these
+from festering.
 
-A spot-check inventory is a quick rundown of steps 4 through 9 regarding a small upheaval in our emotions during the day. Before we get into the “how to” part, let’s take a look at where the idea of a spot-check inventory comes from. This is excerpted from the AA 12 and 12.
+A spot-check inventory is a quick rundown of steps 4 through 9 regarding a small
+upheaval in our emotions during the day. Before we get into the “how to” part,
+let’s take a look at where the idea of a spot-check inventory comes from. This
+is excerpted from the AA 12 and 12.
 
-“A spot-check inventory taken in the midst of such disturbances can be of very great help in quieting stormy emotions. Today’s spot-check finds its chief application to situations which arise in each day’s march. The consideration of long-standing difficulties had better be postponed, when possible, to times deliberately set aside for that purpose. The quick inventory is aimed at our daily ups and downs, especially those where people or new events throw us off balance and tempt us to make mistakes.”
+>“A spot-check inventory taken in the midst of such disturbances can be of very great help in quieting stormy emotions. Today’s spot-check finds its chief application to situations which arise in each day’s march. The consideration of long-standing difficulties had better be postponed, when possible, to times deliberately set aside for that purpose. The quick inventory is aimed at our daily ups and downs, especially those where people or new events throw us off balance and tempt us to make mistakes.”
 
-This sounds a lot like step 10, doesn’t it? Here’s an excerpt regarding step 10 from Alcoholics Anonymous.
+This sounds a lot like step 10, doesn’t it? Here’s an excerpt regarding step 10
+from <ins>Alcoholics Anonymous</ins>.
 
-“It should continue for our lifetime. Continue to watch for selfishness, dishonesty, resentment and fear. When these crop up, we ask God at once to remove them. We discuss them with someone immediately and make amends quickly if we have harmed anyone.”
+>“It should continue for our lifetime. Continue to watch for selfishness, dishonesty, resentment and fear. When these crop up, we ask God at once to remove them. We discuss them with someone immediately and make amends quickly if we have harmed anyone.”
 
-“Wait,” you say. “How can I be doing step 10 in a spot-check inventory when I haven’t even finished step 4?” Well, my experience is that without the spot-check inventory as a tool, many people won’t make it long enough to finish step 4. That’s why we’re including teaching it as a tool in primary treatment. Anyone can use a spot-check inventory. Here’s what you do.
+“Wait,” you say. “How can I be doing step 10 in a spot-check inventory when I
+haven’t even finished step 4?” Well, my experience is that without the spot-
+check inventory as a tool, many people won’t make it long enough to finish step
+4. That’s why we’re including teaching it as a tool in primary treatment. Anyone
+can use a spot-check inventory. Here’s what you do.
 
-As soon as you figure out that you’re upset by any emotion, turn it over to your higher power. If that works, great, you’re done. If it doesn’t, move on to the spot-check inventory. If turning it over worked and it comes back later, move on to the spot-check inventory.
+As soon as you figure out that you’re upset by any emotion, turn it over to your
+higher power. If that works, great, you’re done. If it doesn’t, move on to the
+spot-check inventory. If turning it over worked and it comes back later, move on
+to the spot-check inventory.
 
-The Spot-check
-First, a word about order. You’d think that a spot-check is steps 4 through 9, right? Well it is, but not in that order. Because a spot-check is designed to be done quickly with practice we won’t interrupt the process with a step 5 phone call until near the end. So we’ll do steps, 4,6,7,8,5,9.
+#### The Spot-check
+
+First, a word about order. You’d think that a spot-check is steps 4 through 9,
+right? Well it is, but not in that order. Because a spot-check is designed to be
+done quickly with practice we won’t interrupt the process with a step 5 phone
+call until near the end. So we’ll do steps, 4,6,7,8,5,9.
 
 #### Four
 
-Just as in the Big Book, we’re going to make a grid, but in this case there will only be one or two lines because this is a spot-check inventory.
+Just as in the Big Book, we’re going to make a grid, but in this case there will
+only be one or two lines because this is a spot-check inventory.
 
 I’m mad at	Because they	It affected my	What I did	Why I do this
 
 
-The first column usually needs no explanation; we put in it the name of the person at whom we’re angry or of whom we’re scared. Just whomever you’re upset at or with.
-The second column is also easy. We just write what they did: “cut in front of me in traffic,” “laughed at me,” etc.
+The first column usually needs no explanation; we put in it the name of the
+person at whom we’re angry or of whom we’re scared. Just whomever you’re upset
+at or with. The second column is also easy. We just write what they did: “cut in
+front of me in traffic,” “laughed at me,” etc.
 
-The third column is a little different. We want to be clear about what this other person’s action affected in us. Through a lot of practice over the years, people have found that there are four big things that almost everything else can get collapsed into. It’s helpful if you can stick to these four things that can be affected by others: my security, my personal relations, my ambitions, my self-esteem. Security includes both physical and financial security. Ambition includes anything you had your mind on doing. Personal relations include any relationship you have with anyone else and self esteem is how you feel about yourself.
+The third column is a little different. We want to be clear about what this
+other person’s action affected in us. Through a lot of practice over the years,
+people have found that there are four big things that almost everything else can
+get collapsed into. It’s helpful if you can stick to these four things that can
+be affected by others: my security, my personal relations, my ambitions, my
+self-esteem. Security includes both physical and financial security. Ambition
+includes anything you had your mind on doing. Personal relations include any
+relationship you have with anyone else and self esteem is how you feel about
+yourself.
 
-The fourth column also takes some explaining because many people think it means, “What I did to cause the other guy to hurt me.” But that’s not what the fourth column is at all. The fourth column refers to what we did to put ourselves in a position to be hurt, not what we did to cause the other person’s action. Very often we are upset by the action of others when we had no role at all in triggering their behavior. The fourth step still gives us a tool to deal with our feelings, because we still have a role in producing the upset even if we didn’t produce the behavior. An example of this is often necessary. Let’s say someone cuts in front of you in traffic. You didn’t make him do it, but you’re angry about it. What did you do to put yourself in a position to be hurt? Things like this often come up and such answers as “I expect others to respect me in order for me to respect myself” or “I had the expectation of getting there on time” go well in this column.
+The fourth column also takes some explaining because many people think it means,
+“What I did to cause the other guy to hurt me.” But that’s not what the fourth
+column is at all. The fourth column refers to what we did to put ourselves in a
+position to be hurt, not what we did to cause the other person’s action. Very
+often we are upset by the action of others when we had no role at all in
+triggering their behavior. The fourth step still gives us a tool to deal with
+our feelings, because we still have a role in producing the upset even if we
+didn’t produce the behavior. An example of this is often necessary. Let’s say
+someone cuts in front of you in traffic. You didn’t make him do it, but you’re
+angry about it. What did you do to put yourself in a position to be hurt? Things
+like this often come up and such answers as “I expect others to respect me in
+order for me to respect myself” or “I had the expectation of getting there on
+time” go well in this column.
 
-The fifth column should be titled, “What’s true about me that I do these things” but it wouldn’t fit so I just wrote, “Why I do this.” Here is where we look at why we put ourselves in a position to be hurt. For instance we might have in our fifth column following the two fourth column examples above, “I don’t have a good enough relationship with my higher power to feel truly equal to others” or “I don’t trust my higher power and have to have my day all planned out so that I’m in charge.”
+The fifth column should be titled, “What’s true about me that I do these things”
+but it wouldn’t fit so I just wrote, “Why I do this.” Here is where we look at
+why we put ourselves in a position to be hurt. For instance we might have in our
+fifth column following the two fourth column examples above, “I don’t have a
+good enough relationship with my higher power to feel truly equal to others” or
+“I don’t trust my higher power and have to have my day all planned out so that
+I’m in charge.”
 
 #### Six
 
-Skipping the fifth step for just a bit, we look at our fifth column and ask ourselves do we want to stay this way. Do we want to continue to have an insufficient relationship with our higher power? Do we want to continue to distrust our higher power? Do we want to continue to be selfish? Afraid? Whatever it is we found in the fifth column?
+Skipping the fifth step for just a bit, we look at our fifth column and ask
+ourselves do we want to stay this way. Do we want to continue to have an
+insufficient relationship with our higher power? Do we want to continue to
+distrust our higher power? Do we want to continue to be selfish? Afraid?
+Whatever it is we found in the fifth column?
 
-It’s not enough to just say, “Of course we want to change.” We really have to look at it. These old truths about ourselves are usually our first drugs. We’ve been using them so long we don’t even realize we could be another way. We need to give this some thought. Just a minute or two will do.
+It’s not enough to just say, “Of course we want to change.” We really have to
+look at it. These old truths about ourselves are usually our first drugs. They were sources of dopamine often before we could speak. We’ve been using them so long we don’t even realize we could be
+another way. We need to give this some thought. Just a minute or two will do.
 
 #### Seven
 
-Once we’ve determined that this is not something we’d like to keep, we humbly ask our higher power to remove it from us. This is done very quickly once we’ve made the decision.
+Once we’ve determined that this is not something we’d like to keep, we humbly
+ask our higher power to remove it from us. This is done very quickly once we’ve
+made the decision.
 
 #### Eight
 
-During the disturbance did we do anything to hurt anyone else? Even someone we don’t know or could never apologize to. We make a list in our heads, and now it’s time to call our sponsor
+During the disturbance, did we do anything to hurt anyone else? Even someone we
+don’t know or could never apologize to. We make a list in our heads, and now
+it’s time to call our sponsor.
 
 #### Five
 
-So we’re calling our sponsor to do step 5 but also so that we can check out what amends we should make in step nine. The call can be quick or not depending on what we have to talk about. It might go something like this. “I was driving to work and this guy cut in front of me and made me miss the green light and I was late for work. It affected my self-esteem, my security, and my ambitions. What I did was leave home later than usual but also I put myself in a position to have my self esteem affected because I had the expectation of everyone else taking care of me. I put myself in a position to be harmed also by having expectations of how things will work out. What’s true about me that I do these things is that I was selfish and took extra time for myself rather than leave on time for work, I don’t love myself or respect myself enough and need to get esteem from others, and I don’t trust my higher power and keep thinking I have to make plans to run my life. I’ve thought about this and I don’t want to run things anymore. I don’t want to not trust my higher power. I don’t want to be selfish anymore. I’ve asked my higher power to take these things away from me. When they guy pulled in front of my I slammed on my horn and shot him the bird. I don’t know who he was and can’t call and make amends but I want to make the amends to me that I won’t shoot the bird at anyone in traffic again. What do you think?”
+So we’re calling our sponsor to do step 5 but also so that we can check out what
+amends we should make in step nine. The call can be quick or not depending on
+what we have to talk about. It might go something like this. “I was driving to
+work and this guy cut in front of me and made me miss the green light and I was
+late for work. It affected my self-esteem, my security, and my ambitions. What I
+did was leave home later than usual but also I put myself in a position to have
+my self esteem affected because I had the expectation of everyone else taking
+care of me. I put myself in a position to be harmed also by having expectations
+of how things will work out. What’s true about me that I do these things is that
+I was selfish and took extra time for myself rather than leave on time for work,
+I don’t love myself or respect myself enough and need to get esteem from others,
+and I don’t trust my higher power and keep thinking I have to make plans to run
+my life. I’ve thought about this and I don’t want to run things anymore. I don’t
+want to not trust my higher power. I don’t want to be selfish anymore. I’ve
+asked my higher power to take these things away from me. When the guy pulled in
+front of my I slammed on my horn and shot him the bird. I don’t know who he was
+and can’t call and make amends but I want to make the amends to me that I won’t
+shoot the bird at anyone in traffic again. What do you think?”
 
 #### Nine
 
-If our sponsor approves our ninth step intentions we set about them as quickly as we can without doing more damage. We don’t take the day off of work and leave our boss hanging in order to clear our heads. We don’t ignore the need to pick up our kids from school in order to make these amends. But we do them as quickly as we can.
+If our sponsor approves our ninth step intentions we set about them as quickly
+as we can without doing more damage. We don’t take the day off of work and leave
+our boss hanging in order to clear our heads. We don’t ignore the need to pick
+up our kids from school in order to make these amends. But we do them as quickly
+as we can.
 
 #### Summary
 
-At first it may take several minutes to do a spot-check inventory. The more we practice the faster we’ll get. The more we do, the easier life becomes. Rather than letting things build up and build up during the day, we reset to zero all day long with a simple specific procedure that works.
+At first it may take several minutes to do a spot-check inventory. The more we
+practice the faster we’ll get. The more we do, the easier life becomes. Rather
+than letting things build up and build up during the day, we reset to zero all
+day long with a simple specific procedure that works.
 
 
 ### Step Eleven

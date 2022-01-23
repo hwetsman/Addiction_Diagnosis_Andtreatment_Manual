@@ -700,13 +700,33 @@ day long with a simple specific procedure that works.
 
 ### Step Eleven
 
-“Sought through prayer and mediation to improve our conscious contact with God as we understood Him, praying only for knowledge of His will for us and the power to carry that out”
+>“Sought through prayer and mediation to improve our conscious contact with God as we understood Him, praying only for knowledge of His will for us and the power to carry that out”
 
-Prayer and meditation, two things most doctors don’t talk about, and two things most Americans don’t want to hear about from their doctors. If your patient is ready for a prayer life or to begin a meditative practice, there’s little they’ll need from you, so I’ll concentrate on the patient who isn’t ready.
+Prayer and meditation, two things most doctors don’t talk about, and two things
+most Americans don’t want to hear about from their doctors. If your patient is
+ready for a prayer life or to begin a meditative practice, there’s little
+they’ll need from you, so I’ll concentrate on the patient who isn’t ready.
 
-Again, here you can be of unique service. There will be many people extolling the spiritual benefits of prayer and meditation. It’s the last thing in the world people expect from their doctor. And if you extol the spiritual benefits too, you’ll be just a doctor who has a spiritual life like those other people who are trying to get the patient to do these things. They won’t have any reason to listen to you any more than they have to listen to those others whose counsel did not work.
+Again, here you can be of unique service. There will be many people extolling
+the spiritual benefits of prayer and meditation. It’s the last thing in the
+world people expect from their doctor. And if you extol the spiritual benefits
+too, you’ll be just a doctor who has a spiritual life like those other people
+who are trying to get the patient to do these things. They won’t have any reason
+to listen to you any more than they have to listen to those others whose counsel
+did not work.
 
-You, however, have a different tack you can take. You can explain the brain processes to them. You can discuss theta waves in the pre-frontal cortex. You can explain the holistic nature of decision making. You can demystify and strengthen a patient’s confidence that prayer and meditation will improve their conscious contact with their own intuitive understanding of how the universe works, that they’re lives will be easier and fuller without the conflict of constantly being out of sync with that understanding. Regardless of your own spiritual path or religious beliefs, try to keep your explanations on a scientific footing. Many people keep the scientific “get of out jail free” card in their back pocket for when they decide to blow off all this spiritual stuff. You’re scientific explanations may be the thing that will keep them in recovery when that day comes. 
+You, however, have a different tack you can take. You can explain the brain
+processes to them. You can discuss theta waves in the pre-frontal cortex. You
+can explain the holistic nature of decision making. You can demystify and
+strengthen a patient’s confidence that prayer and meditation will improve their
+conscious contact with their own intuitive understanding of how the universe
+works, that they’re lives will be easier and fuller without the conflict of
+constantly being out of sync with that understanding. Regardless of your own
+spiritual path or religious beliefs, try to keep your explanations on a
+scientific footing. Many people keep the scientific “get of out jail free” card
+in their back pocket for when they decide to blow off all this spiritual stuff.
+You’re scientific explanations may be the thing that will keep them in recovery
+when that day comes. 
 
 
 ### Step Twelve

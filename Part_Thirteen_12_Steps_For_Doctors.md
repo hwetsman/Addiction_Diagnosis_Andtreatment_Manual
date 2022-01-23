@@ -485,15 +485,32 @@ patient’s spiritual practice or step work. 
 
 ### Step Eight
 
-“Made a list of all persons we had harmed and became willing to make amends to them all”
+>“Made a list of all persons we had harmed and became willing to make amends to them all”
 
-This just frankly scares people. Of course we could fall back on the old recovery joke, “Don’t worry about 8. It’s just a list. It’s 9 that will kill you.”
+This just frankly scares people. Of course we could fall back on the old
+recovery joke, “Don’t worry about 8. It’s just a list. It’s 9 that will kill
+you.”
 
-But that won’t really help with our purpose of helping the patient move through these steps. Sometimes I wonder if we should take down the poster on the wall in the group room. People see these steps, and they can get scared away. So we have to find a way for people to hear about these steps in advance and still stay to do them. If they don’t do them they’ll never resolve the shame that drives down their dopamine receptor density.
+But that won’t really help with our purpose of helping the patient move through
+these steps. I think we should take down the poster on the wall in
+the group room. People see these steps out of context, and they can get scared
+away. So we have to find a way for people to hear about these steps in advance
+and still stay to do them. If they don’t do them they’ll never resolve the shame
+that drives down their dopamine receptor density.
 
-So, focusing on being addiction medicine physicians, what can we tell people about step eight? We can tell them that their brain knows what they’ve done. We can tell them step eight is a written inventory of relationships in their lives that they don’t feel completely comfortable with. We can tell them that this discomfort will follow them and decrease dopamine receptor density unless they are taken care of. We can tell them that this step and the next are important to change their brains.
+So, focusing on being addiction medicine physicians, what can we tell people
+about step eight? We can tell them that their brain knows what they’ve done. We
+can tell them step eight is a written inventory of relationships in their lives
+that they don’t feel completely comfortable with. We can tell them that this
+discomfort will follow them and decrease dopamine receptor density unless they
+are taken care of. We can tell them that this step and the next are important to
+change their brains.
 
-There’s no one else in the patient’s life that will approach step 8 this way. They have a sponsor; they have a counselor; they have a family. You are their only shot at hearing the 8th step from a doctor’s point of view. By giving them the biological perspective you’re telling them something they can only hear from you. 
+There’s no one else in the patient’s life that will approach step 8 this way.
+They have a sponsor; they have a counselor; they have a family. You are their
+only shot at hearing the 8th step from a doctor’s point of view. By giving them
+the biological perspective you’re telling them something they can only hear from
+you. 
 
 
 ### Step Nine

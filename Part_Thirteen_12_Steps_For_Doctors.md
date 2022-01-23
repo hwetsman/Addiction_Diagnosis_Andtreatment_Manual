@@ -431,17 +431,37 @@ yet. Let them know that.
  
 ### Step Six
 
-“Were entirely ready to have God remove all these defects of character”
+>“Were entirely ready to have God remove all these defects of character”
 
-Alcoholics Anonymous goes to great length to explain steps four and five; a whole chapter gets written on step twelve; one could consider chapters 1-4 to be about the first three steps alone. Steps six and seven get one paragraph each. So your patients may think they aren’t important. They are.
+<ins>Alcoholics Anonymous</ins> goes to great length to explain steps four and five;
+a whole chapter gets written on step twelve; one could consider chapters 1-4 to
+be about the first three steps alone. Steps six and seven get one paragraph
+each. So your patients may think they aren’t important. They are.
 
-Step six is where people decide to change. They’ve taken a look at themselves in four and five. They’ve even told someone else and not died of shame. Immediately after that they are in a position to change that may be unique in their lives. So their instructions are to go immediately after step five and sit quietly with what they’ve discovered about themselves. Do they want to stay this way?
+Step six is where people decide to change. They’ve taken a look at themselves in
+four and five. They’ve even told someone else and not died of shame. Immediately
+after that they are in a position to change that may be unique in their lives.
+So their instructions are to go immediately after step five and sit quietly with
+what they’ve discovered about themselves. Do they want to stay this way?
 
-I’ve found it useful to get patients to make lists of pro’s and con’s about what they discover in their fourth step. For instance let’s say they’ve found that they are controlling of other people because they are afraid of other people’s thoughts about them. So I’d ask them to take a piece of paper, write at the top “I am afraid of what other people think,” and then make two columns: pro’s and con’s. There may be some pro’s, but there will usually be more con’s. It’s a useful way to motivate actual change.
+I’ve found it useful to get patients to make lists of pro’s and con’s about what
+they discover in their fourth step. For instance let’s say they’ve found that
+they are controlling of other people because they are afraid of other people’s
+thoughts about them. So I’d ask them to take a piece of paper, write at the top
+“I am afraid of what other people think,” and then make two columns: pro’s and
+con’s. There may be some pro’s, but there will usually be more con’s. It’s a
+useful way to motivate actual change.
 
-Another point to make here is that the patient isn’t deciding to change himself or herself here. They are only finding the willingness to change.
+Another point to make here is that the patient isn’t deciding to change himself
+or herself here. They are only finding the willingness to change.
 
-Remember that in the Townsend Way, almost everything about these “defects of character” will be things we could use as drugs before we were old enough to get outside rewards. In the Townsend Way, these are early drugs and so this step and the next are about becoming willing to abstain from their use and to practice abstinence from their use. This means that these steps are just a repeat of what the patient has already done to get here in the first place. 
+Remember that in our biological understanding of the illness, almost everything
+about these “defects of character” will be things we could use as drugs before
+we were old enough to get outside rewards. In the ADAM Way, these are early
+drugs, and so this step and the next are about becoming willing to abstain from
+their use and to practice abstinence from their use. This means that these steps
+are just a repeat of what the patient has already done to get here in the first
+place. 
 
 
 ### Step Seven

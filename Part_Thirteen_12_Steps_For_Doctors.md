@@ -285,41 +285,148 @@ their uniqueness and will stand in their way of their recovery. 
 
 ### Step Four
 
-“Made a searching and fearless moral inventory of ourselves”
+>“Made a searching and fearless moral inventory of ourselves”
 
-One of the things we hear often from people at the beginning of their treatment is that they don’t want to work the steps because they look ahead to 4 and 5 and cringe from the thought of them. Make a searching and fearless moral inventory? You mean write down every dirty, nasty, horrible thing I’ve ever done? And then tell someone? You’re nuts, no one would do that.
+One of the things we hear often from people at the beginning of their treatment
+is that they don’t want to work the steps because they look ahead to 4 and 5 and
+cringe from the thought of them. Make a searching and fearless moral inventory?
+You mean write down every dirty, nasty, horrible thing I’ve ever done? And then
+tell someone? You’re nuts, no one would do that.
 
-Everyone you see in recovery today had those same thoughts. Luckily, the reality turns out to be better than we feared. First, if you’re reading this before you’ve finished your third step, stop. You don’t need to worry about the hurdles of tomorrow. Go back to doing what you were doing today.
-It’s important to explain to patients that the reason anyone takes the fourth and fifth steps is to get relief, not to be made more miserable. Millions of people have taken these steps and not only survived to tell the tale, but survived to enjoy their lives. Far from being a laundry list of dirty nasty things (you’re right, if it was just that, none of us would have done it) the fourth step starts with what’s bugging you. There are many ways to work the fourth step; workbooks have been written and workshops given, but they all start with the same thing as outlined in Alcoholics Anonymous, resentments.
+Everyone you see in recovery today had those same thoughts. Luckily, the reality
+turns out to be better than we feared. First, if you’re reading this before
+you’ve finished your third step, stop. You don’t need to worry about the
+hurdles of tomorrow. Go back to doing what you were doing today.
 
-While many different ways have been written to work a moral inventory, they all stem from the method outlined over 70 years ago in Alcoholics Anonymous so we’ll use that as the template. In working the fourth step it’s best to start with a regular sized piece of paper turned sideways, and we’ve created one that we put in the patient handbook. In the first column (titled resentments) the patient can list everyone they have any resentful or angry feelings about. It’s important that they don’t look ahead to the other columns just yet; focus on the first column only. They’re just making a list of people you’re angry at. That’s not too hard is it?
+It’s important to explain to patients that the reason anyone takes the fourth
+and fifth steps is to get relief, not to be made more miserable. Millions of
+people have taken these steps and not only survived to tell the tale, but
+survived to enjoy their lives. Far from being a laundry list of dirty nasty
+things (you’re right, if it was just that, none of us would have done it), the
+fourth step starts with what’s bugging you. There are many ways to work the
+fourth step; workbooks have been written and workshops given, but they all start
+with the same thing as outlined in Alcoholics Anonymous, resentments.
 
-After they’ve got the first column filled in, they go back to the first name and take a look at the second column. Here they’re only writing down why they’re angry, what the other person did. They don’t write much in this column, just a line about each thing that person did that brought about their angry feelings. Things like: “He fired me,” “She cheated on me,” “He called the police on me.” That’s not that hard either. They’re just adding what each person did to them next to their name, one line for each thing they did. They go down the whole list before moving to the next column.
+While many different ways have been written to work a moral inventory, they all
+stem from the method outlined over 70 years ago in Alcoholics Anonymous so we’ll
+use that as the template. In working the fourth step it’s best to start with a regular sized piece of paper turned sideways, and we’ve created one that we put in the patient handbook. In the
+first column (titled resentments) the patient can list everyone they have any
+resentful or angry feelings about. It’s important that they don’t look ahead to
+the other columns just yet; focus on the first column only. They’re just making
+a list of people you’re angry at. That’s not too hard is it?
 
-So far we’ve asked them to do nothing very special or hard. The next column isn’t hard either, but it is a bit special and takes some explaining. In the third column they write down what particular thing about themselves that was affected by the other person’s action. In doing this they are going to pick from a short list of topics that turn out to pretty much cover every eventuality: self-esteem, personal relations (including sex), ambitions, or security (physical, monetary, etc). It turns out that these four things represent four pretty basic instincts that all humans have. They go down the third column writing in which one or more of the four was affected by the other person’s action.
+After they’ve got the first column filled in, they go back to the first name and
+take a look at the second column. Here they’re only writing down why they’re
+angry, what the other person did. They don’t write much in this column, just a
+line about each thing that person did that brought about their angry feelings.
+Things like: “He fired me,” “She cheated on me,” “He called the police on me.”
+That’s not that hard either. They’re just adding what each person did to them
+next to their name, one line for each thing they did. They go down the whole
+list before moving to the next column.
 
-So we have three columns filled in: The person they’re angry at, what the other person did, and what about the patient it affected. To be honest, so far we’ve done nothing that most people don’t do every day in their own head while keeping a mental grudge list. This is about as far as most patients get on their own, and if it’s as far as they get, they usually get no relief, just more anger. So to move on to the fourth column we have to change our thinking a bit. So listen to this next sentence understanding that it might not mean what you think it means; in fact, if you think it sounds bad, it definitely doesn’t mean what you think it means.
+So far we’ve asked them to do nothing very special or hard. The next column
+isn’t hard either, but it is a bit special and takes some explaining. In the
+third column they write down what particular thing about themselves that was
+affected by the other person’s action. In doing this they are going to pick from
+a short list of topics that turn out to pretty much cover every eventuality:
+self-esteem, personal relations (including sex), ambitions(meaning broadly
+anything we wanted to have happen), or security (physical, monetary, etc). It
+turns out that these four things represent four pretty basic instincts that all
+humans have. They go down the third column writing in which one or more of the
+four was affected by the other person’s action.
 
-In the next column they’re going to write down what they did to put themself in a position to be hurt or get resentful. If they think this is where they write down all the bad nasty stuff, ask them to think again. It turns out that no matter what someone does to us, any angry feelings we have come from inside us. That’s a pretty different way of thinking than they learned growing up in our society. Before coming to treatment, they were pretty sure that other people could make us angry. Now we’re asking them to look at it a bit differently: that other people acted and that we had done something as well that made us vulnerable to being angry about the other person’s action. It’s an important distinction because it turns out that it isn’t being harmed that drives down our dopamine tone, it’s being angry about it. So if the patient can actually do something that changes that outcome, even though they can do nothing about the other person’s behavior, they have a chance to live without this illness affecting everything they do.
+So we have three columns filled in: The person they’re angry at, what the other
+person did, and what about the patient it affected. To be honest, so far we’ve
+done nothing that most people don’t do every day in their own head while keeping
+a mental grudge list. This is about as far as most patients get on their own,
+and if it’s as far as they get, they usually get no relief, just more anger. So,
+to move on to the fourth column we have to change our thinking a bit. It helps to
+listen to this next sentence understanding that it might not mean what you think
+it means when you first hear it; in fact, if you think it sounds bad, it
+definitely doesn’t mean what you think it means.
 
-This can often take a lot of getting used to. Some people, when they hear this, think that we’re saying they are to blame for the other person’s action. That’s not what we’re saying. Some people think we’re saying that they are to blame for the other person’s hurting them. That’s not what we’re saying. What we’re saying is that the other person’s action, while hurtful to us, is insufficient to take away our happiness. Let’s face it, if it were up to the other person how we feel, he have no chance for happiness. So this new way of thinking is actually very good news. We have a way to have our happiness even if we can’t change other people’s actions (and we can’t).
+In the next column they’re going to write down what they did to put themself in
+a position to be hurt or get resentful. If they think this is where they write
+down all the bad nasty stuff, ask them to think again. It turns out that no
+matter what someone does to us, any angry feelings we have come from inside us.
+That’s a pretty different way of thinking than they learned growing up in our
+society. Before coming to treatment, they were pretty sure that other people
+could make us angry. Now we’re asking them to look at it a bit differently: that
+other people acted, and that we had done something as well that made us
+vulnerable to being angry about the other person’s action. It’s an important
+distinction because it turns out that it isn’t being harmed that drives down our
+dopamine tone, it’s being disturbed about it. So if the patient can actually do
+something that changes that outcome, even though they can do nothing about the
+other person’s behavior, they have a chance to live without this illness
+affecting everything they do.
 
-So what do they write in this fourth column? Examples might include: “I looked to others to validate my self-esteem,” “I thought I could only be happy if I was married,” and “I was in a hurry and felt like I had to get there in time or I was a failure.” We’re not necessarily talking about us having done anything to cause the other person’s action (though that may have occurred in some cases), we’re talking about what we did to put ourselves in a position to be hurt. This may represent a new way of thinking, but a very helpful one and one worth learning how to master. We go down the fourth column one line at a time as we did for the other columns and don’t move to the fifth column until we’re finished the fourth.
+This can often take a lot of getting used to. Some people, when they hear this,
+think that we’re saying they are to blame for the other person’s action. That’s
+not what we’re saying. Some people think we’re saying that they are to blame for
+the other person’s hurting them. That’s not what we’re saying. What we’re saying
+is that the other person’s action, while hurtful to us, is insufficient to take
+away our happiness. Let’s face it, if it were up to the other person how we
+feel, he have no chance for happiness. So this new way of thinking is actually
+very good news. We have a way to have our happiness even if we can’t change
+other people’s actions (and we can’t).
 
-So in the fifth column we only have to add one thing and by the time we get there it will be pretty easy. We ask the patient to write down what part of their character or personality it is that causes them to act in the ways they wrote down in column four. We’re not saying it’s a bad part of their character. We’re not saying we want to change it. We’re only asking them to take an inventory and be honest with themselves about what part of their personality leads to those actions. It turns out that a lack of honesty about ourselves generates shame, and we know that lowers dopamine tone in the reward part of our brain. As we get more honest with ourselves we will feel better. They go down the fifth column just listing what it is about themselves that causes the behavior. Examples might include: “I don’t think I’m worthwhile,” “I don’t trust a higher power,” and “I need to be in charge.”
+So what do they write in this fourth column? Examples might include: “I looked
+to others to validate my self-esteem,” “I thought I could only be happy if I was
+married,” and “I was in a hurry and felt like I had to get there in time or I
+was a failure.” We’re not necessarily talking about us having done anything to
+cause the other person’s action (though that may have occurred in some cases),
+we’re talking about what we did to put ourselves in a position to be hurt. This
+may represent a new way of thinking, but a very helpful one and one worth
+learning how to master. We go down the fourth column one line at a time as we
+did for the other columns and don’t move to the fifth column until we’re
+finished the fourth.
 
-So that’s it, the fourth step. You can get your patient through it and they didn’t have to write down a list of nasty terrible stuff. They can do it without ripping their hearts out. Now they’re ready for step five. Just like step four, it’s not as bad as they think.
+So in the fifth column we only have to add one thing and by the time we get
+there it will be pretty easy. We ask the patient to write down what part of
+their character or personality it is that causes them to act in the ways they
+wrote down in column four. We’re not saying it’s a bad part of their character.
+We’re not saying we want to change it. We’re only asking them to take an
+inventory and be honest with themselves about what part of their personality
+leads to those actions. It turns out that a lack of honesty about ourselves
+generates shame, and we know that lowers dopamine tone in the reward part of our
+brain. As we get more honest with ourselves we will feel better. They go down
+the fifth column just listing what it is about themselves that causes the
+behavior. Examples might include: “I don’t think I’m worthwhile,” “I don’t trust
+a higher power,” and “I need to be in charge.”
+
+So that’s it, the fourth step. You can get your patient through it and they
+didn’t have to write down a list of nasty terrible stuff. They can do it without
+ripping their hearts out. Now they’re ready for step five. Just like step four,
+it’s not as bad as they think.
 
  
 ### Step Five
 
-“Admitted to God, to ourselves, and to another human being the exact nature of our wrongs”
+>“Admitted to God, to ourselves, and to another human being the exact nature of our wrongs”
 
-Actually doing step five is the easy part. They just read it to themself, whatever they see as their higher power, and another living human being. The hardest part seems to be, picking that human being.  Many people feel it should be their sponsor, and, generally, we agree. However, it could be their counselor, a clergy member, or anyone else who they trust and who will understand what they’re doing. It’s best if it’s NOT YOU. You are in a special role and it takes a great deal of experience in both recovery and medicine to balance the roles. We can’t be patients’ sponsors. It’s also best if it’s not a member of their family. It’s not a good idea to tell a family member about your feeling about them or other family members’ in a setting like a fifth step, and it’s not good for you to leave those things out of your step-work either.
+Actually doing step five is the easy part. They just read it to themselves,
+whatever they see as their higher power, and another living human being. The
+hardest part seems to be, picking that human being.  Many people feel it should
+be their sponsor, and, generally, we agree. However, it could be their counselor,
+a clergy member, or anyone else who they trust and who will understand what
+they’re doing. It’s best if it’s NOT YOU. You are in a special role and it takes
+a great deal of experience in both recovery and medicine to balance the roles.
+We can’t be patients’ sponsors. It’s also best if it’s not a member of their
+family. It’s not a good idea to tell a family member about your feeling about
+them or other family members’ in a setting like a fifth step, and it’s not good
+for you to leave those things out of your step-work either.
 
-The biggest problem with step five is how it looms large in some people’s minds and gets them to censor their fourth step. Tell them not to worry about five when they’re doing four. They’re just writing down for themself at that point. They can decide later if you’re willing to work step five.
+The biggest problem with step five is how it looms large in some people’s minds
+and gets them to censor their fourth step. Tell them not to worry about five
+when they’re doing four. They’re just writing down for themself at that point.
+They can decide later if you’re willing to work step five.
 
-One other thing to mention here is another reason why people are sure that they can’t do a fifth step. Most people have the thought that there is something so terrible in their fourth step that, when hearing their fifth step, their sponsor will run screaming from the room never to be seen again. That’s a pretty common fear, but we’ve seen thousands of people do this step and it’s never happened yet. Let them know that.
+One other thing to mention here is another reason why people are sure that they
+can’t do a fifth step. Most people have the thought that there is something so
+terrible in their fourth step that, when hearing their fifth step, their sponsor
+will run screaming from the room never to be seen again. That’s a pretty common
+fear, but we’ve seen thousands of people do this step, and it’s never happened
+yet. Let them know that.
 
  
 ### Step Six

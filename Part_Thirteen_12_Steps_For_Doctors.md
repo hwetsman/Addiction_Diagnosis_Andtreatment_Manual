@@ -731,10 +731,25 @@ when that day comes. 
 
 ### Step Twelve
 
-“Having had a spiritual awakening as the result of these steps, we tried to carry this message to alcoholics and to practice these principles in all our affairs”
+>“Having had a spiritual awakening as the result of these steps, we tried to carry this message to alcoholics and to practice these principles in all our affairs”
 
-So if people feel better with more dopamine receptors and feeling less than and isolation both decrease dopamine receptors, then it follows that anyone who wants to feel good all the time should avoid isolation and feeling less than. Is there anything more protective against those than helping someone else? The act of helping is a behavioral signal to the self that “I’m fine,” that I have enough to give, the very antithesis of less than. The act of helping others is usually done in their presence, which breaks down isolation.
+So if people feel better with more dopamine receptors, and feeling less than and
+isolation both decrease dopamine receptors, then it follows that anyone who
+wants to feel good all the time should avoid isolation and feeling less than. Is
+there anything more protective against those than helping someone else? The act
+of helping is a behavioral signal to the self that “I’m fine,” that I have
+enough to give, the very antithesis of less than. The act of helping others is
+usually done in their presence, which breaks down isolation.
 
-By this time, the patient is generally interested in engaging in recovery and not likely to need much in the way of prompting. However, remember that this is a chronic illness. They are also likely to believe they have had a permanent change, and this is a good time to be reminded of the biological nature of the illness and of recovery. Nothing’s really changed. The illness is still there. What’s been discovered is a way to relieve the symptoms on a daily basis if followed. If not followed, it does as much good as medication left in the bottle.
+By this time, the patient is generally interested in engaging in recovery and
+not likely to need much in the way of prompting. However, remember that this is
+a chronic illness. They are also likely to believe they have had a permanent
+change, and this is a good time to be reminded of the biological nature of the
+illness and of recovery. Nothing’s really changed. The illness is still there.
+What’s been discovered is a way to relieve the symptoms on a daily basis if
+followed. If not followed, it does as much good as medication left in the
+bottle. It was Santayana who said:
+> “Repetition is the only form of permanence that Nature can achieve.”
+
 
  

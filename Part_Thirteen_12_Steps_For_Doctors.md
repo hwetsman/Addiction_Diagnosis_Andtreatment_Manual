@@ -537,13 +537,25 @@ guidance even when we don’t say it’s anticipatory. 
 
 ### Step Ten
 
-“Continued to take personal inventory and when we were wrong promptly admitted it.”
+>“Continued to take personal inventory and when we were wrong promptly admitted it.”
 
-The counselors should be well versed in teaching the patients how to do a step 4-9 spot check inventory. Step Ten is largely just that. What they need to hear from you is that this continual day-to-day inventory process is a great way to “return to zero.” Almost all of them can identify with the little problems of each day starting to build on top of each other until they are so big there’s nothing else to do but use. It will help them to hear that this is not merely a psychological problem, but a biological one. It will help them to hear that by working spot check inventories whenever they are disturbed that they will be keeping their brain reset to the zero point.
+The counselors should be well versed in teaching the patients how to do a
+step 4-9 spot check inventory. Step Ten is largely just that. What they need to
+hear from you is that this continual day-to-day inventory process is a great way
+to “return to zero.” Almost all of them can identify with the little problems of
+each day starting to build on top of each other until they are so big there’s
+nothing else to do but use. It will help them to hear that this is not merely a
+psychological problem, but a biological one. It will help them to hear that by
+working spot check inventories whenever they are disturbed that they will be
+keeping their brain reset to the zero point.
 
-The spot check inventory is a fine thing for any of us to get good at, and good at teaching to others. I’m going to include it here so that you can become familiar with it.
+The spot check inventory is a fine thing for any of us to get good at, and good
+at teaching to others. I’m going to include it here so that you can become
+familiar with it.
 
-Guide to Your Spot-check Inventory
+
+#### Guide to Your Spot-check Inventory
+
 For most people in recovery, the day is filled with events that bring up resentment, fear, or shame. If left to fester, these emotions can create resentment, which is the number one killer of people in recovery. A spot-check inventory done immediately upon noticing these feelings is a great way to prevent these from festering.
 
 A spot-check inventory is a quick rundown of steps 4 through 9 regarding a small upheaval in our emotions during the day. Before we get into the “how to” part, let’s take a look at where the idea of a spot-check inventory comes from. This is excerpted from the AA 12 and 12.

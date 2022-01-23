@@ -515,11 +515,24 @@ you. 
 
 ### Step Nine
 
-“Made direct amends to such people wherever possible, except when to do so would injure them or others”
+>“Made direct amends to such people wherever possible, except when to do so would injure them or others”
 
-Personally, I don’t generally take people off of dopamine raising medications until they have done significant work in step nine. This is because this step relieves shame. They experience of the people who wrote Alcoholics Anonymous was that they we’re relieved of their chronic low dopamine tone before they were “half-way done” with step nine. So the patient doesn’t have to be finished step nine, just well enough into it to have noticed a change.
+Personally, I don’t generally take people off of dopamine raising medications
+until they have done significant work in step nine. This is because this step
+relieves shame. They experience of the people who wrote <ins>Alcoholics Anonymous</ins> was
+that they we’re relieved of their chronic low dopamine tone before they were
+“half-way done” with step nine. So the patient doesn’t have to be finished step
+nine, just well enough into it to have noticed a change.
 
-Again, you are the only one who can give them the perspective you can. Others will be telling them they are working this step to get right with those around them; others will be telling them it’s to get closer to God; others will tell them it’s so they can sit still in their own skin. You’re the only one that can explain the exact nature of the biological change and how it counters the primary symptoms of the illness. This is not only important for getting people through the steps, but also to educate them on the causes of symptoms when they return. Remember, this is a chronic disease. We give the patient anticipatory guidance even when we don’t say it’s anticipatory. 
+Again, you are the only one who can give them the perspective you can. Others
+will be telling them they are working this step to get right with those around
+them; others will be telling them it’s to get closer to God; others will tell
+them it’s so they can sit still in their own skin. You’re the only one that can
+explain the exact nature of the biological change and how it counters the
+primary symptoms of the illness. This is not only important for getting people
+through the steps, but also to educate them on the causes of symptoms when they
+return. Remember, this is a chronic disease. We give the patient anticipatory
+guidance even when we don’t say it’s anticipatory. 
 
 
 ### Step Ten

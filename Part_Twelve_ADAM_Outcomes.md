@@ -50,9 +50,26 @@ percentage of calls who’s inquiry became an assessment:
 Figure 22 - INQUIRY CONVERSION TO ASSESSMENT BY YEAR
 
 Still, a 20% assessment rate, even though a great increase from 14%, is not good
-enough. Let’s take a deeper look at 2014’s inquiries to see some of the reasons the rate is still so low. 12% of people who called, called only looking for Buprenorphine treatment without other treatment interventions. We were able to get 8.66% of them to come get assessed for IOP even though they had no intention for that when they called. We could do better, or perhaps we could develop another level of care for them so that we could get them what they want while trying to move them to more definitive care. 24% of the calls were for mental health care, probably prompted by our doctors’ inclusion in insurance panels. Rather than just say we do not do primary mental health care at Townsend, our phone center spoke to each of these people about the nature of their complaints and referred them to appropriate mental health providers. In 2.28% of the cases the callers chose to come in for an assessment. 1% of the patients called seeking services at a forensic program that Townsend used to maintain. 24% of them came in for assessment. 59% of callers were seeking intensive outpatient or inpatient treatment for addiction, and 31% of them came in for an assessment. The remaining few percentage of patients were inquiries made over the internet by people we were not able to contact. Here’s the picture:
+enough. Let’s take a deeper look at 2014’s inquiries to see some of the reasons
+the rate is still so low. 12% of people who called, called only looking for
+Buprenorphine treatment without other treatment interventions. We were able to
+get 8.66% of them to come get assessed for IOP even though they had no intention
+for that when they called. We could do better, or perhaps we could develop
+another level of care for them so that we could get them what they want while
+trying to move them to more definitive care. 24% of the calls were for mental
+health care, probably prompted by our doctors’ inclusion in insurance panels.
+Rather than just say we do not do primary mental health care at Townsend, our
+phone center spoke to each of these people about the nature of their complaints
+and referred them to appropriate mental health providers. In 2.28% of the cases
+the callers chose to come in for an assessment. 1% of the patients called
+seeking services at a forensic program that Townsend used to maintain. 24% of t
+hem came in for assessment. 59% of callers were seeking intensive outpatient or
+inpatient treatment for addiction, and 31% of them came in for an assessment.
+The remaining few percentage of patients were inquiries made over the internet
+by people we were not able to contact. Here’s the picture:
 
 
+![Figure 23 - INQUIRY TO ASSESSMENT CONVERSION BY INQUIRY TYPE](Images/Inquiry_To_Assessment_Conversion_By_Inquiry_Type.jpg)
 Figure 23 - INQUIRY TO ASSESSMENT CONVERSION BY INQUIRY TYPE
 
 

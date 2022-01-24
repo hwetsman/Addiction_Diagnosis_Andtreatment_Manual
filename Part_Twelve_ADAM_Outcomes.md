@@ -73,9 +73,22 @@ by people we were not able to contact. Here’s the picture:
 Figure 23 - INQUIRY TO ASSESSMENT CONVERSION BY INQUIRY TYPE
 
 
-Assessment Conversion – But what happens once someone comes in to assess? They may be greeted by people who don’t seem to care or they may see something they don’t like. It isn’t just the person doing the assessment that impacts the assessment to admission conversion ratio; it’s the physical plant and all the people in the clinic. In 2013 Townsend admitted 81% of the people who came in for an assessment. That was a record for us. In 2014 that was down to 70%. The first few months of 2014 showed the initial impacts of the passage of the ACA and rapid and sudden alterations of Townsend’s provider contract with one of the primary insurers in Louisiana. As you can see below, the first three months of 2014 had the lowest conversions of the year. These have steadily improved but the alteration of patient compensation has kept us from getting back to last year’s levels. We are engaging on multiple fronts to bring our conversion rates back above 80%.
+Assessment Conversion – But what happens once someone comes in to assess? They
+may be greeted by people who don’t seem to care or they may see something they
+don’t like. It isn’t just the person doing the assessment that impacts the
+assessment to admission conversion ratio; it’s the physical plant and all the
+people in the clinic. In 2013 Townsend admitted 81% of the people who came in
+for an assessment. That was a record for us. In 2014 that was down to 70%. The
+first few months of 2014 showed the initial impacts of the passage of the ACA
+and rapid and sudden alterations of Townsend’s provider contract with one of the
+primary insurers in Louisiana. As you can see below, the first three months of
+2014 had the lowest conversions of the year. These steadily improved as we
+accomodated the changes, but the alteration of patient compensation kept us
+from getting back to last year’s levels. At the time of this writing, we are
+engaging on multiple fronts to bring our conversion rates back above 80%.
 
 
+![Figure 24 - ASSESSMENT TO ADMISSION CONVERSION IN 2014](Images/Assessment_To_Admission_Conversion_In_2014.jpg)
 Figure 24 - ASSESSMENT TO ADMISSION CONVERSION IN 2014
 
 

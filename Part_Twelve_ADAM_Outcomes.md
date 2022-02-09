@@ -117,17 +117,19 @@ Completion – Several factors affect completion at Townsend. The overall comple
 	Session Density- Session density is the number of sessions the patient attended divided by the length of stay (LOS). When multiplied by 7, this gives an average number of sessions the patient attends per week. The Townsend IOP program is five nights a week. In a recent study of 226 sequential admissions, 14% attended less than once a week before discharge, 7% about 1 per week, 15% twice a week, 15% three times a week, 33% four times a week, and 16% five times a week. As you can see below, those who came at least 4 times a week had significantly more chance of completion than those who came less than 4 times a week. The people who came less than one time a week were mostly admission reversals, people who admitted but decided not to come after they admitted. These usually happen because the person paying or the legal enforcer of the decision to come to treatment decided inpatient was the only way they’d accept. Many people have heard that IOP is three times a week, and that is all they will attend. One can see that this is not the most effective session density. Those attending 1 to 2 times a week often present life circumstances that prevent their attending more frequently. This also has proven not to be as effective.
 
 
-
+![Figure 26 - TREATMENT COMPLETION RATE BY SESSIONS PER WEEK ATTENDED](Images/Treatment_Completion_Rate_By_Sessions_Per_Week_Attended.jpg)
 Figure 26 - TREATMENT COMPLETION RATE BY SESSIONS PER WEEK ATTENDED
 
 	Insurance Carrier- Many insurance carriers have arbitrary limits on the number of sessions they’ll allow or feel if a patient isn’t using for two weeks then they no longer need care. The majority of non-completers at Townsend are due to this sort of limitation. Here’s a look at some of the variability by insurer for the major payers for our patients.
 
 
+![Figure 27 - SESSIONS APPROVED BY INSURANCE CO](Images/Sessions_Approved_By_Insurance_Co.jpg)
 Figure 27 - SESSIONS APPROVED BY INSURANCE CO
 
 You can see that there is some significant difference between the highest and lowest. This difference is mirrored in the patients’ success:
 
 
+![Figure 28 - TREATMENT COMPLETION RATES BY INSURANCE CO](Images/Treatment_Completion_Rates_By_Insurance_Co.jpg)
 Figure 28 - TREATMENT COMPLETION RATES BY INSURANCE CO
 
 In fact, the correlation between the average number of sessions allows for its patients by insurance payer and the completion rate explains 50% of the variance of completion and the p value is .048.
@@ -136,6 +138,7 @@ In fact, the correlation between the average number of sessions allows for its p
 
 
 
+![Figure 29 - TREATMENT COMPLETION RATES BY DR VISIT FREQUENCY](Images/Treatment_Completion_Rates_By_Dr_Visit_Frequency.jpg)
 Figure 29 - TREATMENT COMPLETION RATES BY DR VISIT FREQUENCY
 
 
@@ -146,13 +149,16 @@ First, let’s discuss the controversy. There are numerous studies in the litera
 Townsend’s medical model is not focused on buprenorphine. It is focused on finding the right medication to aid the patient in getting into and stay in recovery from addiction. Here’s the picture for a cohort of 204 former Townsend IOP patients maintained on buprenorphine:
 
 
+![Figure 30 - ADHERENCE TO ABSTINENCE BY MONTH SINCE DC](Images/Adherence_To_Abstinence_By_Month_Since_DC.jpg)
 Figure 30 - ADHERENCE TO ABSTINENCE BY MONTH SINCE DC
+
 Even out to 11 months after DC abstinence rates exceed these two studies. The primary drugs used in non-adherence to the care plan in this group are benzodiazepines, alcohol and cannabis. Townsend monitors our continuing care patients regularly and intervenes quickly to reestablish the care plan when non-adherence is detected.
 
 
 DAS Improvement – The DAS is unique to Townsend, and it is most important. It is both the means for personalizing care and for measuring the patient’s progress. It is the first quantitative measure available to gauge treatment progress. Townsend has tried to improve it’s interventions as directed by repeated DAS measurements so that patient progress can be faster. As we note the DAS every week of treatment we can follow the progression of each patient or of our population as a whole. Here’s a picture of our first half 2014 DAS progress by session to our 2013 data:
 
 
+![Figure 31 - DAS BY SESSION 2013 VS 2014](Images/DAS_By_Session_2013_VS_2014.jpg)
 Figure 31 - DAS BY SESSION 2013 VS 2014
 
 What you see here is that for any given session, the DAS score for 2014 is one DAS point higher than for 2013. We’ll see how important that is in a bit.
@@ -160,11 +166,13 @@ What you see here is that for any given session, the DAS score for 2014 is one D
 Cost Savings – The DAS is important because it correlates inversely with two important and costly proxies for continued using: the number of emergency department visits and the number of hospital days. Here’s the picture for ED visits: p=.01
 
 
+![Figure 32 - ED VISITS PER 100 DAYS BY DCDAS](Images/ED_Visits_Per_100_Days_By_DCAS.jpg)
 Figure 32 - ED VISITS PER 100 DAYS BY DCDAS
 
 You can see that the greater the DAS score at discharge, the lower the average number of ED visits are per 100 days after DC. This data went out to two years after DC. We see the same sort of relationship with hospital days per day since DC:
 
 
+![Figure 33 - HOSPITAL DAYS PER 100 DAYS SINCE DC BY DCDAS](Images/Hospital_Days_Per_100_Days_Since_DC_By_DCDAS.jpg)
 Figure 33 - HOSPITAL DAYS PER 100 DAYS SINCE DC BY DCDAS
 
 It should be noted that this population wasn’t Townsend’s successful completions, or even Townsend’s completions, but rather admissions. We compared this to people who didn’t come to Townsend at all but had called and found that we had a remarkably lower rate of both measures than people who sought treatment elsewhere. We presented this data and other data as cost savings to insurance companies. In short people who came to Townsend cost insurance companies $50 less a day, every day after treatment, even if they don’t finish at Townsend.

@@ -92,13 +92,22 @@ engaging on multiple fronts to bring our conversion rates back above 80%.
 Figure 24 - ASSESSMENT TO ADMISSION CONVERSION IN 2014
 
 
-Engagement – Others may have other definitions but Townsend defines engagement as the percentage of scheduled groups that the patient attends. It is a basic principle that if the patient is not in the group they will not benefit from the group. Townsend holds group five days a week as opposed to the normal three for IOPs. It will become clear why in a bit.
+Engagement – Others may have other definitions but Townsend defines engagement
+as the percentage of scheduled groups that the patient attends. It is a basic
+principle that if the patient is not in the group they will not benefit from the
+group. Townsend holds group five days a week as opposed to the normal three for
+IOPs. It will become clear why in a bit.
+
 Here’s the picture of engagement for Townsend’s patients in the first half of 2014:
 
 
+![Figure 25 - AVERAGE SESSIONS PER WEEK ATTENDED (ENGAGEMENT)](Images/Average_Sessions_Per_Week_Attended.jpg)
 Figure 25 - AVERAGE SESSIONS PER WEEK ATTENDED (ENGAGEMENT)
 
-Ten percent of patients came only one day a week on average and 14.7% came only 2 days a week, meaning that over 75% of the patients came at least 3 times a week to IOP. More importantly as you’ll see later, 49% came 4 or more times a week.
+Ten percent of patients came only one day a week on average and 14.7% came only
+2 days a week, meaning that over 75% of the patients came at least 3 times a
+week to IOP. More importantly as you’ll see later, 49% came 4 or more times a
+week.
 
 
 Retention – While engagement is a measure of how intensive we’re able to treat the patient, retention is a measure of how long. Essentially retention is their length of stay (LOS) in IOP, but more importantly this can be measured in sessions as well. The average LOS of Townsend’s patients in the first half of 2014 was 45 days and the median was 51. This was a planned decrease from 2013 as we were endeavoring to get patients treated to our end goals faster in order to decrease costs to insurers and consumers. The average number of sessions attended by Townsend’s patients in that same time period was 19.5 and the median was 19. This is also a decrease from 2013. Such a decrease can be due to more patient abandonment early in treatment or faster treating to our endpoint of a DAS of 17 as is discussed below.

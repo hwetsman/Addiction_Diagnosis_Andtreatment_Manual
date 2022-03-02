@@ -173,7 +173,8 @@ chart again, this time with examples of what the patient might say at each stage
 Table 14 - Disease Acceptance Scale - Examples
 Cognition
 
-|Pre-thought |	Thinking |	Barrier	| Commitment
+|Pre-thought |	Thinking |	Barrier	| Commitment |
+|------------|-----------|----------|------------|
 |I have a problem |	“X sent me”
 “I want to keep my (job, family, etc.)”
 “I want to stay out of jail” |	“Yeah, but…”

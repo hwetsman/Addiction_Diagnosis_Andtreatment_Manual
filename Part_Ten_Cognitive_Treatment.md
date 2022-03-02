@@ -1,7 +1,9 @@
-Cognitive Treatment
+<center><h2>Cognitive Treatment</h2></center>
+<div style="page-break-after: always;"></div>
 
- 
-Why Therapy Doesn’t Work for Addiction
+
+
+### Why Therapy Doesn’t Work for Addiction
 
 Therapy fixes things. Something’s wrong, you go to therapy, you get it fixed,
 and you graduate. Congratulations, you’re well. It works great for neurotics.

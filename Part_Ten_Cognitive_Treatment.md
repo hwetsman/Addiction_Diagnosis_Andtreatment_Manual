@@ -179,38 +179,59 @@ Cognition
 |It’s a brain illness |	“I’ve just got to stop drinking and everything will be okay”,“I’m not sick, I don’t need a doctor”,“I’ll stop drinking, but you can’t ask me to stop smoking” |	“What proof is there that I’m sick?”,“I do ____ more when I ____”,“How come I’m ___ing more now that I’ve quit ___” |	“But my family/employer won’t understand this”,“But I can’t stop everything”,“One addiction at a time” |	“It really doesn’t matter what it is; it’s my brain with the disease”,“Well that must release some dopamine in my brain” |
 |It’s chronic and progressive |	“When I’m over this addiction…”,“How long do I have to do this?”,“When can I drink again?” |	“You mean this isn’t going away?”,“Is anyone ever cured?”,“It went away before, won’t it again?”	| “How can I live like that?”,“What will it be like?”,“Won’t it be boring?” |	“It’s okay that this isn’t going away because I have a program”,“I really only have to do this one day at a time” |
 | I cannot make myself symptom free	| “All I have to do is join a gym”,“I just have to get out of this town”,“What if I just think positive?” |	“I still want to use even though I’m working out”,“You know when I talk to you I feel better”,“Maybe I should do something else” |	“How can I call people when I’m at work?”,“I hate to bother people”,“What should I do?”	| “I was mad at the boss so I called my sponsor”,“I couldn’t sleep so I made an appointment with the doctor” |
-| There are no vacations from this recovery	| “It’s only a week”,“I’ll call if I think I’m getting in trouble” |
-“I’ll talk to my wife instead”,“I’ll try to call every day”,“Bobby did it and he didn’t relapse”,“Maybe I can and maybe I can’t”	| “What if I get tired of recovery?”,“What if nobody answers?” |	“I’ll bring my cell phone”,“I’ll go to the bathroom and make a call” |
+| There are no vacations from this recovery	| “It’s only a week”,“I’ll call if I think I’m getting in trouble” | “I’ll talk to my wife instead”,“I’ll try to call every day”,“Bobby did it and he didn’t relapse”,“Maybe I can and maybe I can’t” | “What if I get tired of recovery?”,“What if nobody answers?” |	“I’ll bring my cell phone”,“I’ll go to the bathroom and make a call” |
 
-So we have a way to see where a patient is on each of the cognitions. That still leaves knowing what to do about it. We’ve again annotated the same chart below but this time we’ve put in some general strategies for moving the patient from one stage of change to the next.
- 
+So we have a way to see where a patient is on each of the cognitions. That still
+leaves knowing what to do about it. We’ve again annotated the same chart below
+but this time we’ve put in some general strategies for moving the patient from
+one stage of change to the next.
+
+
 Table 15 - Disease Acceptance Scale - Interventional Strategies
-Cognition	Pre-thought	Thinking	Barrier	Commitment
-I have a problem	Identify problems and probe who the patient thinks is responsible	Examining with the patient the possible outcomes of behaving differently	Build hope and educate on techniques of sustained behavioral change
-It’s a brain illness	Patient is asked about symptoms and their consequences in his life	Psycho-education on the neurobiology of addiction	Patient is educated on techniques of self care for his illness
-It’s chronic and progressive	Patient reviews previously created lists to notate the duration of these problems	Explore with the patient whether  he/she has ever had control of his symptoms	Instill hope that he/she can live symptom free and educating the patient on how he/she can recruit the people he/she needs
-I cannot make myself symptom free	Explore with the patient his plans for maintaining recovery in the future	Explore remaining need to manage future symptoms alone	Develop solutions to the previously identified resistances
-There are no vacations from this recovery	Reemphasize the chronic and progressive nature of the disease	Foster his ambivalence about his ability to take time off from his recovery	Assist patient with techniques to remain focused on today
 
-Notice that there is nothing written under Commitment on this sheet. That’s because the Commitment stage is the goal of this cognitive change. Of course one might argue that maintaining the commitment is the goal and that would be correct, but maintenance should be a natural consequence of the cognitive change brought about by the move to action and aided by monitoring.
-Still, these are only vague general ideas of how we will intervene at each of these stages. It might be helpful to have some specific interventions prepared for each stage as well. We have developed a PowerPoint slide show of several. You’ll all develop your own as time goes by or already have some you use. Now that we have this system in place you’ll be able to share yours with your colleagues and they will share with you. That will make us all richer in knowledge. There are interventions to use in an individual session as well as a group session. Also there are interventions that are homework assignments. Just to get us started here’s a re-annotation of the chart again, this time with specific homework assignments filled in.
- 
+| Cognition	| Pre-thought	| Thinking	| Barrier	| Commitment |
+|-----------|---------------|------------|----------|-------------|
+|I have a problem |	Identify problems and probe who the patient thinks is responsible |	Examining with the patient the possible outcomes of behaving differently |	Build hope and educate on techniques of sustained behavioral change |  |
+| It’s a brain illness	| Patient is asked about symptoms and their consequences in his life	| Psycho-education on the neurobiology of addiction	| Patient is educated on techniques of self care for his illness |  |
+|It’s chronic and progressive |	Patient reviews previously created lists to notate the duration of these problems | Explore with the patient whether he/she has ever had control of his symptoms | Instill hope that he/she can live symptom free and educating the patient on how he/she can recruit the people he/she needs |  |
+|I cannot make myself symptom free	| Explore with the patient his plans for maintaining recovery in the future	| Explore remaining need to manage future symptoms alone	| Develop solutions to the previously identified resistances |   |
+|There are no vacations from this recovery	| Reemphasize the chronic and progressive nature of the disease	| Foster his ambivalence about his ability to take time off from his recovery	| Assist patient with techniques to remain focused on today |   |
+
+Notice that there is nothing written under Commitment on this sheet. That’s
+because the Commitment stage is the goal of this cognitive change. Of course one
+might argue that maintaining the commitment is the goal and that would be
+correct, but maintenance should be a natural consequence of the cognitive change
+brought about by the move to action and aided by monitoring.
+
+Still, these are only vague general ideas of how we will intervene at each of
+these stages. It might be helpful to have some specific interventions prepared
+for each stage as well. We have developed a PowerPoint slide show of several.
+You’ll all develop your own as time goes by or already have some you use. Now
+that we have this system in place you’ll be able to share yours with your
+colleagues and they will share with you. That will make us all richer in
+knowledge. There are interventions to use in an individual session as well as a
+group session. Also there are interventions that are homework assignments. Just
+to get us started here’s a re-annotation of the chart again, this time with
+specific homework assignments filled in.
+
+
 Table 16 - Disease Acceptance Scale - Specific Homework Assignment Examples
-Cognition	Pre-thought	Thinking	Barrier	Commitment
 
-I have a problem	Patient writes a list of problems in his/her current or past life and documents a time line for causality for them all	Patient reviews time line again adding what he/she imagines would have happened had he/she acted differently	Assign for reading a passage to be determined and have the patient document included tools for change
-It’s a brain illness	Patient list the symptoms of addiction and documents all reward behaviors he's used in response	Patient annotates a neurobiological diagram of addiction with his reward behaviors	Patient is asked to re-annotate the diagram with the tools of recovery
-It’s chronic and progressive	Patient is asked to create a timeline of his symptoms and when reward behaviors started	Patient re-annotates his timeline where he/she thinks he/she had control of his symptoms	Patient creates a document listing his symptoms and sources of help
-I cannot make myself symptom free	Patient re-annotates his timeline with times he/she tried symptom management alone	Annotates his help source list with reasons he/she feels it won't work	Present to group for comment and solution his list of resistances
-There are no vacations from this recovery	Patient will re-annotate his time line to reflect places where he/she did or thinks he/she could have taken a vacation from recovery	Patient reviews written material on chronic diseases and note the risks for chronic illness patients taking a vacation from care	Patient creates a list of self care behaviors that he/she can use each day including meditation and health hygiene
-
- 
-Again, we have no specific assignments for the patient in the Commitment stage. Of course there is a lot of wisdom in our group of clinicians about how to intervene at various points in this model. As time passes we’ll have a chart of suggested group interventions, individual session interventions, family interventions, etc. The TCM gives us a framework on which we can base the growth of our collective talent in helping people learn to live with the chronic illness of addiction.
+| Cognition	| Pre-thought	| Thinking	| Barrier	| Commitment |
+|-----------|---------------|-----------|-----------|------------|
+|I have a problem | Patient writes a list of problems in his/her current or past life and documents a time line for causality for them all	| Patient reviews time line again adding what he/she imagines would have happened had he/she acted differently	| Assign for reading a passage to be determined and have the patient document included tools for change |   |
+|It’s a brain illness |	Patient list the symptoms of addiction and documents all reward behaviors he's used in response | Patient annotates a neurobiological diagram of addiction with his reward behaviors	| Patient is asked to re-annotate the diagram with the tools of recovery |  |
+| It’s chronic and progressive	| Patient is asked to create a timeline of his symptoms and when reward behaviors started	| Patient re-annotates his timeline where he/she thinks he/she had control of his symptoms	| Patient creates a document listing his symptoms and sources of help |  |
+| I cannot make myself symptom free	| Patient re-annotates his timeline with times he/she tried symptom management alone | Annotates his help source list with reasons he/she feels it won't work	| Present to group for comment and solution his list of resistances |  |
+| There are no vacations from this recovery	| Patient will re-annotate his time line to reflect places where he/she did or thinks he/she could have taken a vacation from recovery	| Patient reviews written material on chronic diseases and note the risks for chronic illness patients taking a vacation from care	| Patient creates a list of self care behaviors that he/she can use each day including meditation and health hygiene |   |
 
  
-
-
-
-
+Again, we have no specific assignments for the patient in the Commitment stage.
+Of course there is a lot of wisdom in our group of clinicians about how to
+intervene at various points in this model. As time passes we’ll have a chart of
+suggested group interventions, individual session interventions, family
+interventions, etc. ADAM gives us a framework on which we can base the growth
+of our collective talent in helping people learn to live with the chronic
+illness of addiction.
 
  

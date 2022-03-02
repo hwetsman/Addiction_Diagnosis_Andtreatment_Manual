@@ -230,7 +230,7 @@ Again, we have no specific assignments for the patient in the Commitment stage.
 Of course there is a lot of wisdom in our group of clinicians about how to
 intervene at various points in this model. As time passes we’ll have a chart of
 suggested group interventions, individual session interventions, family
-interventions, etc. ADAM gives us a framework on which we can base the growth
+interventions, etc. This model gives us a framework on which we can base the growth
 of our collective talent in helping people learn to live with the chronic
 illness of addiction.
 

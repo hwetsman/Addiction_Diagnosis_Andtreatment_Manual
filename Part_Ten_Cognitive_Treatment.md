@@ -3,26 +3,122 @@ Cognitive Treatment
  
 Why Therapy Doesn’t Work for Addiction
 
-Therapy fixes things. Something’s wrong, you go to therapy, you get it fixed, and you graduate. Congratulations, you’re well. It works great for neurotics.
-The problem is that addicts aren’t neurotics and addiction isn’t neurosis. You can go to therapy, figure out why you have addiction, change the thing that caused you to have addiction, graduate, and go out and get drunk that day. Addiction doesn’t go away, and you can’t fix it; you have to learn to live with it. Trying to fix addiction with therapy is like trying to treat blindness with therapy. You may know why you’re blind, but you’ll still be blind.
-Since addiction can’t be fixed, what’s the goal of the cognitive part of treatment? It is to learn to live with the condition and still be happy without using. I read a study recently that tells us exactly why therapy won’t work and teaching someone to live with the condition will .
-Loran Nordgren at Northwestern University Kellogg School of Management and his colleagues included 4 studies in paper. The central theme of this paper, restraint bias, is that people’s inflated sense of self-restraint will actually put them at greater risk of impulsive behavior because they’ll be more likely to go into risky situations.
-What I like about this paper is that it presents a simple central idea and then tests it, not with one experiment, but a robust suite of studies that look at it from different angles. They base the idea of restraint bias on earlier work on something called the “empathy gap.”
-The empathy gap is not about empathy towards others; it’s the difference in feeling someone has in a “hot” state such as craving and a “cold” state when they can no longer remember how it felt to be in the hot state. It’s basically a lack of empathy with you in a former state. As old as this idea is (1996), Alcoholics Anonymous discussed it even earlier, “We are unable at certain times to bring into our consciousness with sufficient force the memory of the suffering and humiliation of even a week or a month ago. We are without defense against the first drink. ”
-From the idea of the empathy gap, Nordgren and his colleagues supposed that in a “cold” state people will take more risks and be more likely to be impulsive because they don’t have an empathy with the “hot” state and overestimate their ability to refrain from action. You may wonder why business school researchers are interested in this, but think of the fact that mechanical stock traders who follow rules generally do better than those that go by their “gut.” The most successful stock traders I have heard of are the ones that know that their own brain is their worst enemy.  So Nordgren’s work isn’t just applicable to people with addiction, the restraint bias is a universal human phenomenon. But for people with addiction, it’s particularly dangerous, because to take the first drink or drug or bite or bet can be catastrophic.
-Their first study had to do with students and their study habits when tired. The second had to do with snack choices when hungry. The third and fourth studies looked at smokers, and we’ll concentrate there.
-In their third study, they split the group into those who believed they had high self-control over smoking and those with a belief that they had low self-control. They then asked both groups to, without smoking a cigarette, watch a movie that would cue them to smoke. The kicker is that people would get a monetary reward for not smoking during the film, and they got to choose the reward in advance. If they left their cigarettes in another room during the film, they could win 2€. If they left their cigarettes on the desk in the cubicle they could win 4€. Holding it in their hand throughout the film got them 6€, or holding it unlit in their mouth would get them 8€. As predicted smokers in the high control group exposed themselves to more risk than did the low control group. In the high control group, which took greater risks, 33% of the subjects smoked, while in the low control group taking less risk, it was only 11%.
-The fourth study also had to do with smokers, in this case, smokers who had quit and were past nicotine withdrawal. Again they self divided into those that believed they had good control and those who thought they had a lower level of control. Four months later when they were followed up. As expected, smokers who felt they had high control reported less avoidance of cigarettes, and a greater percentage of those that had less avoidance of cigarettes relapsed.
-In their discussion they refer to a recent study of heroin addicts who are asked what price they would pay for a buprenorphine pill. The study found that people with addiction in withdrawal would value it more highly than those not in withdrawal. While that might seem like common sense, the authors point out that all of the subjects not in withdrawal had been in withdrawal before and knew it was likely that they’d be in withdrawal again, but because they were in a “cold” state, they just couldn’t remember how bad that would be.
-So why did I start this off about therapy? It has to do with what therapists are taught. We are taught that self-efficacy is critical to self-control. We are taught that people should be empowered to achieve what they want to achieve. This has always been at odds with AA’s insistence on powerlessness as the path to recovery. What Nordgren’s work shows is that, for addiction anyway, those that embrace the fact of their powerlessness will be more likely to not use and more likely to stay in recovery. It’s always been my experience, and it’s always a point of contention when I’m discussing patients with colleagues who treat a more general population than addiction. This may also be akin to the Stockdale Paradox as described by Collins.  Efficacy can be achieved more fully when one tries not to have efficacy over what one cannot control.
-Now we have behavioral scientists agreeing with what AA and other 12-step programs have said for 70 years. Perhaps this is why there is no psychological treatment for addiction that has been shown to work any better than 12-step facilitation treatment where the patient is encouraged to get into 12-step recovery. Perhaps going to meetings reminds us of that “hot” state without getting into it because while we can’t empathize with our former selves, we can perhaps empathize with the person sitting next to us now.
+Therapy fixes things. Something’s wrong, you go to therapy, you get it fixed,
+and you graduate. Congratulations, you’re well. It works great for neurotics.
+
+The problem is that addicts aren’t neurotics and addiction isn’t neurosis. You
+can go to therapy, figure out why you have addiction, change the thing that
+caused you to have addiction, graduate, and go out and get drunk that day.
+Addiction doesn’t go away, and you can’t fix it; you have to learn to live with
+it. Trying to fix addiction with therapy is like trying to treat blindness with
+therapy. You may know why you’re blind, but you’ll still be blind.
+
+Since addiction can’t be fixed, what’s the goal of the cognitive part of
+treatment? It is to learn to live with the condition and still be happy without
+using. I read a study recently that tells us exactly why therapy won’t work and
+teaching someone to live with the condition will.
+
+Loran Nordgren at Northwestern University Kellogg School of Management and his
+colleagues included 4 studies in paper. The central theme of this paper,
+restraint bias, is that people’s inflated sense of self-restraint will actually
+put them at greater risk of impulsive behavior because they’ll be more likely to
+go into risky situations.
+
+What I like about this paper is that it presents a simple central idea and then
+tests it, not with one experiment, but a robust suite of studies that look at it
+from different angles. They base the idea of restraint bias on earlier work on
+something called the “empathy gap.” The empathy gap is not about empathy towards
+others; it’s the difference in feeling someone has in a “hot” state such as
+craving and a “cold” state when they can no longer remember how it felt to be in
+the hot state. It’s basically a lack of empathy with you in a former state. As
+old as this idea is (1996), Alcoholics Anonymous discussed it even earlier, “We
+are unable at certain times to bring into our consciousness with sufficient
+force the memory of the suffering and humiliation of even a week or a month ago.
+We are without defense against the first drink.”
+
+From the idea of the empathy gap, Nordgren and his colleagues supposed that in a
+“cold” state people will take more risks and be more likely to be impulsive
+because they don’t have an empathy with the “hot” state and will overestimate their
+ability to refrain from action. You may wonder why business school researchers
+are interested in this, but think of the fact that mechanical stock traders who
+follow rules generally do better than those that go by their “gut.” The most
+successful stock traders I have heard of are the ones that know that their own
+brain is their worst enemy.  So Nordgren’s work isn’t just applicable to people
+with addiction, the restraint bias is a universal human phenomenon. But for
+people with addiction, it’s particularly dangerous, because to take the first
+drink or drug or bite or bet can be catastrophic.
+
+Their first study had to do with students and their study habits when tired.
+The second had to do with snack choices when hungry. The third and fourth
+studies looked at smokers, and we’ll concentrate there.
+
+In their third study, they split the group into those who believed they had high
+self-control over smoking and those with a belief that they had low self-
+control. They then asked both groups to, without smoking a cigarette, watch a
+movie that would cue them to smoke. The kicker is that people would get a
+monetary reward for not smoking during the film, and they got to choose the
+reward in advance. If they left their cigarettes in another room during the
+film, they could win 2€. If they left their cigarettes on the desk in the
+cubicle they could win 4€. Holding it in their hand throughout the film got them
+6€, or holding it unlit in their mouth would get them 8€. As predicted smokers
+in the high control group exposed themselves to more risk than did the low
+control group. In the high control group, which took greater risks, 33% of the
+subjects smoked, while in the low control group taking less risk, it was only
+11%.
+
+The fourth study also had to do with smokers, in this case, smokers who had quit
+and were past nicotine withdrawal. Again they self divided into those that
+believed they had good control and those who thought they had a lower level of
+control. Four months later when they were followed up. As expected, smokers who
+felt they had high control reported less avoidance of cigarettes, and a greater
+percentage of those that had less avoidance of cigarettes relapsed.
+
+In their discussion they refer to a recent study of heroin addicts who are asked
+what price they would pay for a buprenorphine pill. The study found that people
+with addiction in withdrawal would value it more highly than those not in
+withdrawal. While that might seem like common sense, the authors point out that
+all of the subjects not in withdrawal had been in withdrawal before and knew it
+was likely that they’d be in withdrawal again, but because they were in a “cold”
+state, they just couldn’t remember how bad that would be.
+
+So why did I start this off about therapy? It has to do with what therapists are
+taught. We are taught that self-efficacy is critical to self-control. We are
+taught that people should be empowered to achieve what they want to achieve.
+This has always been at odds with AA’s insistence on powerlessness as the path
+to recovery. What Nordgren’s work shows is that, for addiction anyway, those
+that embrace the fact of their powerlessness will be more likely to not use and
+more likely to stay in recovery. It’s always been my experience, and it’s always
+a point of contention when I’m discussing patients with colleagues who treat a
+more general population than addiction. This may also be akin to the Stockdale
+Paradox as described by Collins.  Efficacy can be achieved more fully when one
+tries not to have efficacy over what one cannot control.
+
+Now we have behavioral scientists agreeing with what AA and other 12-step
+programs have said for 70 years. Perhaps this is why there is no psychological
+treatment for addiction that has been shown to work any better than 12-step
+facilitation treatment where the patient is encouraged to get into 12-step
+recovery. Perhaps going to meetings reminds us of that “hot” state without
+getting into it because while we can’t empathize with our former selves, we can
+perhaps empathize with the person sitting next to us now.
 
  
-Townsend Disease Acceptance Model
+ADAM Disease Acceptance Model
 
-When Townsend started, there was no innovative model for incorporating the science of addiction into mainline addiction treatment. Or rather, there was no model of mainline addiction treatment that could allow in the science. Since no program existed, we needed to make one ourselves. It started with the understanding that addiction is a chronic illness, just like any other chronic illness such as diabetes or hypertension. We looked at the goals of treatment for other chronic diseases and came to see that medical stabilization was the key to moving forward. The methodology for midbrain stabilization is described elsewhere and won’t be repeated here.
+When the first treatment program to use ADAM started, there was no innovative
+model for incorporating the science of addiction into mainline addiction
+treatment. Or rather, there was no model of mainline addiction treatment that
+could allow in the science. Since no program existed, we needed to make one
+ourselves. It started with the understanding that addiction is a chronic
+illness, just like any other chronic illness such as diabetes or hypertension.
+We looked at the goals of treatment for other chronic diseases and came to see
+that medical stabilization was the key to moving forward. The methodology for
+midbrain stabilization is described elsewhere and won’t be repeated here.
 
-After medical stabilization, the symptoms of addiction are suppressed enough so that the patient can sit in the group and get the work of treatment done. This allows the cognitive changes that a person needs to make in order to accept their chronic condition. These are the same regardless of the chronic illness. The cognitions are (specifically modified for addiction):
+After medical stabilization, the symptoms of addiction are suppressed enough so
+that the patient can sit in the group and get the work of treatment done. This
+allows the cognitive changes that a person needs to make in order to accept
+their chronic condition. These are the same regardless of the chronic illness.
+The cognitions are (specifically modified for addiction):
 
 •I have a problem
 •The problem is a brain illness called addiction

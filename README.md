@@ -13,7 +13,7 @@ Table of Contents
 - [Addiction Biology: Basics](./Part_Two_Biology_Basics.md)
 - [Addiction Biology: Special Topics](./Part_Three_Special_Topics_In_Biology.md)
 - [Addiction Diagnosis: Special Topics](./Part_Four_Special_Topics_Diagnosis.md)
-- [Addiction Medication: Special Topics](./Part_Five_Special_Topics_Medication.md)
+- [Addiction Medication: Special Topics](./Part_Five_Special_Topics_Medications.md)
 - Neurocognitive Testing
 - Staffing the Clinical Team
 - Assessment

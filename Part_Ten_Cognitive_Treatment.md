@@ -104,7 +104,7 @@ getting into it because while we can’t empathize with our former selves, we ca
 perhaps empathize with the person sitting next to us now.
 
  
-ADAM Disease Acceptance Model
+### ADAM Disease Acceptance Model
 
 When the first treatment program to use ADAM started, there was no innovative
 model for incorporating the science of addiction into mainline addiction
@@ -122,25 +122,46 @@ allows the cognitive changes that a person needs to make in order to accept
 their chronic condition. These are the same regardless of the chronic illness.
 The cognitions are (specifically modified for addiction):
 
-•I have a problem
-•The problem is a brain illness called addiction
-•The illness is chronic and progressive
-•I cannot make myself symptom free
-•There are no vacations from this recovery
+- I have a problem
+- The problem is a brain illness called addiction
+- The illness is chronic and progressive
+- I cannot make myself symptom free
+- There are no vacations from this recovery
 
-Knowing that these cognitions are the goals of treatment gives us a big leg up, but ideas are not enough. People have to make a commitment to the idea, to take it into themselves. It’s not enough to make a decision and say, “I believe this.” One has to make a commitment and act on it. So these cognitions aren’t just thoughts, they are actions, and we know from the work of others throughout history how actions are taken.
+Knowing that these cognitions are the goals of treatment gives us a big leg up,
+but ideas are not enough. People have to make a commitment to the idea, to take
+it into themselves. It’s not enough to make a decision and say, “I believe this.”
+One has to make a commitment and act on it. So these cognitions aren’t just
+thoughts, they are actions, and we know from the work of others throughout
+history how actions are taken.
 
-First, there is no thought of taking the action, so we’ll call that stage “Pre-thought.” Then one begins the process of thinking about taking the action, so we’ll call that stage “Thinking.” After people have thought about taking an action they either do it or are stuck by something that stops them. What stops them is usually some external barrier, whether it’s been later internalized or not, so we’ll call the next stage “Barrier.” And finally, once they are past any barriers, they make a commitment, so the final stage is called “Commitment.”
+First, there is no thought of taking the action, so we’ll call that stage
+“Pre-thought.” Then one begins the process of thinking about taking the action,
+so we’ll call that stage “Thinking.” After people have thought about taking an
+action they either do it or are stuck by something that stops them. What stops
+them is usually some external barrier, whether it’s been later internalized or
+not, so we’ll call the next stage “Barrier.” And finally, once they are past any
+barriers, they make a commitment, so the final stage is called “Commitment.”
 
-So we can list our 5 cognitions on separate lines and then make 4 columns for the stages people go through. That grid gives us the Townsend Disease Acceptance Scale (DAS). The DAS is a 20 square grid on which we can map a new patient’s cognitive status and progress in treatment. We can also use it to analyze why a patient is not moving through the program as fast as we think he should. But how will you know what stage of change each patient has achieved with each cognition? We have developed a chart of the same 20 squares populated with some examples of what would evidence that a patient is at a certain level of change. Let’s start with that.
+So we can list our 5 cognitions on separate lines and then make 4 columns for
+the stages people go through. That grid gives us the Townsend Disease Acceptance
+Scale (DAS). The DAS is a 20 square grid on which we can map a new patient’s
+cognitive status and progress in treatment. We can also use it to analyze why a
+patient is not moving through the program as fast as we think he should. But how
+will you know what stage of change each patient has achieved with each
+cognition? We have developed a chart of the same 20 squares populated with some
+examples of what would evidence that a patient is at a certain level of change.
+Let’s start with that.
  
 Table 13 - Disease Acceptance Scale - As Evidenced By
-Cognition	Pre-thought	Thinking	Barrier	Commitment
-I have a problem	Patient's statements evidence that he takes no responsibility for his own behavior 	Patient's statements evidence that he is considering that his behaviors may cause his problems	Patient’s statements and actions evidence that only an external barrier prevents him from accepting that the problem lies in him	The patient has accepted that the problem is within him
-It’s a brain illness	Patient continues to blame drugs or a particular drug for life events and consequences and believes he can continue some expressions of addiction if he stops others	Patient's statements evidence his questioning whether his problem is an illness rather than a drug or social problem	Patient seems to know that he has addiction but there are seemingly external barriers to full acceptance of the fact	Patient’s speech and action evidence that he accepts that he has a brain illness called addiction which is not limited to any specific drug or reward
-It’s chronic and progressive	Patient speaks of addiction in the past tense and makes plans inconsistent with a progressive chronic illness	Patient states that his illness may never go away	Patient identifies characteristics of his disease that show the progressive and chronic nature of the illness	Patient has accepted that there is no cure but rather he requires ongoing recovery
-I cannot make myself symptom free	Patient states plans for the future that are self driven and rely on only himself for success	Patient states that maybe he can't do this by himself	Patient states that he/she needs others but has taken no action because of barrier	Patient spontaneously refers to external support networks
-There are no vacations from this recovery	Patient speaks of a time when he will not need help or of taking time off from recovery	Patient states that maybe he will need help/recovery without interruption	Patient identifies characteristics of recovery that are lifelong in nature	Patient has altered his daily life to reflect those characteristics of recovery
+|Cognition | Pre-thought | Thinking | Barrier |	Commitment
+|--------|---------------|----------|----------|--------|
+|I have a problem |	Patient's statements evidence that he takes no responsibility for his own behavior | Patient's statements evidence that he is considering that his behaviors may cause his problems | Patient’s statements and actions evidence that only an external barrier prevents him from accepting that the problem lies in him | The patient has accepted that the problem is within him |
+|It’s a brain illness |	Patient continues to blame drugs or a particular drug for life events and consequences and believes he can continue some expressions of addiction if he stops others | Patient's statements evidence his questioning whether his problem is an illness rather than a drug or social problem | Patient seems to know that he has addiction but there are seemingly external barriers to full acceptance of the fact | Patient’s speech and action evidence that he accepts that he has a brain illness called addiction which is not limited to any specific drug or reward |
+| It’s chronic and progressive | Patient speaks of addiction in the past tense and makes plans inconsistent with a progressive chronic illness | Patient states that his illness may never go away	| Patient identifies characteristics of his disease that show the progressive and chronic nature of the illness | Patient has accepted that there is no cure but rather he requires ongoing recovery |
+| I cannot make myself symptom free	| Patient states plans for the future that are self driven and rely on only himself for success	| Patient states that maybe he can't do this by himself	| Patient states that he/she needs others but has taken no action because of barrier | Patient spontaneously refers to external support networks |
+| There are no vacations from this recovery	| Patient speaks of a time when he will not need help or of taking time off from recovery	| Patient states that maybe he will need help/recovery without interruption	| Patient identifies characteristics of recovery that are lifelong in nature	| Patient has altered his daily life to reflect those characteristics of recovery |
+
 Well that’s fine as far as it goes, but it’s easy to say “Patient identifies characteristics of his disease that show the progressive and chronic nature of the illness.” How do you know he identifies these characteristics? Here’s our chart again, this time with examples of what the patient might say at each stage.
  
 Table 14 - Disease Acceptance Scale - Examples

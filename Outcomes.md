@@ -29,32 +29,32 @@ addiction it’s don’t use, don’t use anything else, and participate in a re
 program. That’s actually as far as we’ve gotten.
 
 What we’ve been measuring isn’t relapse, though we call it that. Relapse is the
-return of previously suppressed symptoms and we’ll get to that in a minute, but
+return of previously suppressed symptoms, and we’ll get to that in a minute, but
 what we’ve been measuring is only the patient’s adherence to the plan of care.
 At least we were doing that much.
 
 But adherence isn’t very good in any chronic disease, something like 40-60% is
 about as good as it gets.  People get tired of being sick. They long for a
 vacation from abnormality. They want to behave and feel like a normal person.
-They want to forget they’re ill, and to do that, they have to forget the care
-plan. Are addicts any different? Not in the least. Addicts get tired of having
-to know they’re different. They just want to feel normal and so, like diabetics,
-they forget they’re ill and try to live without the care plan from time to time.
-And it’s important to adhere to the care plan, because, hopefully, it’s what’s
-keeping those symptoms suppressed.
+They want to forget they’re ill. And to do that, they have to forget the care
+plan. Are people with addiction any different? Not in the least. Everyone gets
+tired of having to know they’re different. They just want to feel normal and so,
+like people with diabetes, they forget they’re ill and try to live without the
+care plan from time to time. And it’s important to adhere to the care plan,
+because, hopefully, it’s what’s keeping those symptoms suppressed.
 
-And now for the symptoms. For a diabetic the symptoms would be those that come
+And now for the symptoms. With diabetes the symptoms would be those that come
 from loss of control of blood glucose levels. In addiction the symptoms, are not
-drug use, but the expression that led to the use of drugs in the first place.
-Those are largely the low dopamine symptoms I’ve written about elsewhere so I
+drug use, but the state that led to the use of drugs in the first place.
+Those are largely the low dopamine symptoms I’ve written about elsewhere, so I
 won’t go into a big discussion here. I only want to mention that when we have
 measured these in our field, since the role of symptom was already being
-mistakenly taken by drug use, we had nothing to call these symptoms but co-
-morbid illnesses. We’ll get back to measuring co-morbidity in another minute.
+mistakenly taken by drug use, we had nothing to call these symptoms but
+co-morbid illnesses. We’ll get back to measuring co-morbidity in another minute.
 
 So we have adherence to the care plan and symptom suppression. They actually
 exist in a kind of circle. If you don’t adhere, you get symptoms. As you
-suppress symptoms the urgency of adherence goes away and you tend to non-
+suppress symptoms the urgency of adherence goes away, and you tend to non-
 adherence. Any understanding of outcomes of a chronic disease has to take into
 consideration the non-linear nature of the natural history of a chronic disease.
 We’ve been trying to measure a donut’s circumference with a yardstick, perhaps
@@ -82,18 +82,21 @@ When you look deeply at what we’ve called commonly co-morbid illnesses, you fi
 the primary symptoms of addiction. Sure people have addiction and major
 depression, but no more often than a population under stress gets major
 depression. Sure you see bipolar mood disorder and addiction, but no more often
-than you see bipolar mood disorder in non-addicts, if you understand the bipolar
+than you see bipolar mood disorder in the population, if you understand the bipolar
 nature of addiction itself. OCD? Schizophrenia? All about in the same amounts
-you’d see in anyone else. The closest I can come to understanding a true co-
-traveler with addiction is PTSD and the only two mechanisms I can imagine are
-the consequence of the patient’s parent having addiction so and the trauma the
-person experiences because of addiction, so PTSD too, is more of a sequela than
-a fellow traveler.
+you’d see in anyone else. The closest I can come to understanding a true
+co-traveler with addiction is PTSD. One common mechanisms is child abuse
+leading to increased risk of addiction in the child, which is often a
+consequence of the patient’s parent having addiction. Another is the trauma the
+person experiences because of addiction, and here too PTSD is more of a sequela
+than a fellow traveler. Of course there is primary PTSD leading to increased
+dopamine tone, exhaustion of the system, and type I addiction, but that will
+occur no more frequently than it does in the general population.
 
 So, what should we measure? Not using? Certainly. But it can’t end there. We
 need to measure not only adherence but also symptoms. And we need to measure
 them in a way that is informed by the circular nature of their relationship. We
-also need to measure function, both social and occupational. What Addiction
+also need to measure function, both social and occupational. What addiction
 outcomes lack most is the surveillance of sequelae. We can’t measure 6 month
 outcomes, it’s a chronic disease. We need to measure outcomes for life.
 
@@ -126,7 +129,7 @@ enough to handle the diversity.
 
 If you ask treatment providers, 90% will tell you they already do that. If you
 ask drivers, 90% say they are above average drivers, too. So let’s not ask
-treatment providers, let’s think about this from the patient’s perspective.
+treatment providers. Let’s look at this from the patient’s perspective.
 
 What if I don’t want to go to AA? What if I really don’t want to try for full
 abstinence? What if I don’t believe I’m ill and should stop drinking? Our
@@ -196,7 +199,7 @@ prevention of progression, and not just for 6 months. The first outcome starts
 before treatment; how many people who call actually get assessed? Then how many
 assessed actually enter the program? While low percentages getting in may make
 for better six-month sober rates, they mean less people with the disease get
-help and that’s a bad outcome.
+help, and that’s a bad outcome.
 
 Then, once people are in the program, do they stay in care? I’m not saying do
 they stay in inpatient care, or IOP; I’m saying all care. It’s not bad if the
@@ -331,8 +334,7 @@ of getting into recovery. So many of us got into the addiction treatment world
 through our own recovery that we think everyone has the experience we did. Well,
 the members of the addiction treatment community who got sober are a self-
 selected group that had Bottoms. To assume everyone has one because you had one
-is like assuming everyone is as tall as you are. It makes no sense on the face
-of it.
+is like assuming everyone is as tall as you are. It makes no sense.
 
 Let’s do a thought experiment. What would it look like if not everyone has a
 Bottom? If there is no Bottom, and we let them drop assuming they’ll bounce,

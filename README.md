@@ -19,7 +19,7 @@ Table of Contents
 - Assessment
 - [Genetics](./Part_Nine_Genetics.md)
 - [Cognitive Treatment](./Part_Ten_Cognitive_Treatment.md)
-- Outcomes
+- [Outcomes](./Outcomes.md)
 - [ADAM Outcomes](./Part_Twelve_ADAM_Outcomes.md)
 - [12 Steps for Doctors](./Part_Thirteen_12_Steps_For_Doctors.md)
 - [Goals of Addiction Medicine the ADAM Way](./Goals.md)

@@ -23,4 +23,4 @@ Table of Contents
 - [ADAM Outcomes](./Part_Twelve_ADAM_Outcomes.md)
 - [12 Steps for Doctors](./Part_Thirteen_12_Steps_For_Doctors.md)
 - Goals of Addiction Medicine the ADAM Way
-- [Basic Principles of Addiction Medicine the ADAM Way](./Basic_Principles.md)
+- [Basic Principles of Addiction Medicine the ADAM Way](./Basic_Prinicples.md)

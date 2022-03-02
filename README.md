@@ -12,4 +12,4 @@ Table of Contents
 1. [Read This First](./User_Caveat.md)
 2. [The ADAM Way](./Part_One_The_ADAM_Way.md)
 3. [Addiction Biology: Basics](./Part_Two_Biology_Basics.md)
-4. [Addiction Biology: Special Topics](./Part_Three_Special_Topics_in_Biology.md)
+4. [Addiction Biology: Special Topics](./Part_Three_Special_Topics_In_Biology.md)

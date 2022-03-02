@@ -17,5 +17,5 @@ Table of Contents
 6. [Addiction Medication: Special Topics](./Part_Five_Special_Topics_Medication.md)
 7. [Genetics](./Part_Nine_Genetics.md)
 8. [Cognitive Treatment](./Part_Ten_Cognitive_Treatment.md)
-9. [ADAM Outcomes](./Part_Twelve_ADAM_Outcomes.md)
-10. [12 Steps for Doctors](./Part_Thirteen_12_Steps_For_Doctors.md)
+10. [ADAM Outcomes](./Part_Twelve_ADAM_Outcomes.md)
+11. [12 Steps for Doctors](./Part_Thirteen_12_Steps_For_Doctors.md)

@@ -152,8 +152,10 @@ will you know what stage of change each patient has achieved with each
 cognition? We have developed a chart of the same 20 squares populated with some
 examples of what would evidence that a patient is at a certain level of change.
 Let’s start with that.
- 
+
+
 Table 13 - Disease Acceptance Scale - As Evidenced By
+
 |Cognition | Pre-thought | Thinking | Barrier |	Commitment
 |--------|---------------|----------|----------|--------|
 |I have a problem |	Patient's statements evidence that he takes no responsibility for his own behavior | Patient's statements evidence that he is considering that his behaviors may cause his problems | Patient’s statements and actions evidence that only an external barrier prevents him from accepting that the problem lies in him | The patient has accepted that the problem is within him |
@@ -162,49 +164,54 @@ Table 13 - Disease Acceptance Scale - As Evidenced By
 | I cannot make myself symptom free	| Patient states plans for the future that are self driven and rely on only himself for success	| Patient states that maybe he can't do this by himself	| Patient states that he/she needs others but has taken no action because of barrier | Patient spontaneously refers to external support networks |
 | There are no vacations from this recovery	| Patient speaks of a time when he will not need help or of taking time off from recovery	| Patient states that maybe he will need help/recovery without interruption	| Patient identifies characteristics of recovery that are lifelong in nature	| Patient has altered his daily life to reflect those characteristics of recovery |
 
-Well that’s fine as far as it goes, but it’s easy to say “Patient identifies characteristics of his disease that show the progressive and chronic nature of the illness.” How do you know he identifies these characteristics? Here’s our chart again, this time with examples of what the patient might say at each stage.
- 
+Well that’s fine as far as it goes, but it’s easy to say “Patient identifies
+characteristics of his disease that show the progressive and chronic nature of
+the illness.” How do you know he identifies these characteristics? Here’s our
+chart again, this time with examples of what the patient might say at each stage.
+
+
 Table 14 - Disease Acceptance Scale - Examples
 Cognition
-Pre-thought	Thinking	Barrier	Commitment
-I have a problem	“X sent me”
+
+|Pre-thought |	Thinking |	Barrier	| Commitment
+|I have a problem |	“X sent me”
 “I want to keep my (job, family, etc.)”
-“I want to stay out of jail”	“Yeah, but…”
+“I want to stay out of jail” |	“Yeah, but…”
 “All I did was…”
-“It really wasn’t my fault, because…”	“I screwed up”
+“It really wasn’t my fault, because…” |	“I screwed up”
 “How do I change?”
-“I have to change”	As measured in the “as evidenced by” chart above
-It’s a brain illness	“I’ve just got to stop drinking and everything will be okay”
+“I have to change” |	As measured in the “as evidenced by” chart above |
+|It’s a brain illness |	“I’ve just got to stop drinking and everything will be okay”
 “I’m not sick, I don’t need a doctor”
-“I’ll stop drinking, but you can’t ask me to stop smoking”	“What proof is there that I’m sick?”
+“I’ll stop drinking, but you can’t ask me to stop smoking” |	“What proof is there that I’m sick?”
 “I do ____ more when I ____”
-“How come I’m ___ing more now that I’ve quit ___”	“But my family/employer won’t understand this”
+“How come I’m ___ing more now that I’ve quit ___” |	“But my family/employer won’t understand this”
 “But I can’t stop everything”
-“One addiction at a time”	“It really doesn’t matter what it is; it’s my brain with the disease”
-“Well that must release some dopamine in my brain”
-It’s chronic and progressive	“When I’m over this addiction…”
+“One addiction at a time” |	“It really doesn’t matter what it is; it’s my brain with the disease”
+“Well that must release some dopamine in my brain” |
+|It’s chronic and progressive |	“When I’m over this addiction…”
 “How long do I have to do this?”
-“When can I drink again?”	“You mean this isn’t going away?”
+“When can I drink again?” |	“You mean this isn’t going away?”
 “Is anyone ever cured?”
-“It went away before, won’t it again?”	“How can I live like that?”
+“It went away before, won’t it again?”	| “How can I live like that?”
 “What will it be like?”
-“Won’t it be boring?”	“It’s okay that this isn’t going away because I have a program”
-“I really only have to do this one day at a time”
-I cannot make myself symptom free	“All I have to do is join a gym”
+“Won’t it be boring?” |	“It’s okay that this isn’t going away because I have a program”
+“I really only have to do this one day at a time” |
+| I cannot make myself symptom free	| “All I have to do is join a gym”
 “I just have to get out of this town”
-“What if I just think positive?”	“I still want to use even though I’m working out”
+“What if I just think positive?” |	“I still want to use even though I’m working out”
 “You know when I talk to you I feel better”
-“Maybe I should do something else”	“How can I call people when I’m at work?”
+“Maybe I should do something else” |	“How can I call people when I’m at work?”
 “I hate to bother people”
-“What should I do?”	“I was mad at the boss so I called my sponsor”
-“I couldn’t sleep so I made an appointment with the doctor”
-There are no vacations from this recovery	“It’s only a week”
-“I’ll call if I think I’m getting in trouble”
+“What should I do?”	| “I was mad at the boss so I called my sponsor”
+“I couldn’t sleep so I made an appointment with the doctor” |
+| There are no vacations from this recovery	| “It’s only a week”
+“I’ll call if I think I’m getting in trouble” |
 “I’ll talk to my wife instead”	“I’ll try to call every day”
 “Bobby did it and he didn’t relapse”
-“Maybe I can and maybe I can’t”	“What if I get tired of recovery?”
-“What if nobody answers?”	“I’ll bring my cell phone”
-“I’ll go to the bathroom and make a call”
+“Maybe I can and maybe I can’t”	| “What if I get tired of recovery?”
+“What if nobody answers?” |	“I’ll bring my cell phone”
+“I’ll go to the bathroom and make a call” |
 
 So we have a way to see where a patient is on each of the cognitions. That still leaves knowing what to do about it. We’ve again annotated the same chart below but this time we’ve put in some general strategies for moving the patient from one stage of change to the next.
  

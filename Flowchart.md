@@ -9,13 +9,17 @@ what_kind{What kind?}
    trauma{Did patient have serious sustained pre-drug trauma?}
       what_kind--->|Increased DA|trauma
       consider_low(Consider low dopamine genetics hidden by pre-drug trauma)
+         trauma--->|Yes|consider_low
       what_drug(What drug was used first for symtpoms of increased dopamine?)
          trauma--->|No|what_drug
          how_long(How long before they started using stimulants?)
             what_drug--->how_long
             low_now{Evidence of decreased dopamine now?}
+               low_long--->low_now
                gaba(Consider decreased GABA tone)
+                  low_now--->|No|gaba
                   really(Consider if it's really addiction)
+                     gaba--->really
    first_drug(What was their first drug and what behavior did they use before it?)
       what_kind--->|Decreased DA|first_drug
       works_now(What drug works best now?)
@@ -28,6 +32,7 @@ favorite(What is favorite drug for peak effect even if transitory?)
       low_da{Low dopamine symptoms now?}
          what_does--->low_da
          op_vs_da{Opioid vs dopamine receptor}
+            low_now--->|Yes|op_vs_da
             da(Titrate long acting bupropion or other to increase dopamine tone)
             op(Titrate buprenorphine)
                still_smoking{Is patient still smoking?}

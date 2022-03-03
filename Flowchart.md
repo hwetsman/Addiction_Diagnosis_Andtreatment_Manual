@@ -15,7 +15,7 @@ what_kind{What kind?}
          how_long(How long before they started using stimulants?)
             what_drug--->how_long
             low_now{Evidence of decreased dopamine now?}
-               low_long--->low_now
+               how_long--->low_now
                gaba(Consider decreased GABA tone)
                   low_now--->|No|gaba
                   really(Consider if it's really addiction)

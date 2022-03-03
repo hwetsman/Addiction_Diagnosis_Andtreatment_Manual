@@ -33,6 +33,7 @@ favorite(What is favorite drug for peak effect even if transitory?)
       low_da{Low dopamine symptoms now?}
          what_does--->low_da
          op_vs_da{Opioid vs dopamine receptor}
+            low_da--->op_vs_da
             side_effects--->op_vs_da
             low_now--->|Yes|op_vs_da
                low_gaba(Consider decreased GABA tone)

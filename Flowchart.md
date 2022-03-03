@@ -33,14 +33,23 @@ favorite(What is favorite drug for peak effect even if transitory?)
          what_does--->low_da
          op_vs_da{Opioid vs dopamine receptor}
             low_now--->|Yes|op_vs_da
+               low_gaba(Consider decreased GABA tone)
+                  low_da--->|No|low_gaba
             da(Titrate long acting bupropion or other to increase dopamine tone)
             op(Titrate buprenorphine)
                still_smoking{Is patient still smoking?}
+                  op--->still_smoking
+                  da--->still_smoking
                   cues{Continued smoking due to stereotypical cues?}
+                     still_smoking--->|Yes|cues
                      campral(Consider acamprosate)
+                        cues--->|Yes|campral
                      raise_gaba(Consider raising dose or GABAb)
+                        still_smoking--->|No|raise_gaba
+                        cues--->|No|raise_gaba
                         other(Evaluate for adverse effects, residual symptoms and co-occurring disorders)
-
+                           raise_gaba--->other
+                           campral--->other
 
 
 ```

@@ -36,7 +36,9 @@ favorite(What is favorite drug for peak effect even if transitory?)
                low_gaba(Consider decreased GABA tone)
                   low_da--->|No|low_gaba
             da(Titrate long acting bupropion or other to increase dopamine tone)
+               op_vs_da--->|Dopamine|da
             op(Titrate buprenorphine)
+               op_vs_da--->|Opioid|op
                still_smoking{Is patient still smoking?}
                   op--->still_smoking
                   da--->still_smoking

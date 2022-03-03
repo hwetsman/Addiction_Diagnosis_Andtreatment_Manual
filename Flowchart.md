@@ -19,7 +19,9 @@ what_kind{What kind?}
 favorite(What is favorite drug for peak effect even if transitory?)
    can_identify--->|No|favorite
    what_does(What does it do that others don't?)
+      favorite--->what_does
       low_da{Low dopamine symptoms now?}
+         what_does--->low_da
          op_vs_da{Opioid vs dopamine receptor}
             da(Titrate long acting bupropion or other to increase dopamine tone)
             op(Titrate buprenorphine)

@@ -25,6 +25,7 @@ what_kind{What kind?}
       works_now(What drug works best now?)
          first_drug--->works_now
          side_effects(Which do they use for symptoms and which for side effects or oblivion?)
+            works_now--->side_effects
 favorite(What is favorite drug for peak effect even if transitory?)
    can_identify--->|No|favorite
    what_does(What does it do that others don't?)
@@ -32,6 +33,7 @@ favorite(What is favorite drug for peak effect even if transitory?)
       low_da{Low dopamine symptoms now?}
          what_does--->low_da
          op_vs_da{Opioid vs dopamine receptor}
+            side_effects--->op_vs_da
             low_now--->|Yes|op_vs_da
                low_gaba(Consider decreased GABA tone)
                   low_da--->|No|low_gaba

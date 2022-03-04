@@ -117,12 +117,13 @@ response time (ERT) relates to the foils. So we have a grid of four measures at
 three stimulus frequencies.
 
 Table 11 - A Grid for Scoring the CPT
-	Stimulus Frequency
-Measure	1000ms	2000ms	4000ms
-Target Acc
-Foil Acc
-CRT
-ERT
+
+|Measure |	1000ms	| 2000ms |	4000ms |
+|------|--------|--------|--------|
+|Target Acc|   |    |    |
+|Foil Acc|   |    |    |
+|CRT|   |    |    |
+|ERT|   |    |    |
 
 
 Target Accuracy should always be greater than 90% or 0.9. The only cases we’ve

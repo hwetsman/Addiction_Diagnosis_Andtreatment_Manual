@@ -32,31 +32,64 @@ implemented on treatment center’s portal:
 
 Figure 11 - IOWA GAMBLING TASK
 
-The subject is free to choose his next card from any of 4 decks. He presumably picks based on his assessment of which card will give him the biggest win or the smallest loss. Here, the subject has picked his first card, which resulted in a reward of $100 and a penalty of $0:
+The subject is free to choose his next card from any of 4 decks. He presumably
+picks based on his assessment of which card will give him the biggest win or the
+smallest loss. Here, the subject has picked his first card, which resulted in a
+reward of $100 and a penalty of $0:
 
 
 Figure 12 - IGT PICK
 
-The task measures a proxy of midbrain dopamine called reward overvaluation. In nature, reward overvaluation is an important survival tool during hardship. Imagine this example. If you were told that there was a free bag of groceries across the street, wouldn’t you look both ways before going to get them? Now if you hadn’t eaten in six days and were starving to death, do you think you’d be as careful of the traffic? Reward overvaluation evolved to get us to go get the source of dopamine when our dopamine is low. As low dopamine is a life and death signal, it’s justified to ignore risk to get more. It’s as if the brain calculates that, “Well, I’m going to die anyway, so I might as well go in that dark cave where there’s food and if there’s a bear in there, I’ll just have to kill it.” During times of greater plenty, who would take such a risk?
+The task measures a proxy of midbrain dopamine called reward overvaluation. In
+nature, reward overvaluation is an important survival tool during hardship.
+Imagine this example. If you were told that there was a free bag of groceries
+across the street, wouldn’t you look both ways before going to get them? Now if
+you hadn’t eaten in six days and were starving to death, do you think you’d be
+as careful of the traffic? Reward overvaluation evolved to get us to go get the
+source of dopamine when our dopamine is low. As low dopamine is a life and death
+signal, it’s justified to ignore risk to get more. It’s as if the brain
+calculates that, “Well, I’m going to die anyway, so I might as well go in that
+dark cave where there’s food and if there’s a bear in there, I’ll just have to
+kill it.” During times of greater plenty, who would take such a risk?
 
-The result of the IGT is a single number. Normal brains gain money from the starting $2000 and often double that. Brains low on dopamine generally lose money. The test can be repeated as often as desired, and one can follow the result in serial fashion to help gauge the effect of medication on midbrain dopamine tone. Here’s a picture of the IGT results given in the Townsend portal:
+The result of the IGT is a single number. Normal brains gain money from the
+starting $2000 and often double that. Brains low on dopamine generally lose
+money. The test can be repeated as often as desired, and one can follow the
+result in serial fashion to help gauge the effect of medication on midbrain
+dopamine tone. Here’s a picture of the IGT results given in the treatment center
+portal:
 
 
 Figure 13 - IGT RESULTS IN TOWNSEND PORTAL
 
-In addition, the portal we built to support our methods also gives the doctor a picture of the safe vs risky picks the patient had along with a running sum of safe vs risky picks where a safe pick adds 1 and a risky pick subtracts 1:
+In addition, the portal we built to support our methods also gives the doctor a
+picture of the safe vs risky picks the patient had along with a running sum of
+safe vs risky picks where a safe pick adds 1 and a risky pick subtracts 1:
 
 
 Figure 14 - ADVANCED IGT RESULTS IN TOWNSEND PORTAL
 
-These enhancements can show patterns in thinking not available to someone just using the single sum result. In this case you see the patient initially having all risky picks until #19 and then he switches to a safe deck, gets quickly bored within 6 picks and goes back to a risky deck. He starts a pattern of several risky picks and then a safe pick through pick 55, has a brief run to safety followed by a plateau and a resumption of increased risk to the end. Different patients will produce different patterns that one can pick up with experience.
+These enhancements can show patterns in thinking not available to someone just
+using the single sum result. In this case you see the patient initially having
+all risky picks until #19 and then he switches to a safe deck, gets quickly
+bored within 6 picks and goes back to a risky deck. He starts a pattern of
+several risky picks and then a safe pick through pick 55, has a brief run to
+safety followed by a plateau and a resumption of increased risk to the end.
+Different patients will produce different patterns that one can pick up with
+experience.
 
 Here’s an example of a patient that was started on Deplin after his second test:
 
 
 Figure 15 - IGT COMPARISON BEFORE AND AFTER DEPLIN
 
-There is one caveat. In clinical situations, but presumably not in nature, one can have too high a dopamine tone and rewards can become over-attaching even when one had normal dopamine tone. For instance, someone with a high spike that doesn’t diminish with increased dopamine tone. Sometimes a rising IGT that starts to fall can be a sign that dopamine is too high, rather that too low. But generally, a low IGT score will be a sign of low dopamine tone.
+There is one caveat. In clinical situations, one can have too high a dopamine
+spike and rewards can become over-attaching even when one had normal dopamine
+tone. For instance, someone with a high spike that doesn’t diminish with
+increased dopamine tone. Sometimes a rising IGT that starts to fall can be a
+sign that dopamine is too high, rather that too low. But generally, a low IGT
+score will be a sign of low dopamine tone.
+
 
 ### Continuous Performance Task (CPT)
 

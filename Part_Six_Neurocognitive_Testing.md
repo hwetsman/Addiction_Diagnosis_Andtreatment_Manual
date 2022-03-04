@@ -103,7 +103,7 @@ the space bar. The letters are called targets and “x” is the foil. Here’s 
 example of what a letter stimulus looks like on the Townsend portal:
 
 
-Figure 16 - CONTINUOUS PERFORMANCE TEST SCREEN IN TREATMENT CENTER PORTAL
+![Figure 16 - CONTINUOUS PERFORMANCE TEST SCREEN IN TREATMENT CENTER PORTAL](Images/CPT_Screen_In_Tx_Center_Portal.jpg)
 
 The stimuli come at three different frequencies: one-, two-, and four-seconds
 apart. We measure 4 different variables for each set of time: target accuracy

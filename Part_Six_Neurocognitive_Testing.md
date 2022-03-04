@@ -183,7 +183,7 @@ when there are no errors on 2 and 4 sec stimuli blocks, we would use CRT to
 watch progress over time.
 
 
-Figure 20 - CRT SLOPE BY MEDICATION CHANGE TIMELINE
+![Figure 20 - CRT SLOPE BY MEDICATION CHANGE TIMELINE](Images/CRT_Slope_By_Medication_Change_Timeline.jpg)
 
 
 The above graph isn’t the slope of a single testing session. It is the result of

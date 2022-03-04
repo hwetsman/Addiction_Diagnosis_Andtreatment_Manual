@@ -197,6 +197,7 @@ watch progress over time.
 
 
 
+
 ![Figure 20 - CRT SLOPE BY MEDICATION CHANGE TIMELINE](Images/CRT_Slope_By_Medication_Change_Timeline.jpg)
 Figure 20 - CRT SLOPE BY MEDICATION CHANGE TIMELINE
 

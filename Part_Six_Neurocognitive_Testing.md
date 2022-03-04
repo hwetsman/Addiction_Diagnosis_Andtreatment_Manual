@@ -183,6 +183,7 @@ the patient has, the faster he responds. This is paradoxical to what you would
 expect in a normal person.
 
 
+
 ![Figure 19 - ERROR MEAN RESPONSE TIME BY STIMULUS INTERVAL](Images/Error_Mean_Response_Time_By_Stimulus_Interval.jpg)
 Figure 19 - ERROR MEAN RESPONSE TIME BY STIMULUS INTERVAL
 
@@ -193,6 +194,7 @@ instance, notice that patient above evidences a slope of -0.167. We could follow
 that over time as we instituted medication. Because ERT will not provide a slope
 when there are no errors on 2 and 4 sec stimuli blocks, we would use CRT to
 watch progress over time.
+
 
 
 ![Figure 20 - CRT SLOPE BY MEDICATION CHANGE TIMELINE](Images/CRT_Slope_By_Medication_Change_Timeline.jpg)

@@ -184,6 +184,7 @@ expect in a normal person.
 
 
 
+
 ![Figure 19 - ERROR MEAN RESPONSE TIME BY STIMULUS INTERVAL](Images/Error_Mean_Response_Time_By_Stimulus_Interval.jpg)
 Figure 19 - ERROR MEAN RESPONSE TIME BY STIMULUS INTERVAL
 

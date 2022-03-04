@@ -31,6 +31,7 @@ implemented on treatment center’s portal:
 
 
 ![Figure 11 - IOWA GAMBLING TASK](Images/Iowa_Gambling_Task.jpg)
+Figure 11 - IOWA GAMBLING TASK
 
 The subject is free to choose his next card from any of 4 decks. He presumably
 picks based on his assessment of which card will give him the biggest win or the
@@ -39,6 +40,7 @@ reward of $100 and a penalty of $0:
 
 
 ![Figure 12 - IGT PICK](Images/IGT_Pick.jpg)
+Figure 12 - IGT PICK
 
 The task measures a proxy of midbrain dopamine called reward overvaluation. In
 nature, reward overvaluation is an important survival tool during hardship.
@@ -61,6 +63,7 @@ portal:
 
 
 ![Figure 13 - IGT RESULTS IN TX CENTER PORTAL](Images/IGT_Results_In_Tx_Center_Portal.jpg)
+Figure 13 - IGT RESULTS IN TX CENTER PORTAL
 
 In addition, the portal we built to support our methods also gives the doctor a
 picture of the safe vs risky picks the patient had along with a running sum of
@@ -68,6 +71,7 @@ safe vs risky picks where a safe pick adds 1 and a risky pick subtracts 1:
 
 
 ![Figure 14 - ADVANCED IGT RESULTS IN TX CENTER PORTAL](Images/Advanced_IGT_Results_In_Tx_Center_Portal.jpg)
+Figure 14 - ADVANCED IGT RESULTS IN TX CENTER PORTAL
 
 These enhancements can show patterns in thinking not available to someone just
 using the single sum result. In this case you see the patient initially having
@@ -82,6 +86,7 @@ Here’s an example of a patient that was started on Deplin after his second tes
 
 
 ![Figure 15 - IGT COMPARISON BEFORE AND AFTER DEPLIN](Images/IGT_Comparison_Before_And_After_Deplin.jpg)
+Figure 15 - IGT COMPARISON BEFORE AND AFTER DEPLIN
 
 There is one caveat. In clinical situations, one can have too high a dopamine
 spike and rewards can become over-attaching even when one had normal dopamine
@@ -104,6 +109,7 @@ example of what a letter stimulus looks like on the Townsend portal:
 
 
 ![Figure 16 - CONTINUOUS PERFORMANCE TEST SCREEN IN TREATMENT CENTER PORTAL](Images/CPT_Screen_In_Tx_Center_Portal.jpg)
+Figure 16 - CONTINUOUS PERFORMANCE TEST SCREEN IN TREATMENT CENTER PORTAL
 
 The stimuli come at three different frequencies: one-, two-, and four-seconds
 apart. We measure 4 different variables for each set of time: target accuracy
@@ -142,7 +148,7 @@ should be positive or flat if at 100% across the board.
 
 
 ![Figure 17 - FOIL ACCURACY](Images/Foil_Accuracy.jpg)
-
+Figure 17 - FOIL ACCURACY
  
 Correct Mean Response Time will have to do with the targets. When foils are
 handled correctly there are no response times as there are no responses, so CRT
@@ -156,7 +162,7 @@ negative slope can be seen as a sign of low midbrain dopamine tone.
 
 
 ![Figure 18 - CORRECT MEAN RESPONSE TIME BY STIMULUS INTERVAL](Images/Correct_Mean_Response_Time_By_Stimulus_Interval.jpg)
-
+Figure 18 - CORRECT MEAN RESPONSE TIME BY STIMULUS INTERVAL
  
 Error Mean Response Time has to do with the foils. When targets are handled
 incorrectly there is no response, hence no response time. In general, a poorly
@@ -174,7 +180,7 @@ expect in a normal person.
 
 
 ![Figure 19 - ERROR MEAN RESPONSE TIME BY STIMULUS INTERVAL](Images/Error_Mean_Response_Time_By_Stimulus_Interval.jpg)
-
+Figure 19 - ERROR MEAN RESPONSE TIME BY STIMULUS INTERVAL
  
 Repeated Testing can be done with the CPT, and it remains valid. We could watch
 the change in accuracy and the change in slope of these graphs over time.  For
@@ -185,7 +191,7 @@ watch progress over time.
 
 
 ![Figure 20 - CRT SLOPE BY MEDICATION CHANGE TIMELINE](Images/CRT_Slope_By_Medication_Change_Timeline.jpg)
-
+Figure 20 - CRT SLOPE BY MEDICATION CHANGE TIMELINE
 
 The above graph isn’t the slope of a single testing session. It is the result of
 graphing the CRT slopes from 3 different sessions. We see that the patient
@@ -201,6 +207,7 @@ below.
 
 
 ![Figure 21 - SERIAL CRTS GRAPHED SEPARATELY](Images/Serial_CRTs_Graphed_Separately.jpg)
+Figure 21 - SERIAL CRTS GRAPHED SEPARATELY
 
 You can see how a negative slope of CRT becomes positive over time with
 medication changes.

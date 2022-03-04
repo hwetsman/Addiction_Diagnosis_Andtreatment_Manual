@@ -14,7 +14,7 @@ Table of Contents
 - [Addiction Biology: Special Topics](./Part_Three_Special_Topics_In_Biology.md)
 - [Addiction Diagnosis: Special Topics](./Part_Four_Special_Topics_Diagnosis.md)
 - [Addiction Medication: Special Topics](./Part_Five_Special_Topics_Medications.md)
-- Neurocognitive Testing
+- [Neurocognitive Testing](./Part_Six_Neurocognitive_Testing.md)
 - Staffing the Clinical Team
 - Assessment
 - [Genetics](./Part_Nine_Genetics.md)

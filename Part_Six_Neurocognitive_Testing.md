@@ -67,7 +67,7 @@ picture of the safe vs risky picks the patient had along with a running sum of
 safe vs risky picks where a safe pick adds 1 and a risky pick subtracts 1:
 
 
-Figure 14 - ADVANCED IGT RESULTS IN TX CENTER PORTAL
+![Figure 14 - ADVANCED IGT RESULTS IN TX CENTER PORTAL](Images/Advanced_IGT_Results_In_Tx_Center_Portal.jpg)
 
 These enhancements can show patterns in thinking not available to someone just
 using the single sum result. In this case you see the patient initially having

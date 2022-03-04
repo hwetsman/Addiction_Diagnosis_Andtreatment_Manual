@@ -140,7 +140,7 @@ graph the Foil Accuracy over the time frequencies and the slope of the line
 should be positive or flat if at 100% across the board.
 
 
-Figure 17 - FOIL ACCURACY
+![Figure 17 - FOIL ACCURACY](Images/Foil_Accuracy.jpg)
 
  
 Correct Mean Response Time will have to do with the targets. When foils are
@@ -154,7 +154,7 @@ low dopamine patients respond faster thinking the machine will speed up. This
 negative slope can be seen as a sign of low midbrain dopamine tone.
 
 
-Figure 18 - CORRECT MEAN RESPONSE TIME BY STIMULUS INTERVAL
+![Figure 18 - CORRECT MEAN RESPONSE TIME BY STIMULUS INTERVAL](Images/Correct_Mean_Response_Time_By_Stimulus_Interval.jpg)
 
  
 Error Mean Response Time has to do with the foils. When targets are handled
@@ -172,7 +172,7 @@ the patient has, the faster he responds. This is paradoxical to what you would
 expect in a normal person.
 
 
-![Figure 19 - ERROR MEAN RESPONSE TIME BY STIMULUS INTERVAL](Error_Mean_Response_Time_By_Stimulus_Interval.jpg)
+![Figure 19 - ERROR MEAN RESPONSE TIME BY STIMULUS INTERVAL](Images/Error_Mean_Response_Time_By_Stimulus_Interval.jpg)
 
  
 Repeated Testing can be done with the CPT, and it remains valid. We could watch

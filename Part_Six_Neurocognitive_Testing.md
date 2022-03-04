@@ -30,7 +30,7 @@ instructions to win as much money as possible. Here’s a screen shot of the IGT
 implemented on treatment center’s portal:
 
 
-Figure 11 - IOWA GAMBLING TASK
+![Figure 11 - IOWA GAMBLING TASK](Images/Iowa_Gambling_Task.jpg)
 
 The subject is free to choose his next card from any of 4 decks. He presumably
 picks based on his assessment of which card will give him the biggest win or the

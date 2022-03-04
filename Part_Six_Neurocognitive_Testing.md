@@ -38,7 +38,7 @@ smallest loss. Here, the subject has picked his first card, which resulted in a
 reward of $100 and a penalty of $0:
 
 
-Figure 12 - IGT PICK
+![Figure 12 - IGT PICK](Images/IGT_Pick.jpg)
 
 The task measures a proxy of midbrain dopamine called reward overvaluation. In
 nature, reward overvaluation is an important survival tool during hardship.

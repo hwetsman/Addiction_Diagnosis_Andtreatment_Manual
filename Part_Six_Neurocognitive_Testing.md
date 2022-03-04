@@ -199,7 +199,7 @@ Another way to look at it would be to graph all three tests together such as
 below.
 
 
-Figure 21 - SERIAL CRTS GRAPHED SEPARATELY
+![Figure 21 - SERIAL CRTS GRAPHED SEPARATELY](Images/Serial_CRTs_Graphed_Separately.jpg)
 
 You can see how a negative slope of CRT becomes positive over time with
 medication changes.

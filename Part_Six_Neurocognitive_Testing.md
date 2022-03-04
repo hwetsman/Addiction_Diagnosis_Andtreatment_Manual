@@ -81,7 +81,7 @@ experience.
 Here’s an example of a patient that was started on Deplin after his second test:
 
 
-Figure 15 - IGT COMPARISON BEFORE AND AFTER DEPLIN
+![Figure 15 - IGT COMPARISON BEFORE AND AFTER DEPLIN](Images/IGT_Comparison_Before_And_After_Deplin.jpg)
 
 There is one caveat. In clinical situations, one can have too high a dopamine
 spike and rewards can become over-attaching even when one had normal dopamine

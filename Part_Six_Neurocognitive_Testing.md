@@ -23,7 +23,11 @@
  
 ### Iowa Gambling Task (IGT)
 
-The IGT is a card task in which there are 100 pulls from 4 decks of cards. The decks are turned face down, and each card has some amount of gain and some amount of loss for the participant. The subject starts with $2000 and the instructions to win as much money as possible. Here’s a screen shot of the IGT implemented on Townsend’s portal:
+The IGT is a card task in which there are 100 pulls from 4 decks of cards. The
+decks are turned face down, and each card has some amount of gain and some
+amount of loss for the participant. The subject starts with $2000, and the
+instructions to win as much money as possible. Here’s a screen shot of the IGT
+implemented on treatment center’s portal:
 
 
 Figure 11 - IOWA GAMBLING TASK

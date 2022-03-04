@@ -172,7 +172,7 @@ the patient has, the faster he responds. This is paradoxical to what you would
 expect in a normal person.
 
 
-Figure 19 - ERROR MEAN RESPONSE TIME BY STIMULUS INTERVAL
+![Figure 19 - ERROR MEAN RESPONSE TIME BY STIMULUS INTERVAL](Error_Mean_Response_Time_By_Stimulus_Interval.jpg)
 
  
 Repeated Testing can be done with the CPT, and it remains valid. We could watch

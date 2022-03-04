@@ -63,6 +63,7 @@ portal:
 
 
 ![Figure 13 - IGT RESULTS IN TX CENTER PORTAL](Images/IGT_Results_In_Tx_Center_Portal.jpg)
+
 Figure 13 - IGT RESULTS IN TX CENTER PORTAL
 
 In addition, the portal we built to support our methods also gives the doctor a
@@ -109,6 +110,7 @@ example of what a letter stimulus looks like on the Townsend portal:
 
 
 ![Figure 16 - CONTINUOUS PERFORMANCE TEST SCREEN IN TREATMENT CENTER PORTAL](Images/CPT_Screen_In_Tx_Center_Portal.jpg)
+
 Figure 16 - CONTINUOUS PERFORMANCE TEST SCREEN IN TREATMENT CENTER PORTAL
 
 The stimuli come at three different frequencies: one-, two-, and four-seconds
@@ -149,7 +151,8 @@ should be positive or flat if at 100% across the board.
 
 ![Figure 17 - FOIL ACCURACY](Images/Foil_Accuracy.jpg)
 Figure 17 - FOIL ACCURACY
- 
+
+
 Correct Mean Response Time will have to do with the targets. When foils are
 handled correctly there are no response times as there are no responses, so CRT
 only has to do with targets, not foils. In general people with normal dopamine
@@ -163,7 +166,8 @@ negative slope can be seen as a sign of low midbrain dopamine tone.
 
 ![Figure 18 - CORRECT MEAN RESPONSE TIME BY STIMULUS INTERVAL](Images/Correct_Mean_Response_Time_By_Stimulus_Interval.jpg)
 Figure 18 - CORRECT MEAN RESPONSE TIME BY STIMULUS INTERVAL
- 
+
+
 Error Mean Response Time has to do with the foils. When targets are handled
 incorrectly there is no response, hence no response time. In general, a poorly
 sloped ERT curve will evidence the same mechanism as CRT but having to do with
@@ -181,7 +185,8 @@ expect in a normal person.
 
 ![Figure 19 - ERROR MEAN RESPONSE TIME BY STIMULUS INTERVAL](Images/Error_Mean_Response_Time_By_Stimulus_Interval.jpg)
 Figure 19 - ERROR MEAN RESPONSE TIME BY STIMULUS INTERVAL
- 
+
+
 Repeated Testing can be done with the CPT, and it remains valid. We could watch
 the change in accuracy and the change in slope of these graphs over time.  For
 instance, notice that patient above evidences a slope of -0.167. We could follow

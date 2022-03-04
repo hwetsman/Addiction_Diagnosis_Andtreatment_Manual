@@ -60,7 +60,7 @@ dopamine tone. Here’s a picture of the IGT results given in the treatment cent
 portal:
 
 
-Figure 13 - IGT RESULTS IN TX CENTER PORTAL
+![Figure 13 - IGT RESULTS IN TX CENTER PORTAL](Images/IGT_Results_In_Tx_Center_Portal.jpg)
 
 In addition, the portal we built to support our methods also gives the doctor a
 picture of the safe vs risky picks the patient had along with a running sum of

@@ -208,13 +208,39 @@ Medical Officer.
 
 #### Medication Counts
 
-The treatment center that uses ADAM has mechanisms that we use to help combat diversion in the cases where we have to utilize controlled medications. One of these is the medication count. The medication count is accomplished on a random basis at the physician’s directed frequency. At first this frequency should be 2 to 3 times a week and generally should be the same frequency as the other major anti-diversion mechanism, the MMA. The med count frequency can be lowered when the patient is stable, has a long-term recovery program, and has fewer risk factors for diversion. An incomplete list of risk factors for diversion or misuse are: symptom score > 20, missing sessions, lack of cognitive advance, disruptive home life, no stable relationship with recovery community, medication irregularities, and positive MMA results.
+The treatment center that uses ADAM has mechanisms that we use to help combat
+diversion in the cases where we have to utilize controlled medications. One of
+these is the medication count. The medication count is accomplished on a random
+basis at the physician’s directed frequency. At first this frequency should be 2
+to 3 times a week and generally should be the same frequency as the other major
+anti-diversion mechanism, the MMA. The med count frequency can be lowered when
+the patient is stable, has a long-term recovery program, and has fewer risk
+factors for diversion. An incomplete list of risk factors for diversion or
+misuse are: symptom score > 20, missing sessions, lack of cognitive advance,
+disruptive home life, no stable relationship with recovery community, medication
+irregularities, and positive MMA results.
 
-In general the medication count is done when the patient arrives for their scheduled appointment or group. The patient accomplishes the med count himself. At no time will Townsend personnel touch a patient’s controlled medication, and neither should you. The med count is witnessed by Townsend personnel, but counted by the patient.
+In general the medication count is done when the patient arrives for their
+scheduled appointment or group. The patient accomplishes the med count himself.
+At no time should treatment center personnel touch a patient’s controlled
+medication, and neither should you. The med count is witnessed by treatment
+center personnel, but counted by the patient.
 
-The med count can seem to be a useless waste of effort at first, but it is a major disruptor of the economics of diversion. And diversion is primarily an economic matter. It is not often that a patient with addiction would choose to give up a medication that works for him, however people claiming to have addiction in order to get prescriptions for Suboxone occasionally will try to scam us. Use of a sophisticated MMA process and medication counts greatly cuts this risk.
+The med count can seem to be a useless waste of effort at first, but it is a
+major disruptor of the economics of diversion. And diversion is primarily an
+economic matter. It is not often that a patient with addiction would choose to
+give up a medication that works for him, however people claiming to have
+addiction in order to get prescriptions for Suboxone occasionally will try to
+scam us. Use of a sophisticated MMA process and medication counts greatly cuts
+this risk.
 
-There are also occasions when a patient has not yet reached stability when they undervalue their medication because they have not yet experienced the long-term benefits of it. Such a patient is at greater risk of diversion if some shorter-term solution is offered. The presence of medication counts and sophisticated MMAs can help fence in the behavioral aspects of the illness until the patient can be stabilized and make cognitive progress.
+There are also occasions when a patient has not yet reached stability when they
+undervalue their medication because they have not yet experienced the long-term
+benefits of it. Such a patient is at greater risk of diversion if some
+shorter-term solution is offered. The presence of medication counts and
+sophisticated MMAs can help fence in the behavioral aspects of the illness until
+the patient can be stabilized and make cognitive progress.
+
 
 #### MMA and Labs
 

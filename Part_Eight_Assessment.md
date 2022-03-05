@@ -1,8 +1,23 @@
 
-Assessment
+
+
+
+
+
+
+
+
+
+
+
+
+
+<center><h2>Assessment</h2></center>
+<div style="page-break-after: always;"></div>
+
 
  
-Info from Part I and II of the Counselor’s Assessment
+### Info from Part I and II of the Counselor’s Assessment
 
 Townsend uses a two-part counselor’s assessment. The first part is limited to that information needed to decide if the patient is appropriate for the IOP level of care. The second part is a more in-depth assessment of the illness of addiction and the strengths and challenges the patient brings to treatment. The physician sees the patient after the part II evaluation. Information is provided for the physician from Part I and Part II of the counseling team’s assessment. This is unusual, and the reason for it is explained in detail below. At this point, we’ll just want to go over what some of that information is and how it is important.
 
@@ -14,7 +29,7 @@ Of course there is much of the usual information, but presented in a way that wi
 
 
 
-Time with patient
+### Time with patient
 
 Traditionally, addiction medicine has been practiced in the method of psychiatry; that is, the individual practitioner spending an hour or so getting, first hand, all the information from the patient that he needs. This model has been used for over 50 years and has not resulted in any improvements in addiction treatment over that time. Conversely, most other medical care has changed its model of information gathering so that the information is gathered before the doctor and the patient are together. This frees up the encounter time to focus more on treatment planning, patient education and anticipatory guidance. This change, which has allowed a more participatory stance for the patient, has resulted in improved outcomes.
 
@@ -26,7 +41,7 @@ So this method, when followed, actually improves the outcome of treatment in a w
 
 Also, anticipatory guidance has a lot to do with patients getting though induction on medication in a stress free and successful way. Many people outside of Townsend have reported difficulties with patients getting on Suboxone for instance. While we have had problems, they have not been numerous. That is because our doctors spend a lot to time prepping the patients for what could happen. These explanations give a reason for the instructions that make sense, when the patient expected rules based on morality or law that they were much less interested in. This is a basic point in dealing with patients with addiction; they will follow rules much better when the rules are explained as being there only for their safety and success.
 
-Neurocognitive Testing
+### Neurocognitive Testing
 
 The neurocognitive testing data from the patient’s admission testing will be available for you during your initial evaluation. It should be documented in the following form:
 
@@ -40,7 +55,7 @@ ERT
 
 It should be considered part of the history as it comes before you saw the patient, however it is best considered like laboratory data, and so should be recorded directly after the examination. If there are previous tests from, for instance, a previous treatment episode, that can be noted.
 
-Diagnosis
+### Diagnosis
 
 Many times, patients will come to us previously diagnosed with various Axis I disorders in addition to some addiction diagnosis. Most commonly physicians who were not aware of the neurobiology of addiction or the pre- and post-drug symptoms of the illness made these diagnoses. Remember that in the DSM paradigm, any symptoms remaining six months after cessation of using must be caused by some other Axis I illness. This is in direct contradistinction of nature and the natural history of the illness.
 
@@ -48,9 +63,9 @@ While it is always a good idea to keep an open mind about co-occurring disorders
 
 The diagnosis is up to the physician, and the physician should remember that the diagnosis is the framework on which the treatment is planned. I personally refrain from guessing about other diagnoses until after treatment unless there is symptomatology that interferes with addiction treatment that is not explained by addiction. For instance, if a patient is having hallucinations that interfere with hearing his counselor or sponsor, there should be treatment. If a patient is too anxious to go to group, there should be some intervention. As long as the intervention isn’t as disabling to addiction treatment as the symptoms, the treatment will be consistent with their Townsend treatment. If the physician decides that the only treatment is disabling to outpatient treatment, then that is an indication that the patient cannot be treated at this level of care.
 
-Plan
+### Plan
 
-Induction
+#### Induction
 
 Often a patient will present in withdrawal or with impending withdrawal. As opioid dependence is not uncommon, some discussion of buprenorphine induction is appropriate. Opioid withdrawal and buprenorphine induction are not the only induction we do. It is included here as a representation on the principles that apply across the board.
 
@@ -62,7 +77,7 @@ For example a patient’s symptoms of withdrawal were 8 out of 10 where 10 is th
 
 Other medications are induced or titrated as well. Again, the physician’s medical judgment prevails. As long as the physician has recorded the appropriate orders and involved the patient in the planning process, the Medline personnel will assist. It should be noted that Townsend does not use benzodiazepines on an outpatient basis for withdrawal. Any physician believing outpatient benzodiazepines are necessary should consult with the Chief Medical Officer.
  
-Medication Counts
+#### Medication Counts
 
 Townsend has mechanisms that we use to help combat diversion in the cases where we have to utilize controlled medications. One of these is the medication count. The medication count is accomplished on a random basis at the physician’s directed frequency. At first this frequency should be 2 to 3 times a week and generally should be the same frequency as the other major anti-diversion mechanism, the MMA. The med count frequency can be lowered when the patient is stable, has a long-term recovery program, and has fewer risk factors for diversion. An incomplete list of risk factors for diversion or misuse are: symptom score > 20, missing sessions, lack of cognitive advance, disruptive home life, no stable relationship with recovery community, medication irregularities, and positive MMA results.
 
@@ -72,7 +87,7 @@ The med count can seem to be a useless waste of effort at first, but it is a maj
 
 There are also occasions when a patient has not yet reached stability when they undervalue their medication because they have not yet experienced the long-term benefits of it. Such a patient is at greater risk of diversion if some shorter-term solution is offered. The presence of medication counts and sophisticated MMAs can help fence in the behavioral aspects of the illness until the patient can be stabilized and make cognitive progress.
 
-MMA and Labs
+#### MMA and Labs
 
 Townsend does not practice medicine, you do. We will not tell you what labs to order or at what frequency. There are some things, however I feel it is important to know when deciding on the frequency and type of monitoring for the patient with addiction.
 
@@ -94,7 +109,7 @@ I’ve learned a lot in treating addiction over two decades, and with respect to
 
 
  
-What an Addiction Physician Wants From a Lab
+### What an Addiction Physician Wants From a Lab
 
 “If you see addiction as an illness, and you want a monitoring system in place to make sure that the illness is contained as part of a larger treatment program, you probably want better drug testing than you have.
 There are several questions to ask:

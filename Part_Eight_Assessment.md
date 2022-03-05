@@ -47,11 +47,11 @@ The neurocognitive testing data from the patient’s admission testing will be a
 
 IGT = $2500
 
-CPT	1000ms	2000ms	4000ms
-Tar Acc
-Foil Acc
-CRT
-ERT
+|CPT	|1000ms|	2000ms|	4000ms|
+|Tar Acc |  |  |  |
+|Foil Acc |  |  |  |
+|CRT |  |  |  |
+|ERT |  |  |  |
 
 It should be considered part of the history as it comes before you saw the patient, however it is best considered like laboratory data, and so should be recorded directly after the examination. If there are previous tests from, for instance, a previous treatment episode, that can be noted.
 

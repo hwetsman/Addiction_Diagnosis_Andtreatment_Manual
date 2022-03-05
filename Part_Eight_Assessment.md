@@ -121,15 +121,40 @@ IGT = $2500
 |CRT |  |  |  |
 |ERT |  |  |  |
 
-It should be considered part of the history as it comes before you saw the patient, however it is best considered like laboratory data, and so should be recorded directly after the examination. If there are previous tests from, for instance, a previous treatment episode, that can be noted.
+It should be considered part of the history as it comes before you saw the
+patient, however it is best considered like laboratory data, and so should be
+recorded directly after the examination. If there are previous tests from, for
+instance, a previous treatment episode, that can be noted.
 
 ### Diagnosis
 
-Many times, patients will come to us previously diagnosed with various Axis I disorders in addition to some addiction diagnosis. Most commonly physicians who were not aware of the neurobiology of addiction or the pre- and post-drug symptoms of the illness made these diagnoses. Remember that in the DSM paradigm, any symptoms remaining six months after cessation of using must be caused by some other Axis I illness. This is in direct contradistinction of nature and the natural history of the illness.
+Many times, patients will come to us previously diagnosed with various Axis I
+disorders in addition to some addiction diagnosis. Most commonly physicians who
+were not aware of the neurobiology of addiction or the pre- and post-drug
+symptoms of the illness made these diagnoses. Remember that in the DSM paradigm,
+any symptoms remaining six months after cessation of using must be caused by
+some other Axis I illness. This is in direct contradistinction of nature and the
+natural history of the illness.
 
-While it is always a good idea to keep an open mind about co-occurring disorders, one should remember that the patient has addiction, and Dr Osler’s dictum, “Never add a new diagnosis unless it changes the treatment.” So many of our patients achieve resolution of their life long symptoms, which had been ascribed to this or that other diagnosis, when treated correctly for addiction, that one must have some humility when attempting to make other diagnoses in addicted patients.
+While it is always a good idea to keep an open mind about co-occurring
+disorders, one should remember that the patient has addiction, and Dr Osler’s
+dictum, “Never add a new diagnosis unless it changes the treatment.” So many of
+our patients achieve resolution of their life long symptoms, which had been
+ascribed to this or that other diagnosis, when treated correctly for addiction,
+that one must have some humility when attempting to make other diagnoses in
+addicted patients.
 
-The diagnosis is up to the physician, and the physician should remember that the diagnosis is the framework on which the treatment is planned. I personally refrain from guessing about other diagnoses until after treatment unless there is symptomatology that interferes with addiction treatment that is not explained by addiction. For instance, if a patient is having hallucinations that interfere with hearing his counselor or sponsor, there should be treatment. If a patient is too anxious to go to group, there should be some intervention. As long as the intervention isn’t as disabling to addiction treatment as the symptoms, the treatment will be consistent with their Townsend treatment. If the physician decides that the only treatment is disabling to outpatient treatment, then that is an indication that the patient cannot be treated at this level of care.
+The diagnosis is up to the physician, and the physician should remember that the
+diagnosis is the framework on which the treatment is planned. I personally
+refrain from guessing about other diagnoses until after treatment unless there
+is symptomatology that interferes with addiction treatment that is not explained
+by addiction. For instance, if a patient is having hallucinations that interfere
+with hearing his counselor or sponsor, there should be treatment. If a patient
+is too anxious to go to group, there should be some intervention. As long as the
+intervention isn’t as disabling to addiction treatment as the symptoms, the
+treatment will be consistent with their Townsend treatment. If the physician
+decides that the only treatment is disabling to outpatient treatment, then that
+is an indication that the patient cannot be treated at this level of care.
 
 ### Plan
 

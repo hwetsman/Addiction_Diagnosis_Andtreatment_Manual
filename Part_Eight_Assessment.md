@@ -244,11 +244,25 @@ the patient can be stabilized and make cognitive progress.
 
 #### MMA and Labs
 
-The treatment center that uses ADAM does not practice medicine, you do. We will not tell you what labs to order or at what frequency. There are some things, however I feel it is important to know when deciding on the frequency and type of monitoring for the patient with addiction.
+The treatment center that uses ADAM does not practice medicine, you do. We will
+not tell you what labs to order or at what frequency. There are some things,
+however I feel it is important to know when deciding on the frequency and type
+of monitoring for the patient with addiction.
 
-I was one who felt that lab monitoring was not necessary generally. I thought that I would be able to tell if a person was using substances from the quality of their recovery. Experience taught me that I was wrong. When I practiced in a setting where others decided on labs, I found that my personal predictions on who was and who wasn’t using were incorrect. In retrospect, it should have been obvious to me that I could no more predict the results of a lab test for someone with addiction than I could predict the results of a blood glucose test in someone with diabetes.
+I was one who felt that lab monitoring was not necessary generally. I thought
+that I would be able to tell if a person was using substances from the quality
+of their recovery. Experience taught me that I was wrong. When I practiced in a
+setting where others decided on labs, I found that my personal predictions on
+who was and who wasn’t using were incorrect. In retrospect, it should have been
+obvious to me that I could no more predict the results of a lab test for someone
+with addiction than I could predict the results of a blood glucose test in
+someone with diabetes.
 
-Many in our field use the term “drug screen.” We do not. We used to use “drug screens,” those CLIA waived cups that most treatment centers used. However in a study we did in 2011 with a laboratory partner, we discovered that the best CLIA waived cups we could get missed a significant amount of the positives as seen in the table below. Evidently, more sophisticated testing is necessary.
+Many in our field use the term “drug screen.” We do not. We used to use
+“drug screens,” those CLIA waived cups that most treatment centers used. However
+in a study we did in 2011 with a laboratory partner, we discovered that the best
+CLIA waived cups we could get missed a significant amount of the positives as
+seen in the table below. Evidently, more sophisticated testing is necessary.
 
 
 |Class	| Confirmed Positives |	False Negative |	% Positives Missed |
@@ -263,7 +277,10 @@ Many in our field use the term “drug screen.” We do not. We used to use “d
 
 Table 12 - Accuracy of POC UDS Cups
 
-I’ve learned a lot in treating addiction over two decades, and with respect to laboratory monitoring for drug usage, I’ve distilled my thoughts into a blog article I first wrote in July of 2011 when we had just gotten this information.  I’m appending it here:
+I’ve learned a lot in treating addiction over two decades, and with respect to
+laboratory monitoring for drug usage, I’ve distilled my thoughts into a blog
+article I first wrote in July of 2011 when we had just gotten this information.  
+I’m appending it here:
 
 
  

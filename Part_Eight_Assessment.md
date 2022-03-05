@@ -95,15 +95,18 @@ I was one who felt that lab monitoring was not necessary generally. I thought th
 
 Many in our field use the term “drug screen.” We do not. We used to use “drug screens,” those CLIA waived cups that most treatment centers used. However in a study we did in 2011 with a laboratory partner, we discovered that the best CLIA waived cups we could get missed a significant amount of the positives as seen in the table below. Evidently, more sophisticated testing is necessary.
 
+
+|Class	| Confirmed Positives |	False Negative |	% Positives Missed |
+|--------|-------------------|-----------------|-------------------------|
+|Opiates|	54|	17|	31.5%|
+|Oxycodone|	32|	6|	18.8%|
+|Methadone|	8|	2|	25%|
+|Benzos	|83	|17	|20.5%|
+|Amphet	|63	|8	|12.7%|
+|Cocaine|	25|	6|	24%|
+|Cannabis|	48|	2|	4.2%|
+
 Table 12 - Accuracy of POC UDS Cups
-Class	Confirmed Positives	False Negative	% Positives Missed
-Opiates	54	17	31.5%
-Oxycodone	32	6	18.8%
-Methadone	8	2	25%
-Benzos	83	17	20.5%
-Amphet	63	8	12.7%
-Cocaine	25	6	24%
-Cannabis	48	2	4.2%
 
 I’ve learned a lot in treating addiction over two decades, and with respect to laboratory monitoring for drug usage, I’ve distilled my thoughts into a blog article I first wrote in July of 2011 when we had just gotten this information.  I’m appending it here:
 

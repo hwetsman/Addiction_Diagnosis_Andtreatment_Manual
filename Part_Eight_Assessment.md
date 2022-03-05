@@ -51,19 +51,67 @@ the patient has for any treatment you may wish to prescribe.
 
 ### Time with patient
 
-Traditionally, addiction medicine has been practiced in the method of psychiatry; that is, the individual practitioner spending an hour or so getting, first hand, all the information from the patient that he needs. This model has been used for over 50 years and has not resulted in any improvements in addiction treatment over that time. Conversely, most other medical care has changed its model of information gathering so that the information is gathered before the doctor and the patient are together. This frees up the encounter time to focus more on treatment planning, patient education and anticipatory guidance. This change, which has allowed a more participatory stance for the patient, has resulted in improved outcomes.
+Traditionally, addiction medicine has been practiced in the method of
+psychiatry; that is, the individual practitioner spending an hour or so getting,
+first hand, all the information from the patient that he needs. This model has
+been used for over 50 years and has not resulted in any improvements in
+addiction treatment over that time. Conversely, most other medical care has
+changed its model of information gathering so that the information is gathered
+before the doctor and the patient are together. This frees up the encounter time
+to focus more on treatment planning, patient education and anticipatory
+guidance. This change, which has allowed a more participatory stance for the
+patient, has resulted in improved outcomes.
 
-The treatment center using ADAM hopes to maximize the ability of the physician to spend less time confirming important historical points and more time educating about the illness of addiction, the proposed treatment, and giving anticipatory guidance about common missteps. To do this, we have included in our Part I and Part II assessments, done by the patient navigator and counselor, questions of biological and medical import. This allows the physician to have at his fingertips important information even before the patient walks in the room. All that’s left is confirming the information as desired, delving deeper when necessary, completing the examination and making the treatment plan with the patient. This allows the Townsend physician to get much more done in the initial hour than could be done if the physician had to get all the information himself.
+The treatment center using ADAM hopes to maximize the ability of the physician
+to spend less time confirming important historical points and more time
+educating about the illness of addiction, the proposed treatment, and giving
+anticipatory guidance about common missteps. To do this, we have included in our
+Part I and Part II assessments, done by the patient navigator and counselor,
+questions of biological and medical import. This allows the physician to have at
+his fingertips important information even before the patient walks in the room.
+All that’s left is confirming the information as desired, delving deeper when
+necessary, completing the examination and making the treatment plan with the
+patient. This allows the Townsend physician to get much more done in the initial
+hour than could be done if the physician had to get all the information himself.
 
-We started this technique when I was the only physician, and there were some patients who came to our IOP that didn’t want to see the doctor at all. At the time I believed that when we looked at our outcomes we’d find that those patients that saw me would have greater symptom relief than those that didn’t, but both groups would have the same cognitive progress in treatment because they had the same counselors. It turned out, in a study of our first 114 patients, that symptom scores did not differ between the two groups (p=0.5), but that those that saw me had an average Disease Acceptance Score (DAS) 2 points higher than those who did not (p=.08) that almost reached significance. We repeated the measure with an N of 336. By that point there were other doctors so we divided the groups into those who were exposed to this method and those who did not. Those patients whose doctor used this method had a discharge DAS 2.5 points higher than those who did not (p=.0001).
+We started this technique when I was the only physician, and there were some
+patients who came to our IOP that didn’t want to see the doctor at all. At the
+time I believed that when we looked at our outcomes we’d find that those
+patients that saw me would have greater symptom relief than those that didn’t,
+but both groups would have the same cognitive progress in treatment because they
+had the same counselors. It turned out, in a study of our first 114 patients,
+that symptom scores did not differ between the two groups (p=0.5), but that
+those that saw me had an average Disease Acceptance Score (DAS) 2 points higher
+than those who did not (p=.08) that almost reached significance. We repeated the
+measure with an N of 336. By that point there were other doctors so we divided
+the groups into those who were exposed to this method and those who did not.
+Those patients whose doctor used this method had a discharge DAS 2.5 points
+higher than those who did not (p=.0001).
 
-So this method, when followed, actually improves the outcome of treatment in a way that would not be predicted to have anything to do with the physician. I think that is the case because when the physician is able to spend more time with the patient educating them on the biology of the illness and the necessity for recovery in addition to medication, the patient will accept things that they may have a harder time accepting from a counselor.
+So this method, when followed, actually improves the outcome of treatment in a
+way that would not be predicted to have anything to do with the physician. I
+think that is the case because when the physician is able to spend more time
+with the patient educating them on the biology of the illness and the necessity
+for recovery in addition to medication, the patient will accept things that they
+may have a harder time accepting from a counselor.
 
-Also, anticipatory guidance has a lot to do with patients getting though induction on medication in a stress free and successful way. Many people outside of Townsend have reported difficulties with patients getting on Suboxone for instance. While we have had problems, they have not been numerous. That is because our doctors spend a lot to time prepping the patients for what could happen. These explanations give a reason for the instructions that make sense, when the patient expected rules based on morality or law that they were much less interested in. This is a basic point in dealing with patients with addiction; they will follow rules much better when the rules are explained as being there only for their safety and success.
+Also, anticipatory guidance has a lot to do with patients getting though
+induction on medication in a stress free and successful way. Many people have
+reported difficulties with patients getting on Suboxone for instance. While we
+have had problems, they have not been numerous. That is because our doctors
+spend a lot to time prepping the patients for what could happen. These
+explanations give a reason for the instructions that make sense, when the
+patient expected rules based on morality or law that they were much less
+interested in. This is a basic point in dealing with patients with addiction;
+they will follow rules much better when the rules are explained as being there
+only for their safety and success.
+
 
 ### Neurocognitive Testing
 
-The neurocognitive testing data from the patient’s admission testing will be available for you during your initial evaluation. It should be documented in the following form:
+The neurocognitive testing data from the patient’s admission testing will be
+available for you during your initial evaluation. It should be documented in the
+following form:
 
 IGT = $2500
 

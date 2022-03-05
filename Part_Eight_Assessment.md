@@ -19,13 +19,33 @@
  
 ### Info from Part I and II of the Counselor’s Assessment
 
-The treatment center using ADAM uses a two-part counselor’s assessment. The first part is limited to that information needed to decide if the patient is appropriate for the IOP level of care. The second part is a more in-depth assessment of the illness of addiction and the strengths and challenges the patient brings to treatment. The physician sees the patient after the part II evaluation. Information is provided for the physician from Part I and Part II of the counseling team’s assessment. This is unusual, and the reason for it is explained in detail below. At this point, we’ll just want to go over what some of that information is and how it is important.
+The treatment center using ADAM uses a two-part counselor’s assessment. The
+first part is limited to that information needed to decide if the patient is
+appropriate for the IOP level of care. The second part is a more in-depth
+assessment of the illness of addiction and the strengths and challenges the
+patient brings to treatment. The physician sees the patient after the part II
+evaluation. Information is provided for the physician from Part I and Part II of
+the counseling team’s assessment. This is unusual, and the reason for it is
+explained in detail below. At this point, we’ll just want to go over what some
+of that information is and how it is important.
 
-One aspect of the assessment concerns current symptom score. You’ll have available to you the admission symptom scores of the patient in both high and low dopamine domains. In addition you’ll have information on which of the symptoms gave trouble before the patient began their use of drugs or alcohol and which compensatory dopamine raising behaviors they engaged in to feel better. This information is very helpful in bringing the patient to the understanding of addiction as an overarching brain illness that is chronic and progressive.
+One aspect of the assessment concerns current symptom score. You’ll have
+available to you the admission symptom scores of the patient in both high and
+low dopamine domains. In addition you’ll have information on which of the
+symptoms gave trouble before the patient began their use of drugs or alcohol and
+which compensatory dopamine raising behaviors they engaged in to feel better.
+This information is very helpful in bringing the patient to the understanding of
+addiction as an overarching brain illness that is chronic and progressive.
 
-There is also information of the patient’s top three MERs and what symptoms those relieve. In the absence of genetic testing these can give you good information on where in the neurobiology the patient may have a diathesis. You can then aim treatment in a more educated way.
+There is also information of the patient’s top three MERs and what symptoms
+those relieve. In the absence of genetic testing these can give you good
+information on where in the neurobiology the patient may have a diathesis. You
+can then aim treatment in a more educated way.
 
-Of course there is much of the usual information, but presented in a way that will help you determine if the patient is a Type I or Type II addict. Also, of course, information will be given to help you determine the social support that the patient has for any treatment you may wish to prescribe.
+Of course there is much of the usual information, but presented in a way that
+will help you determine if the patient is a Type I or Type II addict. Also, of
+course, information will be given to help you determine the social support that
+the patient has for any treatment you may wish to prescribe.
 
 
 

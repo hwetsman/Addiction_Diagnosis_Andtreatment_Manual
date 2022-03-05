@@ -395,4 +395,15 @@ testing to support it isn’t available. Hopefully, that will change soon.”
 #### DATA
 
 Since writing this a treatment center that used ADAM switched primary lab
-providers and found one that is willing to work toward our goals. They send a courier to each of our clinics every night after group and bring the samples to their lab for processing. They get the screenings done in the early AM and confirm the positives so that we have confirmed, creatinine adjusted, MRO interpreted results to our staff before group the next day. In 2011, before we started using this lab, 75% of our final samples were counted as abstinent. That is, if someone left treatment abstinent after completing, their last sample was abstinent. If they abandoned treatment and were using, their last sample was not. In 2012, since we started using the lab, the abstinence rate of our final samples increased to 87% (N=1142, p<.0001). That’s a 16% improvement in successful outcomes just from changing to the new lab. We feel this is because we are using more accurate data faster to get better results in treatment.
+providers and found one that is willing to work toward our goals. They send a
+courier to each of our clinics every night after group and bring the samples to
+their lab for processing. They get the screenings done in the early AM and
+confirm the positives so that we have confirmed, creatinine adjusted, MRO
+interpreted results to our staff before group the next day. In 2011, before we
+started using this lab, 75% of our final samples were counted as abstinent. That
+is, if someone left treatment abstinent after completing, their last sample was
+abstinent. If they abandoned treatment and were using, their last sample was
+not. In 2012, since we started using the lab, the abstinence rate of our final
+samples increased to 87% (N=1142, p<.0001). That’s a 16% improvement in
+successful outcomes just from changing to the new lab. We feel this is because
+we are using more accurate data faster to get better results in treatment.

@@ -116,6 +116,7 @@ following form:
 IGT = $2500
 
 |CPT	|1000ms|	2000ms|	4000ms|
+|------|-------|---------|--------|
 |Tar Acc |  |  |  |
 |Foil Acc |  |  |  |
 |CRT |  |  |  |

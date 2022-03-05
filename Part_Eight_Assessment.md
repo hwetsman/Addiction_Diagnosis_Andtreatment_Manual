@@ -160,16 +160,52 @@ is an indication that the patient cannot be treated at this level of care.
 
 #### Induction
 
-Often a patient will present in withdrawal or with impending withdrawal. As opioid dependence is not uncommon, some discussion of buprenorphine induction is appropriate. Opioid withdrawal and buprenorphine induction are not the only induction we do. It is included here as a representation on the principles that apply across the board.
+Often a patient will present in withdrawal or with impending withdrawal. As
+opioid dependence is not uncommon, some discussion of buprenorphine induction is
+appropriate. Opioid withdrawal and buprenorphine induction are not the only
+induction we do. It is included here as a representation on the principles that
+apply across the board.
 
-A physician will evaluate each patient seeking Suboxone in person before receiving a prescription. At the prescribing visit the physician and the patient will decide on a starting time. The starting time will usually be more than 24 hours after the patient’s last short acting opioid, 48 hours after the last “contin”, and 72 hours after the last low dose methadone (<50mg/day). Medical judgment as to starting time will prevail. Also at that visit the physician and patient will decide on the best way to begin induction: at the clinic, at home, etc.
+A physician will evaluate each patient seeking Suboxone in person before
+receiving a prescription. At the prescribing visit the physician and the patient
+will decide on a starting time. The starting time will usually be more than 24
+hours after the patient’s last short acting opioid, 48 hours after the last
+“contin”, and 72 hours after the last low dose methadone (<50mg/day). Medical
+judgment as to starting time will prevail. Also at that visit the physician and
+patient will decide on the best way to begin induction: at the clinic, at home,
+etc.
 
-The physician will instruct the patient to take their first dose at the agreed upon time and call the “MD Call Line” in two hours. Two hours is the serum peak of a single dose of Suboxone, so calling sooner will not give good information for titration. The dose will be titrated up on the first day every two hours aiming at complete resolution of symptoms of withdrawal. Once the patient has reached that state, they will stop dosing unless withdrawal symptoms begin again later in the day. The patient will call the MD Call Line for instructions should withdrawal symptoms recur. The physician will complete standing orders for the titration should he decide to accomplish home titration.
+The physician will instruct the patient to take their first dose at the agreed
+upon time and call the “MD Call Line” in two hours. Two hours is the serum peak
+of a single dose of Suboxone, so calling sooner will not give good information
+for titration. The dose will be titrated up on the first day every two hours
+aiming at complete resolution of symptoms of withdrawal. Once the patient has
+reached that state, they will stop dosing unless withdrawal symptoms begin again
+later in the day. The patient will call the MD Call Line for instructions should
+withdrawal symptoms recur. The physician will complete standing orders for the
+titration should he decide to accomplish home titration.
 
-For example a patient’s symptoms of withdrawal were 8 out of 10 where 10 is the worst withdrawal he’s ever had and 1 is no withdrawal at all. He starts with a 4mg dose at 8 AM. At 10 AM he calls the Medline and reports that his symptoms are now a 6. He is instructed to take another 4mg and call in two hours. At 12 he calls and says he is fine. He is instructed to stop taking any more unless or until his symptoms return. If they do return he should take 2mg and call the Medline directly after. At 4 PM his symptoms return and he does so. He calls the Medline and is advised to call again in two hours. At 6 PM he is still symptom free. By bedtime he is still comfortable and symptom free. His total 24 hour dose was 10mg, so the Medline instructs him to take 8mg in the AM and 2mg in the afternoon the next day.
+For example a patient’s symptoms of withdrawal were 8 out of 10 where 10 is the
+worst withdrawal he’s ever had and 1 is no withdrawal at all. He starts with a
+4mg dose at 8 AM. At 10 AM he calls the Medline and reports that his symptoms
+are now a 6. He is instructed to take another 4mg and call in two hours. At 12
+he calls and says he is fine. He is instructed to stop taking any more unless or
+until his symptoms return. If they do return he should take 2mg and call the
+Medline directly after. At 4 PM his symptoms return and he does so. He calls the
+Medline and is advised to call again in two hours. At 6 PM he is still symptom
+free. By bedtime he is still comfortable and symptom free. His total 24 hour
+dose was 10mg, so the Medline instructs him to take 8mg in the AM and 2mg in the
+afternoon the next day.
 
-Other medications are induced or titrated as well. Again, the physician’s medical judgment prevails. As long as the physician has recorded the appropriate orders and involved the patient in the planning process, the Medline personnel will assist. It should be noted that Townsend does not use benzodiazepines on an outpatient basis for withdrawal. Any physician believing outpatient benzodiazepines are necessary should consult with the Chief Medical Officer.
- 
+Other medications are induced or titrated as well. Again, the physician’s
+medical judgment prevails. As long as the physician has recorded the appropriate
+orders and involved the patient in the planning process, the Medline personnel
+will assist. It should be noted that the treatment center that uses ADAM does
+not use benzodiazepines on an outpatient basis for withdrawal. Any physician
+believing outpatient benzodiazepines are necessary should consult with the Chief
+Medical Officer.
+
+
 #### Medication Counts
 
 The treatment center that uses ADAM has mechanisms that we use to help combat diversion in the cases where we have to utilize controlled medications. One of these is the medication count. The medication count is accomplished on a random basis at the physician’s directed frequency. At first this frequency should be 2 to 3 times a week and generally should be the same frequency as the other major anti-diversion mechanism, the MMA. The med count frequency can be lowered when the patient is stable, has a long-term recovery program, and has fewer risk factors for diversion. An incomplete list of risk factors for diversion or misuse are: symptom score > 20, missing sessions, lack of cognitive advance, disruptive home life, no stable relationship with recovery community, medication irregularities, and positive MMA results.

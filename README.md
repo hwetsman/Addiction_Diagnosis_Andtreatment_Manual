@@ -16,7 +16,7 @@ Table of Contents
 - [Addiction Medication: Special Topics](./Part_Five_Special_Topics_Medications.md)
 - [Neurocognitive Testing](./Part_Six_Neurocognitive_Testing.md)
 - [Staffing the Clinical Team](./Part_Seven_Staffing_The_Clinical_Team.md)
-- Assessment
+- [Assessment](./Part_Eight_Assessment.md)
 - [Genetics](./Part_Nine_Genetics.md)
 - [Cognitive Treatment](./Part_Ten_Cognitive_Treatment.md)
 - [Outcomes](./Outcomes.md)

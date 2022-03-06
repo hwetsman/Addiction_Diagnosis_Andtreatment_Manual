@@ -28,31 +28,31 @@ what_kind{What kind?}
             works_now--->side_effects
 favorite(What is favorite <br>drug for peak <br>effect even <br>if transitory?)
    can_identify--->|No|favorite
-   what_does(What does it do that others don't?)
+   what_does(What does it do <br>that others don't?)
       favorite--->what_does
-      low_da{Low dopamine symptoms now?}
+      low_da{Low dopamine <br>symptoms now?}
          what_does--->low_da
-         op_vs_da{Opioid vs dopamine receptor}
+         op_vs_da{Opioid vs <br>dopamine receptor}
             low_da--->op_vs_da
             side_effects--->op_vs_da
             low_now--->|Yes|op_vs_da
-               low_gaba(Consider decreased GABA tone)
+               low_gaba(Consider decreased <br>GABA tone)
                   low_da--->|No|low_gaba
-            da(Titrate long acting bupropion or other to increase dopamine tone)
+            da(Titrate long acting <br>bupropion or other to <br>increase dopamine tone)
                op_vs_da--->|Dopamine|da
-            op(Titrate buprenorphine)
+            op(Titrate <br>buprenorphine)
                op_vs_da--->|Opioid|op
-               still_smoking{Is patient still smoking?}
+               still_smoking{Is patient <br>still smoking?}
                   op--->still_smoking
                   da--->still_smoking
-                  cues{Continued smoking due to stereotypical cues?}
+                  cues{Continued smoking <br>due to stereotypical <br>cues?}
                      still_smoking--->|Yes|cues
                      campral(Consider acamprosate)
                         cues--->|Yes|campral
-                     raise_gaba(Consider raising dose or GABAb)
+                     raise_gaba(Consider raising <br>dose or GABAb)
                         still_smoking--->|No|raise_gaba
                         cues--->|No|raise_gaba
-                        other(Evaluate for adverse effects, residual symptoms and co-occurring disorders)
+                        other(Evaluate for adverse <br>effects, residual symptoms <br>and co-occurring <br>disorders)
                            raise_gaba--->other
                            campral--->other
 

@@ -24,3 +24,4 @@ Table of Contents
 - [12 Steps for Doctors](./Part_Thirteen_12_Steps_For_Doctors.md)
 - [Goals of Addiction Medicine the ADAM Way](./Goals.md)
 - [Basic Principles of Addiction Medicine the ADAM Way](./Basic_Prinicples.md)
+- [Cognitive Change Flowchart](./Cognitive_Change.md)

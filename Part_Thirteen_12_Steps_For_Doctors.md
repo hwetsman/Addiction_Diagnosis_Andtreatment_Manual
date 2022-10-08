@@ -469,7 +469,7 @@ place. 
 >“Humbly asked Him to remove our shortcomings”
 
 This one looks real easy. “Ok, God, I’m sure I don’t want to be selfish anymore.
-Take it away!” It only it worked like that.
+Take it away!” If only it worked like that.
 
 Here is where a knowledgeable addiction medicine physician can be very helpful.
 We can remind the patient that the universe doesn’t generally provide help with
@@ -611,8 +611,8 @@ people have found that there are four big things that almost everything else can
 get collapsed into. It’s helpful if you can stick to these four things that can
 be affected by others: my security, my personal relations, my ambitions, my
 self-esteem. Security includes both physical and financial security. Ambition
-includes anything you had your mind on doing. Personal relations include any
-relationship you have with anyone else and self esteem is how you feel about
+includes anything you had planned on accomplishing. Personal relations include any
+relationship you have with anyone else (including sex), and self esteem is how you feel about
 yourself.
 
 The fourth column also takes some explaining because many people think it means,
@@ -622,7 +622,7 @@ position to be hurt, not what we did to cause the other person’s action. Very
 often we are upset by the action of others when we had no role at all in
 triggering their behavior. The fourth step still gives us a tool to deal with
 our feelings, because we still have a role in producing the upset even if we
-didn’t produce the behavior. An example of this is often necessary. Let’s say
+didn’t produce the offender's behavior. An example of this is often necessary. Let’s say
 someone cuts in front of you in traffic. You didn’t make him do it, but you’re
 angry about it. What did you do to put yourself in a position to be hurt? Things
 like this often come up and such answers as “I expect others to respect me in
@@ -645,9 +645,11 @@ insufficient relationship with our higher power? Do we want to continue to
 distrust our higher power? Do we want to continue to be selfish? Afraid?
 Whatever it is we found in the fifth column?
 
-It’s not enough to just say, “Of course we want to change.” We really have to
-look at it. These old truths about ourselves are usually our first drugs. They were sources of dopamine often before we could speak. We’ve been using them so long we don’t even realize we could be
-another way. We need to give this some thought. Just a minute or two will do.
+It’s not enough to just say, “Of course we want to change.” We really have to look at it. 
+These old truths about ourselves are usually our first drugs. They were sources of 
+dopamine often before we could speak. We’ve been using them so long we don’t even 
+realize we could be another way. We need to give this some thought. Just a minute 
+or two will do.
 
 #### Seven
 

@@ -6,10 +6,9 @@
 ### Why Doctors Need the Steps
 
 You may wonder why you’d need this section. If you are in recovery yourself, you
-may feel you know the steps well and have no need for their restating in this
-form. If you are not in recovery you may feel the steps are the purview of the
-counselor or not integral to your work. In either case, I’d suggest another
-view.
+may feel you know the steps well and have no need to read about them here. If you 
+are not in recovery you may feel the steps are the purview of the counselor or not 
+integral to your work. In either case, I suggest different view of the issue.
 
 The primary goal of any inpatient addiction treatment is to create an outpatient.
 The goal of outpatient addiction treatment is to create a non-patient, someone
